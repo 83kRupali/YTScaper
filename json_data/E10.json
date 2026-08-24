@@ -1,0 +1,1264 @@
+{
+  "video_id": "V6pRTnOZ7Mc",
+  "title": "Introduction to Sliding Window",
+  "language": "en",
+  "model": "unknown",
+  "duration": 691,
+  "segments": [
+    {
+      "start": 0,
+      "timestamp": "00:00",
+      "text": "Very welcome to G Second Pattern"
+    },
+    {
+      "start": 2,
+      "timestamp": "00:02",
+      "text": "Which is what sliding windows are. So"
+    },
+    {
+      "start": 5,
+      "timestamp": "00:05",
+      "text": "Whoever has seen Two Pointer"
+    },
+    {
+      "start": 8,
+      "timestamp": "00:08",
+      "text": "This sliding will be very easy for them."
+    },
+    {
+      "start": 11,
+      "timestamp": "00:11",
+      "text": "Viewing the window. those who haven't seen it"
+    },
+    {
+      "start": 12,
+      "timestamp": "00:12",
+      "text": "It will be easy for others also. there is something like that"
+    },
+    {
+      "start": 15,
+      "timestamp": "00:15",
+      "text": "No. But one thing you should make sure that"
+    },
+    {
+      "start": 18,
+      "timestamp": "00:18",
+      "text": "This one is the introduction video, isn't it?"
+    },
+    {
+      "start": 19,
+      "timestamp": "00:19",
+      "text": "There is an introduction video. Ok? it"
+    },
+    {
+      "start": 22,
+      "timestamp": "00:22",
+      "text": "Introduction to you means flow in it"
+    },
+    {
+      "start": 24,
+      "timestamp": "00:24",
+      "text": "Chart will be available. You know the rules in this"
+    },
+    {
+      "start": 27,
+      "timestamp": "00:27",
+      "text": "We will discuss when to use this pattern and"
+    },
+    {
+      "start": 29,
+      "timestamp": "00:29",
+      "text": "How to use. so this video"
+    },
+    {
+      "start": 32,
+      "timestamp": "00:32",
+      "text": "Please watch till the end because more to come"
+    },
+    {
+      "start": 34,
+      "timestamp": "00:34",
+      "text": "The upcoming videos will depend on this. So much"
+    },
+    {
+      "start": 37,
+      "timestamp": "00:37",
+      "text": "Did you understand the point? So let's move ahead. Now"
+    },
+    {
+      "start": 40,
+      "timestamp": "00:40",
+      "text": "See sliding window. sliding window"
+    },
+    {
+      "start": 42,
+      "timestamp": "00:42",
+      "text": "What does window mean?"
+    },
+    {
+      "start": 44,
+      "timestamp": "00:44",
+      "text": "Window means window. and sliding"
+    },
+    {
+      "start": 46,
+      "timestamp": "00:46",
+      "text": "Meaning that this window can be smaller or bigger than you want."
+    },
+    {
+      "start": 49,
+      "timestamp": "00:49",
+      "text": "It is possible This means that this window"
+    },
+    {
+      "start": 51,
+      "timestamp": "00:51",
+      "text": "The size is this much. maybe some future"
+    },
+    {
+      "start": 53,
+      "timestamp": "00:53",
+      "text": "The size of the point pay window should be this much. These"
+    },
+    {
+      "start": 55,
+      "timestamp": "00:55",
+      "text": "May increase or may happen at some future point"
+    },
+    {
+      "start": 58,
+      "timestamp": "00:58",
+      "text": "This much remains of the pay window. so this shrink"
+    },
+    {
+      "start": 60,
+      "timestamp": "01:00",
+      "text": "Lets do it. So expand it with your mind or"
+    },
+    {
+      "start": 64,
+      "timestamp": "01:04",
+      "text": "Can shrink. That's why it's called sliding"
+    },
+    {
+      "start": 67,
+      "timestamp": "01:07",
+      "text": "And window. Window means this is the window. Correct"
+    },
+    {
+      "start": 70,
+      "timestamp": "01:10",
+      "text": "The thing is. Now how does it slide? These"
+    },
+    {
+      "start": 73,
+      "timestamp": "01:13",
+      "text": "How does it shrink? With the help of two pointers"
+    },
+    {
+      "start": 75,
+      "timestamp": "01:15",
+      "text": "From. That's why we are the first two pointer"
+    },
+    {
+      "start": 77,
+      "timestamp": "01:17",
+      "text": "Let's read. First we read Two Pointer"
+    },
+    {
+      "start": 78,
+      "timestamp": "01:18",
+      "text": "Are. After that come to the sliding window"
+    },
+    {
+      "start": 81,
+      "timestamp": "01:21",
+      "text": "Are. Now it shrinks low and high"
+    },
+    {
+      "start": 84,
+      "timestamp": "01:24",
+      "text": "with help. What happens is that you take this end"
+    },
+    {
+      "start": 88,
+      "timestamp": "01:28",
+      "text": "and keep this end pe high"
+    },
+    {
+      "start": 90,
+      "timestamp": "01:30",
+      "text": "Are. Now both of them are in only one direction"
+    },
+    {
+      "start": 92,
+      "timestamp": "01:32",
+      "text": "Can move in. Come on, move here too"
+    },
+    {
+      "start": 94,
+      "timestamp": "01:34",
+      "text": "Can do. High can also move here"
+    },
+    {
+      "start": 96,
+      "timestamp": "01:36",
+      "text": "Is. So when the high moves whenever you move high"
+    },
+    {
+      "start": 99,
+      "timestamp": "01:39",
+      "text": "If you press plus, this window will expand."
+    },
+    {
+      "start": 102,
+      "timestamp": "01:42",
+      "text": "Will go. Because of low and middle low and high"
+    },
+    {
+      "start": 104,
+      "timestamp": "01:44",
+      "text": "The distance between will increase. whenever you take plus"
+    },
+    {
+      "start": 106,
+      "timestamp": "01:46",
+      "text": "Let's do a plus and put the high in one place"
+    },
+    {
+      "start": 108,
+      "timestamp": "01:48",
+      "text": "So the window shrinks. Why?"
+    },
+    {
+      "start": 111,
+      "timestamp": "01:51",
+      "text": "Because the distance between low and high decreases"
+    },
+    {
+      "start": 113,
+      "timestamp": "01:53",
+      "text": "Will go. Notice one thing that this expand"
+    },
+    {
+      "start": 116,
+      "timestamp": "01:56",
+      "text": "If it happens, it will happen from this side, meaning it will move in this direction."
+    },
+    {
+      "start": 118,
+      "timestamp": "01:58",
+      "text": "And when it shrinks, the part on this side"
+    },
+    {
+      "start": 120,
+      "timestamp": "02:00",
+      "text": "Will be cut. Meaning it grows in the right direction only"
+    },
+    {
+      "start": 124,
+      "timestamp": "02:04",
+      "text": "This is the window. If there is shrinkage then here"
+    },
+    {
+      "start": 126,
+      "timestamp": "02:06",
+      "text": "You will cut from by increasing the run lo. If"
+    },
+    {
+      "start": 129,
+      "timestamp": "02:09",
+      "text": "If expanded then increase the pay here"
+    },
+    {
+      "start": 131,
+      "timestamp": "02:11",
+      "text": "Will add parts. This is how this window works."
+    },
+    {
+      "start": 135,
+      "timestamp": "02:15",
+      "text": "Ok? This pattern is called sliding"
+    },
+    {
+      "start": 136,
+      "timestamp": "02:16",
+      "text": "window. Now first things first, the flow chart. To all"
+    },
+    {
+      "start": 140,
+      "timestamp": "02:20",
+      "text": "Where will you look first? Will be on the array. array"
+    },
+    {
+      "start": 144,
+      "timestamp": "02:24",
+      "text": "otherwise string because string is also a"
+    },
+    {
+      "start": 147,
+      "timestamp": "02:27",
+      "text": "There is an array of methods. not on link list"
+    },
+    {
+      "start": 149,
+      "timestamp": "02:29",
+      "text": "It will take. Not on link list in 99.9% cases"
+    },
+    {
+      "start": 153,
+      "timestamp": "02:33",
+      "text": "It will take. Remember, tie it in a knot."
+    },
+    {
+      "start": 156,
+      "timestamp": "02:36",
+      "text": "Will not be felt. What's the first hint for you?"
+    },
+    {
+      "start": 159,
+      "timestamp": "02:39",
+      "text": "Done? Question about array or string"
+    },
+    {
+      "start": 161,
+      "timestamp": "02:41",
+      "text": "That's what it will take. Otherwise it will not apply. To all"
+    },
+    {
+      "start": 163,
+      "timestamp": "02:43",
+      "text": "It's a good thing. Good. if if if question"
+    },
+    {
+      "start": 167,
+      "timestamp": "02:47",
+      "text": "If sub array in question"
+    },
+    {
+      "start": 172,
+      "timestamp": "02:52",
+      "text": "Either substring When We're Talking"
+    },
+    {
+      "start": 174,
+      "timestamp": "02:54",
+      "text": "About Strings"
+    },
+    {
+      "start": 176,
+      "timestamp": "02:56",
+      "text": "Is it written or do you understand it?"
+    },
+    {
+      "start": 179,
+      "timestamp": "02:59",
+      "text": "Sliding window will be installed only if it is coming in"
+    },
+    {
+      "start": 183,
+      "timestamp": "03:03",
+      "text": "Only then will the sliding window be installed, otherwise not."
+    },
+    {
+      "start": 186,
+      "timestamp": "03:06",
+      "text": "Everything will seem fine, it means that"
+    },
+    {
+      "start": 189,
+      "timestamp": "03:09",
+      "text": "continuous"
+    },
+    {
+      "start": 191,
+      "timestamp": "03:11",
+      "text": "continuous"
+    },
+    {
+      "start": 193,
+      "timestamp": "03:13",
+      "text": "Well substring also means continuous."
+    },
+    {
+      "start": 196,
+      "timestamp": "03:16",
+      "text": "Every sequence is different. remember people"
+    },
+    {
+      "start": 198,
+      "timestamp": "03:18",
+      "text": "Become confused. after seeing all the sequence"
+    },
+    {
+      "start": 200,
+      "timestamp": "03:20",
+      "text": "Start applying. sub sequence means no"
+    },
+    {
+      "start": 202,
+      "timestamp": "03:22",
+      "text": "Continuous. Non continuous means that array"
+    },
+    {
+      "start": 206,
+      "timestamp": "03:26",
+      "text": "If there is such and such element in it then any two"
+    },
+    {
+      "start": 209,
+      "timestamp": "03:29",
+      "text": "Take the element. So take this and take this."
+    },
+    {
+      "start": 211,
+      "timestamp": "03:31",
+      "text": "So this is a subsequence. but if array"
+    },
+    {
+      "start": 214,
+      "timestamp": "03:34",
+      "text": "By doing like this. tells you that two"
+    },
+    {
+      "start": 216,
+      "timestamp": "03:36",
+      "text": "Take sub array and you get two continuous elements."
+    },
+    {
+      "start": 219,
+      "timestamp": "03:39",
+      "text": "Will have to take. This is what will have to be taken. either this"
+    },
+    {
+      "start": 222,
+      "timestamp": "03:42",
+      "text": "Will have to take that one. either take this one"
+    },
+    {
+      "start": 224,
+      "timestamp": "03:44",
+      "text": "Either you will have to take whatever"
+    },
+    {
+      "start": 226,
+      "timestamp": "03:46",
+      "text": "Be continuous. sub sequence no"
+    },
+    {
+      "start": 228,
+      "timestamp": "03:48",
+      "text": "Take any two continuous elements"
+    },
+    {
+      "start": 230,
+      "timestamp": "03:50",
+      "text": "In order. Okay, did you understand? So"
+    },
+    {
+      "start": 233,
+      "timestamp": "03:53",
+      "text": "Array String Sub Array Substring. Ok?"
+    },
+    {
+      "start": 236,
+      "timestamp": "03:56",
+      "text": "Now Are We Trying to Find Something?"
+    },
+    {
+      "start": 239,
+      "timestamp": "03:59",
+      "text": "What is the question asking you? RV"
+    },
+    {
+      "start": 241,
+      "timestamp": "04:01",
+      "text": "What does the finding question want from you? So"
+    },
+    {
+      "start": 244,
+      "timestamp": "04:04",
+      "text": "The question may want any of these from you."
+    },
+    {
+      "start": 247,
+      "timestamp": "04:07",
+      "text": "maximum"
+    },
+    {
+      "start": 250,
+      "timestamp": "04:10",
+      "text": "Minimum"
+    },
+    {
+      "start": 252,
+      "timestamp": "04:12",
+      "text": "longest"
+    },
+    {
+      "start": 254,
+      "timestamp": "04:14",
+      "text": "longest"
+    },
+    {
+      "start": 256,
+      "timestamp": "04:16",
+      "text": "shortest"
+    },
+    {
+      "start": 259,
+      "timestamp": "04:19",
+      "text": "either sum or count or average"
+    },
+    {
+      "start": 267,
+      "timestamp": "04:27",
+      "text": "either at most"
+    },
+    {
+      "start": 271,
+      "timestamp": "04:31",
+      "text": "or at least"
+    },
+    {
+      "start": 275,
+      "timestamp": "04:35",
+      "text": "either exactly"
+    },
+    {
+      "start": 281,
+      "timestamp": "04:41",
+      "text": "Look very carefully"
+    },
+    {
+      "start": 285,
+      "timestamp": "04:45",
+      "text": "It's a big list but but but this list"
+    },
+    {
+      "start": 288,
+      "timestamp": "04:48",
+      "text": "When to think about this list"
+    },
+    {
+      "start": 289,
+      "timestamp": "04:49",
+      "text": "When do you even have to think when you cross these two?"
+    },
+    {
+      "start": 292,
+      "timestamp": "04:52",
+      "text": "Go to the question of array and string."
+    },
+    {
+      "start": 294,
+      "timestamp": "04:54",
+      "text": "Array substring is written along with all this"
+    },
+    {
+      "start": 297,
+      "timestamp": "04:57",
+      "text": "Things are written carefully, look at the screenshot."
+    },
+    {
+      "start": 300,
+      "timestamp": "05:00",
+      "text": "Take it and note down the maximum in your copy."
+    },
+    {
+      "start": 302,
+      "timestamp": "05:02",
+      "text": "Minimum Longest Sorted Sum Count Average"
+    },
+    {
+      "start": 307,
+      "timestamp": "05:07",
+      "text": "See exactly at the least of Atmost"
+    },
+    {
+      "start": 309,
+      "timestamp": "05:09",
+      "text": "If you find all these words in the question"
+    },
+    {
+      "start": 312,
+      "timestamp": "05:12",
+      "text": "Do you understand that this is all he is asking?"
+    },
+    {
+      "start": 314,
+      "timestamp": "05:14",
+      "text": "Is. So these are the things that are being asked of me"
+    },
+    {
+      "start": 316,
+      "timestamp": "05:16",
+      "text": "You will do sliding windows. Ok? Then"
+    },
+    {
+      "start": 319,
+      "timestamp": "05:19",
+      "text": "See, these were the three things. array string"
+    },
+    {
+      "start": 322,
+      "timestamp": "05:22",
+      "text": "Sub array substring must be continuous"
+    },
+    {
+      "start": 325,
+      "timestamp": "05:25",
+      "text": "And some of these are sliding"
+    },
+    {
+      "start": 328,
+      "timestamp": "05:28",
+      "text": "Window will appear. Sliding window will be installed."
+    },
+    {
+      "start": 331,
+      "timestamp": "05:31",
+      "text": "Sliding window will be installed. see flow chart"
+    },
+    {
+      "start": 334,
+      "timestamp": "05:34",
+      "text": "Take it again. If there is no flow chart then see"
+    },
+    {
+      "start": 336,
+      "timestamp": "05:36",
+      "text": "Take a pause. Make a note in your copy."
+    },
+    {
+      "start": 339,
+      "timestamp": "05:39",
+      "text": "Look at the flow chart. note down in the copy"
+    },
+    {
+      "start": 340,
+      "timestamp": "05:40",
+      "text": "Take it. Understand? flow sliding window kab"
+    },
+    {
+      "start": 343,
+      "timestamp": "05:43",
+      "text": "It will take. Ok? now a small thing"
+    },
+    {
+      "start": 346,
+      "timestamp": "05:46",
+      "text": "Sliding window which is"
+    },
+    {
+      "start": 350,
+      "timestamp": "05:50",
+      "text": "There is a sliding window. These two ways"
+    },
+    {
+      "start": 352,
+      "timestamp": "05:52",
+      "text": "Are there. Firstly, they are fixed. Others"
+    },
+    {
+      "start": 356,
+      "timestamp": "05:56",
+      "text": "Are dynamic. I just told you"
+    },
+    {
+      "start": 358,
+      "timestamp": "05:58",
+      "text": "Not that it expands and shrinks"
+    },
+    {
+      "start": 360,
+      "timestamp": "06:00",
+      "text": "Is. It may or may not. How not to do it?"
+    },
+    {
+      "start": 363,
+      "timestamp": "06:03",
+      "text": "For example, if you are asked in the question"
+    },
+    {
+      "start": 365,
+      "timestamp": "06:05",
+      "text": "If this is your array then it is 1 0 3 5 2 1 4"
+    },
+    {
+      "start": 372,
+      "timestamp": "06:12",
+      "text": "0 1 2 3 4 5 6 asked you a question"
+    },
+    {
+      "start": 377,
+      "timestamp": "06:17",
+      "text": "Go sub array lo sub array length"
+    },
+    {
+      "start": 385,
+      "timestamp": "06:25",
+      "text": "Three and find maximum of all their sum"
+    },
+    {
+      "start": 393,
+      "timestamp": "06:33",
+      "text": "What is the meaning of question in Hindi? This"
+    },
+    {
+      "start": 395,
+      "timestamp": "06:35",
+      "text": "Take all arrays of length three in the array."
+    },
+    {
+      "start": 398,
+      "timestamp": "06:38",
+      "text": "Find their sum. the maximum that is in it"
+    },
+    {
+      "start": 400,
+      "timestamp": "06:40",
+      "text": "Return it. The first thing is that your"
+    },
+    {
+      "start": 403,
+      "timestamp": "06:43",
+      "text": "Algorithm has to be applied. Have to put up a flow chart."
+    },
+    {
+      "start": 405,
+      "timestamp": "06:45",
+      "text": "It is written here. yes means it is already given"
+    },
+    {
+      "start": 406,
+      "timestamp": "06:46",
+      "text": "Is. So there it is. Everything is written here."
+    },
+    {
+      "start": 410,
+      "timestamp": "06:50",
+      "text": "Find maximum of all their sum. so all"
+    },
+    {
+      "start": 414,
+      "timestamp": "06:54",
+      "text": "[Translation failed: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=en&sl=hi&q=%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80+%E0%A4%95%E0%A4%82%E0%A4%A1%E0%A5%80%E0%A4%B6%E0%A4%A8+%E0%A4%B8%E0%A5%87%E0%A4%9F%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%AB%E0%A4%BE%E0%A4%88+%E0%A4%B9%E0%A5%8B+%E0%A4%97%E0%A4%88%E0%A5%A4+%E0%A4%AE%E0%A5%88%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%BF%E0%A4%AE%E0%A4%AE (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))]"
+    },
+    {
+      "start": 417,
+      "timestamp": "06:57",
+      "text": "Off some. So it will have a sliding window"
+    },
+    {
+      "start": 420,
+      "timestamp": "07:00",
+      "text": "It will take only. If it doesn't work then somewhere else"
+    },
+    {
+      "start": 422,
+      "timestamp": "07:02",
+      "text": "Will not be felt. So this is the perfect question"
+    },
+    {
+      "start": 424,
+      "timestamp": "07:04",
+      "text": "To understand flow charts. so in this you"
+    },
+    {
+      "start": 426,
+      "timestamp": "07:06",
+      "text": "What can be done? what do you do in this"
+    },
+    {
+      "start": 429,
+      "timestamp": "07:09",
+      "text": "Are you now you when given in question"
+    },
+    {
+      "start": 431,
+      "timestamp": "07:11",
+      "text": "Has it happened when you have three questions?"
+    },
+    {
+      "start": 434,
+      "timestamp": "07:14",
+      "text": "is given. not in any question"
+    },
+    {
+      "start": 435,
+      "timestamp": "07:15",
+      "text": "Would have given. It happens in someone that everything is there"
+    },
+    {
+      "start": 437,
+      "timestamp": "07:17",
+      "text": "Have to take. Take any length. but when"
+    },
+    {
+      "start": 439,
+      "timestamp": "07:19",
+      "text": "You are given length, when you are given size"
+    },
+    {
+      "start": 441,
+      "timestamp": "07:21",
+      "text": "When you are given the length,"
+    },
+    {
+      "start": 444,
+      "timestamp": "07:24",
+      "text": "Whose length is given? all of the array or"
+    },
+    {
+      "start": 447,
+      "timestamp": "07:27",
+      "text": "of substring?"
+    },
+    {
+      "start": 449,
+      "timestamp": "07:29",
+      "text": "So you get the fixed window. fix window"
+    },
+    {
+      "start": 452,
+      "timestamp": "07:32",
+      "text": "How to take? Three sizes of windows. Now"
+    },
+    {
+      "start": 454,
+      "timestamp": "07:34",
+      "text": "How to write this in code? pseudo code this"
+    },
+    {
+      "start": 456,
+      "timestamp": "07:36",
+      "text": "Everyone will teach tomorrow. but we just concept"
+    },
+    {
+      "start": 457,
+      "timestamp": "07:37",
+      "text": "Are teaching. Take fixed length. Three"
+    },
+    {
+      "start": 460,
+      "timestamp": "07:40",
+      "text": "Take it. Isn't it? Take three. Now"
+    },
+    {
+      "start": 463,
+      "timestamp": "07:43",
+      "text": "Look what now? What were you told in Two Sum?"
+    },
+    {
+      "start": 465,
+      "timestamp": "07:45",
+      "text": "Before writing anything, its brute"
+    },
+    {
+      "start": 467,
+      "timestamp": "07:47",
+      "text": "Think about the force. What is brute force? that all"
+    },
+    {
+      "start": 470,
+      "timestamp": "07:50",
+      "text": "Take all the arrays. All sub arrays of size three."
+    },
+    {
+      "start": 475,
+      "timestamp": "07:55",
+      "text": "Take it out from this array. How will it come out?"
+    },
+    {
+      "start": 478,
+      "timestamp": "07:58",
+      "text": "It will turn out that way. One this became 103 then one"
+    },
+    {
+      "start": 482,
+      "timestamp": "08:02",
+      "text": "Starting from 0 to 035 then starting from a three"
+    },
+    {
+      "start": 485,
+      "timestamp": "08:05",
+      "text": "That's 352, then starting with a five, that's it."
+    },
+    {
+      "start": 488,
+      "timestamp": "08:08",
+      "text": "And then it happens that these so many sub-arrays are found."
+    },
+    {
+      "start": 491,
+      "timestamp": "08:11",
+      "text": "Went. Take all sub array. sum everything"
+    },
+    {
+      "start": 494,
+      "timestamp": "08:14",
+      "text": "Take. If you return his max then that's enough."
+    },
+    {
+      "start": 496,
+      "timestamp": "08:16",
+      "text": "That's a good thing. but in sliding window"
+    },
+    {
+      "start": 499,
+      "timestamp": "08:19",
+      "text": "You can do this very fast. so you"
+    },
+    {
+      "start": 501,
+      "timestamp": "08:21",
+      "text": "Let's start our window like this. your window"
+    },
+    {
+      "start": 503,
+      "timestamp": "08:23",
+      "text": "This happens. Ok? you find its sum"
+    },
+    {
+      "start": 506,
+      "timestamp": "08:26",
+      "text": "Let's take. Its sum is four. Ok?"
+    },
+    {
+      "start": 508,
+      "timestamp": "08:28",
+      "text": "Its equal to the first sub array when you get lefs"
+    },
+    {
+      "start": 511,
+      "timestamp": "08:31",
+      "text": "If the length was given then you would have taken a four."
+    },
+    {
+      "start": 513,
+      "timestamp": "08:33",
+      "text": "Are. Ok? After that you can open the window"
+    },
+    {
+      "start": 515,
+      "timestamp": "08:35",
+      "text": "Let's shift. Window size not changed"
+    },
+    {
+      "start": 517,
+      "timestamp": "08:37",
+      "text": "Used to be. See, the size is only three. of window"
+    },
+    {
+      "start": 519,
+      "timestamp": "08:39",
+      "text": "There was a shift in position. now you are equal to it"
+    },
+    {
+      "start": 521,
+      "timestamp": "08:41",
+      "text": "To remove it not from beginning to end"
+    },
+    {
+      "start": 524,
+      "timestamp": "08:44",
+      "text": "Let's add. See what happened? you here"
+    },
+    {
+      "start": 528,
+      "timestamp": "08:48",
+      "text": "Were. Its sum came to 5. Now you are here"
+    },
+    {
+      "start": 532,
+      "timestamp": "08:52",
+      "text": "0 and three are common. what are we saying"
+    },
+    {
+      "start": 535,
+      "timestamp": "08:55",
+      "text": "Are? You make the array bigger and only four"
+    },
+    {
+      "start": 538,
+      "timestamp": "08:58",
+      "text": "Look at the element. 1 0 3 and 5 ok? forest again"
+    },
+    {
+      "start": 544,
+      "timestamp": "09:04",
+      "text": "Tells from. One this is very important"
+    },
+    {
+      "start": 546,
+      "timestamp": "09:06",
+      "text": "The concept is to understand. That's why I'm explaining"
+    },
+    {
+      "start": 548,
+      "timestamp": "09:08",
+      "text": "It seems like so much hard work. The first one was yours."
+    },
+    {
+      "start": 551,
+      "timestamp": "09:11",
+      "text": "Your first sub array was this. Was this it? Yes."
+    },
+    {
+      "start": 555,
+      "timestamp": "09:15",
+      "text": "The second one was yours. when you shift"
+    },
+    {
+      "start": 558,
+      "timestamp": "09:18",
+      "text": "If we give then everything is done. look now now"
+    },
+    {
+      "start": 561,
+      "timestamp": "09:21",
+      "text": "see 0 0 3"
+    },
+    {
+      "start": 566,
+      "timestamp": "09:26",
+      "text": "Both of these are common. These two are common, right?"
+    },
+    {
+      "start": 569,
+      "timestamp": "09:29",
+      "text": "What is revenge? Revenge is one and revenge is five."
+    },
+    {
+      "start": 572,
+      "timestamp": "09:32",
+      "text": "So what happened to you who was even before?"
+    },
+    {
+      "start": 575,
+      "timestamp": "09:35",
+      "text": "That was 1 + 0 + 3. This one was the sum of this one."
+    },
+    {
+      "start": 580,
+      "timestamp": "09:40",
+      "text": "To what has become of your 0 + 3 + 5 then you do"
+    },
+    {
+      "start": 585,
+      "timestamp": "09:45",
+      "text": "See what is happening in Some One and Some Two"
+    },
+    {
+      "start": 587,
+      "timestamp": "09:47",
+      "text": "What is the difference, 0 and three are the same."
+    },
+    {
+      "start": 589,
+      "timestamp": "09:49",
+      "text": "Zero and three are the same. Yes. one in some two"
+    },
+    {
+      "start": 592,
+      "timestamp": "09:52",
+      "text": "Not there. So now there is no one and there is five."
+    },
+    {
+      "start": 595,
+      "timestamp": "09:55",
+      "text": "This is the difference. if you do this"
+    },
+    {
+      "start": 598,
+      "timestamp": "09:58",
+      "text": "You got even two. what is not in sum two"
+    },
+    {
+      "start": 600,
+      "timestamp": "10:00",
+      "text": "Is? There is no one in a sum and five is added."
+    },
+    {
+      "start": 603,
+      "timestamp": "10:03",
+      "text": "Has gone. So whenever you do this, right?"
+    },
+    {
+      "start": 605,
+      "timestamp": "10:05",
+      "text": "What can we say about sliding window?"
+    },
+    {
+      "start": 608,
+      "timestamp": "10:08",
+      "text": "Are? You know the meaning of this, brother. Is four."
+    },
+    {
+      "start": 612,
+      "timestamp": "10:12",
+      "text": "How to calculate its sum? to find the sum"
+    },
+    {
+      "start": 614,
+      "timestamp": "10:14",
+      "text": "Just won't do anything about it. this one"
+    },
+    {
+      "start": 616,
+      "timestamp": "10:16",
+      "text": "Do 4 - 1 + 5 to find the sum of the array."
+    },
+    {
+      "start": 620,
+      "timestamp": "10:20",
+      "text": "If you give then you will get 4 + 5 8 see this"
+    },
+    {
+      "start": 623,
+      "timestamp": "10:23",
+      "text": "The sum of the window will be at at at is yes at at is is"
+    },
+    {
+      "start": 627,
+      "timestamp": "10:27",
+      "text": "The sum of the window is at. How is the sum of this window?"
+    },
+    {
+      "start": 630,
+      "timestamp": "10:30",
+      "text": "We will find the previous subtraction two and the previous subtraction."
+    },
+    {
+      "start": 634,
+      "timestamp": "10:34",
+      "text": "Add the next two, give 10 and see the sum."
+    },
+    {
+      "start": 637,
+      "timestamp": "10:37",
+      "text": "We find out that 3 + 5 is 8 and 2 is 10."
+    },
+    {
+      "start": 640,
+      "timestamp": "10:40",
+      "text": "If you shift the window, do it very fast."
+    },
+    {
+      "start": 642,
+      "timestamp": "10:42",
+      "text": "It gives you your work, isn't it?"
+    },
+    {
+      "start": 644,
+      "timestamp": "10:44",
+      "text": "Fixed length whenever you need all the details in the question"
+    },
+    {
+      "start": 646,
+      "timestamp": "10:46",
+      "text": "The length of the array may not have been given. of all array"
+    },
+    {
+      "start": 648,
+      "timestamp": "10:48",
+      "text": "Length may not have been given. if given"
+    },
+    {
+      "start": 650,
+      "timestamp": "10:50",
+      "text": "If dynamic size or length is not given"
+    },
+    {
+      "start": 652,
+      "timestamp": "10:52",
+      "text": "You will use dynamic in which lo can increase"
+    },
+    {
+      "start": 656,
+      "timestamp": "10:56",
+      "text": "Is. Highs may also increase. so the window ever so"
+    },
+    {
+      "start": 659,
+      "timestamp": "10:59",
+      "text": "Will be big. Sometimes it will be this big, sometimes it will be this big"
+    },
+    {
+      "start": 661,
+      "timestamp": "11:01",
+      "text": "Will be done. Sometimes it was so big, sometimes it was big and small"
+    },
+    {
+      "start": 664,
+      "timestamp": "11:04",
+      "text": "Will remain. So this was the sliding window. His"
+    },
+    {
+      "start": 665,
+      "timestamp": "11:05",
+      "text": "flow chart its template its concept"
+    },
+    {
+      "start": 667,
+      "timestamp": "11:07",
+      "text": "When are sliding windows used?"
+    },
+    {
+      "start": 669,
+      "timestamp": "11:09",
+      "text": "So sliding window answers any such question"
+    },
+    {
+      "start": 671,
+      "timestamp": "11:11",
+      "text": "Where you have to deal with sub arrays or substrings"
+    },
+    {
+      "start": 673,
+      "timestamp": "11:13",
+      "text": "Have to do and you have to do something like this minimum maximum"
+    },
+    {
+      "start": 676,
+      "timestamp": "11:16",
+      "text": "Longest shorted this kind of useless thing"
+    },
+    {
+      "start": 678,
+      "timestamp": "11:18",
+      "text": "If we want to do this then we will use sliding window."
+    },
+    {
+      "start": 680,
+      "timestamp": "11:20",
+      "text": "We do. Write this down. note this down"
+    },
+    {
+      "start": 682,
+      "timestamp": "11:22",
+      "text": "Take the pattern sheet from yesterday and till now"
+    },
+    {
+      "start": 685,
+      "timestamp": "11:25",
+      "text": "Who hasn't received the pattern sheet yet?"
+    },
+    {
+      "start": 687,
+      "timestamp": "11:27",
+      "text": "Not found download from description"
+    },
+    {
+      "start": 689,
+      "timestamp": "11:29",
+      "text": "Take. Question it one by one from tomorrow"
+    },
+    {
+      "start": 691,
+      "timestamp": "11:31",
+      "text": "Will start. See you tomorrow."
+    }
+  ]
+}

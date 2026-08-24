@@ -1,0 +1,920 @@
+Video ID: rM9EthMlXnw
+Video URL: https://www.youtube.com/watch?v=rM9EthMlXnw&list=PLbJhGqY-mq47k_WLUtzVjmarUm1EuXPj2&index=7
+Language: en
+[00:01] Yes brother, come to lecture four and many more.
+[00:04] Messages were coming since day one question at a time
+[00:05] If you get it done, it will not end. today three
+[00:08] If you have questions then come after drinking water.
+[00:10] If you have it, then come to the toilet, whoever wants to go, let's go.
+[00:11] Go. Which questions will you ask?
+[00:14] Triplet sum to zero. who doesn't have a sheet
+[00:17] You will find the sheet in the description.
+[00:19] Ok? A triplet sum close to target
+[00:25] You can see this in the Close to Target sheet.
+[00:27] Will go. and triplets with smaller sum.
+[00:32] Triplets Smaller Sum.
+[00:35] Why are three questions being asked together?
+[00:37] Because if you understand the logic of it
+[00:42] In this and in this you get 10% or 20% here and there
+[00:46] Will need to do. Rest Logic Almost
+[00:48] It's beans. Ok? First of all we will understand the logic.
+[00:53] Then if you want the link of the code then
+[00:56] link cpp
+[00:59] Java Python you will find it somewhere
+[01:01] Link to sheet in description
+[01:05] This will be found in the description of iPad
+[01:08] Link to notes will be found in the description
+[01:10] Got the popular demand, understood this much work, understood this much
+[01:14] Gone logic, you guys will understand the code of all three.
+[01:16] You have to submit it yourself if you don't understand.
+[01:18] If you are coming, please see my sheet and iPad.
+[01:21] Notes you will get description
+[01:22] In. Ok? first come first
+[01:25] In question. What is the first question?
+[01:27] triplet
+[01:29] Sum to zero. Is this a question to you?
+[01:32] Wanting? You have an array. near you
+[01:37] is an array.
+[01:39] Find triplets in that array. find
+[01:45] Triplets. triplets meaning three
+[01:47] Things. One two three.
+[01:51] whose sum is = 0. this is yours
+[01:58] There is a question. What is the question again?
+[02:00] Find Triplets Whose Sum Is Equal to 0
+[02:03] yes. There is one more hidden thing in this. One
+[02:05] There is something extra. This should be unique
+[02:08] The answer is yours. Must be unique. to say
+[02:12] Meaning do not repeat your triplets. Do
+[02:15] Not repeat triplets. For example if
+[02:20] Sum is = 0 so if one of your triplets you
+[02:24] Say my 1 is -1 and 0 then you
+[02:28] Not by doing it in such a way that both 1, 0 and -1
+[02:33] Answer is one. This and this is an answer. Why?
+[02:36] Because it contains element same. so you
+[02:39] Cannot repeat this. give you one
+[02:40] Is. Either one or two, both of you
+[02:43] Can't give. It means unique. Isn't it?
+[02:46] Ok? The first thing that we all
+[02:49] First let us understand why this two pointer is used.
+[02:51] The question is either it is or it is also or it is not.
+[02:54] Why does it come in two pointer pattern?
+[02:57] Remember what I said, it is a flow chart.
+[03:03] Is it sorted? Isn't it sorted?
+[03:06] It will be beneficial to do so, let's just look ahead
+[03:09] I don't know, okay are you being told that?
+[03:12] that from one
+[03:15] Do you need to find more things?
+[03:19] Need to find more than one thing?
+[03:22] Yes, you have to find triplets brother.
+[03:24] You don't even get triplet pairs normally.
+[03:27] Finding an index in your query
+[03:29] It happens. A number has to be found.
+[03:32] In this you do not get pairs but triplets, three things
+[03:36] Have to find. This is what is happening
+[03:38] over here? Yes it is happening. so look here it is
+[03:41] There is more than one thing to be found. Is happening
+[03:43] Is. Now let's talk about what is not sorted
+[03:45] So will sorting make it easier?
+[03:47] No? Think about that a little. Think about that.
+[03:50] Now first of all it is sorted isn't it?
+[03:54] Near. You are not given sorted.
+[03:57] But will sorting be beneficial?
+[03:59] Why will this be beneficial and how will it happen? They
+[04:01] See. This is array. Ok? Ok? In this
+[04:04] Let's say a b c d e 0 1 2 3 4 ok?
+[04:12] What do you want to find? whose sum is zero
+[04:15] yes. So you get that x + y + z is equal to zero.
+[04:19] Should be. Ok? for a while
+[04:22] Forget duplicates. for a while
+[04:24] Forget about those duplicate and unique things.
+[04:26] Go. They will tell but forget it for now
+[04:27] Go. Believe that everything is unique. sara element
+[04:30] Is unique. So what could be brute force?
+[04:34] Is? What could be brute force?
+[04:40] you run an i from 0 to n
+[04:43] j run zero to sorry
+[04:47] J you move i + 1 to n and move k
+[04:53] j + 1 to n and every i j k like this you would do
+[04:59] If you run three loops you will get all
+[05:01] Will get triplets. see the sum of every i
+[05:04] Take it. If this is equal to 0 in the answer
+[05:07] Include this. we will do it like this
+[05:10] No. If you want to check Sara, Sara
+[05:13] If you want to triple check then check like this
+[05:14] do. Its time complexity is
+[05:16] will go
+[05:17] qn who does not understand time complexity
+[05:20] The time is coming with complexity
+[05:21] This is why the video was made. go to him
+[05:23] See. Ok? not the same thing again and again
+[05:25] Will tell. and space complexity order
+[05:28] Of one. So this becomes your brute force. Now
+[05:30] Can we reduce it a bit? Ok?
+[05:33] Let's see.
+[05:35] A B C D E 0 1 2 3 4
+[05:43] Brute See Brute force and optimize
+[05:46] There is no difference. see with brute force
+[05:49] When we optimize, the work remains the same
+[05:53] Are doing. never think like that
+[05:55] That is if we do something else with brute force
+[05:56] We were doing something in optimize
+[05:58] The second thing is to do the same thing. speed up work
+[06:00] Have to do with. same optimized
+[06:02] They say. The logic is the same.
+[06:04] So what were we doing in brute force? i
+[06:06] = 0 to n was going on. Yes, it was going on. Its
+[06:09] What did you mean? what does it mean in hindi
+[06:11] Was? That we were fixing the i. for
+[06:14] Example: We fixed i here.
+[06:16] Ok? Now what does this mean? that when array of
+[06:21] i = a. So what were we doing? Meaning
+[06:26] Two more loops were being run. That's two more loops.
+[06:28] What were you doing? we the people and two elements
+[06:30] Looking for the one to equate with i
+[06:33] The total should come to zero. I mean, this is what we are all about
+[06:37] Was doing. + x + y = 0
+[06:42] You people were searching for this x and this y only.
+[06:46] Because your i has been fixed. i
+[06:48] Your value may be low four. maybe five
+[06:50] Is. Could be six. we are looking for this
+[06:52] And they are looking for it. Now on this equation
+[06:54] Use your intelligence a little and take a look. We people
+[06:57] They are searching. a i + x + y = 0 x + y =
+[07:06] - Will it be there or not? These simple maths
+[07:10] So everyone must know. This is simple maths
+[07:13] Or doesn't he come?
+[07:15] Now we started searching for this. what does it mean
+[07:18] It is in Hindi which we are going to explain to you.
+[07:19] Wanting.
+[07:21] For ai we were looking for 2 x y. Now
+[07:26] First what does the whole question say that we
+[07:28] People are looking for two XY's for AI. it
+[07:30] Looking for a pair. What is its equivalent?
+[07:33] What is its equivalent? Is its sum zero?
+[07:35] No, no, no. x and y are equal to
+[07:37] Needed The sum of x and y should be this. it
+[07:41] This is our condition. This is our new question
+[07:44] became. Find This. someone seeing this thing
+[07:48] Missed anything? Pair someone even or two
+[07:53] What is the first question of this pattern Sum to Sum?
+[07:56] Was? It was two-some, wasn't it? This is what is in two sum two sum
+[07:59] It used to happen. find pair in two sum
+[08:03] With Given Some. This is what they used to do in Two Sum.
+[08:08] Same thing has to be done here also. here too
+[08:10] So you have to run a two-sum for every i.
+[08:12] Used to be. There's one for the whole program
+[08:14] Had to run twosome. Here pay for each i for each
+[08:18] I have to write you one to some. you need one or two
+[08:22] Have to write. Do you understand why?
+[08:26] Ok? And everyone knows how to do two. to sum
+[08:28] So everyone knows. what to sum to pointer
+[08:30] Have a question about pattern? Yes. so what is this
+[08:32] Question is also a pattern of two pointer? Yes.
+[08:35] Did we sort in twos?
+[08:37] Yes, used to sort in twos. what here
+[08:39] Would pay sorting be beneficial? Absolutely
+[08:41] Will happen because there is a question of two sum. this two
+[08:44] It is a question of even. I just want you
+[08:47] Times are too few to use. Many Times
+[08:51] Use to some. That's why two sum is taught first
+[08:54] Is. Three sums are taught later. Four
+[08:56] Same is taught later. To understand
+[08:58] Came? If you don't understand please tell me
+[09:01] In the comments yet. But it should come.
+[09:03] That's correct. Ok? Yes. one more thing we
+[09:06] What were people doing till now? make a two sum
+[09:09] Were staying. Are you in twosome when you and I
+[09:12] Two were reading. what should we do
+[09:14] were staying? Let's revise once quickly
+[09:15] From. First of all the array was sorted.
+[09:18] That's correct. So 1 3 4 5 7 0 1 2 3 4 one
+[09:25] Left was kept here. put a right here
+[09:28] Were.
+[09:30] What was our target? Let go
+[09:34] The target was nine. used to try adding it together
+[09:37] What? 1 + 7 = 8 if eight is equal to nine
+[09:42] Then it is a very good thing. if at nine
+[09:44] If it is small then what did you do? if et na se
+[09:46] If it is small then the left one was increased. so now
+[09:49] Left came here. 3 + 7 = 10 now 10 if
+[09:54] Not younger than nine. 10 if by nine
+[09:56] If it is big then the rights would be reduced. so now
+[09:58] Come on five and three. Now five and 3 = 8
+[10:02] Eight is shorter than nine. Ok? to the left
+[10:05] I would have increased it, now the left has come for four, the right has come.
+[10:08] Went on this. 4 + 5 = 9 this was simple logic
+[10:12] That they used to work accordingly. now but
+[10:16] If now now you will get threesome.
+[10:19] But why else have to learn that duplicate?
+[10:21] For the thing. of duplicate cheeses
+[10:22] For. Do you face any duplicate issue in To Sum?
+[10:25] Wasn't. It was not written anywhere in the question
+[10:27] That you have to give something unique. you just had to write
+[10:29] An answer has to be given.
+[10:31] So an answer has to be given. as soon as the answer is found
+[10:34] Used to return. Understand? but but
+[10:37] But if your array was like this 1 1
+[10:42] 2
+[10:44] 3 3
+[10:47] This could also have happened, it is a sorted array.
+[10:51] Ok? Whatever is yours, we are still two.
+[10:54] Talking about. Till now we are threesome
+[10:55] I have not come. Threesome will come in 5 minutes
+[10:57] Will finish it. Sum = 4 has to be given. and you
+[11:02] It is said that find
+[11:04] All unique pairs. Find all unique pairs.
+[11:09] Not one but two, I used to say find one.
+[11:11] do it. This is your question. Find All Now
+[11:14] Unique Pairs. Well then. means all unique
+[11:17] The logic from pairs is the same as the core logic.
+[11:19] Will remain. So make left = 0.
+[11:23] Bring in right equal to last. to the right
+[11:25] Bring intake. What will come now? 1 + 3 = 4
+[11:33] Ok? So now look at this four and yours
+[11:36] Whatever you want to find, one from four
+[11:39] Done. What did we do earlier? Return
+[11:41] Used to do it from here. end the function
+[11:43] Used to give. When not to be found. but in this
+[11:46] You have to find everything. Have to find the entire pair. So
+[11:49] First of all it should be stored.
+[11:51] First of all store this one and three
+[11:53] Should take. Now we can accept this condition
+[11:57] We knew that even the most common target
+[11:59] What to do if it is smaller than? if it is big
+[12:01] What do you do? But when even is equal
+[12:04] If you have two targets then you never learn it.
+[12:06] Were. So let's learn this. good because this
+[12:08] Work is going to come in threes. now look even
+[12:11] Is equal to is equal to target. These
+[12:14] It is done. This is done. So if in array
+[12:18] Does not duplicate. see you get one
+[12:21] Went. You also got a three.
+[12:24] So when the number was small, we used to move to the left.
+[12:26] Used to increase. When we were young, we
+[12:29] Used to increase the left. Had he grown up, he would have been right.
+[12:31] Used to increase. But what if the sum is equal?
+[12:32] do? If equal then we will increase both.
+[12:34] If equal then both will be increased because
+[12:37] You have got it. Now this much is left for you
+[12:39] Because this one is one and this one is three
+[12:44] Together they have become one. now you
+[12:46] When you don't want to get unique then you have to buy from both.
+[12:48] Shouldn't make sense. now we understand
+[12:50] What are you doing? for example
+[12:53] One is making four with three. if you
+[12:56] If you just reduce the rights then it will either
+[12:59] will remain equal or it will be less because
+[13:01] It is in sorted array. Similarly Three One
+[13:04] So if you just look at the forest
+[13:07] If you increase then one and three will take you again
+[13:09] Will have to. Now I understand what we are saying
+[13:11] Are you? Let me tell you again. one three yeh
+[13:15] People don't understand this together.
+[13:17] Why do both have to be increased? forest and
+[13:19] Three together make four. Very
+[13:21] It's a good thing. So one thing happened
+[13:23] Stored in one and three answers. Now
+[13:25] How will the movement of left and right be? We
+[13:27] What did you say in two pointer? every time either
+[13:29] Either left will increase, right will increase or both.
+[13:31] Will increase. So why should we talk about both movements?
+[13:34] Wondering why both have to be done?
+[13:35] Both have to be done in this. now case wise
+[13:38] Understand. Now look at the forest here and this and the forest here
+[13:40] Is equal.
+[13:41] Case wise we understand that if you both
+[13:44] Look, something has to be done. either left
+[13:46] Increase, decrease rights or both
+[13:48] Have to increase. So let us explain to you case wise
+[13:50] Are. The first thing you should do is to
+[13:53] Just increase it. Do left plus plus. to the right
+[13:55] Leave it. What will happen with this? this one forest
+[13:59] Will come here. Ok? And these three stay here
+[14:01] Will go because we are seeing this. Then
+[14:03] The sum of one and three will be four. so you
+[14:05] Storing one and three here again
+[14:07] Will have to. This one is our duplicate.
+[14:09] Did it. Ok? Come to case two. vote left
+[14:13] Increase. Extend right. so left here
+[14:15] Leave it. Move right to here.
+[14:17] Now see again that one and three are equal.
+[14:19] Went. We are not saying that it should happen every time.
+[14:20] Will go. But it is happening in this case. Is
+[14:22] No? That is why the example has been taken. Then
+[14:24] From here you will store one and three
+[14:26] So it got worse again. Ok? so one
+[14:28] The only case left is to increase both. But
+[14:31] But look carefully. If both are increased
+[14:34] Even if you give, one and three are coming here.
+[14:36] So you have one and three stores again
+[14:38] Will go. What are you saying? by extending left
+[14:40] Brought here, reduced the rights and brought here. Then
+[14:42] These two are one and three because duplicate
+[14:45] Is in the array. So again you one and three
+[14:46] Will write. So something will have to be done for this also.
+[14:49] So the first thing you understand is that
+[14:50] Both have to be increased. so if
+[14:53] Sum equals to target.
+[14:58] First of all store it in result
+[15:00] Take. Store it in result. the very first
+[15:04] The point is to increase both. not to both
+[15:06] If you increase then duplicate will definitely come. These
+[15:08] So we taught you that if you increase one
+[15:09] So he will come. left plus plus
+[15:13] Right minus minus right? but both
+[15:17] Even after increasing it is possible that a duplicate may appear.
+[15:20] Now what about it? So what's in it? Now
+[15:23] See
+[15:25] Look, look very carefully. very carefully
+[15:27] Please see. Your left was first on one.
+[15:33] your first
+[15:35] Yours was at left = 1 before. you accept
+[15:39] Raised the left and raised it again. so this
+[15:43] In case your left is coming to one again
+[15:44] Is. Ok? Coming to the forest.
+[15:47] Ok? In your final answer you
+[15:49] What are you storing? you pair in it
+[15:50] Are storing. your final answer
+[15:52] You are storing only pairs in it.
+[15:54] A lot. you once in the answer
+[15:56] Have stored one and three. this store
+[15:58] Have done, whose four came. something else to you
+[16:00] You feel like finding a pair. now one thing
+[16:03] Tell me, as long as you are in this row, one and one and one and
+[16:06] Will forests continue to store like this?
+[16:09] Will the row change? Will not done. Why? Yours
+[16:12] The target is to make everyone four. so simple
+[16:14] It's maths. As long as you don't put a forest here
+[16:17] Till we leave, three will keep coming here. When
+[16:20] If you put two here then only two will appear. So
+[16:23] If this one is beans, then this one is beans too
+[16:26] Will remain. This too will remain the same. let us tell you this
+[16:28] Wanting. What are you saying? in this cry
+[16:30] You put one, you put three. As long as the forest is here
+[16:33] As long as you keep putting, threes will keep coming here.
+[16:35] As long as there remains one here, three will come.
+[16:37] Will remain. What does it mean if you
+[16:40] Found the answer on One and Three Answers for you
+[16:43] Got it. Did you understand? As long as the forest is here
+[16:47] As long as he keeps coming, this bean will keep doing something
+[16:49] No. So what is the benefit of forest? Once the forest
+[16:52] Your answer has arrived. forest again to you
+[16:55] Why is it needed on the left? Once your
+[16:57] Have seen the left one and the answer has also come.
+[16:59] Is. Why do you need forests again? so one
+[17:04] As long as we increase the answer, the forest will
+[17:10] Till then the first thing we will increase is this
+[17:12] Needed
+[17:14] Let it be. This should be checked above.
+[17:16] It is happening isn't it? Let it be. Isn't it?
+[17:21] First of all, as long as we increase A left equal
+[17:26] equ a left - 1 increasing left until
+[17:32] Is.
+[17:34] Do you understand what we are telling you? First of all
+[17:37] Left was here.
+[17:40] Then the left came here. Ok? now left
+[17:43] Came here. Now look at this one on the left
+[17:45] Left is equal to its previous one. Yes.
+[17:47] So move left. This one is on your left
+[17:50] Equal to the previous one. Yes. move left
+[17:52] Two. This one on the left said the one behind him
+[17:55] Not there. No it is not. Ok? so this
+[17:56] Is unique. This line means that as long as
+[17:58] Unique may not be found until after getting the answer.
+[18:01] Keep moving left. same work right
+[18:03] Have to do. So while a right now left
+[18:08] Be compared to the person on your left and behind you.
+[18:11] Had been. So because left is direction
+[18:13] I am moving. Right in this direction
+[18:15] If he is moving then from the person in front of him. so when
+[18:16] Till these three are equal to the three ahead of them
+[18:18] Increase it. These three are equal to the ones before them
+[18:20] Is. Increase. These two are equal to the ones in front of them.
+[18:22] Not there. Leave it aside. so equal equal a
+[18:27] Right + 1 till then you have to keep decreasing the right.
+[18:31] Is. right minus minus and turn this off
+[18:33] Is. And what can we accomplish in this?
+[18:36] were staying? This was when you got the answer.
+[18:39] The answer has been found. Maybe the answer is no
+[18:42] meet. very good thing. Else If Some Less
+[18:47] What is less than target?
+[18:49] used to do? Used to increase the left. very good.
+[18:52] What does els mean? some greater than
+[18:56] Will be the target. There can only be one. only three
+[18:58] Could be a case, right? increase the right in this
+[19:00] Have to give. Rights have to be reduced. be this
+[19:04] Went. And you will get your answer whatever your
+[19:07] Result stored in vector
+[19:09] must have done something, anything
+[19:11] You have to return. once a lot of attention
+[19:14] Look at it with an open mind. Ok? to some
+[19:17] To sum with duplicate. if the answer is found
+[19:21] Is. If the answer has been found. first things first
+[19:23] So the left has to be increased. reduce right
+[19:25] Is. Because there is no one to keep it there
+[19:27] There is no use in increasing it. we will see
+[19:28] Had taken. Now we have to keep moving left until
+[19:31] Until Unique Left comes. Our
+[19:34] It should not be different from the previous one. because if
+[19:36] If you have written one forest then also another one.
+[19:38] If you write, the same answer will come. similar work
+[19:40] You have to do it right. As long as he's right
+[19:42] Should not be unique. Because of the same logic
+[19:45] If you have written a three and here one
+[19:48] If it is second then if you write three then only one will come.
+[19:49] If you write third, only one will come. so benefit
+[19:51] Not there. Rights have to be reduced. rest of the things as
+[19:54] It will remain. Rest when you don't get results
+[19:57] So the rest will remain as it is. so this was two
+[20:00] Some with duplicates.
+[20:04] with
+[20:06] Duplicates. Did you understand? Ok? This much
+[20:09] Why did we give so much knowledge? Because
+[20:12] He will be interested in the upcoming tasks.
+[20:15] Now let's come to our question.
+[20:18] triplet sum 0
+[20:22] The triplet sum became zero. Ok? In this
+[20:25] What have you been told? find three things like this
+[20:27] What is the equivalent of what has to be done? Be zero. Good
+[20:30] The thing is. See how to do it from two to even
+[20:32] Are.
+[20:35] Come. -1
+[20:38] 0 1
+[20:41] 2 -1 4 0 1 2 3 4 5 This is your array. In this
+[20:48] Have to find all the triplets. To all
+[20:51] First understand our logic. for each i
+[20:56] To sum is to run with sum equal to - of ai
+[21:03] This is ours, this is ours, this is our logic, this is for each.
+[21:08] i have to run two sum one sum pass in two sum
+[21:10] If it happens then it will be even pass - ai this is ours
+[21:13] This is the logic of the entire program, so to sum.
+[21:16] What happens first to run?
+[21:17] sort it sort it sort it
+[21:20] Write it here, if you sort it then -1
+[21:24] -1 0 1 2 4 0 1 2 3 4 5 Now look here
+[21:34] There is also one more very important thing. so now
+[21:36] Don't go submitting it just yet. One
+[21:38] And this is very important. what logic
+[21:40] Is? i = 0 to yes one more thing for each i we
+[21:45] People are looking for twosome. Ok? so what
+[21:49] This should be done by taking i from zero to 5.
+[21:52] Run and those of us who start the left and
+[21:56] Right has to start left right
+[21:58] For two sum there was left in two sum
+[22:01] Zero and right were n - 1 of both the arrays.
+[22:04] Left started from end, started from here
+[22:07] The right used to start from here but in this
+[22:08] What to do if your i is here then left
+[22:11] Where does right start then what about left?
+[22:15] Keeping it zero is not beneficial
+[22:18] Because i may be at zero. i be
+[22:21] Might be at zero. If you go left also
+[22:24] If you keep it here then give it to the same element.
+[22:26] It will happen again. What is our main goal?
+[22:30] Array of i + Array of left
+[22:34] plus array of write
+[22:38] Must be equal to 0. so obvious thing
+[22:42] That i should not be equal to left end
+[22:46] left
+[22:48] Should not be equal to right and i should not
+[22:51] Be equal to right. It's obvious, isn't it brother?
+[22:55] If you are doing this then there is no need to come here.
+[22:57] So with this in mind, consider this
+[22:58] Now tell me keeping in mind
+[23:01] i is equal to let's say running from 0 to 5.
+[23:04] In the array. So where will the left move from? left
+[23:07] If it works from anywhere, it will work only from i + 1.
+[23:10] Will not be able to move with left i. left always i
+[23:12] + 1 will do. Where will Wright run from? Right
+[23:15] any number of ends will do
+[23:19] So right = i cannot happen. so we
+[23:21] People can do one thing. look at this now
+[23:23] There are many ways to solve this.
+[23:24] You run i all the way and left right
+[23:26] Ignore the i. That is also the method.
+[23:28] But but what is the easiest way? You
+[23:32] When i = 0 you take left = 1
+[23:36] Take And Right Equals Two As It Is Five
+[23:39] Take it. It means left here, right here
+[23:43] It is here. So you get a pair from this part
+[23:46] Will go and your I will be here. when your
+[23:49] Eye is here so you put left here.
+[23:52] Put the right one here. From this part you will
+[23:55] Will get a foot and yours with it
+[23:57] Will make the answer. When your I am here then this
+[24:00] If you get it from Part then you can click left here
+[24:02] Keep it. Put the right one here.
+[24:05] Similarly when you are here from this part
+[24:07] You will get the answer. but but but if
+[24:10] You came here by mistake. If your I
+[24:13] Came here by mistake. What will you do now? Now
+[24:16] So we came to keep the left here. Right
+[24:18] Where will you stay? We said it last
+[24:20] To keep. So Wright will also come here.
+[24:23] Which is wrong. Is it wrong? left
+[24:26] And the right should not have been equal. take a look
+[24:28] It is written in the rules. That's why i ever
+[24:31] Don't take it till four. i always here
+[24:33] Have to stop. Ok? i don't take here
+[24:36] Have to go. So where is i stopping? right here
+[24:38] Is going to stop. When two boxes are empty.
+[24:40] Because we need at least at least after i
+[24:43] Two elements are required to pair. i's
+[24:45] If you are looking for a pair then at least
+[24:47] Minimum two is required. So minimum till here
+[24:49] will get. i will always go to three. what three
+[24:52] Is? n = 6. What will become three? 6 - 2 = 4
+[24:57] If you do then i = if you zero i < n - 2
+[25:05] and i +
+[25:07] Why n - 2? n = 6 6 - 2 = 4 i < 4 means
+[25:12] i will go from 0 to three. Look, only 0 to three
+[25:16] Must be going on. Should not go till 0 3 four.
+[25:20] I am done. Ok? Now after this it is simple
+[25:23] Is. After this it is very simple. left = i
+[25:26] Do + 1. Make right = n - 1. Even = - 1
+[25:35] * do a i. Why? Because
+[25:39] The sum of all three should be zero. So
+[25:41] What should happen to a left and a right? 0
+[25:43] - ai so -ai that's why after that my left
+[25:46] Do this to Wright. so vile
+[25:50] left
+[25:52] Right.
+[25:54] Ok?
+[25:56] Calculate the sum of these two. a
+[26:00] Left + a Right.
+[26:05] Ok? If s = even just got got got got
+[26:11] Store the result in Gaya Answer Result
+[26:14] Store it in any way you want
+[26:16] Are in the collection list in vector
+[26:18] Store it in Python and then left it.
+[26:22] Increase one by one and decrease right by one because
+[26:25] This has to be done, it is the minimum but
+[26:27] There may still be a duplicate
+[26:29] vile
+[26:30] Now see, we are trying to expand the left.
+[26:32] Unless we find a unique but
+[26:35] If you are moving left then always
+[26:36] Always whenever you want to index an array
+[26:38] If we increase the index then one
+[26:42] Please write the index less than n.
+[26:45] while left n end
+[26:49] Air of left if it is behind the one behind it
+[26:52] Is equal. Still there. Still there. still
+[26:55] Is.
+[26:57] So left plus plus whenever you're increasing
+[27:00] If yes then please write this one. before after
+[27:02] I am not. Will you tell me why? vile
+[27:05] Similarly Right Now We Are Reducing Right
+[27:07] If you want, you can reduce anything at any time.
+[27:09] If you want to do it then do it like this, zero
+[27:11] Write greater equal to 0 and array of
+[27:15] right is equal to array of right + 1 right
+[27:21] If it is a matter then keep reducing it brother and stop it
+[27:25] Do it, have you understood what this is? s=sum if
+[27:29] s < even so what if s < even then what
+[27:34] will be? It's beans. Nothing will happen. left plus
+[27:36] Have to do plus and go ahead. now els
+[27:39] An else if has to be put in it. else right
+[27:42] plus right minus minus
+[27:45] and returns later
+[27:48] result.
+[27:51] that'll be. Ok? Is this program right?
+[27:53] Is? Is this program correct? program
+[27:55] 99% correct. 1% is wrong. Why is 1% wrong?
+[28:00] Let us explain.
+[28:02] What is erre?
+[28:04] -1 -1 0 1 2 4 What is an array? array -1 -1 0 1
+[28:12] 2 4 0 1 2 3 4 5 Okay? we logically
+[28:18] Explain what is going wrong. First of all
+[28:21] i What will happen? At zero. i = 0 - 1 our sum
+[28:26] What do we need? Forest. only one is needed
+[28:29] No? Ok? of anything in this part
+[28:32] Even is one. Yes, 0 and one is equal to one.
+[28:36] The sum of 0 and one is one. so one is your answer
+[28:40] Will -1 0 1 Very Good. Even sum of -1 and two
+[28:45] There is a forest. so -1
+[28:48] -1 and 2. This is your answer. now you
+[28:53] Please verify. Is its total sum zero?
+[28:55] Is? Yes. Is its total sum zero? Yes.
+[28:57] Are these two unique? Yes. very good.
+[28:59] What happens after that? it will work out completely
+[29:01] i plus will become plus. hey i plus plus ho
+[29:04] If goes then i = 1 will come. Now look carefully
+[29:08] Let us say one thing that at i = 1 also it is -1.
+[29:11] G is -1 even at i = 1. so -1
+[29:16] Now you can see some forest in this
+[29:19] Is. Is it a forest of any kind? yes sum of 0 and 1
+[29:22] There is a forest. 0 and one, this is in your result.
+[29:25] But this thing will already appear in your result.
+[29:28] Was it done? I was already here, right?
+[29:30] I was here already, didn't I?
+[29:32] Had it been done or not, it came again as a duplicate.
+[29:34] It didn't happen when you completed left and right.
+[29:36] Taking care of the duplicate
+[29:38] Why did the duplicate come because we left?
+[29:41] Taking care in right but in i
+[29:43] Not taking care, not taking care here
+[29:44] You are being asked to do the same work here too.
+[29:47] So what if i works the same as if i moves on -1
+[29:51] You have found all the pairs for -1
+[29:54] Don't look for a pair for the second -1.
+[29:56] Either pair will come or it will come in duplicate.
+[29:59] If
+[30:01] Array of i equals to array of i - 1
+[30:07] Continue Continue means increase i.
+[30:10] Some Ye Some Left Right Not Execute
+[30:12] What needs to be done is to increase the simple i by
+[30:14] What will happen for the first time i here yes one more thing
+[30:18] Now for the first time i is 0. For the first time i is 0.
+[30:21] So you are saying that a 0 = a - 1 then
+[30:24] This would be wrong by adding one more here.
+[30:26] Let us say for the first time i is 0. If
+[30:32] i > 0 end
+[30:35] ai equals equal to a i - 1 cont.
+[30:42] Ok? What does it mean? that if i is 0
+[30:45] So if i is 0 then the first one will be false. Any
+[30:47] No matter. Because the first one is unique
+[30:48] It will definitely happen. The first one is always unique
+[30:50] will be. So -1 will do. But when on i1
+[30:52] When he comes he will see that i is greater than 0. Yes yes.
+[30:55] Is. Is this -1 same as -1 of the previous one?
+[30:57] side? Yes, it is Sem-1. So take advantage of this
+[31:00] Not there. Come here. Is it bigger than i0
+[31:02] Is? Yes it is two pay. Is it equal to 0 - 1
+[31:05] Is? No, not equal. Ok? so here
+[31:07] Will do with. So in this you also duplicate I
+[31:09] Eliminating. Meaning
+[31:11] There are three things in A B C triplet. so you
+[31:14] Eliminate duplicates in the beginning also
+[31:16] And you are also in the rest of left and right.
+[31:18] Eliminating duplicates. so such
+[31:19] You get the complete unique answer. so this happened
+[31:22] Your program which is 100% correct. Now
+[31:25] What will be its time complexity? To all
+[31:27] What did we do first? sort n log n
+[31:30] Who doesn't know is running independent
+[31:32] Read the section. watch that lecture time
+[31:34] The one with complexity. What should the rest of us do?
+[31:37] Are you? i going from 0 to n - 2. Ok?
+[31:42] What's happening in the denominator? what is in every i
+[31:45] Used to be? Work is being done left and right.
+[31:49] Which could be possible if you look at these averages
+[31:51] Left half array is running. right rest
+[31:53] Half array is running. So total n times
+[31:55] Must have been. This n - 2 is one and
+[31:59] Secondly, it becomes n - 2 for each.
+[32:02] n - 2 we are doing n order of n² n² bigger
+[32:06] that n log n is bigger n² is bigger then total
+[32:08] Time complexity is n² space.
+[32:12] Order of one has not been used much
+[32:14] This becomes your three sum program code.
+[32:17] You go and see, I don't know.
+[32:18] How much time has passed but you see the code
+[32:21] ok before we go to the next
+[32:23] let's move on to the question
+[32:25] Did you understand? What are you trying to say?
+[32:28] Now let us understand the next question.
+[32:31] You know, you said, 10% difference is logic.
+[32:34] It won't take some time. Next question
+[32:36] It's threesome first but submit this and come back.
+[32:39] After that see this closest.
+[32:42] Good sir. So you are told that you have a
+[32:45] Target is given.
+[32:48] Also given you an array. find you
+[32:52] Have to find the index in it. Ok?
+[32:54] What to do if you want to find the index?
+[32:57] Good. Ok, good. find you three
+[33:02] Numbers.
+[33:04] Some is closest to target. not equal
+[33:08] Closest to target.
+[33:12] And these three numbers you found are theirs.
+[33:14] Even return has to be made. Good
+[33:18] Let us understand what this means. question
+[33:21] It's almost the same. To coax 10% here and there
+[33:23] It is given for. The first thing is that
+[33:28] What were you doing last time? even equal equal
+[33:30] To was 0.
+[33:32] In this we are finding all triplets
+[33:35] Were.
+[33:36] One change that has happened is that after even or zero
+[33:39] The place is giving you a target and even
+[33:42] Closest is written. not equal
+[33:44] Closest. So what does closest mean?
+[33:45] It just happens to be a little bigger than this
+[33:47] It may be less. for example
+[33:50] If sum = 0 and your target
+[33:54] = 1 so your difference is absolute
+[33:56] The difference is not a minus plus. absolute
+[33:58] What is the difference difference? zero and one one
+[34:00] There is a step difference. Ok? sum is equal to two
+[34:03] 3 targets = 1, what is the difference between the two?
+[34:08] In? How much difference is there? There is a difference of two.
+[34:10] This is two. Sum = 1 and target = 1 difference
+[34:18] How much is it? Of zero in one and one. So
+[34:20] difference equal to 0
+[34:23] Which has the least difference among the three?
+[34:25] The smallest difference is the same.
+[34:27] Is the closest. So the forest is its closest.
+[34:30] So naturally speaking any number
+[34:33] What is closest number? same number someone
+[34:34] What is the number closest to bit? from to is
+[34:37] So here on the number line there is one. here on
+[34:40] There is three. So one and three are on one step.
+[34:42] Zero and four are on two steps each. to myself
+[34:45] There is only one step at zero step. so about this
+[34:48] The number is. Means closest. To understand
+[34:50] Came? What do you have to do now? find
+[34:54] Three integers in array. Good. and their sum
+[34:58] Have to return.
+[35:00] Their even return. This is your question. So
+[35:03] We probably still have some explaining to do in this
+[35:05] There is no need that this three is this two
+[35:07] Why is there a question of pointer? understand this
+[35:10] You guys must have realized that this two pointer
+[35:11] The question is why? Ok? so beans that
+[35:14] We wrote the program last time, right?
+[35:17] Will change it a little. Little
+[35:20] What will you do by changing it? We you
+[35:21] Let me tell you.
+[35:24] See what could be the best answer
+[35:27] Of the world? Best answer in this problem
+[35:31] The sum of these three elements of any i j is equal
+[35:36] Be equal to target.
+[35:39] The best that can happen is equal equal.
+[35:42] To be targeted. This is what can happen, isn't it?
+[35:43] There cannot be a better answer than this. We
+[35:45] What did you say? What is closest to two?
+[35:48] It's two. This is the best that can happen.
+[35:50] Good
+[35:52] If suppose the sum is less than the target. yes
+[35:56] There may be a condition that
+[35:58] Your i.j. i.j. means i.e. left.
+[36:01] And right. I'm Too Some You We Can Assume
+[36:04] You are coming after watching that video
+[36:05] Are. Ok? Same target of i left right
+[36:08] Became smaller than. Ok, good. be small
+[36:10] Went. What did we do when we were younger?
+[36:13] Were? We used to do left plus plus and
+[36:15] Don't want to be small. Ok? but but
+[36:17] But before doing this, check that this
+[36:21] How close. find a difference
+[36:23] Take it.
+[36:25] absolute
+[36:27] sum minus target
+[36:30] What is this? This difference is what we
+[36:32] People were finding differences here. this one
+[36:34] This is the difference. 2 0 1 between even and target
+[36:37] What is the distance in? Take one variable.
+[36:40] If
+[36:42] The name of this variable may be something like
+[36:44] Initial difference or anything difference if
+[36:46] Max Diff
+[36:49] If Max Diff Max Diff Before Infinity
+[36:51] Take Max Diff
+[36:53] If max diff is taken to infinity then this is the maximum
+[36:56] It will be big, it is difficult
+[37:00] Then first set the max diff
+[37:02] Set max diff on this and take a sum
+[37:08] Low Rest Rest Sum = Sum
+[37:13] Ok? Did it. Now after this to the left
+[37:16] Have to increase. Ok? Now do you understand?
+[37:18] speaking to you? Let me tell you again.
+[37:20] Let me tell you again. tell me again
+[37:22] Are.
+[37:25] What should we say? It's all on the pattern of two-sum.
+[37:28] Is working. Ok? we are twosome
+[37:31] What did you do? Not two sum, sorry three sum.
+[37:33] Working on the pattern of three sums. i
+[37:35] Runs from 0 to n - 2.
+[37:39] Left moves i + 1 in i + 1 and right
+[37:44] Happens at the end of the array. Ok? threesome
+[37:48] What did we do? even equal equal
+[37:51] Yes in two targets, duplicate one in this
+[37:53] There is no work. Duplicate work in
+[37:54] Not there. ok sir? the one with duplicate
+[37:57] There is no work. So you general left plus plus
+[37:59] Please do it. Make right minus minus.
+[38:03] Next case some less than target.
+[38:08] Add left plus plus to it and get
+[38:14] Right Minus Minus in Greater Than Target
+[38:17] Please do it.
+[38:19] This is what they used to do. This is the logic of three sums. Now
+[38:22] Its logic will remain the same. its logic same
+[38:24] It will remain because you are doing the same work. Work
+[38:25] You are searching. but also your closest
+[38:27] Have to keep searching. As you do this
+[38:29] Have been. see what is your best answer
+[38:31] Is? This is your best answer. this is the best
+[38:34] Why is it the answer? If you understand this then the rest of your work
+[38:36] will you be. Sum equals to target
+[38:38] Why is it the best answer? Why? because which
+[38:41] The difference is absolute
+[38:44] sum minus target
+[38:47] Make any absolute number positive
+[38:49] Gives. So the minimum value of difference
+[38:53] What could be possible? minimum value
+[38:55] What could be possible? Zero. and this one
+[38:57] Whatever the condition is, it gives you zero.
+[38:59] That's why this is the best answer. it is not that
+[39:01] It came to my mind. That's why this is the best answer
+[39:03] Is. What should you do? before doing anything
+[39:06] Before evaluating these three conditions
+[39:09] You have even.
+[39:11] Ok? What should you do? find the difference
+[39:14] Take it. absolute
+[39:17] Even minus target.
+[39:21] Let's see if you have another Max Diff
+[39:23] The variable should be initially which is
+[39:25] be at infinity and you have a result
+[39:28] The amount that you have to return. take a look
+[39:31] That this diff is less than max
+[39:35] is def?
+[39:38] This means that this def has just arrived, this is what
+[39:40] Diff came in this eye and this left and this right
+[39:43] Are these answers different from the current answers?
+[39:46] Ok? This means that your answer till now
+[39:48] what was it? That's why we call it infinity
+[39:50] Are in the beginning. So far from your answer this
+[39:52] Is small. If it is small then you can
+[39:54] The closers are getting even closer. for example
+[39:56] Till now your maximum diff was five. Meaning
+[39:58] The present ones were all even five steps away. To you
+[40:02] It turned out that this step is only three steps.
+[40:03] is far away. So is three less than five? Yes
+[40:06] If yes then update it first.
+[40:09] diff max diff
+[40:12] = Diff. So you will get the best answer till now
+[40:15] Made a three. And our result is even
+[40:19] if the result is even then do it ai
+[40:22] Plus, well, this is in our league, isn't it?
+[40:25] It is with us please update it
+[40:28] And if you turn it off then this is what it is, isn't it?
+[40:30] Where will we add the part first?
+[40:32] These three conditions of Left Right
+[40:35] This one is the first to evaluate
+[40:38] thing, see what it means again
+[40:41] Let me tell you, it is very simple
+[40:42] It's like finding the maximum so far
+[40:45] What was your max diff? Your max till now
+[40:46] diff was five we got a diff which is
+[40:49] To. Is it less than 25? Yes. so you your
+[40:51] Max Diff or your champion so far
+[40:53] The best answer is make it two and
+[40:55] Store this sum in the result sum.
+[40:57] So what if you got something like this
+[41:00] Isn't some equal to target sometimes
+[41:02] If it is found then your diff will become zero.
+[41:04] zero if less than max diff which will be
+[41:06] Only then your max diff will become zero and
+[41:08] This number will appear in your result. His
+[41:10] Nothing after this must be less than zero.
+[41:12] Could. So you will return this answer.
+[41:14] This is its logic. Ok? so beans
+[41:16] Have to write a program which is written in threes.
+[41:18] Were. Just have to do it at the beginning. you are mine
+[41:21] See the code of CPP Python Java and understand.
+[41:23] I will come. So the three are doing the same work
+[41:27] Even but before that we will do this little
+[41:30] Doing calculations. and in the
+[41:32] There are no cases of duplicates. That's why
+[41:34] Not handling duplicates.
+[41:35] Because it will be complicated
+[41:36] Question. And neither have you been told.
+[41:38] It is written in the question that you may assume
+[41:40] That the input will have exactly one
+[41:41] Solution. Means no duplicate. if you
+[41:43] Someone who gets exactly equal to the target
+[41:46] If so then it must be unique. this is not a duplicate
+[41:48] will be. If you get something like this then everything is unique
+[41:50] will be. So just before that you should do all this
+[41:52] Let us see that the sum we got is like this.
+[41:55] That it is like that. Ok? After that you
+[41:58] All three conditions can be run. even equal
+[41:59] Equal to target, some less than target, some
+[42:01] Greater than target. So three is your core
+[42:04] I have always been the same. see threesome
+[42:06] No to even. The logic of two sum is yours
+[42:09] There has always been beans at the core. left,
+[42:10] Right, left, right. Ok? so all this ever
+[42:13] Not changing. Depending on the question
+[42:15] Some extras you are adding either
+[42:16] Are reducing. like something in duplicate
+[42:18] Added parts. some parts in the closet
+[42:20] Added. So that's what you guys are doing. Corner
+[42:23] Always remember logic. fix core logic
+[42:25] Understand it and go and submit the question.
+[42:27] Do it. Again link to iPad notes sheet
+[42:31] Link description of my C++ Python
+[42:33] In. Let us leave the third question for today. Who
+[42:35] We said the third question at the beginning
+[42:36] Triplets With Smaller Some One Let It Be
+[42:39] Because maybe you haven't checked the time
+[42:42] But there must have been too many triplets
+[42:45] Will do smaller sum tomorrow by two every day from now on
+[42:48] Will do three questions because these questions
+[42:50] I also had to do revision, so a little
+[42:52] I have grown up but will try from now on
+[42:53] Two-three questions then triplet smaller sum tomorrow
+[42:56] will do and see tomorrow tomorrow three
+[42:58] Will try to question?
+[43:01] let's meet

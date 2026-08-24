@@ -1,0 +1,119 @@
+{
+  "video_id": "V6pRTnOZ7Mc",
+  "title": "Introduction to Sliding Window",
+  "language": "en",
+  "duration": 691,
+  "total_chunks": 10,
+  "chunks": [
+    {
+      "chunk_id": "V6pRTnOZ7Mc_chunk_1",
+      "video_id": "V6pRTnOZ7Mc",
+      "title": "Introduction to Sliding Window",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=V6pRTnOZ7Mc",
+      "start": 0,
+      "end": 73,
+      "timestamp": "00:00",
+      "text": "Very welcome to G Second Pattern Which is what sliding windows are. So Whoever has seen Two Pointer This sliding will be very easy for them. Viewing the window. those who haven't seen it It will be easy for others also. there is something like that No. But one thing you should make sure that This one is the introduction video, isn't it? There is an introduction video. Ok? it Introduction to you means flow in it Chart will be available. You know the rules in this We will discuss when to use this pattern and How to use. so this video Please watch till the end because more to come The upcoming videos will depend on this. So much Did you understand the point? So let's move ahead. Now See sliding window. sliding window What does window mean? Window means window. and sliding Meaning that this window can be smaller or bigger than you want. It is possible This means that this window The size is this much. maybe some future The size of the point pay window should be this much. These May increase or may happen at some future point This much remains of the pay window. so this shrink Lets do it. So expand it with your mind or Can shrink. That's why it's called sliding And window. Window means this is the window. Correct The thing is. Now how does it slide? These How does it shrink? With the help of two pointers"
+    },
+    {
+      "chunk_id": "V6pRTnOZ7Mc_chunk_2",
+      "video_id": "V6pRTnOZ7Mc",
+      "title": "Introduction to Sliding Window",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=V6pRTnOZ7Mc",
+      "start": 75,
+      "end": 149,
+      "timestamp": "01:15",
+      "text": "From. That's why we are the first two pointer Let's read. First we read Two Pointer Are. After that come to the sliding window Are. Now it shrinks low and high with help. What happens is that you take this end and keep this end pe high Are. Now both of them are in only one direction Can move in. Come on, move here too Can do. High can also move here Is. So when the high moves whenever you move high If you press plus, this window will expand. Will go. Because of low and middle low and high The distance between will increase. whenever you take plus Let's do a plus and put the high in one place So the window shrinks. Why? Because the distance between low and high decreases Will go. Notice one thing that this expand If it happens, it will happen from this side, meaning it will move in this direction. And when it shrinks, the part on this side Will be cut. Meaning it grows in the right direction only This is the window. If there is shrinkage then here You will cut from by increasing the run lo. If If expanded then increase the pay here Will add parts. This is how this window works. Ok? This pattern is called sliding window. Now first things first, the flow chart. To all Where will you look first? Will be on the array. array otherwise string because string is also a There is an array of methods. not on link list It will take. Not on link list in 99.9% cases"
+    },
+    {
+      "chunk_id": "V6pRTnOZ7Mc_chunk_3",
+      "video_id": "V6pRTnOZ7Mc",
+      "title": "Introduction to Sliding Window",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=V6pRTnOZ7Mc",
+      "start": 153,
+      "end": 226,
+      "timestamp": "02:33",
+      "text": "It will take. Remember, tie it in a knot. Will not be felt. What's the first hint for you? Done? Question about array or string That's what it will take. Otherwise it will not apply. To all It's a good thing. Good. if if if question If sub array in question Either substring When We're Talking About Strings Is it written or do you understand it? Sliding window will be installed only if it is coming in Only then will the sliding window be installed, otherwise not. Everything will seem fine, it means that continuous continuous Well substring also means continuous. Every sequence is different. remember people Become confused. after seeing all the sequence Start applying. sub sequence means no Continuous. Non continuous means that array If there is such and such element in it then any two Take the element. So take this and take this. So this is a subsequence. but if array By doing like this. tells you that two Take sub array and you get two continuous elements. Will have to take. This is what will have to be taken. either this Will have to take that one. either take this one Either you will have to take whatever Be continuous. sub sequence no"
+    },
+    {
+      "chunk_id": "V6pRTnOZ7Mc_chunk_4",
+      "video_id": "V6pRTnOZ7Mc",
+      "title": "Introduction to Sliding Window",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=V6pRTnOZ7Mc",
+      "start": 228,
+      "end": 302,
+      "timestamp": "03:48",
+      "text": "Take any two continuous elements In order. Okay, did you understand? So Array String Sub Array Substring. Ok? Now Are We Trying to Find Something? What is the question asking you? RV What does the finding question want from you? So The question may want any of these from you. maximum Minimum longest longest shortest either sum or count or average either at most or at least either exactly Look very carefully It's a big list but but but this list When to think about this list When do you even have to think when you cross these two? Go to the question of array and string. Array substring is written along with all this Things are written carefully, look at the screenshot. Take it and note down the maximum in your copy. Minimum Longest Sorted Sum Count Average"
+    },
+    {
+      "chunk_id": "V6pRTnOZ7Mc_chunk_5",
+      "video_id": "V6pRTnOZ7Mc",
+      "title": "Introduction to Sliding Window",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=V6pRTnOZ7Mc",
+      "start": 307,
+      "end": 377,
+      "timestamp": "05:07",
+      "text": "See exactly at the least of Atmost If you find all these words in the question Do you understand that this is all he is asking? Is. So these are the things that are being asked of me You will do sliding windows. Ok? Then See, these were the three things. array string Sub array substring must be continuous And some of these are sliding Window will appear. Sliding window will be installed. Sliding window will be installed. see flow chart Take it again. If there is no flow chart then see Take a pause. Make a note in your copy. Look at the flow chart. note down in the copy Take it. Understand? flow sliding window kab It will take. Ok? now a small thing Sliding window which is There is a sliding window. These two ways Are there. Firstly, they are fixed. Others Are dynamic. I just told you Not that it expands and shrinks Is. It may or may not. How not to do it? For example, if you are asked in the question If this is your array then it is 1 0 3 5 2 1 4 0 1 2 3 4 5 6 asked you a question Go sub array lo sub array length"
+    },
+    {
+      "chunk_id": "V6pRTnOZ7Mc_chunk_6",
+      "video_id": "V6pRTnOZ7Mc",
+      "title": "Introduction to Sliding Window",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=V6pRTnOZ7Mc",
+      "start": 385,
+      "end": 457,
+      "timestamp": "06:25",
+      "text": "Three and find maximum of all their sum What is the meaning of question in Hindi? This Take all arrays of length three in the array. Find their sum. the maximum that is in it Return it. The first thing is that your Algorithm has to be applied. Have to put up a flow chart. It is written here. yes means it is already given Is. So there it is. Everything is written here. Find maximum of all their sum. so all [Translation failed: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=en&sl=hi&q=%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80+%E0%A4%95%E0%A4%82%E0%A4%A1%E0%A5%80%E0%A4%B6%E0%A4%A8+%E0%A4%B8%E0%A5%87%E0%A4%9F%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%AB%E0%A4%BE%E0%A4%88+%E0%A4%B9%E0%A5%8B+%E0%A4%97%E0%A4%88%E0%A5%A4+%E0%A4%AE%E0%A5%88%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%BF%E0%A4%AE%E0%A4%AE (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))] Off some. So it will have a sliding window It will take only. If it doesn't work then somewhere else Will not be felt. So this is the perfect question To understand flow charts. so in this you What can be done? what do you do in this Are you now you when given in question Has it happened when you have three questions? is given. not in any question Would have given. It happens in someone that everything is there Have to take. Take any length. but when You are given length, when you are given size When you are given the length, Whose length is given? all of the array or of substring? So you get the fixed window. fix window How to take? Three sizes of windows. Now How to write this in code? pseudo code this Everyone will teach tomorrow. but we just concept Are teaching. Take fixed length. Three"
+    },
+    {
+      "chunk_id": "V6pRTnOZ7Mc_chunk_7",
+      "video_id": "V6pRTnOZ7Mc",
+      "title": "Introduction to Sliding Window",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=V6pRTnOZ7Mc",
+      "start": 460,
+      "end": 532,
+      "timestamp": "07:40",
+      "text": "Take it. Isn't it? Take three. Now Look what now? What were you told in Two Sum? Before writing anything, its brute Think about the force. What is brute force? that all Take all the arrays. All sub arrays of size three. Take it out from this array. How will it come out? It will turn out that way. One this became 103 then one Starting from 0 to 035 then starting from a three That's 352, then starting with a five, that's it. And then it happens that these so many sub-arrays are found. Went. Take all sub array. sum everything Take. If you return his max then that's enough. That's a good thing. but in sliding window You can do this very fast. so you Let's start our window like this. your window This happens. Ok? you find its sum Let's take. Its sum is four. Ok? Its equal to the first sub array when you get lefs If the length was given then you would have taken a four. Are. Ok? After that you can open the window Let's shift. Window size not changed Used to be. See, the size is only three. of window There was a shift in position. now you are equal to it To remove it not from beginning to end Let's add. See what happened? you here Were. Its sum came to 5. Now you are here 0 and three are common. what are we saying"
+    },
+    {
+      "chunk_id": "V6pRTnOZ7Mc_chunk_8",
+      "video_id": "V6pRTnOZ7Mc",
+      "title": "Introduction to Sliding Window",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=V6pRTnOZ7Mc",
+      "start": 535,
+      "end": 608,
+      "timestamp": "08:55",
+      "text": "Are? You make the array bigger and only four Look at the element. 1 0 3 and 5 ok? forest again Tells from. One this is very important The concept is to understand. That's why I'm explaining It seems like so much hard work. The first one was yours. Your first sub array was this. Was this it? Yes. The second one was yours. when you shift If we give then everything is done. look now now see 0 0 3 Both of these are common. These two are common, right? What is revenge? Revenge is one and revenge is five. So what happened to you who was even before? That was 1 + 0 + 3. This one was the sum of this one. To what has become of your 0 + 3 + 5 then you do See what is happening in Some One and Some Two What is the difference, 0 and three are the same. Zero and three are the same. Yes. one in some two Not there. So now there is no one and there is five. This is the difference. if you do this You got even two. what is not in sum two Is? There is no one in a sum and five is added. Has gone. So whenever you do this, right? What can we say about sliding window? Are? You know the meaning of this, brother. Is four."
+    },
+    {
+      "chunk_id": "V6pRTnOZ7Mc_chunk_9",
+      "video_id": "V6pRTnOZ7Mc",
+      "title": "Introduction to Sliding Window",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=V6pRTnOZ7Mc",
+      "start": 612,
+      "end": 685,
+      "timestamp": "10:12",
+      "text": "How to calculate its sum? to find the sum Just won't do anything about it. this one Do 4 - 1 + 5 to find the sum of the array. If you give then you will get 4 + 5 8 see this The sum of the window will be at at at is yes at at is is The sum of the window is at. How is the sum of this window? We will find the previous subtraction two and the previous subtraction. Add the next two, give 10 and see the sum. We find out that 3 + 5 is 8 and 2 is 10. If you shift the window, do it very fast. It gives you your work, isn't it? Fixed length whenever you need all the details in the question The length of the array may not have been given. of all array Length may not have been given. if given If dynamic size or length is not given You will use dynamic in which lo can increase Is. Highs may also increase. so the window ever so Will be big. Sometimes it will be this big, sometimes it will be this big Will be done. Sometimes it was so big, sometimes it was big and small Will remain. So this was the sliding window. His flow chart its template its concept When are sliding windows used? So sliding window answers any such question Where you have to deal with sub arrays or substrings Have to do and you have to do something like this minimum maximum Longest shorted this kind of useless thing If we want to do this then we will use sliding window. We do. Write this down. note this down Take the pattern sheet from yesterday and till now Who hasn't received the pattern sheet yet?"
+    },
+    {
+      "chunk_id": "V6pRTnOZ7Mc_chunk_10",
+      "video_id": "V6pRTnOZ7Mc",
+      "title": "Introduction to Sliding Window",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=V6pRTnOZ7Mc",
+      "start": 687,
+      "end": 691,
+      "timestamp": "11:27",
+      "text": "Not found download from description Take. Question it one by one from tomorrow Will start. See you tomorrow."
+    }
+  ]
+}

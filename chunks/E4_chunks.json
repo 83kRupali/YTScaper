@@ -1,0 +1,273 @@
+{
+  "video_id": "PvyEr3CeKzE",
+  "title": "2 Pointers Technique",
+  "language": "en",
+  "duration": 1805,
+  "total_chunks": 24,
+  "chunks": [
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_1",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 0,
+      "end": 73,
+      "timestamp": "00:00",
+      "text": "Today is day two. Welcome everyone. to start Before starting, I want to tell you an important thing, see We believe that in today's era you people If you are going to watch a three-second reel, then 40 The minute video seems too long. In this You all must be crazy How will we sit for 40 minutes? but not complete Watch the video. If you are watching a video So watch it completely. Now there is a reason for this. Its The reason is not to increase my watch time Is. You have to monetize my channel. I have to manage my household expenses. not like that Not there. But when we teach you for 40 minutes If you like the two pointer pattern Are teaching. teaching him a question or two If yes then everything is connected. It is not that we We are teaching you history about Akbar. Tell me about your life, then tell about Humayun, then Tell about Jahangir. so you think Akbar is done, the rest is up to us. If we know in advance then we leave it. It's not like that. small talk Listen to the full video because The quality of your coding will increase. Yours The quality of thinking will increase. When we first We used to see that we are not born. Look, we are not born. It was my intention to become an expert in DSA. Were not born. so we first Used to watch Striver's video. love babbar Used to watch video of. a sumit malik sir Used to be. Let's run Pep Coding. their Used to watch videos. So these people's video also Lived very big. 40 minutes, 1 Of an hour, of 1.5 hours. so we also thought what to see. I understand only 10 Would arrive within minutes. which in 10 minutes He would explain, we would understand, we would code."
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_2",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 75,
+      "end": 147,
+      "timestamp": "01:15",
+      "text": "Were. So earlier we also used to leave it. But then we see that Striver You will watch the full video also. in between I will tell you little by little, like this He will tell good things, so well Will you write the code and you will think oh my god So it was a very good thing. We will never do this Could think. That is why it is important to see all this and Because we have watched so many videos Neither is the good thing about those people, nor about us. Let us tell. tell me something original too Are. So if you watch the whole video then You will have an understanding. That's why It is important that you watch the entire video. remaining 2 To see 4 minutes of Instagram, Let's watch the reels, brother. Instagram's Watch the reels a lot. Scroll in 3-seconds Do it. But take out 40 minutes of the day Watch this video for a minute. watch time Not to increase your thinking power To increase. Ok? Ok? So Motivation is done. So today is day two. Today The questions we are going to ask are is removed Duplicate. must have appeared on your screen Question. That question has to be asked. array one Have to question. also with link list Don't have to do it. We will teach the link list now. First the array is disposed in this pattern. So what is the question? remove duplicates From Sorted Array. now day one flow Do you remember the chart or not, brother? remember that No? If you don't remember then flow chart of day one Go and see. note it down in your copy Read it two-three times. Now look at this question What are you seeing in me? the first one Remember the point Remove Duplicate Flow Chart"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_3",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 150,
+      "end": 223,
+      "timestamp": "02:30",
+      "text": "From sorted array first sign of array Is there a question or not, brother? array question Is it or not? Yes sir. Hey what question? Sorted is written in? either sorted Doing this will help. Yes, it is written. Is sorted. What's the problem? also sorted It is written. What else is written? remove Duplicate. Remove Duplicates. flow chart Exact match was taking place in the third step of Brother. Remove Duplicates. Rearrange Array, Remove Duplicates, Merge All See You Everything is told to you in the question. Question means your help To do it you just have to understand. you just Must know how to make connections. get all three things Has gone. You got no 80 in this question There is a 90% chance that a two pointer will be taken. First You have to start thinking from this. like this we People understand that about the two pointer Can be thought. Now what is this question? Is We will tell you this in a little while. The question is that you are given an array. The array is sorted and the first thing in the array is There may be a duplicate element. Duplicate means repeated element. yes Your array may be like this. be one three times, Twice there are two and twice there are three. It is possible Is. Now see this array is sorted. Yes sir Is sorted. There are duplicates in the array. There is also a duplicate. what have you been told Removes duplicates from that array. But But but one more thing is written"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_4",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 225,
+      "end": 298,
+      "timestamp": "03:45",
+      "text": "The question is whether to order these. Inorder means no space, no space. previous It was mentioned in the video that it was worth one billion. The array uses 16 GB RAM. that's why no Last step of space no space flow chart Was. So you see all four things have matched. There is a question of array. is a sorted array. Have to remove duplicates. in zero space Have to do. A two pointer will definitely be involved in this. Can't be solved by any other algorithm This question sometime. Come now. now in space If you want to do it, do you have to make a return? What is it, it is a return to you in a way. Have to give a value but that is a different matter What is your work? What is your main work? This array has to be made like this, now look at this What are duplicate and unique elements? One is unique, two is unique, three is unique There are only three unique elements and everything else Is repeated. What you have to do is to array It has to be arranged in such a way that the forest comes first. Then comes two, then comes three. once you After writing this, you can write anything in the array. Do it, it doesn't matter. input output This is what makes the difference. listen to that again There are so many duplicate unique elements. There are three unique elements. you get all three The unique element has to be brought from the beginning. 1 2 3 After that you can do anything In. After that write your name on the array Give it. It doesn't matter. output This is what makes the difference. That's right. Understanding Everyone must have come. very good thing."
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_5",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 301,
+      "end": 373,
+      "timestamp": "05:01",
+      "text": "Now let us explain this with an example. What does this question want to say? How do you have to think about the question? How to put two pointer in the question? Now Suppose elections are going on in Bihar. Correct Is? So it's not a matter of cast but Election is on, brother, so you have to understand. It is easy. Suppose you are the Chief Minister Are. You are the Chief Minister. came home to you It has happened. Isn't it? This is the house of PM Awas Yojana Is. A lot. very social man Is. You have a man from Dalit community. Your Nearby is a man from Muslim community. near you He is a man of Yadav society. and you have He is also a man of Brahmin community. a lot of The man lives, right? What do you have to do? Yours What is the work? Now Dalit community is not like this That there is only one man in Bihar. dalit society Is a great man. So the respect of Dalit community Take three men. Two of Muslim society Is a man. There are three men from Yadav community and There are two men from Brahmin community. total cast How much is done? Total cast is four. You got only four houses from PM Awas Yojana Is. You have been given only four houses. Yours What is the work? That a Dalit man gets a house. A Muslim man should get a house. a yadav A man gets a house and a Brahmin man If it finds a home then there should be no duplicates. Four"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_6",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 376,
+      "end": 449,
+      "timestamp": "06:16",
+      "text": "There is a house, there are four castes, so each caste has one The man has to be given a house. ignore the rest Give. This is your job as a Chief Minister. Ok? Now what have you been told that now You also have an officer. you have an officer Is also. You are the Chief Minister. You Is the Chief Minister. Come on we are little man Is. We are officers. what have you been told That everything is like this, isn't it? These people are already Lives a lot at home. Ok? These people have a lot of houses in Bihar. 0 1 2 3 4 5 6 7 8 How do these people live now? First The brother-in-law remains a Dalit. Sara remains a Dalit. D Three after that two men from Muslim community Live. Three men belong to Yadav community Are. And let's go two men from Brahmin community Live. Ok? It's a good thing. you like this Now you were told that sir, the first four That house is the Chief Minister's house and that is the PM residence. Has a plan. The first four houses mean this This is the house, sir, now from the beginning of this Look at the first four houses, three in the first four houses. People from Dalit community are living there. One People of Muslim community are living there. To you The officer was called and said, Sir, we do not like this. Should do. One Dalit in the first four houses Society one Muslim, one Yadav and one Brahmin should be given a house. So this is the question No. This is what the question is saying to you That duplicate has to be removed brother. the first four Unique in all the slots in the beginning"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_7",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 452,
+      "end": 526,
+      "timestamp": "07:32",
+      "text": "Keep the man. no different from the rest of the house Does matter. No matter who lives in the rest of the house or It doesn't matter whether someone is there or someone else comes. Doesn't fall. We from the first four houses Does it matter? Why does it fall by four? Because the number of unique elements is four. Now See what we told you in the last class? Before writing any algorithm, first Consider it brute force. Ok? Now What will be your brute force? now root What will you say in the force that is the dirtiest This could be the solution. will say that Brother, listen, all the people of Dalit community are standing here. Come on, speak in one line, okay sir? The entire Muslim community has become an array of this. People of Yadav community, stand here. Let the people stand in a separate line brother and All Brahmin men stand aside brother. Now you started in that array what did you do Started raising the Dalit community one by one One man takes the first man home here Gave it to the first person of Muslim community to raise Gave away the house here and picked up the house of Yadav community. Gave me a house here and took her as a Brahmin. Gave a house here. You did the rest of the house, right? It doesn't matter what you do. so 0 1 2 3 Look at the four unique houses in the first four houses. The element has arrived. So this is the solution Could. But what can you do for this? Are you? You are making a lot of fuss about this Are. For this you are telling Dalit people So you go and stand in a different house first. Telling Muslim people that you are different"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_8",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 527,
+      "end": 598,
+      "timestamp": "08:47",
+      "text": "Stand in the field. Yadav people They are saying, brother, stay in a different field. You are saying that you are standing in a different field. So using a lot of space. Meaning Where will these people stand? these people in the field Will stand, right? You feel four types of fields. Will go. After that it will take more time for you to Have to select one by one and then insert. But Your life is already made easy Question. What did the question tell you? Now if the questions are sorted you Have you ever said in your life, remember that Any work, no man is free Does. any man, any time, any thing Babu, he doesn't do anything without any reason. so you What has been said? Sorted. now you Why is it called sorted? that lead code Did you feel like sorting that one? No. No. Sorting takes a lot of time. Any Sorting an array takes n log n time. Is. If you are given a sorted array then Given with reason. He doesn't feel like it. He is you, he is your uncle, isn't he? Told me to take it sorted brother. sorted Why is it given? Sorted is given so that People from all over the society will be anywhere. so one Will be in the same line. means to say What does it mean that if some people of Dalit community If so, then everyone will be together. Muslim The people of the society will be together. Yadav The people of the society will be together. Brahmin's People will be together. not different Must be because it is sorted. so say this Means there is D1, there is D2, there is D3. Its"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_9",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 602,
+      "end": 675,
+      "timestamp": "10:02",
+      "text": "After this, if even one Muslim starts, even one If the people of Muslim community start then that's it. Remained Muslim. Now Dalits cannot come Because it is sorted. standing in a line Everyone forms a group. Now look at it like this Was given to you. so wherever people are Don't see all the people of Dalit community in one line Are in. Yes, we are in one line. all People of Muslim community are in a line. Yes Are. All the Yadav people are in a line. all Brahmin people are in a line. so this you Sorted means given. so one of Method of doing why you use two pointer Have to do? Two pointer explains why use Have to do? How to use? Why? so you Have understood. Why? So from the flow chart everyone Must have understood. you can do one thing Are here. Ok? you a you because a Tej is the Chief Minister so you can do one thing that you say that you remember you have There is also an opportunity. Now look at one more thing It is to be understood that in any case the first house is It must be unique. the first house comes first The person living in the house above Is it wise to leave or not? Why is there intelligence? Why? because the first The man is the first man of that society. So It is already granted that that man is unique Is. Isn't it? This man is unique, isn't he? In your society. It may happen after this 100 more people standing. we don't care"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_10",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 677,
+      "end": 749,
+      "timestamp": "11:17",
+      "text": "No? This man is unique. so the first house Wisdom lies in giving it to someone Go. That's correct. what would you do that first Whichever man is standing is the first D1 standing. Leave him alone. Left it as it is. Now let's create the array once. only then you will understand Will show what we are trying to say Already. Ok? Wrote y2 here. See All this cast and all, you guys don't say like that That he does this, he does that. these you guys To explain we are. Ok? So you can think so because oh and You don't get that much from Link List Zero One. Will understand. If you think so If you don't want to do it, please write. next time Since we will not. now that you have There is an officer man. Yes, I am. you to the officer Make me sit here. This is the house, isn't it? It has been allotted. Whom? be on D1 Already happened. Now you are a Chief Minister, you are here Start coming from. You are here. Two Are man. There is an officer. green officer Is. This is an officer and this is the CM. now you Start looking from here. you know how It will do that this D2 is here now here. Is D2. See D2 is not unique. d one Was. There were already people from a Dalit community. One And the man came. But how will you know? You wouldn't know by looking at his face. Is it unique or repeated? how to know"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_11",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 752,
+      "end": 825,
+      "timestamp": "12:32",
+      "text": "Look, if any man repeats this Look at the first man in such a list. So you have already done the work. You are in charge of D1. Did it. House was also allotted to D1. of D1 Nothing to do with it. If D2 is repeated So will D2 look like D1? Yes, Will be visible. Why? Because it's a sorted array Brother? See D2 will be equal to D1. you here So D1 D2 is written then you feel that It is different but in sorted array it is written like this Will it be 1 1 2 So what if D2 is in its previous It is like the same one, which means it is unique. Not there. Are you able to understand? d3 your last If it is the same as the one then it is not unique. m1 There are no beans. Look M1 from its last one Is different. Why is it different? Because here d It's over. m has started. m is different. These The one with m is the same. Why? because it is repeated No? Here is the sorted array. it is different. See y1 is different from m2 because here If Muslim ends or Yadav starts, it is different. y2 It's beans. y3 is the same. b1 is different. why b1 Is it different? Because y ended here. B has started. So the best way for you What is the pass for identifying duplicates? if that This element is related to the element behind it. If it is equal then it is not unique child. These Is repeated. This is repeated. if these"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_12",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 828,
+      "end": 901,
+      "timestamp": "13:48",
+      "text": "If the element is not equal to the previous one then this He is the first man of his society who is starting Has this. Like y1 is not equal to m2. y and m are different types. That's why y1 is unique Is. Then you will know that it is unique. Correct Is? Now you know that it is unique. But what will you do by making it unique? you we What were you explained in the beginning? you have you There are only four houses to give. from that this The house you are saying that already we Have been allotted. what is your next house To allot passes? next house which house Pay Officer What did you do before? See You might be feeling like it's going a little fast. Yes, but we will tell you again and again so that you understand. Will go. Where does your officer stand? to the officer You have been placed at zero. only houses with zero Pay has been raised and a house with zero has been allotted. It is done. So which house is allotted next? To do? Officer plus one. in front of the officer If the house is left then the forest is left. if officer If you stand at zero, the forest is empty. officer if If one is standing then two is empty. the forest was filled Is. The house till which the officer stands will be full. It has happened. The house next to it is vacant. Now See Age A Chief Minister if you get to know Suppose M1 is unique. if you look at it If it is not unique then it has no use Is. His work has been done. this unique Not there. This is not unique. No problem. As soon as you find out that M1 son, you"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_13",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 904,
+      "end": 978,
+      "timestamp": "15:04",
+      "text": "If it is unique, then where should you give the M1 a home? M1 will have to be given a home, this is the task That every unique person needs a home. to M1 Have to give a house, where to give a house? one of the officers The next house has to be given. what can be done then That the house next to the officer is on M1 Pick it up, put it simple here. to this Erase and write m1 here. Will be done. Telling again. Where are you to the officer? erected? What was the first thing you did? The first house is the first man. The house with zero is the first man. Gave it to him that it would definitely be unique. His The work is finished. Now the house where the officer is standing Yes, it has been allotted. front house free Will always be there. Now as a CM you will get duplicate How to know which element is behind you is not equal to the element that is unique Is. Have to give it a home. what home to give him Is? To give a house next to the officer. saying That it is empty. So pick this up. officer's Put it in the next one. don't swap Is. Just put it in the house. Why? Because earlier we told you that you only need these four Means from home. The remaining five or six houses You don't care what's going on Is. That's why not swapping. just that Filling that man in the house. and one These bars were filled. Once you pick up this M1, you Posted here. After that now see m1 lifted Put it here. That means this house too Filled up. This also got allotted. and in the beginning What had we decided as to where the officer would go?"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_14",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 979,
+      "end": 1052,
+      "timestamp": "16:19",
+      "text": "will stand? Officer on the house allotted Will stand. So you give the officer one increase. you bring the officer you bring the officer here Because the officer is always standing there who The house is full and and as a cm as a cm Your work is done. You gave the house to m1. You go ahead. You go ahead. You Go ahead here. Now see M1 has been given a home. m2 is not to be given a house. why house m2 Don't want to give? Because we don't swap Have done. m1 is still here. so m2 still is equal to m1. Then CM will say you You are a duplicate, son. Ok? Be duplicated. Will move forward. y1 is not equal to m2. Beans will work. give the house next to the officer Will give. Will increase the officer. Chief Minister Will increase. elevated to Chief Minister Will give. And so you have understood completely How is the algorithm working? its dry Will run now. We will give you a dry run right now. Will show. And there is one small thing. you this What to return in the program, right? You have to return Number of Unique People. So see Number of Unique People from the same Because the output will be printed. one thing is this That's the number of unique people See if there is even one person in the array, the whole array is There is not a single person in the entire society. If he is also a man, then this forest must be a forest, why? It will happen because the first man is sure Everyone is unique, after that everyone can be. May be from the same community but the beginning is one"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_15",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 1054,
+      "end": 1128,
+      "timestamp": "17:34",
+      "text": "If it is unique then you can start that There is one with a number of variables and and Whenever you find a unique element and If you are changing this house then Add this race to it as a plus. Understanding What are you saying? number of unique If there is one in the beginning then it is a sure thing. In this So no one has two opinions or three opinions. Whenever you find a unique element, I get this, I get this, I get this Increase the number of unique by one and last Please return it. so what about this You must have come here before. Was unique. If you got M1 then you can do this Given. When y1 was found, it was made three. b1 If found then four it and return four Given. What is this four? four number of unique That's it. What did we expect in the beginning? There are only four types of people. look only four You were a man of manners and you were the four returners. Please do it. the rest of the printing and whatever else He will adopt all the lead codes. Now one of Take a look at the pseudo code and dry run. Are. Now leaving aside all this talk of society, Let us explain to you through real examples. What will happen in reality? when you do that Ok? Now let's take an example for For your convenience. just a small example Will take. Need to take a very big example Not there. 1 1 2 3 Good example. Now See what will happen? who can even understand"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_16",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 1130,
+      "end": 1203,
+      "timestamp": "18:50",
+      "text": "Went to see. we keep saying the same thing again and again Are. Don't leave now. a lot of things in it And we will tell you now. You have come here. To all What work do we have to do first? Officer. Where are you keeping the officer? first house Pay. At zero. This has been allotted, son. Has been allotted. so number of unique What is the number of unique? There must be one. There must be one. There must be one. and our Who is CM Sahib? Where does CM Sahib stand? will happen? On one. Why would you stand on the forest floor? Because now you have finished this man's work. Have given. You have to check from here. CM Saheb will always check from the front. Forest Will check from. The officer is standing at ground zero. Zero is filled. Zero has no use now Not there. There is no existence. here now Zero has filled the house. And CM sir from here Will check. The officer is standing here. Now Let's get CM sir checked. so now CM sir is one. So you see what CM Now how does CM check? Check What is the logic of doing this? whether this man Is it equal to the person behind or not? Now See if this man is the man behind him is equal to? Yes, it is equal. so not this [Translation failed: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=en&sl=hi&q=%E0%A4%B9%E0%A5%88+%E0%A4%AF%E0%A5%82%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A5%A4+%E0%A4%B8%E0%A5%80%E0%A4%8F%E0%A4%AE+%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%AC+%E0%A4%AF%E0%A4%B9%E0%A4%BE%E0%A4%82+%E0%A4%86+%E0%A4%97%E0%A4%8F%E0%A5%A4+%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE+%E0%A4%AF%E0%A5%87 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))] Is a man equal to the one behind him? Yes, Is equal to the one behind. call it home will get. CM Saheb came here. watch now Look carefully. Look carefully. Very Will look carefully. Is this man behind him? is equal to the one? No. no no meaning This is a unique element because sorted array"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_17",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 1205,
+      "end": 1278,
+      "timestamp": "20:05",
+      "text": "Is. Everyone standing in a group in a line Is. This is a sorted element. what do we do in this Taught? What were you taught? where is this man want to put? In place of Officer + 1. in officer No. The officer was standing in a full house Is. So what is Officer + 1? equal Two one. Pick up this man and put him here Give it. What to do after that? officer which house stands on? Which fills the house. So we brought the officer here. officer Came here from here. your officer here Is standing. Increase the number of unique. one increase Two. Found another man who found a home Is. Increase the number off. increase it increase it Two. Give a raise to CM sir also. CM sir Increase it also. Because this is also the work of CM Sir, it has been done. give a raise to CM sir Brother. Now you are done like this. Let's move ahead. Where is CM sir now? one yes one more thing Is. One more thing was left out. see if anyone man do you get a duplicate or not Get it. CM sir is ahead in every matter Will increase. CM sir, every case because CM Sir has to check only one thing that Duplicates that are unique. if unique So we will do the household work. if duplicate Then we will move ahead. So this is my little one It was a mistake that CM sir is now CM. Sir will come, sorry will come at four. Because CM Saheb was increasing every time. Ok? One"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_18",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 1280,
+      "end": 1351,
+      "timestamp": "21:20",
+      "text": "Will show it again and again. Don't panic. is this Is a man equal to the one behind him? No. Yes, if it is equal then it means it is a duplicate. Give CM sir one more increase to five. Is this man equal to the one behind him? No, it is not equal to the one behind. What do it? Which house should you put it in? one of the officers Put it in the next house. Write this here. Write it down here and give the officer a raise. Two. And increase the number of uniques by one. And CM Saheb will improve in every case. CM Sir, it will definitely increase. CM sir's We don't have enough time to progress. And give promotion to CM sir. When will CM Saheb stop? When Bihar's The whole house will be destroyed. full house of bihar It will end here at six, right? So CM sahib can go from zero to five. CM sahib can go from zero to five. So as soon as CM Saheb comes on six, the game will come. It will end. What do you have to return? Have to return three three three. one more time Take a look. there was a little confusion will be. we messed it up a little Were. 1 1 2 3 0 1 2 3 4 5 how to start Have to do? Take officer zero. Unique Take one. CM Sahib from the forest"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_19",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 1355,
+      "end": 1428,
+      "timestamp": "22:35",
+      "text": "Get it started. is this one a duplicate Is that unique brother? Is it a duplicate? Why? Same as the one behind. To CM Saheb Two. Is it the same or a duplicate? Is it unique? Is it a duplicate? beans from the back Right brother? Give three to CM sir. What Is this unique? Yes, it is unique. so its What is the meaning? Pick it up one of the officer's Put the next one in the house. officer gets a raise Two. Increase Unique by one. And CM sir It keeps increasing in every case. is this Is it unique or the same? This is not unique. Same as the one behind. CM sir gets a raise Two. Is this unique? Yes, it is unique. Where will you put this? officer one ahead of officer Was on the forest. Will pick it up and put it on two. Will pick it up and put it on two. after this Will give one increase to the officer. After this one Will increase. CM sir, in every case of ours Keep increasing. As soon as CM Saheb is here - 1 which is near the length of the array of fives The program reached its end. what to do return Are you? Three. What is three? number off Unique People. When you see the original array The number of unique people was three. 1 2 3 like this By doing this you place these. so now this What is the pattern? Pattern to pointer. Why Two pointer? CM sir do some work alone Have been. officer doing some work alone Is. CM and officer are working together."
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_20",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 1430,
+      "end": 1504,
+      "timestamp": "23:50",
+      "text": "As soon as the CM finds someone, he feels I mean, this is unique, so I call it that. You go and take the house next to the officer. Take. Officer, you go ahead and so does the CM. Moves forward. If the CM feels that If this is a duplicate then the CM would have just moved ahead. Is. Now you understand how to coordinate Used to be. This is what two pointer means two pointers work together By coordination. CM says that you Go take the house next to the officer. Meaning Coordination is taking place. This was a two pointer. Now let us quickly show you the pseudo code. Let's give. What will I give you, brother? array Will be given which will be sorted. To you What to do about returns? number of unique Elements have to be returned. this is the return Have to do. And you also have to rearrange the array Is. First of all you go to the officer. Only officer should speak to understand. low high also Some people say. But okay. Do. Whatever this is our unique element, we call it People took the forest. Why forest? There is one and one Took CM also. Have to start from cm one. How long is the program to run? as long as It should not be less than CM sir's length. What is n? n = Length. Array dot length. Now what should CM do first? Are? Let's check for duplicates. Duplicate How to check? that current element"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_21",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 1506,
+      "end": 1580,
+      "timestamp": "25:06",
+      "text": "Is it equal to the previous one or not? So if array of cM equals equal array of cM - 1 if If it is a duplicate then what did the CMG do? Oho CM increases brother. CM does not stop Are for someone. and continue Continue means no further execution do it. Move on to the next loop iteration, brother. But but but but you have come here. You Have come here. means you got unique Is. If you had a duplicate then you would have been promoted to CM. Would have continued. but came here So a duplicate has been found. first task What do you do? Let's give this man a home. Where do you give a house? officer +1 officer wala No, the officer is full, child. equal to To which person are you giving the house? where cm Sir is here now. gets home. The officer increased. And the number of unique also increased Went. Rest plus has become plus and CM sir So they keep on increasing. Brother CM Saheb Don't stop. This loop is over. loop when will end? When CM Saheb reached last If you go out of Bihar then loop It will end. And what do you have to return? Is? You have to return this to you. These Those who were increasing the race have to return the race. These Pseudo code is done. its time Complexity What are you doing in array now? you are here I am doing something that a man going on completely and after that inside the same"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_22",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 1582,
+      "end": 1655,
+      "timestamp": "26:22",
+      "text": "Another man going full circle again and again. No This is happening. CM sir from one line Going to the end. Whenever CM Sahib If he feels something, he gets some work done. He Send it to the officer and get the work done. They All constant is small work. CM sir What are you doing? CM sir CM sir Walking from here to here. whenever they Something unique seems to be the house swap. We do. Let's promote the officer. to unique Let's increase and move forward with our work We do. That's why only one is passing Is in the array. Its time complexity Order of n is any kind of space are you taking? All that we mentioned above Make the man of the society stand separately. As such Are you doing something like this? You are saying that different hit the ground. Not doing anything brother. Some? Not doing. Zero space brother. Zero space. Two pointer is used only because zero We have to take space. we need space Don't want to take it. So its order is n. Time and order of one became its space. We should never use space. want. That's why two pointers are important Is. What did we say in the question? Have done. Yes, we have done everything. Isn't it? So if anyone has doubts now Please ask in comments. anyone think that this Couldn't understand from the example. a little more you If you want to explain then please ask. and whatever you People will ask doubts in the next class. Will answer. That's why one child is enough Achcha Doubt was asked in the last class that you What did you tell me earlier about the one that is two or two?"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_23",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 1657,
+      "end": 1731,
+      "timestamp": "27:37",
+      "text": "In that you said that the n of the last one Log time comes. How does this n log time come about? Is? Look at the time complexity. How does it go? Suppose in your house You are. Is your father. your mother Are. You earn ₹00. your father ₹400 Earn. Your mother earns ₹10,000 Are. Ok? If you want time for this house now This is not the point of removing complexity That is, you add everyone. If of this house If you want to calculate total income then time All according to the rule of complexity What is the maximum? 40,000 so you say that the income of this house or the time of our program The complexity is 40,000. That's why Came unlogged. Whenever you are in the program Work independently, for example You have written this very big program. In this, when you do small independent work Have been. For example here you can see some Sorted. Here you run a function. Here you run another function. these three The work is independent from each other. In this Time taken n log n. Time order imposed in this off n. It took n². So when you total Let's calculate time complexity. Don't do it to everyone. Maximum. In this What is the maximum? n² is maximum then you Let's say my time complexity n² Is. That's why this happens. Time Will do a lecture on complexity. To you"
+    },
+    {
+      "chunk_id": "PvyEr3CeKzE_chunk_24",
+      "video_id": "PvyEr3CeKzE",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=PvyEr3CeKzE",
+      "start": 1733,
+      "end": 1805,
+      "timestamp": "28:53",
+      "text": "Will explain what its n means. But there was a good doubt. There was a good doubt. Who The child had also asked Doubt, very, very good. If you guys also have any doubt then please ask. We will tell that in the next video. every We read the comments. it's not like that no Let's read. So this is pseudo code and so on. pause Try it. Go and submit. array one Have to question. which is written in the second column It has happened. You saw in the beginning that you have to do that. Don't list the links yet. link list we Will tell you. but also in link list Same theory. What is the link list to you? What is the difference between the two questions? One speaks that duplicates from sorted array Remove. Second says sorted link list Remove duplicates from. The theory is the same. theory This is the one with CM and officer. you understood right How did the coordination happen? how the two interact They worked together. this is what happens Power of the pointer. If CM keeps doing it alone So it takes a lot of time. but just one more By using man, time is reduced. then this would happen Power of two pointer. And those who are still watching thank you very much for watching Whatever support you guys have been showing so far It is very good. This is how you guys support Keep showing. This is how we teach you Will stay and make it to 100 till my birthday Give it. We are your job till my birthday. Will get it installed. Isn't it? This is give and take That's the situation. so let's go very much Thank you. Watch videos daily. consistent Stay. Make notes. Submit. Any If you have doubts, don't be afraid. your brother is sitting It happened here. ask us and"
+    }
+  ]
+}

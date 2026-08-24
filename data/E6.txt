@@ -1,0 +1,771 @@
+Video ID: oFwHwCkSoGw
+Video URL: https://www.youtube.com/watch?v=oFwHwCkSoGw&list=PLbJhGqY-mq47k_WLUtzVjmarUm1EuXPj2&index=6
+Language: en
+[00:00] This is the most important video of my channel
+[00:02] Is. If you haven't seen anything yet,
+[00:04] You haven't seen the DSA pattern, you haven't seen the basics.
+[00:05] You have seen it, no problem. Don't miss this,
+[00:08] Seeing this, life will improve a little. Now!
+[00:11] It is also my fault that what we were teaching,
+[00:13] We used to think that time complexity
+[00:14] So everyone knows. But how will everyone come when
+[00:17] We were the only ones who didn't know it in the beginning, so someone
+[00:18] Will not come. It's my fault. so far we
+[00:21] Whatever time and space were teaching
+[00:23] Understanding complexity is also very important
+[00:25] It is important that you know who
+[00:28] This is the half of when to use an algorithm.
+[00:30] The game is in time complexity. two things
+[00:33] Are. Which algorithm to use when?
+[00:35] One thing you can tell from the pattern is that we
+[00:37] People are learning. If you don't know from the pattern
+[00:40] Neither time complexity works nor
+[00:43] Even after looking at the input of the program
+[00:46] It becomes known. get a hint that
+[00:48] Which algorithm will not work and which one will?
+[00:50] Could. For this, let's start first
+[00:53] Are. Will explain like a story. very simple
+[00:54] I will understand. first come lead
+[00:58] On code. Ok? We are on lead code
+[01:00] Submit the program either on GFG
+[01:03] We do. There is such a website
+[01:05] Let's do it there. You can do it online anywhere
+[01:06] In. Now look, first of all understand that simple
+[01:10] What is operation? simple operation meaning
+[01:12] Which is very simple to do. for example a
+[01:16] = 10 This is a simple operation. print hello
+[01:23] This is a simple operation. a = 10 + 2 a = b
+[01:29] + c What is all this? it's all simple
+[01:31] There is an operation. What does simple operation mean?
+[01:34] In doing which, follow the meaning in straight language.
+[01:36] Let us go. It takes one time, it takes one unit time
+[01:39] Is. It takes one unit time. this unit time
+[01:43] It may be 1 MS, it may be micro second,
+[01:45] be a millisecond, be a microsecond, 1
+[01:48] It may be a second but it feels like one. you understand
+[01:50] Let it be a constant time, this is instant
+[01:52] It will happen like this. This work is completed in a pinch
+[01:54] Will be done. This is called simple operation.
+[01:57] Either like lead code or like gfg
+[01:59] When the platform tells you no
+[02:01] Submit the program. so let's see sometimes
+[02:03] What will happen if you write a bad program?
+[02:05] So the time limit is exceeded. time limit
+[02:09] acceded
+[02:11] Why does this come? Either this lead code is known
+[02:13] How do you exceed your time limit?
+[02:15] It is done. Either it may happen that the lead
+[02:17] Some code to run the complete program
+[02:19] You give time. This is what will happen, isn't it? lead code
+[02:22] tells you that in 1 second your
+[02:24] The program should run. This will happen. either
+[02:27] Number of Operations, Number of Operations Permit
+[02:31] Must be doing. What does it mean? number off
+[02:34] Simple operation if lead code limits that
+[02:36] You can run only 100 operations. so if you
+[02:39] If you try to run operation 101, your
+[02:41] The time limit will be exceeded. or yours
+[02:44] If the program has to take 1 second then you 1
+[02:46] seconds will also be 1.0001 seconds, then your
+[02:49] The time limit will be exceeded. give these
+[02:51] There may be a way. Ok? now on lead code
+[02:55] You go as a general. no longer any of this
+[02:58] Not an exact figure because we use lead code
+[03:00] I am not a software engineer. but 10
+[03:02] To the power 8 simple operations you can do
+[03:06] Generally 99% cases are in our program
+[03:10] In. 10 to the power of 8 simple operations you can do
+[03:13] Can. To do this thing every
+[03:16] Languages ​​take different amounts of time. you ever
+[03:18] Must have heard that C is fast. C++ is fast.
+[03:21] Python is slow, Java is slow. It is possible
+[03:23] C++ takes 1 second to do this. 10
+[03:26] To perform the power 8 operation. It is possible
+[03:28] Python takes 2 seconds to do this.
+[03:30] Maybe JavaScript needs to do this
+[03:32] It takes 3 seconds. It doesn't matter.
+[03:35] Lead code tells you that no matter what
+[03:36] Select language. You choose C++, Python
+[03:39] Select, select JavaScript. We will tell you that
+[03:42] Will give time accordingly. if your
+[03:43] If you have JavaScript you will get 3 seconds.
+[03:45] Two in Python, one in C++. but but
+[03:48] The number of operations remains the same in any
+[03:50] For language. So what do you need a lead code for?
+[03:52] speaks? You write any program,
+[03:54] Write any way you like. Maximum you 10
+[03:56] To the power of 8 simple operations can be done.
+[03:59] What does it mean? that if you do that
+[04:01] Write programs. you write print
+[04:04] Hi.
+[04:06] Ok? It is called lead code that this is a
+[04:09] It is a simple operation. Only one thing is happening, isn't it?
+[04:10] A simple task is being printed in this. As such
+[04:13] So you can print statement 10 to the power 8.
+[04:16] You can write the total by adding it. If you want everything
+[04:19] If you do not want to print, a = 10, b = 20,
+[04:23] c = 30 and a = b + c how much is this
+[04:28] Statement made? How simple is this operation?
+[04:30] Happened? By adding 1 2 3 4 5 it becomes
+[04:36] Five. So this will run on lead code. but the
+[04:39] The moment you exceed 10 to the power of eight
+[04:43] If you do simple operation then you will get time limited
+[04:44] Seed will come. The general rule is this. now now this
+[04:47] Why should we explain to you? tell me why
+[04:50] Explain. For example now in late code you
+[04:52] Let's see if there are any questions.
+[04:54] So the size of the input is written in it.
+[04:56] The size of the input is written. for example
+[04:59] If it tells you that you need an array
+[05:01] There is a question. It will tell you that the size
+[05:04] Off the array he tells you what will happen?
+[05:06] What will be the maximum? size of array you
+[05:09] Says what will be the maximum? Sometimes
+[05:12] This is 1000. sometimes it would be 1 lakh
+[05:15] Is. Meaning 10 to the power is 5.
+[05:17] Sometimes it's 10 to the power 9.
+[05:19] In some cases it is 10 to the power 100.
+[05:22] Could be more than nine. any one
+[05:25] In this case this number is just 20. As such
+[05:27] Why? This is because right now we
+[05:30] What did they say? Remember this number. 10
+[05:32] To the Power 8. Now let us tell you. for
+[05:36] The example tells you that the size of n should be 10.
+[05:38] Can maximum. meaning your program
+[05:42] The size of the input on which it will run is 10
+[05:44] Maybe maximum. how much you now
+[05:47] Can complexity? this is the hint
+[05:49] What we were saying and not after seeing the input
+[05:50] Understand which algorithm
+[05:52] could? If 10 to the power is 10. What
+[05:56] Can you do order of n in this?
+[05:58] What does order of n mean? Will tell you now.
+[06:00] But understand for now. order of n
+[06:02] means this is n, so you get 10
+[06:04] Can perform operations. You are opting in.
+[06:08] Will tell you now. Will tell you very easily. But
+[06:10] For now, to understand this thing, this part
+[06:13] If you write a program of order of n
+[06:16] So the worst case possible for n is 10.
+[06:19] You will perform 10 operations. understood
+[06:22] Meaning of order of n? If you order off log
+[06:25] If you write a program for n then you will write log base to
+[06:28] 10 which is three operations will be done
+[06:31] In worst case. If you are of order of n²
+[06:34] If you write a program then 10² means 100
+[06:37] will perform operations
+[06:39] In worst case. If you order of n
+[06:43] If you write a program, you will get 10 to the power
+[06:45] Cube will do 1000 operations worst case
+[06:48] In.
+[06:50] Ok? If you take the order of 2 to the power n
+[06:53] So you do 2 power 10 1024 operations
+[06:58] Will do in worst case. Did you understand? What
+[07:02] What does it mean to say order off? watch now
+[07:05] Example n = 10 is given. complete dsa
+[07:09] Why do we play the game of time?
+[07:12] Complexity has to be minimized. We
+[07:14] People have such time complexity
+[07:15] Have to write a program that will pass. Now
+[07:18] See if n is 10. Are you of order of n
+[07:21] Can you write programs? yes you can write
+[07:23] Are. Why? Because you are doing 10.
+[07:25] What is the maximum permitted? 10 to the power
+[07:27] et. 10 is less than 10 to the power 8? Yes. You
+[07:30] Order of n can be written. Do you order?
+[07:32] Can write off n²? Yes 100 less. write n
+[07:36] Can. You can write 1000 yes. You
+[07:39] Can we write order of 2 to the power n?
+[07:41] Yes, you can write brother. This is 1024.
+[07:45] Can you write order of noreal.
+[07:47] noreal means 10orial means 10 * 9 * 8 * 7
+[07:53] Till 1. This also has some value.
+[07:55] We don't remember. But 10 to the power 8
+[07:57] It is less than. Did you understand?
+[08:00] Can you order n to the power of n?
+[08:03] Can write programs. so dirty
+[08:04] Can you write a program? its value
+[08:06] 10 to the power 10 means you cannot write this.
+[08:09] Why? Because 10 to the power 10 is bigger
+[08:13] 10 to the power 8. so you come here
+[08:15] Stopped. If you use this type of program
+[08:17] Will write a time complexity program
+[08:19] Then he will get trapped. You can write anything on it
+[08:21] will work. can you understand what we are saying
+[08:23] Are? When was this going on? when you were given input
+[08:26] Where is n = 10? Here n = 10
+[08:30] How dirty can you write a program in
+[08:32] Are? Can even write. this one
+[08:33] You cannot write a program. How much
+[08:35] You also try. Coming to the next exam
+[08:38] Are. n is given to you 1000. worst case
+[08:42] In Can you write the order of n?
+[08:44] 1000 Yes, can write. Write the order of n²
+[08:48] can? How much will this be? of 1000
+[08:50] Square means 10 to the power six. Now!
+[08:52] Also this is 10 to the power is less than 8. can write
+[08:55] Are. Can you write the order of n? These
+[08:58] How much is it? 10 to the power 9 you don't write this
+[09:01] can because 10 to the power 9 10 to the power
+[09:03] Is greater than 8. So if this is the input of n
+[09:06] The size is 1000 in that program so you have n
+[09:09] You will have to write a program of less than . be able to understand
+[09:12] Are you? that before you wondered why
+[09:14] Are you doing this? Meaning why does n log n move?
+[09:16] And why n² does not work is because
+[09:18] It works and it doesn't work. Why? Because
+[09:21] 10 to the power 8 operation is allowed. n input
+[09:24] The size is. You can plan your program accordingly
+[09:26] Let's optimize. on the next exam
+[09:28] Come. n = 10 to the power is 5. is given
+[09:32] To you. Can you write the order of n?
+[09:35] You can write 10 to the power 5. Do you?
+[09:38] Can write order of n²? This will be 10
+[09:40] Will not be able to write to the power 10 now. this big
+[09:42] Is 10 to the power 8. so it means
+[09:46] Meaning that the value of n when 10 to the power 5
+[09:48] If yes, then you cannot even write n². See
+[09:51] Above you were able to write but here you could write n
+[09:54] Can. Can just write n. one more thing
+[09:56] You can do it. n log n a very famous one
+[09:59] Has time complexity. n log n order
+[10:02] Off n log n can be written. n log n how much
+[10:04] will be? Log of 10 to the power 5 * 10 to the power 5
+[10:09] How much does it cost in base two? 10 to the power 5
+[10:12] The log will come. 10 will do means 30
+[10:17] It will be less. Will be less than 30. up to 30
+[10:18] It increases a lot as we go. its value
+[10:20] What will happen? 30 * 10 to the power 5 = 3 * 10
+[10:25] To the power 6 Is this number 10 to the power
+[10:28] is less than 8? Yes, it is less. That's why that's why n
+[10:31] log n works and n² does not. Understanding
+[10:34] came in? Why does n log n move? why n²
+[10:36] There is science to it all. There is no magic.
+[10:38] No one has said that this will work. now next
+[10:40] Come on the example. n = 10 to the power is 8.
+[10:45] In this case n will work. 10 to power
+[10:48] Only 8 will do. Will n log n work or not?
+[10:51] Will not do. 10 to the power 8 * log 10 to
+[10:55] The Power 8. Now look, if this is anything, it will be something.
+[10:58] There must be some number. 3 4 5 6 30 80 some
+[11:01] So already this is the number. you can do anything with this
+[11:03] If you enter a positive number then it will give you 10.
+[11:05] The power will be greater than 8. That's why when n's
+[11:08] If value is 10 to power 8 then only order off
+[11:11] n will do. Order of n log n will also not work.
+[11:13] And look at an extreme example. of n
+[11:16] The value is 10 to the power 9. In this case this
+[11:19] What will be the order of n in case which is 10
+[11:22] To the Power 9 operation? No. No.
+[11:24] Will work. Why won't it work? because this number
+[11:26] is less. 10 to the power is less than 8. is less,
+[11:29] is less. In this case you have to write log n.
+[11:33] Will have to. You don't have to order log n log n.
+[11:35] Just log n which is log 10 to the power 9.
+[11:39] The answer is 30. Will it work? Yes, 30.
+[11:42] It is less than 10 to the power of 8, it will work like this
+[11:45] It is decided which program
+[11:46] Which time complexity should you use?
+[11:48] Is. Did you understand? Very few places are available
+[11:51] Is. Very few people know. very few people
+[11:53] Don't know why this is taught. but this
+[11:55] You should know that it happens this way. Now
+[11:58] Coming to the next part. now so much we
+[12:01] It's about order of n and order of n, log n.
+[12:04] Did it. How does it come out? now let's tell
+[12:07] How does it come out? what should we tell you now
+[12:09] That simple operations. Ok? Simple operations.
+[12:16] How much time does simple operations take?
+[12:17] Forest. We also write this as Order of One.
+[12:20] Are. You can consider it as a forest. for
+[12:22] Example Now one more thing order off when we
+[12:27] What do we say when people say something? order off
+[12:30] What is the difference between one and order of n? order
+[12:33] Off one does not mean that it is not possible to run it.
+[12:35] One time seems to be one unit time. so we
+[12:36] People feel. You should also think. But
+[12:39] This means it takes constant time.
+[12:42] What are we saying? Understand again. Very
+[12:44] It's an important thing. Meaning of Order of One
+[12:46] It is not that it takes one time. In this
+[12:49] Takes constant time. This means that
+[12:52] Not dependent on your input. this is yours
+[12:56] Not dependent on input. meant to say
+[13:00] If you are printing hello for
+[13:02] Example.
+[13:04] So even if the size of your input is n = 1
+[13:08] In this order of one means constant time
+[13:10] It may take anything. for example
+[13:11] This is taking 3 seconds. just for
+[13:13] Even for example it will take 3 seconds. Yours
+[13:16] Even if n becomes 100, it will take 3 seconds.
+[13:19] It will take. Even if your n becomes 1000, it will still be included in this.
+[13:23] It will take 3 seconds. So it depends on input
+[13:26] Not there. This is constant time. these 3
+[13:27] It will take seconds. You do anything.
+[13:29] You bring any array, bring any n, any
+[13:31] Bring the link list, it will cost you this much.
+[13:34] That's why we call it this
+[13:35] That is constant. time complexity
+[13:38] Is. Anytime you see Order of One meaning
+[13:41] Constant. It is not dependent on input
+[13:43] Is. As soon as n came inside the order off. n
+[13:47] Anyone associated with came. on this input
+[13:49] Is dependent. As your input increases,
+[13:52] As your input increases, so will your time.
+[13:56] Will grow along with it. This means that
+[13:58] Is. Ok? Now let's come and take it out
+[14:01] How are you? How to place an order? order
+[14:03] Off n know how? For example you are one
+[14:06] Write the program. value in your program
+[14:09] Take three lines. in your program
+[14:12] Hello. You say that in a = 10 and
+[14:16] Int b = 20 and you return.
+[14:22] Return a + b This is your program. Four
+[14:25] There is a line program. You also have an array in this
+[14:28] passing which contains n elements
+[14:30] Can. n is your input. this program
+[14:33] How to calculate time complexity?
+[14:35] First of all you have to identify who
+[14:38] This is a simple operation. meaning which thing
+[14:41] It is a simple operation. It is a simple operation. Meaning
+[14:45] Which is not dependent on input. now we
+[14:47] Did you tell me to print hello on input?
+[14:48] Not dependent. that you can never
+[14:51] If you run it, it will take the same time. no matter the
+[14:53] Input. Simple operation to identify you
+[14:55] And which is dependent on the input.
+[14:58] Dependent on input. These two sections you
+[15:01] Will have to be identified. here you
+[15:04] Who is watching Simple Operation? is this
+[15:06] Dependent on line input? No. this this
+[15:09] It is simple. Does it depend on your n?
+[15:12] Not dependent on input. int = 10 then same
+[15:14] It will happen, right? The same thing will happen whenever you drive.
+[15:15] So this is simple. b = 20 at input
+[15:18] Is dependent. Not there. Will you stir the beans anytime?
+[15:20] Will work. Returns a + b also on input
+[15:22] Not dependent. if you pass anything
+[15:24] Same will do. So these four operations are simple
+[15:26] There is an operation. How much time does a simple operation take?
+[15:28] Seems like? Order of One. Ok? Now this is yours
+[15:33] What about the program? four independent
+[15:35] There is also a section. What does it mean to say? These
+[15:37] You have an independent section. this line
+[15:40] This is where it goes. it ends here
+[15:41] Is. This line starts from here and
+[15:43] It ends here. Similar with this
+[15:45] Line and similar to this line. meaning these four
+[15:48] Independent line that starts the compiler
+[15:51] Is driving and stops driving. so you
+[15:54] You can see your program like this. Yours
+[15:55] The program which was there now looks like this.
+[15:58] If we think in terms of mathematics.
+[16:00] The first in line is the order of one. this order
+[16:03] Is off one. This is order of one. this order off
+[16:06] There is a forest. You have four independent sections
+[16:08] Near. Four lines become four independent sections
+[16:10] Went. Now it's time for the entire program
+[16:12] How to remove complexity? What
+[16:14] Let's add to everyone that order of one into you
+[16:18] If you do it four times then it won't be like that
+[16:20] It happens that its order is written as four.
+[16:23] Cannot write order of four. Why?
+[16:25] Because in order of four and order of one
+[16:26] Makes no sense. There is no difference. Then
+[16:28] Understand from. What can we say about order of one?
+[16:30] This does not mean that it takes one time.
+[16:32] Order of four does not mean that it
+[16:34] It takes four times. Constant time in this
+[16:36] It seems. Whatever it is, be it four, 100, 1000
+[16:38] Yes, anything is constant. its entire
+[16:41] How to calculate time complexity of a program
+[16:42] turns out? maximum of time
+[16:46] Complexity of all independent
+[16:50] Sections.
+[16:51] Read it carefully and memorize it. all
+[16:55] Independent Section. That means if your
+[16:59] There are four sections in the program
+[17:00] Small order of one seems to be in it
+[17:03] Is. Order of one is involved in this. order
+[17:05] Off one is taking place in it. Order of one in this
+[17:06] It seems. full program time
+[17:09] Complexity will be maximum of these four
+[17:12] Which is order of one. So this is your whole
+[17:14] The time complexity of the program should be
+[17:16] Will go. I understood that time
+[17:18] How to remove complexity?
+[17:19] Maximum of all the independent sections.
+[17:22] See the next example. gradually as
+[17:24] We will go and you will be cleared. Now
+[17:27] Now first of all what about this line?
+[17:29] Is there complexity?
+[17:32] i < 100 i + This is a loop and in this we
+[17:38] Just printing. print hello
+[17:42] Ok?
+[17:44] This is your suppose this section
+[17:47] Of the programme. time of this section
+[17:49] What is the complexity? Look carefully.
+[17:51] What is happening in this? I is from zero. I
+[17:54] Is in zero. I'm going up to 100. Meaning
+[17:56] This loop will run 100 times. every time you a
+[17:58] Printing bar hello. so this loop
+[18:00] Printing hello 100 times. Now
+[18:04] Is it dependent on your input? What
+[18:07] Is it dependent on your input? if for
+[18:10] Example An input into your program
+[18:11] Which would have been 100. So this will help in making it work
+[18:14] How long it will take? It takes 100, 100 to run
+[18:16] This print is saying hello. Once
+[18:18] How much time does it take to print hello?
+[18:20] Constant Time. So it takes 100 minutes to run.
+[18:22] It will take time. It will take 100 units. Okay? If
+[18:24] Even if your n = 10 to the power 5, it still works.
+[18:28] Only 100 units will be required. because this
+[18:29] Is it happening 100 times? n whatever it is
+[18:31] Will run 100 times. Even if n is 1, this happens 100 times.
+[18:33] Will work. Even if you don't pass, this
+[18:35] Will run 100 times. So what is this? this input
+[18:38] Is pay dependent or independent from input?
+[18:40] Is. This is independent. This independent
+[18:43] Is. Did you understand? Independent and
+[18:45] What is dependent? which is input
+[18:47] If the time of any section increases due to change
+[18:49] Or if it decreases then it is dependent. The section
+[18:52] It doesn't matter to the input.
+[18:53] Is input independent. so this independent
+[18:56] Is. Look at the next line. For i = 0 i < ni +
+[19:04] And print. Will you understand here?
+[19:07] Are speaking. Hello and loop closed. now this
+[19:11] See n is your input. n is your input.
+[19:14] Now see what happens by changing n in this for loop
+[19:18] Will the time complexity change? Yes,
+[19:19] Will change. What is this loop doing? This loop n
+[19:22] The Times is executing. n times
+[19:23] What are you doing? performing a simple operation
+[19:26] Is. There is an order of one for this operation. total
+[19:29] What is this for loop doing? n * 0 off 1
+[19:33] Used to be. means doing order of n operations
+[19:35] Is. It's a simple thing isn't it? If n is 10 then this
+[19:39] The for loop will run 10 times. n is 100 then this
+[19:43] The for loop will run 100 times. n000 then this
+[19:46] The for loop will run 1000 times. increase of input
+[19:49] Or the for loop is increasing due to decreasing.
+[19:51] How many times will this for loop run? this dependent
+[19:54] Is. This is dependent. it is dependent
+[19:56] On input. We people call this. now now
+[20:00] Look, it's going on for n times. These n times
+[20:03] It is going on. How much complexity each time?
+[20:07] Is the work being done? Every time this for loop n
+[20:09] Times will last. how many each time
+[20:10] Is complexity working? order
+[20:11] Working as an off one. print only one
+[20:14] Is it? It takes a forest to print.
+[20:15] So what should be the complexity of this total?
+[20:18] Went? Now you have to enter input. n*
+[20:21] 1 = order of n. this is what we call
+[20:24] is that a program takes order of n time
+[20:26] Used to be. means n times someone is doing the work
+[20:28] And every work is being done on order of one.
+[20:30] So how much total work are you doing? n*1. Understanding
+[20:33] Did I come? Then tell me. loop run n times
+[20:36] Used to be. There is a constant work happening all the time.
+[20:38] Is. So that's why its time complexity
+[20:40] Order off n done. any loop zero to n
+[20:43] If it works then it should have time complexity.
+[20:45] Will go n. Did you understand? n*1 now let's see
+[20:49] Are. There is one more thing in this. many children now
+[20:53] There is doubt. We also knew. a task i
+[20:56] < n Not working. n - 1 is ongoing. i + and
+[21:00] It is printing. Now let us tell.
+[21:04] It is printing. Now look at this loop
+[21:07] How many times is it going on? first of all
+[21:08] The first thing is whether it is independent
+[21:10] Is it a loop or a dependent loop? so this
+[21:12] Is a dependent loop. Why? Because of n
+[21:16] Because the time of this loop will change.
+[21:18] But, how long was the first loop going on? 0
+[21:20] was running from to n, then running n times
+[21:23] Was. This loop is saying that from zero to n
+[21:26] - 1 is running, then it means n - 1 times running
+[21:28] Used to be. That's what is happening isn't it? first loop
+[21:31] Going from zero to n, this was n. These
+[21:34] The one loop is saying that if this is then this is n - 1
+[21:36] Should be. total of this loop
+[21:38] What is complexity? n - 1 * order of
+[21:40] 1 So do we write this as order
+[21:43] Of n - 1? No. No. See
+[21:48] If you look at the order of n - but write
+[21:51] This is what is needed. Mathematically this is how to write
+[21:53] Needed But whenever we are within the order
+[21:55] They call it order. Big O speaks
+[21:57] Are. Ok? to be written within
+[21:59] Anything is an expression. One
+[22:02] Is an expression. used to study math
+[22:05] Is an expression. mean quadratic
+[22:07] You guys used to read the expression a² + bx + c
+[22:10] like that
+[22:11] When we get the result of this expression
+[22:13] When we analyze it, we find out
+[22:15] How much will it cost? which in this
+[22:17] It is the thing with highest power, which
+[22:20] We consider n as the highest power.
+[22:23] Let's consider its complexity. meaning in this
+[22:25] What is the power of n? Forest. How do you write forest?
+[22:28] can? You can write one as n to the
+[22:30] Can write power 0. So instead of this forest we
+[22:33] Could write n to the power 0 and one in it
+[22:36] There are two powers. This is this. which is the highest
+[22:39] Is? One reason is its time complexity
+[22:41] becomes order of n. Order of n - 1, n
+[22:46] - 1, n + 2, n + 100, n - 50 all these
+[22:52] Will be discarded. Why? Because
+[22:53] Highest power is its one. That's why we
+[22:55] People write that its complexity also
+[22:57] The order of n is. Difference from n - 1 to n - 2
+[23:00] Doesn't fall. if someone tells you like that
+[23:02] That its time complexity is this, this
+[23:05] Is. So what do you do? can also say like that
+[23:09] Isn't its time complexity this?
+[23:10] Same work has to be done. What is the highest power of n?
+[23:13] Is? Pay two here. There is a forest here. here n
+[23:16] To the power is zero. its time
+[23:17] Complexity will be order of n².
+[23:20] order of n²
+[23:22] This is the reason. This is the reason. That's why
+[23:24] We say watch the video till the end.
+[23:26] This is the reason why when we
+[23:28] Let's remove the complexity, what can we say?
+[23:30] Were? That if you have four three sections.
+[23:35] Its order is one. its order of one
+[23:37] Is. Its order is one. So we
+[23:40] Let's take the maximum. to take maximum
+[23:41] What does it mean? how can you write this
+[23:43] Are? See total, time is equal to the program.
+[23:46] Looks like. If this is in your program
+[23:48] Three sections one two and three are going on. total
+[23:51] So by law they should have been equal. So
+[23:52] Why is there a maximum? maximum is
+[23:54] It happens for a reason. What will you write about this? n
+[23:56] to the power 0 + n to the power 0 + n to the
+[24:00] Power Zero. What is the highest power in it?
+[24:03] The highest power in this is zero. That's why its
+[24:05] Time complexity becomes n to the
+[24:07] Power 0 = off one. This is why highest power
+[24:10] Of n we take it to mean that this
+[24:12] Worst complexity. ignore the rest
+[24:14] Let's do it. This is why I took the maximum
+[24:15] goes. You guys must have understood this much. one more
+[24:18] Let's try something. For example if
+[24:21] You write the program. your programs
+[24:22] There are two lines. print hello this one line
+[24:26] Done. And this is i = 0 i < n i + and this
+[24:34] Your Print World
+[24:39] This is your program.
+[24:42] First identify the section.
+[24:43] Section Independent Section means Compiler
+[24:46] Will run it and finish that task.
+[24:48] What is the first section visible? These
+[24:51] How much work is going on in this? a work is being done
+[24:52] He is saying hello. its time
+[24:54] What is complexity? Order of One. Now
+[24:56] Is this a stand alone section? what we what
+[24:59] Are you speaking? That's the answer to undo. Yes. What
+[25:03] Is this line a section alone? No. No
+[25:05] No, not the only section. Why? Because
+[25:07] The for loop has not finished. for loop when
+[25:09] does it work? The for loop starts here.
+[25:10] It ends here. So this is a whole section
+[25:13] Is. It is not like you can say that this line
+[25:15] There is a section and this print is a section
+[25:17] And this separate section. No. for work that work
+[25:20] When does it start and when does it end? that small task
+[25:23] what instead of what if not this
+[25:26] Remains. If this line does not exist then what is this line?
+[25:28] Had any significance? Wasn't. But if this
+[25:31] This for loop will run even if there is no line.
+[25:34] Even if this for loop is not there, this line
+[25:36] Will work. That's why there are different sections. if these
+[25:38] If the line is not there then the importance of this line will be less.
+[25:41] Will be done. That's why this is a separate section. These
+[25:44] There is a separate section. Understand? its time
+[25:47] What is complexity? let's see now
+[25:48] Had taken. Order of n. of total program
+[25:51] What is time complexity? make everyone equal
+[25:53] Two brothers. Make one even, make n even.
+[25:55] Write what is 1 + n highest power? Its
+[25:59] There is a forest. Here into n to the power zero
+[26:02] Is. Pick the highest one. Order of n. This
+[26:05] The total complexity of the program has arrived.
+[26:06] Order of n. This is how we do this work.
+[26:10] Look at one more last example which is
+[26:12] It is used a lot. for
+[26:16] i = 0 i < ni + see. to teach this
+[26:22] Maybe we can continue in this for two hours
+[26:25] You can speak but only as much as is necessary
+[26:26] Are telling. now look now look now a little
+[26:29] that will be j < n
+[26:33] None
+[26:36] print
+[26:37] Hi
+[26:39] This is your program. Now tell me about this
+[26:42] What is happening? Let's read this first. One
+[26:44] I loop is running. from where to where
+[26:46] Is? The first thing is that it is input dependent.
+[26:48] Is it input independent? input dependent
+[26:50] Is. This is input dependent. how much is this
+[26:54] Is the bar going? n Times.
+[26:56] Zero to n is going on, right brother? walk n times
+[26:58] Used to be. So let's write this down. This n
+[27:01] Times are going on. First when we for loop
+[27:04] What was happening when you wrote it? print every time
+[27:06] It was happening. So each time he was doing one thing.
+[27:08] But this for loop starts from here and
+[27:11] It ends here. this one in between
+[27:13] There is a for loop. This is a nested for loop. for
+[27:15] For loop inside the loop. now let's look at this first
+[27:17] Are. What is he doing? first thing first
+[27:19] Is it input dependent or independent?
+[27:21] Is dependent. going from zero to n, from n
+[27:23] Will it change or decrease? This goes on n times.
+[27:27] What is this for loop doing? this one
+[27:29] The for loop is now printing hello. These
+[27:31] Printing hello. This one. so what
+[27:34] is happening? What will happen when seen from above?
+[27:36] is happening? i is running n times.
+[27:40] What's happening every time? j is running n
+[27:43] Times. J Run n Times. J order every time
+[27:47] Working as an off one. This is happening.
+[27:49] What does it mean? If your N is 3. 1
+[27:54] 2 3 Your i comes on the first one. i one to three
+[28:00] Will last till. What's happening every time? J also
+[28:03] Three times going on. Jay Three Time Chal
+[28:05] Is it? J is also running n times.
+[28:07] Ok. i finished. What will happen in this? J
+[28:10] Will work again. Jay will run again three
+[28:12] Times. Good.
+[28:14] Came on i3. J going on again three times
+[28:16] Is. J is moving again three times. total
+[28:19] What is the number of simple operations? Three
+[28:23] Three three 9 if you look at it till four.
+[28:27] 1 2 3 4 I came to the forest. This 1 2 3 4 similar
+[28:36] 1 2 3 4 Similarly 1 2 3 4 Similarly 1 2 3
+[28:44] What is the number of 4 simple operations? 4 8
+[28:49] 12 16 See the pattern? what does it mean
+[28:52] Is? n = 3. number of simple operations
+[28:56] [Translation failed: गया 3 * 3 9 n = 4 है। ये हो गया 4 * 4 16 --> No translation was found using the current translator. Try another translator?]
+[29:02] What is its time complexity? order
+[29:04] Off n² Why did this happen? because because
+[29:08] Baboo
+[29:09] i n Times is going on. Every time this n's work
+[29:14] doing. There is also j going on in it which is n
+[29:16] Times are going on. j do forest work every time
+[29:19] Used to be. So its total time complex
+[29:21] What happened? Said to do intu. last
+[29:23] Had also done it several times. n * n * 1 = n². of this thing
+[29:28] Time complexity becomes n². if in this
+[29:31] There is a third for loop which runs n times.
+[29:33] then it becomes n * n * n * 1 n
+[29:36] In this way time complexity increases. so you
+[29:38] If you write a nested loop then its time
+[29:40] Complexity becomes square.
+[29:42] This is what it means. Now your last example
+[29:46] There is a program brother. You are doing this.
+[29:50] Yep, one more thing sort of time
+[29:52] Complexity is n log n. Ok?
+[29:55] Now why does this happen? This is math from recursion.
+[29:57] Will teach later. for now
+[29:59] Remember this.
+[30:01] print hello.
+[30:04] Ok? For i = 0, i < n i + and do this
+[30:11] is being printed
+[30:13] Hi.
+[30:15] very good thing. now sort
+[30:18] If we are sorting array. a dot
+[30:20] Begin
+[30:22] a dot end
+[30:24] The length of the array is n. This is your program.
+[30:26] you write a program like this
+[30:29] Which we had also written. remember in two sum
+[30:31] Do. similar similar s exact same
+[30:33] There was a program in it. Was it or wasn't it? sort
+[30:35] And loops and the rest. Now tell me first
+[30:38] Identify the section. first task
+[30:40] do it. Is this section independent? What
+[30:42] Is this section related to someone else? No.
+[30:44] So this is your section one.
+[30:47] What a section is this? what for loop and
+[30:50] Sort related? Not there. for loop run
+[30:52] And it's over. Printing is finished.
+[30:54] After that sorting is happening. this is yours
+[30:56] There is section two. Is this a sorting line?
+[30:58] Related to anyone? No, it's my line.
+[31:00] This is your three. Now what did you say? every
+[31:04] Find out the time complexity of the section.
+[31:06] What is the time complexity of section one?
+[31:08] Is? print hello. print hello nothing
+[31:09] It happens. Order of One. of section two
+[31:12] What is complexity? Just learned. i n
+[31:14] Times are going on, every time forest work is happening
+[31:16] Is. What is order of n section three?
+[31:20] In short it appears as n log n. remember now
+[31:22] Take it. Will tell you slowly. now total time
+[31:25] Even out the complexity. 1 + n + n log n
+[31:31] What did you say? Now someone will say that in this n
+[31:33] Where is the power? So n to the power n log n
+[31:37] Write n * n 1 / 2. Ok? n/2
+[31:41] Its value is n 3 / 2. people who know log n
+[31:44] Don't know n to the power ok like this
+[31:46] Can't we think of a better route?
+[31:48] Square root is there no need to understand
+[31:51] Okay for now this is your total program
+[31:55] What is the largest element in it?
+[31:57] Is the forest bigger? No n n log n is the largest
+[32:01] what is the biggest n log n is the biggest
+[32:03] Because it's just n, you can do something in n
+[32:05] are also going into n log n so this total
+[32:07] The time complexity of the program is n
+[32:11] log n This is how we revise time again
+[32:14] Let's get it done. three sections for all three
+[32:17] Write all three as sum and take the written maximum.
+[32:19] For. So this is brother time
+[32:23] Complexity. understood that when n m
+[32:27] Order of n log n square says it all
+[32:29] So what does that mean? Now you have to
+[32:32] Time complexity has come that you
+[32:34] The teacher in whatever college he is studying.
+[32:36] You can teach. someone from your college
+[32:37] The teacher might not know that much. this is mine
+[32:39] There is a guarantee. reminds everyone that
+[32:42] Order of n means bigo, big omega.
+[32:45] It happens. This is not its mathematical derivation
+[32:49] And this is how it is understood. you have time today
+[32:51] Complexity is understood. further when
+[32:54] If we talk then you will understand.
+[32:55] If N² is speaking well then why speak?
+[32:57] Used to be? If n² and n log n are speaking then total
+[33:00] How did time complexity n² come about? n² n
+[33:03] log n sometimes yes. sometimes you may
+[33:07] You can't tell by looking at both of them.
+[33:08] Who is bigger? The best example of this is
+[33:11] Take any three value of n. of both
+[33:13] Find out the value. What is 3²? 9
+[33:16] and n log n means 3 * log 3 log 3 always
+[33:22] Is in base two. The answer will be 3. something
+[33:25] Who is bigger among the two? Nine is big. n²
+[33:28] Is big. Give n². never understand
+[33:30] Take the value and see. Understood
+[33:32] Went? If you don't understand that n
+[33:34] And what is in n²? Take the value. to
+[33:37] Its value will come to two. its value
+[33:39] Four will come. So this is big. simple value
+[33:41] Have to take it and see. Did you understand? So
+[33:44] I hope you enjoyed it.
+[33:45] To the people. This was a very important video. And
+[33:48] An announcement that tomorrow is Diwali, so tomorrow we
+[33:50] If you are travelling, maybe tomorrow's video
+[33:52] Don't come. Now we will share this video on the day of Diwali.
+[33:54] Making first. we don't know when
+[33:56] When will it go live? When will it not go? but diwali
+[33:59] Will not make a video on this day? how now
+[34:01] Even if he comes, that's enough for today.

@@ -1,0 +1,1246 @@
+Video ID: nPdxCoVHC90
+Video URL: https://www.youtube.com/watch?v=nPdxCoVHC90&list=PLbJhGqY-mq47k_WLUtzVjmarUm1EuXPj2&index=5
+Language: en
+[00:00] Okay brother, lecture three is today.
+[00:02] Of pointer pattern. before you start
+[00:05] There are three things. tell me two or three things quickly
+[00:06] Let's give. The first thing is that people say
+[00:09] Are you not following the order of the sheet?
+[00:11] Have been. The order in which the question is written
+[00:13] If you are not following that order, then...
+[00:14] Have faith in us too. all that knowledge
+[00:17] You guys don't have that bundle. We
+[00:18] People also have a little bit. Joe Question
+[00:21] We are telling you that for some reason
+[00:22] Telling in the order. if we a
+[00:24] If you are skipping questions then
+[00:25] The reason I am skipping is that you
+[00:27] Understand well. The questions we will ask today
+[00:29] About to do will appear on the screen. Attention
+[00:31] Take a look from. Those who ask these two questions
+[00:33] Are. One is this square off sorted array and
+[00:36] This is all array question product all.
+[00:39] Question of array. These two questions today
+[00:41] Why are you doing it? why didn't you do it yesterday
+[00:42] Why not do it tomorrow either? he understood you
+[00:44] Will give. This is the first thing. so whatever
+[00:47] Question is going on in that order
+[00:49] If you do it, you will understand well.
+[00:51] The next thing is that some comments are coming that
+[00:53] Sir, if motivation is not there then there is no motivation.
+[00:56] If it comes then it means feeling ashamed or even ashamed
+[00:58] You don't know if you want to see motivation.
+[01:01] So you ever ask your father what he
+[01:03] Where does motivation come from? your father ever
+[01:05] It is said that this semester's college fees
+[01:07] Will not give motivation is not coming either
+[01:09] I won't go to work today, I don't have the motivation today.
+[01:11] Used to be. Has your mother ever said that today home
+[01:13] I can't cook, I can't find the motivation.
+[01:15] Is. So if those people also start thinking that when
+[01:17] Motivation will come only when you resolve to study.
+[01:20] If you study, your life will not be possible.
+[01:22] Ok? So whatever is coming in your mind, you can
+[01:24] Just doing the same. You see the reel of Instagram
+[01:26] are, you are playing, jumping, so
+[01:28] Your father, your mother also feel like this.
+[01:30] Would like to take a break sometime. those people too
+[01:32] So he is a human being and not an animal. so if
+[01:34] You have to see the source of motivation, right?
+[01:37] Don't ask for motivation from us or Sandeep
+[01:39] Don't ask from Maheshwari. go and see yourself
+[01:41] Ask dad and mom what they
+[01:42] Where does it come from? they will tell from where
+[01:44] If it comes, you too will start coming. Isn't it? So
+[01:47] Knowledge will not come by seeing. this which we
+[01:49] Teaching lectures will be done by reading. Ok?
+[01:52] So today's first question is
+[01:54] Sorted array of squares. square off
+[01:58] Sorted Array. And first you have questions
+[02:01] Will explain. After that someone had doubts
+[02:03] If there is no code then we will code it.
+[02:05] C++ Java Python. So first question
+[02:07] Let's understand what the question is saying
+[02:09] Is? What is the question telling you?
+[02:11] You are given an array. something in array
+[02:14] There are different types of numbers. what returns to you
+[02:17] Have to do? You have to return another array.
+[02:20] Which contains what? What is there in it?
+[02:23] Whatever number is in this array, first of all
+[02:25] They should be square in this array.
+[02:27] You have to square and this array gives you
+[02:31] It is said that it is sorted. what is this
+[02:33] Is? Is sorted. So this array is also sorted
+[02:35] Should be. Overall these questions
+[02:38] Is. What is the question? something in this array
+[02:40] The number is. Hey friend, there are some numbers in this array.
+[02:44] A B C D E F. You get these and array sorted
+[02:48] Is. You have to square them and you have to
+[02:51] This array also has to be made sorted. So
+[02:53] This array will contain a² b² c² d² e² f². These
+[02:58] The array must also be sorted. this is yours
+[03:00] There is a question. Now let us explain it to you
+[03:02] That
+[03:04] In which word is the question written and
+[03:06] What is the question asking for? how much more than this
+[03:08] The difficulty of the question makes a difference.
+[03:10] Pay. watch now. Now for example this array
+[03:15] Every element in me would be positive. this array
+[03:18] I would have 1 2 3 4 5 okay? in this array
+[03:24] If all the elements were positive then this array would be
+[03:27] Do you think that's sorted? so do we
+[03:30] People who have studied basic maths class five
+[03:32] In class four if 1 2 3 4 5 sara
+[03:35] Positive number is all sorted.
+[03:37] If you square it, what will come? One will come?
+[03:40] Four will come, nine will come, 16 will come, 25 will come then this
+[03:43] Will also be sorted if positive element
+[03:46] is 1 2 3 4 5 then you square it
+[03:49] Cube that four times that.
+[03:51] Power it on, that too will be sorted, right?
+[03:53] Brother the positive element remains sorted
+[03:55] What do you have to do in this if the question
+[03:58] Would have said that there are only positive elements.
+[04:00] So there is nothing to be done in this. In this
+[04:02] return an empty array squared
+[04:04] Is. If we say that it is positive sorted then it is
+[04:06] Will also be sorted. So this question
+[04:07] What is difficulty? This is basic
+[04:09] There is a question. You can do this in DSA Basic
+[04:11] Could it be that it is an array of all the elements
+[04:13] Have to square and return. so this is
+[04:15] It is of basic difficulty. now but this
+[04:18] What makes a question difficult?
+[04:20] The question tells you that the negative
+[04:21] Elements are also in the array. It is also negative.
+[04:23] Look carefully. If you look at the lead code
+[04:25] You will see that the constraint is in the array
+[04:27] What? This array contains -4, -1, 0 and what else
+[04:32] Is? 3 and 10 are your given array.
+[04:35] In input. Now you follow this positive rule
+[04:39] Cannot apply. why not do it
+[04:40] can? We tell. Sara's Square
+[04:42] Try it once. Square of -4
+[04:45] What to do? square of negative element
+[04:47] is also positive. This is the game. -4's
+[04:49] The square of -1 will be 16, the square of -1 will be 1,
+[04:52] The square of 0 will be 0, the square of 3 will be
+[04:54] The square of 9 and 10 will be 100. now this is yours
+[04:57] The square array is created. is it sorted
+[05:00] Is? Is it sorted? This is not sorted
+[05:02] Is. Why is it not sorted? see 16
+[05:06] 16 is bigger than forest. is greater than 0. than nine
+[05:09] Is big. One is greater than zero. Ok? so this
+[05:12] Array is not sorted. not here on the 16th
+[05:14] Should have happened. be here somewhere on the 16th
+[05:16] Was Needed. This zero should be at the beginning
+[05:18] Was Needed. One should be after zero
+[05:20] Was. So this array is not sorted. this is this
+[05:23] Makes the questions easy. If you want lead code
+[05:26] If you look at it, its difficulty is easy. easy
+[05:28] Meaning one level above basic. Now this is easy
+[05:30] Why is it? Why is it? We tell. If
+[05:33] You don't know anything. Do you like any patterns?
+[05:35] Couldn't understand. you need some algorithm
+[05:37] Couldn't understand. so what's the first thing
+[05:40] That brute force. brute force we always
+[05:42] Said to do brute force. so one thing
+[05:44] So we understand. what is my goal
+[05:46] Is? We have been given two tasks. every
+[05:48] Elements to be squared and sorted
+[05:52] He has to return it. So what did we do?
+[05:54] First of all let's make a square. To all
+[05:57] First we write that 16 is, one is, 0 is
+[06:00] Is, is 9, is 100. 0 1 2 3 4 and then if
+[06:05] If you want to sort it, sort it.
+[06:07] Will take. Sort function is available
+[06:09] Isn't it? C++ Java in Python. sort this
+[06:11] Give it to the array. Sort it, then this
+[06:14] Will become 0 1 9 16 and 100. 0 1 2 3 4 more
+[06:21] Return it. is this question
+[06:23] Satisfied as per? everybody's square
+[06:25] Done? Yes done. This array is sorted
+[06:27] Went. Yes done. because we sort
+[06:29] Did it. So please return this. So
+[06:30] You can also see your answer by submitting it.
+[06:32] Is will become. but but but in this
+[06:35] What is the problem? what is the problem with this
+[06:36] Is? What is its time complexity? We
+[06:39] Have already told. You can put every element in it
+[06:41] Doing two things. what to do first task
+[06:44] Are you? Square. Who are you squaring off with?
+[06:46] Are? To each element of the array. so time in this
+[06:48] Complexity order of n. n is the size. You
+[06:50] Are doing square. second thing you sort
+[06:52] are also doing. You sort using the function
+[06:54] Are doing. Sorting Complexity
+[06:56] is n log n. telling again and again
+[06:59] How is time complexity calculated?
+[07:00] There are two tasks, two independent times.
+[07:03] Time Complexity of his program
+[07:05] What happens? Maximum. Maximum in this.
+[07:07] What is the maximum in n and n log n? n log
+[07:11] n. This has become your time complexity.
+[07:14] Of the programme. Ok? This is very good.
+[07:16] This will work, it will also be submitted. If
+[07:18] If you want to run it, then run it.
+[07:19] Will be submitted. What all have you done?
+[07:22] Square and Sort.
+[07:25] But what is its time complexity?
+[07:27] n log n. Now go to the lead code and see. To all
+[07:30] What is written in the line below?
+[07:31] Follow up. follow up meaning follow up meaning
+[07:33] It happens that you have created this question. So
+[07:35] Lead Code knows that you are doing this with
+[07:37] Will make it. Lead code knows you are a
+[07:39] Beginners will do square first and then
+[07:41] Will sort it. Then asks follow up.
+[07:42] What is follow up? ok, it's okay
+[07:44] So that's a good thing. optimize it a little more
+[07:47] Try to do. Ok? in follow up
+[07:49] What is written? that order of n solution
+[07:52] Can you think or not, son?
+[07:54] Can you think of an order of n solution or not?
+[07:57] This is its follow up. And this is my interview with you
+[08:00] I will also be asked. In the interview you
+[08:02] Can't do that. the interviewer chased you away
+[08:03] Will give. Unless even he doesn't know it. Any
+[08:07] Decent man won't let you do this
+[08:09] Because this is not a question at all.
+[08:10] If you are sorting by square then this
+[08:12] So that's useless. follow up asking you
+[08:14] Is order of n possible or not? order
+[08:16] What does off n mean? see square
+[08:19] It will definitely take n time to do. If
+[08:22] If you square each element then n
+[08:23] It will definitely take place. The sort was taking n log n.
+[08:27] The sort was taking n log n. That's why its
+[08:29] Time complexity was becoming n log n.
+[08:32] Now telling you or not order of n
+[08:34] Needed So any way you get this one
+[08:36] This step will have to be removed. These
+[08:38] This step will have to be removed. so to array
+[08:40] Can't sort. you have to do something else
+[08:43] It will take some way to get it sorted
+[08:45] From. Sorted has to be returned. sort
+[08:47] Cannot use function that contains N
+[08:48] Looks like long n. optimize it for you
+[08:50] Have to do. So this is the whole question. now this
+[08:53] To understand the question you need one more
+[08:55] You have to understand the concept. Ok? That's why
+[08:57] We are saying again and again that the video should be completed
+[08:58] Please take a look. To understand this question you should
+[09:00] One more thing needs to be understood. for example for
+[09:03] Example: You have two arrays. Suppose
+[09:06] You have this second question. this is how we are
+[09:08] We are telling you this as a concept.
+[09:11] You have two arrays. 0 1 2 This is Sara
+[09:16] This is an array of odd numbers and the even numbers in it.
+[09:19] is putting. You have been told that this is
+[09:22] Itself is sorted and this array is also
+[09:24] Is sorted. Meaning it contains 1 3 5 2 4 6
+[09:30] Now see is this array sorted? Yes
+[09:32] Is sorted. 1 3 5 is sorted. this array
+[09:34] Is sorted. 2 4 6 is sorted. told you
+[09:36] Once done you will get a third array. To you
+[09:39] What will be getting? Third array will be found whose length
+[09:42] Will be its length plus its length. so its
+[09:44] The length will be six. Ok? It became an array.
+[09:48] Now you were told that this is a sorted array.
+[09:50] is the second sorted array merge both
+[09:53] In an array and that array is also sorted
+[09:55] Needed Are you able to understand the question? This
+[09:57] The name of the question is Merge Sorted Array. lead
+[09:59] Go to the code and take a look. that in this sheet
+[10:01] Not there. But to understand that question
+[10:02] You have to understand this. you were told this
+[10:05] The array is sorted. This one is array sorted
+[10:08] Is. Combine these two and create a third array
+[10:11] Make these which are equal to their size and this array
+[10:14] Should also be sorted. means to say that
+[10:16] What is expected from you in this array?
+[10:17] Is? In this array you have 1 2 3 4 5 6
+[10:20] Is being expected. how come you
+[10:22] do? So to say that one thing is clear
+[10:26] That this array is sorted. This array is sorted. So
+[10:28] One thing you did earlier was brute force.
+[10:31] The one. Do one thing first, write here
+[10:34] Give 1 3 5 and copy this also 2 4 6
+[10:38] And sort it. sort this
+[10:40] If you take it, you will get 1 2 3 4 5 6.
+[10:43] But this is not being asked of you. from you
+[10:45] This is not being asked. you also get this
+[10:46] It has been said that do it in the order of n, brother.
+[10:48] Don't have to sort. now how do you do this
+[10:51] do? Now we will do it like this. how to do this
+[10:54] Is done. It's a concept or a
+[10:56] Is algorithm.
+[10:59] 0 1 2 0 1 2 Here is 1 3 5 2 4 6 you
+[11:06] Have to create a new array.
+[11:09] Forest
+[11:11] This is what has to be done, right? day
+[11:17] Remember the flow chart of the forest. day one flow
+[11:19] Memorize the chart. What did we say? of array
+[11:21] The question should be sorted and it should be written somewhere in it.
+[11:25] Merge array is also written. Flow chart of day one
+[11:29] If you have forgotten it, please go and see it.
+[11:30] Make a note in your copy. Hey it's written, sorted
+[11:33] You have to write merge erase, what do you think?
+[11:34] Is? Looks like a two pointer, brother. two pointer
+[11:37] Seems like Why don't you speak? two pointer
+[11:39] Seems like Do you think so? in flow chart
+[11:41] It was written. Ok? now what is this
+[11:45] The question is satisfying this? Yes
+[11:47] Brother, I am doing it. What has been said? two arrays
+[11:49] Are. Both are sorted and both are merged.
+[11:51] If it has to be done then a two pointer will be used. two pointer
+[11:54] How will it feel? Now look, understand one thing. you have this
+[11:57] Have to create a new array. This is what you want to make, isn't it? New
+[12:00] Have to make an array. So how do you create a new array?
+[12:02] Will you make it? First of all you need this element
+[12:05] To fill or not to fill? first one
+[12:06] Element to be filled. this first one
+[12:09] At this first place in the element
+[12:11] Which number can come from both the arrays?
+[12:14] Can this first place get a five?
+[12:18] Can't come. Why can't he come?
+[12:20] Why? Because look five is five from someone
+[12:23] Big or not, five is at least three and
+[12:26] It is bigger than the forest. Sorted, right? this array
+[12:28] Sorted in itself. of this second array
+[12:30] does not make sense. This array is sorted by itself.
+[12:32] Is. Whether five is greater than three or not
+[12:36] And it is bigger than the forest. Three is bigger than anyone
+[12:38] Whether it happens or not, it is bigger than the forest. this is you
+[12:40] Know. Similarly four is bigger than someone
+[12:43] Or no ho is bigger than two. six from someone
+[12:45] Whether it is big or not, it is bigger than both of these. So
+[12:48] First place anywhere in any scenario
+[12:51] You can't get both 3, 5 and 4, 6.
+[12:55] Is. Why can't he come? Because
+[12:59] If 35 comes, how will 35 come? 3 5 from the forest
+[13:02] If it is big then the forest will come first. If on 35
+[13:05] If you keep coming, the forest will come first. to four six
+[13:07] If you want to come then you will come first. at this place
+[13:10] Only two elements can come. which two
+[13:12] Element can come? Either the forest can come or
+[13:15] So two can come. see again if you want
+[13:17] If you don't understand then. who is on first place
+[13:20] Sa element can come? either forest can come
+[13:23] Either two can come. why are we speaking
+[13:25] Either one or two. why don't we say
+[13:27] Are you sure that only the forest can come? because this
+[13:29] The array is sorted. This array is sorted. Meaning
+[13:32] One is the smallest element of this array. to this
+[13:35] Is the smallest element of the array. but forest and
+[13:37] Which is smaller in two? this is not for you
+[13:39] I know. Both arrays are independent.
+[13:41] Independent Sorted Array. in one and two
+[13:43] Which array is smaller? Which number is smaller?
+[13:46] You don't know this. so either one
+[13:48] Can also come. Anyone can come. be able to understand
+[13:50] Are you? Maybe there is no forest here
+[13:52] Is it 11 here or something?
+[13:54] There could be three here, if there were three more
+[13:56] Which is smaller in two? If two is smaller then two
+[13:58] Now come here there is one, here there are two, there is one.
+[14:01] And who will come among the two? One will come right here, right here.
+[14:03] The pointer will be used here.
+[14:05] Keep watching the pointer carefully to see how
+[14:08] Now let's see if it's clear to us.
+[14:11] It has been said that one will come or two will come and then
+[14:14] If we can't come up with anything then we can do two things.
+[14:17] People are doing two things simultaneously
+[14:18] So what if we have to do it by coordinating?
+[14:20] Using two pointer. You do one thing. You
+[14:22] put an i here and a j here
+[14:25] Keep it. Claim for first place
+[14:28] Which two elements are required for? either
+[14:31] I of Array of One and J of Array of Two. in
+[14:34] We will compare which of the two
+[14:36] He is a small one and will come, right? If in one and two
+[14:38] The one who is smaller than this will come first.
+[14:40] Pay. The one who is next will move on to the next one.
+[14:43] Will go. So we will compare that its name
+[14:46] is array of one. Its name is Array of Two.
+[14:49] Will compare i and array of array of one
+[14:52] Which is smaller among j of two? we know
+[14:55] Well, the good forest is small. First of all the forest
+[14:58] Put it here. Put forest here. now forest
+[15:01] The game is over. Now one more thing
+[15:04] What did you say? Every in two pointer pattern
+[15:06] At least one pointer must move after the step.
+[15:08] Needed If both pointers remain at the same place
+[15:10] The program will get stuck. now which pointer
+[15:12] Will you move and where will you move? of i
+[15:15] The work has been done or not. i what
+[15:17] Was doing? I was just in the forest. we are the forest
+[15:20] Already posted here. so why did you come there
+[15:22] Will it stay? Aai's work is done. I got a raise
+[15:24] Two. Increase i by one. Increase i by one. I
+[15:27] Bring it here. Should we increase J also?
+[15:30] Will you give? No because J's work is just done
+[15:32] Not there. Two has not yet come into the array. to
+[15:34] When J comes to the final array
+[15:36] Will increase. do the same work as you did last time
+[15:38] Were. What did we do last time? see
+[15:40] Were i of array of one and j of array of two
+[15:42] Who was younger in me? The same work has to be done now. Now
+[15:45] You can think of it this way that your array
+[15:47] that it. Forest work has been done. forest here
+[15:50] It has been set. Ok? One is set
+[15:52] Is. One is set. Now look at the array of
+[15:54] One's eyes are three. In this J is two.
+[15:57] Which of the two is smaller? small with j
+[15:59] Is. So J will come at the next place. and someone else
+[16:01] Can't come. Why? because three
+[16:05] The smallest in your now three is array
+[16:07] There is element that has survived. to this array
+[16:09] is the smallest element that has survived. so to
+[16:11] And the one who is smallest among the three will come. so to
+[16:14] Pick it up and put it here. pick up two
+[16:16] Put it here. And now whom will we promote? Now
+[16:19] Will we increase I or J? Now let's increase J
+[16:21] The work of two is done, but the work of three is done.
+[16:23] The work has not been done. Three hasn't come anywhere yet
+[16:24] Is. Too has come and sat here. work of two
+[16:27] End. Increase J. Bring Jay here.
+[16:30] Do the same thing again. out of three and four
+[16:33] Who is younger? Three is small. here on three
+[16:36] Please write it down. Increase i. increase i
+[16:39] Give it because the mother's work is done. of four
+[16:41] The work is not done yet. Are you able to understand?
+[16:43] What a serious thing we are telling you. I
+[16:45] Came here. J is here. in five and four
+[16:48] Who is younger? Four is small. take four here
+[16:51] Come brother. Bring Four here. Write it down. and j
+[16:53] Increase it brother. Increase J. to j
+[16:55] crank it up. Do it again. in five and six
+[16:59] Who is younger than? Five is small. to five
+[17:01] Bring it here. Get five. write here
+[17:03] Five. And now look now look. now we all
+[17:06] What did you do? the element that went to
+[17:09] Used to increment the pointer. Now if you
+[17:11] If you increase it, the i array will come to an end. i3
+[17:14] Will be done. It's over. Ok? two pointer
+[17:18] How does it stop? When either of the pointers
+[17:20] either cross each other or
+[17:22] Exiting a pointer array or linked list
+[17:24] Go. Stop happens only in two conditions. to
+[17:26] How does the pointer stop? when each other
+[17:28] either cross the array or exit the array
+[17:31] Go one or both pointers. you are watching
+[17:33] I came out of the arena. now i get out
+[17:36] If it has gone then what to do? what does this mean
+[17:37] Happened? What does this mean logically that we
+[17:40] People were walking comparing. had two houses
+[17:43] Which of the two men were wondering?
+[17:44] Age is less. Only one house was destroyed. now that
+[17:47] There is no man left in the house. now left
+[17:49] If you want to insert an element then what are the remaining elements?
+[17:51] Will it go in order? There were two houses. here on
+[17:54] Was somewhat of a man. some men here
+[17:56] Was. We give it chocolate according to age
+[17:59] Were giving. Only one house was destroyed. that house
+[18:02] All the men got chocolate. of that house
+[18:04] All elements 1 3 5 1 3 5 All elements
+[18:09] Got chocolate. Who needs chocolate now?
+[18:10] will get? The second house will get chocolate. Second
+[18:13] Need some brainstorming for the home?
+[18:14] No brother. That's sorted. six now
+[18:17] Suppose there would have been more after this, there would have been et, 10
+[18:20] If it were, then it is sorted. this is for you
+[18:21] It was already told that it was sorted
+[18:23] Is. So just pick him up and keep giving him chocolate.
+[18:25] Is one on one. So who was J on now? J
+[18:28] Was at six. When I came, I went out. J left
+[18:31] It has happened. J was on six. Pick up six.
+[18:33] Put it here. Increase J. for example
+[18:36] There would have been another one here. Would have been at. now to six
+[18:38] Picked it up and put it here. pick et, put here
+[18:42] Give. Your work would be over. After that J
+[18:44] Would have also gone out. J would also go out.
+[18:47] This is how you merge two sorted arrays. Now
+[18:49] How much time did it take? time in order
+[18:51] Off n felt because we sort somewhere
+[18:53] did? Didn't do it. sorting function somewhere
+[18:54] You did not do it. Increasing one by one.
+[18:57] So how much time did it take? length of this array
+[18:58] Was three. The length of this array was four.
+[19:01] Every time there is at least one increase in this.
+[19:03] If so, how much has the total increased? if the intake is increased
+[19:05] m+n. Can say order of n. Time
+[19:08] Ended up in complexity. like this you
+[19:10] See. Now is this array sorted? yes this
+[19:13] The array is sorted. Take a look. no we
+[19:15] Can't believe it. Take a look brother. 1 2 3 4 5
+[19:19] 6 8 is sorted. How was it sorted?
+[19:22] Because we use two pointer
+[19:24] By comparing. Sorted in every house, every house
+[19:26] The man is kept. compare both houses
+[19:28] As to which child from the two houses is younger?
+[19:30] Have given him chocolate. Increased it. Again
+[19:32] Compare again and give chocolate to the one who is smaller.
+[19:34] Gave it. The house to which you are giving chocolates
+[19:36] [Translation failed: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=en&sl=hi&q=%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%AC%E0%A5%9D%E0%A4%BE+%E0%A4%A6%E0%A5%87+%E0%A4%B0%E0%A4%B9%E0%A5%87+%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A5%A4+%E0%A4%9C%E0%A4%AC+%E0%A4%B5%E0%A5%8B+%E0%A4%98%E0%A4%B0+%E0%A4%96%E0%A4%A4%E0%A5%8D%E0%A4%AE+%E0%A4%B9%E0%A5%8B+%E0%A4%9C%E0%A4%BE (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))]
+[19:38] If it is, then they are putting a person from another house in it.
+[19:39] Are. Maybe if J had finished first
+[19:41] Would have given the rest to Aai. I finished first
+[19:44] When he left, he put in the rest of J's money. Simple
+[19:45] Is algorithm. How to write its pseudo code
+[19:48] Are? How to write pseudo code? so your
+[19:50] There are two arrays nearby. is an array of a and b. Correct
+[19:53] Is? What did you do now? first two pointer to
+[19:57] Took the pointer. Kept i also at zero. j
+[20:00] Also kept at zero. Suppose this
+[20:02] The length is n and its height is m. so the first loop
+[20:06] How long will we continue? as long as both
+[20:08] The man should be inside the house. so while
+[20:12] i is less < n end end end both both houses
+[20:15] Must be inside. That's why we compare
+[20:17] do. Otherwise do less household work
+[20:19] Will take. And J is < M and means both
+[20:23] Must be true. what are you doing after this
+[20:25] Were? Were comparing. so compare
+[20:27] Take it. If array of i is less than o equal to
+[20:32] B of J if the person from the first house is younger
+[20:36] So who will get the chocolate? the one who is smaller
+[20:37] You will get chocolate. So now one more thing one more thing
+[20:41] One more thing. This is our result array.
+[20:44] This is the return to be made. Where are these results?
+[20:46] Let's start filling it with? from the beginning
+[20:47] Let's start filling. so first its zero
+[20:49] Let's fill. Then the forest fills. Let's fill in.
+[20:51] Fills three. Fill four. filling five
+[20:52] Are. Fills six. Filling from the beginning.
+[20:54] This one starts every time after filling
+[20:57] If the slot remains vacant then it is filled. These
+[20:59] If the first slot was vacant after filling
+[21:00] Were filling it. take an id for this
+[21:02] Take it. Create a new array for this.
+[21:05] a vector int for
+[21:09] Make race n. either an int
+[21:14] Make race n by doing this. This is not n.
+[21:17] This is n + m. whatever is the sum of these two
+[21:19] Meaning if n + m is even then n + m is of size.
+[21:21] Make an array. Keep an index. This
+[21:24] To be filled on index. what is this index
+[21:26] Denotes? what to fill in the result array
+[21:27] Is? The result has to be filled here first. Then
+[21:29] To be filled here. To be filled here. Here
+[21:30] Has to be filled. Have to do it here. Have to do it here.
+[21:32] Have to do it here. index after every fill
+[21:34] Will increase one. So if the array of i is less than
+[21:38] And what will equal to B of J do? race
+[21:42] Index equal to whom? give chocolate to someone
+[21:44] Are you? who is small, who is small man
+[21:46] Will give chocolate first. What work needs to be done now?
+[21:49] Work has been done on ID. id plus plus
+[21:51] Next time we will fill it in and also the maid's work.
+[21:54] are done. work as a maid in that house
+[21:56] Already happened. I will do plus plus. Ok?
+[22:01] Else Else. meaning of els
+[22:04] What does els mean? This is what Else means
+[22:06] Is. If the eye does not become smaller. for example
+[22:09] I have come on your third day. Je hai to pe. if j
+[22:11] Small beans will work. just a little upside down
+[22:14] do. Now we will do J's work. result
+[22:17] ID = B of J and ID has to be increased
+[22:23] Son. ID has to be increased and J has to be increased
+[22:25] Will give. Else will stop. close the vial
+[22:28] Will give. Take a look at this. see this pseudo code
+[22:30] Take it. Let's show it to you in small size. These
+[22:32] This is vile.
+[22:34] This is vile. Take a look once. but now
+[22:36] is also not over. still not over
+[22:38] It has happened. This is not over. What did they say
+[22:40] Were? If a man goes out of the house
+[22:43] What would you do? A man went out of the house,
+[22:46] What will you do if Aai goes out of the house?
+[22:48] Will do J's work. If J is outside the house
+[22:50] Had he been able to leave, he would have worked as a maid. So
+[22:54] This can happen, this can happen in this world
+[22:57] That I have gone out of the house. to both
+[22:59] Will have to be handled. so it could be yes
+[23:01] Has come out. So run another loop. vile
+[23:05] j < m J may not have reached m.
+[23:08] J's the remaining man of the house. Now there is no one in this
+[23:10] Don't want to make comparisons. look at what it means
+[23:12] If you have come till here. why you even here
+[23:14] Have you come? Meaning this wild condition has failed.
+[23:16] Is. Why does this vile condition occur?
+[23:18] Why does the end fall? either or both
+[23:20] Falls happen. There are two conditions, right? so either
+[23:23] Both of them fall or one of them falls
+[23:25] Go. Ok? If both were true then you
+[23:28] Do not come out of the vile. If both houses
+[23:30] If there were people left in both the vacant houses, you
+[23:33] Can't get out. why did you go out
+[23:34] Are? Either both are over or
+[23:37] One is finished. Ok? Ok?
+[23:38] So you handle both of them. so now
+[23:39] There is no need in comparison. now you
+[23:41] Just do this race id = b of j we
+[23:46] People are doing j's work. And it came in handy
+[23:48] D plus plus j + turn off the vile. Now
+[23:52] The second case also has to be handled. maybe j
+[23:54] Have gone out. i has not come out. so beans
+[23:56] You have to do the work for i also. i < n
+[24:01] And rest id = a of i increasing id
+[24:07] It has to be increased in every case. i has to be increased
+[24:09] Have to increase. no need for comparison
+[24:11] Is. Now your work is done. Return
+[24:15] Rest. Take a look. this is your little one
+[24:18] Powerful program is made of order of n.
+[24:20] Look let's show it. are you able to see this
+[24:24] Will be on the screen. what did you do again
+[24:27] Let me tell you.
+[24:29] What all did you do? Let me tell you again.
+[24:31] Play Vile Eye. compare i and j
+[24:34] For. Handled a case in which I came from home
+[24:36] Have gone out. handled a case
+[24:38] In which J has gone out of the house. And
+[24:41] The results were returned. This is your question
+[24:43] have learned. merge
+[24:45] Merge two sorted arrays.
+[24:50] By using two pointer in order of n. Now
+[24:53] Why should we tell so much Ramayana, so much saga?
+[24:55] Or this question is not in the sheet. Now!
+[24:56] Why should we tell? I mean, I feel like it
+[24:58] Was. No. No. This is what we have told our
+[25:00] To solve square question
+[25:02] Brother. watch now. Now coming to your question
+[25:05] Let's go. Now you have learned so much. in array
+[25:08] What else is given to you -4, -1, 0
+[25:12] Yes? 3 and 10. This is the array given.
+[25:17] What is the work? square and sort
+[25:18] Is. Do one thing. Just square everyone.
+[25:22] Just square everyone. Ok? to everyone
+[25:26] Just do the square, friend. Just do it. Zero.
+[25:28] Why do squares have to be done last?
+[25:29] In. So do it now. Make it four. Do it.
+[25:32] Make it 0. Make it nine. Make it 16. Now it is Enough
+[25:36] Look carefully. Look very carefully.
+[25:37] Look very carefully. please carefully
+[25:39] Look Some elements in this array are negative
+[25:43] Were. Some elements were positive. Complete
+[25:45] The problem is happening due to negativity. Why?
+[25:46] That we have told before. if all positive
+[25:48] If it was then it was a basic question. Problem
+[25:50] Why is it not happening? due to negative
+[25:52] Problem is happening. Why? because this
+[25:53] When you square -4, then
+[25:55] This is something greater than the square of positive
+[25:57] It becomes. Is this the problem happening?
+[25:58] There is no one else. the problem is caused by
+[26:01] Used to be. that when you square it
+[26:03] Neither are these positive squares.
+[26:05] Becomes bigger. Ok? we understood this
+[26:07] There is a problem. What's the problem? Now
+[26:09] Observe something in the problem. -4 -1
+[26:14] Only the negative part comes. Correct
+[26:16] Is? Just look at the negative part.
+[26:18] -4 -1 ok? Write one more in this. One
+[26:22] Let's say more elements are added. -2 -1
+[26:25] This is a negative array which is sorted.
+[26:28] It is sorted in itself. When you
+[26:30] Let's square this array 16 4 1
+[26:35] Hey Babu, it's sorted. look look that's why
+[26:38] They are saying listen with an open mind. brain and
+[26:40] Listen with an open mind. This array is also sorted
+[26:42] Is. 16 4 1 But this is a little in reverse
+[26:45] Is sorted. Do you understand? this ascending
+[26:48] Was in order. This bastard descending order
+[26:50] Is sorted. Why? because the least
+[26:53] When you destroy the negative element
+[26:55] Let's square neither in the highest
+[26:57] It becomes. -4 was the smallest element
+[26:59] But 16 is the largest element of this array.
+[27:02] -2 is smaller than -1 but larger than four one
+[27:06] Is. Do you understand? So this array is descending
+[27:08] Sorted in order. now the positive ones
+[27:10] Look at the part. 0 3 10 This array is positive
+[27:15] There is a part. If you square it then
+[27:16] Will come 0 9 100 This array is also sorted. These
+[27:20] The array is also sorted. And this is the opposite
+[27:22] Not sorted. Is it straight sorted or not?
+[27:24] The positive element follows directly. These
+[27:26] If it is in ascending order then it is also ascending
+[27:29] Is in order. What two things are we?
+[27:31] found out that the negative part
+[27:34] Let's sort the element. so that too
+[27:36] Sorted but reverse sorted.
+[27:38] Sorted in descending. positive part
+[27:41] If you square what is there then that too
+[27:42] It is a sorted array but it is properly sorted.
+[27:46] Now see now see what we want to explain to you
+[27:48] Have been. ok what we want to explain to you
+[27:51] Stayed very late. strike whomever
+[27:54] Must have gone, it's a very good thing. to whom not
+[27:55] If it is done then let us come together and print it.
+[27:59] This is the negative part in this. this negative
+[28:02] There is a part and it is a positive part. it
+[28:05] Is positive. This is negative. at your convenience
+[28:09] Make both of them two arrays. Your
+[28:12] Not just for your convenience
+[28:13] Needed But we want to teach you the concept
+[28:15] Have been. split both into two arrays
+[28:17] Take it. You will know this, won't you?
+[28:19] An array up to where the negative ends
+[28:22] Make it. Make two arrays. -4 -1 positive
+[28:26] Make your own array of. split it
+[28:28] In the array. 0 3 10 0 1 2 0 1 split it
+[28:35] We divided us into two groups. now made
+[28:37] Don't even worry about array space. on learning
+[28:39] Focus. make this square this
+[28:41] Two. Make it square also. square both
+[28:43] Do it. Make this 16 and make this one
+[28:47] And write here what is 0? 0 900 square
+[28:52] Did it.
+[28:54] What did you say? Both arrays are sorted but
+[28:57] This is sorted in reverse. Now for example if
+[28:59] Something is written upside down. 5 4 3 2 1.
+[29:02] Is. We are saying that you are straight
+[29:04] Make it. If you reverse it, it will become straight. 1
+[29:07] 2 3 4 will become 5. Descending order
+[29:09] If reversed, ascending order is formed.
+[29:11] Descending will reverse ascending. Work
+[29:13] do it. Reverse this array. What lyrics
+[29:15] Are you? Reverse this array. this one
+[29:19] And make 16. Discard this array. this array
+[29:22] So that's right. 0 9 100 understanding something
+[29:26] Is? Now you have two arrays. is this array
+[29:30] Is it sorted? Yes. Is this array sorted?
+[29:34] Yes. What is your job? you get a final array
+[29:37] Have to make. This is the job, isn't it? the question is this
+[29:40] Has spoken. 0 1 2 3 4 and this array is also sorted
+[29:44] Should be. did I understand why we
+[29:45] For so long they have been telling you to merge to erase.
+[29:47] Were. What has become of this question? Oho
+[29:49] Question became. Given two sorted arrays.
+[29:51] Both have to be merged to create a third array.
+[29:53] So we are coming with questions, right?
+[29:55] This is the question. Did you understand? how to do
+[29:57] Are? How to do? How and what will the beans do?
+[30:02] Write down 0 1. Write down 0 1 2. to i
+[30:05] Stand it here. make jay stand here
+[30:07] Give it. Please compare. the one who is smaller
+[30:10] Put it here. increase the one who put it
+[30:12] Give it. Compare again. which is small
+[30:14] Yes, put it here. now increase it
+[30:16] Take it. now put the smaller one here
+[30:18] Give it. Increase it. any one array is finished
+[30:21] If it's done then whatever is left can be seen here.
+[30:22] Pick it up and put it down. I can understand
+[30:25] Why? We have been teaching you for so long.
+[30:27] Were. Ok? Now someone should answer this question
+[30:30] If you don't understand then comment
+[30:32] But according to me it should come. We
+[30:33] What a story he was telling you just now.
+[30:35] Should arrive by. two sorted arrays
+[30:37] What was hidden in the question? These
+[30:39] What was hidden in the question? These
+[30:40] The question is about merge two sorted arrays.
+[30:42] To square the question and sort it
+[30:44] Don't have to. question in question
+[30:46] Is hidden in. Told you in the question
+[30:49] That is, even if there is a negative element and
+[30:52] After this, if there is a positive element then it is
+[30:54] The question is hidden. says that this one
+[30:57] is a sorted array. This is the second sorted array.
+[31:00] Merge both to form a third sorted array
+[31:02] Have to make. This is the meaning of the question. now this
+[31:05] How will you understand? It will come with a little logic.
+[31:08] A little intuition will come. a little practice
+[31:09] Will come from. Ok? us we also this tomorrow
+[31:11] Were asking questions. we didn't get it either
+[31:12] Was. So think about it for a while 510 minutes 15
+[31:15] After thinking for a minute, I struck it, it's good
+[31:17] So he is asking questions. understanding
+[31:19] What are you saying? Now two-three things
+[31:22] Did we say that divide both of them?
+[31:24] Do this and make two arrays. can make because
+[31:27] Look, you have to use a space anyway.
+[31:30] Is. which is your resulting array which you will get
+[31:32] Have to give output. So still you space
+[31:34] Just using order of n. so mine
+[31:37] Understandably, two arrays should be made. not too
+[31:39] If you make it, it will be done. You are in the same array as him.
+[31:42] Can treat that as two separate arrays.
+[31:44] But for those of you who are beginners, right now
+[31:46] Who doesn't understand the complexity that much
+[31:48] When it comes, we are saying make an array.
+[31:50] It is important to learn the concepts. also in the same array
+[31:51] Can do. let me know when you write the code
+[31:54] Will show how to do it in bean array.
+[31:56] What will we do in this? into what
+[31:59] do? We are speaking to make you understand
+[32:00] Make different arrays. so you
+[32:02] He will get practice. -4 -1 0 what
+[32:08] Is? There is three, there is 10, 0 1 2 3 4 what we
+[32:12] Speak? Two arrays have to be made. So in C++ either
+[32:15] Whichever array in python or in java
+[32:18] If it is made then we will make an A and
+[32:24] Will make a B. we don't know yet
+[32:27] It is so negative. don't know how to remember
+[32:29] How much is negative and how much is positive?
+[32:31] Is. But it may be negative
+[32:32] Be positive. The entire array may be negative
+[32:34] yes. Either the entire array is positive. its also
+[32:37] Take care. Look it is written that it is negative
+[32:39] Is positive. This does not mean that it is there.
+[32:41] Could. The entire array may be negative.
+[32:44] The entire array may be positive. either first
+[32:46] There are only three cases, negative and then positive.
+[32:49] You will have to handle all three cases.
+[32:51] What will we do in this? main array in main array
+[32:54] Run a loop in it brother. Make i = 0. i <
+[32:58] n do it. i plus plus. now jo main
+[33:01] Hey, his name is Main. If
+[33:04] main array
+[33:06] Do not write name of main variable. Main
+[33:09] Not allowed to explain in C++
+[33:11] Are telling. Main Array Greater Than Equal To
+[33:13] 0 means positive
+[33:16] Put this in the positive one. so B dot
+[33:18] pushbuck
+[33:21] This is the syntax of C++. do you guys understand
+[33:24] Must be knowing what we want to do.
+[33:25] Ok? What will B Dot Pushbuck do? main eye
+[33:30] If else is negative then A dot pushback
+[33:36] this is main
+[33:39] And turn it off. Look at this in C++ or
+[33:42] It's not about Java or Python. this codes
+[33:44] What's happening in Stippet?
+[33:47] In the main main array we are traversing
+[33:49] Are. If element of main array is negative
+[33:52] So we are putting it in the negative array.
+[33:53] Are. If it is positive then it should be called positive array.
+[33:55] Putting in. This is what is happening. main array
+[33:57] are traversing. if it is negative
+[33:58] Putting it in. If it is positive then
+[34:00] Putting in. Now whatever array will be made of us
+[34:02] Which is becoming B and A. are these two
+[34:04] Will it be sorted? Yes it will be sorted. Because
+[34:06] First you put all the negative in B.
+[34:08] All positives were put in A. written
+[34:10] The question is whether the entire array is sorted.
+[34:12] So the negative part is also sorted,
+[34:13] The positive is also sorted. finally give you
+[34:16] Hey get it, hey man. so you get two arrays
+[34:19] is A and B. B What's yours? negative array
+[34:22] Is. Now let us handle the first case. It is possible
+[34:25] that the array must contain negative elements
+[34:27] No. It may be in the array 1 2 3
+[34:30] It is not negative. How to know that
+[34:32] Not negative. If of negative element
+[34:35] Hey which one was it? Was B. B negative element
+[34:39] Are saying. No B is positive. good B
+[34:41] Saying positive. A saying negative
+[34:43] Are. So if the size of A is equal to 0
+[34:46] Went. Size of A is equal to 0. This means
+[34:49] What is? that you don't push anything into it
+[34:51] Did it. When did you push in A? negative
+[34:53] I used to push. If size of A is zero.
+[34:56] Meaning there is no negative element in the array.
+[34:58] If it is not a negative element then which one is it?
+[35:00] Have a question? This is a basic question sir.
+[35:01] The entire array is positive. Just what to do?
+[35:05] Square the array. square it up
+[35:09] Of array.
+[35:11] ok square we've already done
+[35:13] What? let's do the square already
+[35:15] Let's take. let us tell you the square of the array
+[35:16] Have to do it. complete array before doing anything
+[35:19] Square it. to complete array
+[35:20] How to square? to complete array
+[35:22] How to square? For i = 0 i < n
+[35:27] i + square has to be done in the last.
+[35:30] square so not any good square
+[35:32] Should not do. if you square it
+[35:34] There will be trouble. no yes ok ok
+[35:36] ok ok look if you square first
+[35:39] If you do this then negative will become positive.
+[35:40] You won't know, it's okay, it's my mistake
+[35:42] is ok if if if all element
+[35:45] If positive then true then the square of the array
+[35:48] If you do it here then run i = 0 i < n i + and
+[35:55] Whatever your main array is what is the main array
+[35:57] main i = main i * main i of the entire array
+[36:03] Every element becomes square
+[36:05] done and is there anything more to do
+[36:07] need? no no the entire array is sorted
+[36:09] So return it. return means either
+[36:13] Store the result in another
+[36:15] Please return it. Are you able to understand what you did?
+[36:17] If the size of a is zero, it means the entire array.
+[36:21] Is positive. The entire array is positive. Complete
+[36:24] The array is positive. If the entire array is positive
+[36:27] Square it. Please return it. be this
+[36:29] Went. Now look carefully. If B Dot Size
+[36:33] Is zero. B dot size is zero. So what
+[36:36] Son? When will the size of B become zero? In B we
+[36:39] What were people storing? Positive. of B
+[36:41] Size zero means all array is negative
+[36:44] Is. Your entire array is useless this way.
+[36:46] It is array. -4, -3, -2. What was said in this?
+[36:50] Square it. 16, 94 and this kiss
+[36:53] Sorted in order? descending order
+[36:55] Is sorted. So reverse it.
+[36:57] Reverse it and return it. simple thing
+[36:59] Is. is the complete array.
+[37:01] So i = 0 i < n i + square main i
+[37:11] = main i * main i Reverse it.
+[37:18] Reversing has its own function.
+[37:20] C++ in python. reverse you also reverse like this
+[37:23] Also happens with two pointer. reverse also two
+[37:24] Is done by pointer. But that's not us right now
+[37:27] Are teaching. Well then. Ok? Ok?
+[37:29] The reverse also happens with a two pointer. remember
+[37:31] Will teach one day. Ok? main dot begin
+[37:35] main dot end or whatever your language is
+[37:37] You will see the syntax reverse
+[37:39] How to manipulate an array and return
+[37:43] Main. What did you do? What did you do? Look again.
+[37:47] Look again. b means size zero
+[37:50] The entire array has empty negative elements.
+[37:52] What did you do? square
+[37:55] Squared.
+[37:57] Squared and reversed. Why?
+[37:59] Because it was sorted upside down and returned
+[38:01] Given. It's a simple thing. Now if you are coming here
+[38:05] Are. Now if you are coming here then it means
+[38:08] I have both things. is also positive,
+[38:09] It is also negative. And your which is an array with a
+[38:13] There is negative in it. And your B array
+[38:16] There is positive in it. What to do now?
+[38:19] What is the final result you want? what order
+[38:21] to sort in? From negative to positive.
+[38:23] No, according to the square. First of all
+[38:26] square a's square a
+[38:29] square b square b and now
+[38:33] You have an array that looks like this
+[38:35] After squaring your and a,
+[38:38] yes 16 one how will this look 0 9 100 now this
+[38:45] In which order is the negative one sorted?
+[38:47] is sorted in reverse reverse it
+[38:49] Here brother, just reverse this array.
+[38:52] 1 16 This is your array 0 9 100 0 1 0 1 2 This
+[38:59] The array is sorted. This array is sorted. To you
+[39:02] A new array has to be created whose length will be
+[39:04] will be? 2 + 3 2 + 3 5 You get one in the answer
+[39:08] An array of five lengths has to be given. 0 1 2 3 4 now
+[39:13] Same thing. Now in the merge pointer
+[39:15] Wrote algorithms. Put I here. to j
+[39:18] Keep it here. Compare. Keep inserting. compare
+[39:20] do it. Keep inserting. An array is over.
+[39:22] Handle the H case after that. this is yours
+[39:24] An array will be formed. You return this array
+[39:27] Will give.
+[39:29] Did you understand this much or not? Comment
+[39:31] Will do. A lot of hard work has gone into this story
+[39:33] In making. We will also see its code now.
+[39:35] You can also run the code in all three languages.
+[39:37] Will show that it works. we don't lie
+[39:39] Have been. It's not that we make up some story
+[39:40] Have given. Isn't it? and time complexity
+[39:43] How much will it cost? Order of n. these questions
+[39:47] The explanation ends here. Ahead
+[39:48] We will check the code. Ok? let's move ahead
+[39:52] We'll show you the code right now. Let's C++
+[39:55] Print out the code that people aren't writing.
+[39:57] See we code in C++ Java Python all three
+[39:59] Will show. So don't flirt. why we code
+[40:02] Don't show it, right? Because when we code
+[40:03] If I show you then you guys don't write on your own.
+[40:05] Are. Well what can we do? now look at the code
+[40:08] It is simple. what we have written on the board
+[40:10] Write in code. It is not that we
+[40:11] Writes something secretly on the iPad. on that
+[40:13] Some write less. Come here and submit
+[40:15] Let's give. Ok? we don't have any competition
+[40:16] Is. Which is negative positive make two arrays
+[40:19] Take it. What is our main array? a. a you
+[40:22] Given which is sorted. its size
+[40:24] The size is. First things first, divide a by
+[40:26] After doing this, we have to divide it into both the arrays. so if
+[40:28] If AI is less than zero i.e. negative then it
+[40:31] Have to put it in negative. if it is big
+[40:33] Have to put it in positive. Now the first H case
+[40:35] Negative means no negative element. negative
+[40:37] There is no element. This means everything is positive
+[40:39] Is. It is a simple question. will be in positive
+[40:41] All positive elements. square everyone
+[40:43] Give and return. if positive
+[40:46] Zero means no positive element. All
+[40:48] Is negative. so square the negative
+[40:51] Give it. but but don't reverse
+[40:53] Don't forget that this is an upside short head right now.
+[40:55] This is how to do the reverse in C++. array name
+[40:58] Name the begin array using end and reverse.
+[41:00] You can do it yourself too two pointer
+[41:02] Will they ever teach? But now we reverse
+[41:04] We did not come to teach, so we used it like this.
+[41:06] Were. You have to return negative. If
+[41:09] You come here means even in negative
+[41:11] There is an element, there is an element in positive also.
+[41:13] So the two are not square yet. Bus
+[41:15] It is a simple element. so take two pointer
+[41:18] Take it. Take the ID. Why take ID?
+[41:19] For result. Now n is the size of negative.
+[41:22] m is the size of positive. size of result array
+[41:24] How much should it be? both being equal
+[41:26] Needed Must be n + m. So took it. Now
+[41:28] Square the negative array and
+[41:31] reverse after squaring
+[41:32] So that it remains in the correct sorted order.
+[41:33] Sorted is still upside down. positive array
+[41:36] Square it. to reverse it
+[41:38] There is no need. Now what about us
+[41:40] There is a pointer algorithm, run it. i
+[41:42] Must stick to your n. j should last till m.
+[41:44] What is n and m? size of negative positive
+[41:46] Is. Now see the result of the one who is smaller.
+[41:50] Have to put in. that id must be increased
+[41:51] Have to increase. That pointer has to be incremented. if these
+[41:53] If it is small then positive has to be inserted. to the id
+[41:56] So it has to be increased. increment this pointer
+[41:58] Is. And by coming here, your vicious loop will end.
+[42:00] Will go. What does it mean to end the while loop?
+[42:02] Is? Either I has come out or J
+[42:04] either one has gone out or both have gone out
+[42:06] Already happened. There can be only three cases. so h
+[42:09] Handle the case. maybe she just came
+[42:11] Have not come out. So all the elements of I
+[42:13] Select it and put it in the result. ID
+[42:15] Keep increasing, keep increasing. It is possible
+[42:17] If J is not found then all positive J's are found.
+[42:20] Keep selecting the elements and inserting them into the result.
+[42:22] Keep increasing the ID. Keep increasing J.
+[42:24] Return the results. so see this code
+[42:26] Looks big but is very small.
+[42:28] We will submit it and see. submission
+[42:31] Will put the link in the description. You
+[42:33] If people don't know then they can understand the meaning.
+[42:35] Go there and see. Look at this. This
+[42:37] It doesn't matter. 60% 80 these
+[42:39] Everything is fake. Ok? it doesn't matter that much
+[42:42] Doesn't fall. so we will put this
+[42:43] In description. You guys go to C++
+[42:45] Please see the code. Those who want to see Python java
+[42:47] Look ahead. We will post the submission link for that also.
+[42:49] Will give. Ok? Let's look at the Java code.
+[42:51] Take it. This is the question. squares
+[42:53] Code of Sorted Array Java. after this
+[42:55] Python will also be available. and submission link
+[42:58] We will put it in the description. See
+[42:59] Will take it. So the same work has to be done. look at you
+[43:01] An array is given. you have to return
+[43:02] List. So first of all find out n. n
+[43:06] is the length of your main array. negative positive
+[43:09] Take it out. Array list is both which
+[43:11] Dynamic may increase. Isn't it? so separate
+[43:14] Negative and positive numbers. so in this
+[43:16] what are you doing if that is less than zero
+[43:17] Meaning if it is negative then it is called negative.
+[43:19] Added to the list. otherwise positive
+[43:21] Added to the list. Now this is case one
+[43:23] If all the elements are positive then
+[43:25] It's a very simple thing. This is a basic question.
+[43:26] What are we doing? that if negative
+[43:28] The size of is zero. meaning someone in the negative
+[43:30] There is no element. So everything is positive.
+[43:32] Square it all and return it
+[43:34] Give it like this. If there is any positive element
+[43:37] If not then everyone's negative is squared.
+[43:38] Do it and reverse it too.
+[43:40] This is how to do the reverse in Python. Ok?
+[43:42] So return it. but if
+[43:45] There is negative as well as positive. case three
+[43:47] Whatever it was, now start the two pointer. i
+[43:50] Took JI ED. i and j are for
+[43:52] For pointer. Why have you taken ED? n1 and
+[43:54] for n2. Want to store it in the result?
+[43:56] Brother. So the size of the result is n1 n2 then its
+[43:58] Have taken ID for. Now first negative
+[44:01] squared the negative and
+[44:03] Do reverse also. Because when this square
+[44:04] If it happens then it will be an inverted square. of positive
+[44:06] Square it. need to reverse this
+[44:08] Not there. He will remain that. now you have two
+[44:10] Sorted list. you get both in one
+[44:12] Have to merge. Same question.
+[44:14] So now see why here i = 0
+[44:19] write? Because we use i in the loop
+[44:21] Had I done so, I would have been spoiled. Ok? Any
+[44:22] You must be thinking that these were written here, right?
+[44:25] Wrote int i = 0. Why i = 0 here
+[44:28] Wrote it? j = because i is used in the loop
+[44:30] Did it. If you don't want to do this then every loop
+[44:32] If you write int i in it then it will become different.
+[44:34] Will go. Ok? Now here i = 0 and j = 0
+[44:39] Is also. It is not written here, you can write.
+[44:40] If you feel like it then write. There is no problem.
+[44:42] Now as long as i is smaller than n1 and j is smaller than n2
+[44:46] So i is moving in negative. j positive
+[44:47] I am walking. Keep watching. which is smaller
+[44:50] Put it to rest. look at this write
+[44:52] It's a good way. Race ID + = Neck Dot
+[44:55] Gate i + What does it mean? first race
+[44:58] Will put negative 'I' in 'ID'. His
+[45:00] Will increase the ID later. Then we will increase i.
+[45:02] So the work of three lines should be done in one line.
+[45:04] Could. Ok? There is optimization. To you
+[45:06] Write whatever you feel like in three lines. What does it mean
+[45:08] Are we speaking? There are three things in this
+[45:10] Used to be. This one statement does three things
+[45:12] Used to be. First things first, rest that's why
+[45:15] We say that the video should be watched completely.
+[45:16] You will come to know some things that you
+[45:18] Must not be coming. We know. it's either
+[45:20] Maybe you know. a little better
+[45:21] Something like this comes up. So first of all this
+[45:25] We do. After that ID would have been plus plus
+[45:28] Is. After that there is i++. So these three
+[45:32] It is a line work, it is happening in a line.
+[45:34] Is here. This line will run first. After that
+[45:37] ID will be a plus. after that i++
+[45:40] Will go. Understand? Same work is happening here.
+[45:42] Positive j will come in the first rest. Then
+[45:45] idd will increase. Then j will increase. Ok? Here
+[45:47] Your while loop is over.
+[45:50] While loop ends. Like this, comment on this
+[45:54] It's okay to do. Now this vicious loop is over
+[45:57] Meaning either this condition must have failed
+[46:00] Either this condition must have failed or
+[46:01] Both falls must have occurred. meaning that either i
+[46:04] Got out of the negative. j positive array
+[46:06] either got out or both got out
+[46:08] Went. So you will have to handle both.
+[46:10] It is possible that i may not have come out yet. if i not
+[46:12] If it turns out then you have to do this work. Its
+[46:14] Means same work. The negative came to rest
+[46:17] Put it in. Increase ID, increase I.
+[46:20] J may not have turned out. J of positive
+[46:22] Pick it up and put it in the rest. increase id
+[46:24] Give it. Increase J. once this is done
+[46:26] If gone then rest the return. so this
+[46:28] It was simple Python code. now run it
+[46:31] Let's take a look. You will get its link
+[46:33] Of submission. you go and see if
+[46:35] If there is any doubt then if you do not have the code then
+[46:37] Take a look. 49% doesn't matter.
+[46:39] Saying again and again. Ok? all this like this
+[46:41] It is meant to fool the audience.
+[46:45] Let's see what we want to see in Python.
+[46:47] Take a look. You will get its link
+[46:48] You can see the complete code by going to the description.
+[46:50] Can. Ok? first list
+[46:52] Import it. what do you do after that
+[46:54] is given? A list is given of integers.
+[46:56] Of. You must return a list of integers only.
+[46:57] Is. Meaning array is given return array
+[46:59] Is. The first thing to do is take the size. in that
+[47:01] Store the length. Made two arrays.
+[47:03] Empty negative positive. first of all
+[47:06] Separate negative and positive. So
+[47:08] Whatever number of elements are there in the number, if it is negative
+[47:10] If yes then put it in the negative array.
+[47:11] If it is positive then append it to positive.
+[47:13] Ok? Now in case one where there is no negative
+[47:16] There is no number. Meaning that if negative array
+[47:17] If the length becomes zero, it means something negative.
+[47:19] There is no number. everything is positive so much
+[47:21] It's a good thing. This is one way x * x
+[47:24] What does for x in pause mean?
+[47:26] Whatever element is in positive
+[47:27] Square it and return it. this is what you are doing
+[47:29] Were there? What to do when it is positive?
+[47:30] Have to square and return. that sorted
+[47:32] Will remain the same. But case two if someone is positive
+[47:34] There is no number. The entire array is negative.
+[47:36] In that you have to do two things. To all
+[47:38] First you have to put all the squares in the result.
+[47:39] Have to store. After that the result
+[47:41] Have to reverse. Why? because -4
+[47:43] - 1 squared will become 16 and 1.
+[47:45] This has to be reversed to make one and 16.
+[47:48] Return is done. Case three has both.
+[47:51] You have a negative array, a positive array
+[47:53] Is. First of all square the negative array
+[47:55] Did it. And now what is this? now many people
+[47:58] didn't understand what was happening here
+[47:59] Used to be. See.
+[48:01] What did we have to do in the negative array?
+[48:02] First we square the negative array
+[48:04] Had to do. The gift had to be reversed. this one line
+[48:06] There is a way to do both. Ok? One
+[48:09] There's a way to do both on line. positive
+[48:11] We just had to square off. so this
+[48:12] We're just squaring off here.
+[48:14] Ok? This means you do this.
+[48:16] Have been. Doing reverse. so you this
+[48:19] Can do it normally also. you one line each
+[48:21] It would be better if you do it in writing. But
+[48:22] Ok? What to do now? near you
+[48:25] Negative square array that is sorted
+[48:27] Is. Now reversed. positive
+[48:28] Are square array which is sorted. Two
+[48:29] are sorted arrays. Creating a Third Sorted Array
+[48:32] Is. Look at nm. nm n length of negative
+[48:35] Is. m is the length of positive. your result
+[48:37] Is an empty array. Understand? Now here is the ID
+[48:40] People are not taking it. Take notice. ID
+[48:41] Not taking. What does it mean to get an ID?
+[48:43] Was? That ID starts from zero till one.
+[48:45] Going, going two, going three.
+[48:46] ID is for result. you normally append
+[48:49] Can also do. append means result
+[48:51] So whatever result comes blank, append it.
+[48:52] Two. So the need for ID is eliminated.
+[48:54] If you want, you can take it. now raise two pointers
+[48:57] For. i = j = 0 again. What does it mean?
+[49:00] i = 0 and j = 0 two lines into one line
+[49:04] Can write. Don't be afraid of all this.
+[49:06] Write all this as you feel like. Any
+[49:08] It doesn't matter. now let's go to two pointer
+[49:11] Take it. i till n and j till m means i is negative
+[49:14] at the start of the array and j of the positive array
+[49:16] In the start. If that negative one is small
+[49:19] So put negative in the result i = i + 1
+[49:22] Please do it. What does it mean? Yes? Its
+[49:24] What is the meaning? i = i + 1. Ok? Its
+[49:27] This means. If the positive one is bigger then others
+[49:30] So put the positive one in the rest and
+[49:32] j + = 1 means j = j + 1 Now come here
+[49:37] Meaning your while loop is over. End
+[49:39] That's why we came. while loop ending
+[49:41] Meaning either this falls or this falls
+[49:44] Either or both are falls. so that means either
+[49:46] has come out either j come out
+[49:47] Either one or both have gone out.
+[49:49] So you have to handle it. maybe one
+[49:51] It still hasn't come out. as if it had not come out
+[49:53] In our example. If I'm not out
+[49:55] It turns out that all the elements are negative.
+[49:57] I append them to the rest and
+[49:59] Keep increasing i until i comes out.
+[50:01] It will come out someday or the other. sometimes increase
+[50:03] If you go then it will come out sometime. Similarly if J
+[50:06] If it has not come out of the positive array
+[50:08] Keep adding one by one. keep increasing j
+[50:10] Until it goes away. all the work is done
+[50:12] Return the result after. so this
+[50:14] Yours was Python code. run it
+[50:16] Are. You will find it in the description.
+[50:18] What do you say? get submission link
+[50:20] Will go. You can go and see the code if not
+[50:22] If you understand. because many people say
+[50:24] Are there any problems in coding?
+[50:26] Gradually those problems will go away. then let's go
+[50:28] Went. Don't be afraid of 56 13. all this
+[50:30] It's a fool's errand. there is some meaning in this
+[50:32] Does not happen. Come on, let's solve this.
+[50:34] Ok? Don't keep laughing at the code.
+[50:36] Solve it, submit it, run it and
+[50:39] See you in the next lecture.

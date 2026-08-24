@@ -1,0 +1,4549 @@
+{
+  "video_id": "ljJJcYql6Bc",
+  "title": "2 Pointers Technique",
+  "language": "en",
+  "model": "unknown",
+  "duration": 2474,
+  "segments": [
+    {
+      "start": 0,
+      "timestamp": "00:00",
+      "text": "okay brother. So today is day five two pointer"
+    },
+    {
+      "start": 3,
+      "timestamp": "00:03",
+      "text": "And today is the last day of this pattern."
+    },
+    {
+      "start": 5,
+      "timestamp": "00:05",
+      "text": "Of. Why are we talking about the last day?"
+    },
+    {
+      "start": 7,
+      "timestamp": "00:07",
+      "text": "Because if you open the sheet and see,"
+    },
+    {
+      "start": 11,
+      "timestamp": "00:11",
+      "text": "And question remains. Ok? one left"
+    },
+    {
+      "start": 14,
+      "timestamp": "00:14",
+      "text": "triplets"
+    },
+    {
+      "start": 15,
+      "timestamp": "00:15",
+      "text": "smaller sum"
+    },
+    {
+      "start": 18,
+      "timestamp": "00:18",
+      "text": "One is the Dutch national flag."
+    },
+    {
+      "start": 22,
+      "timestamp": "00:22",
+      "text": "More questions remain. All that's left is one."
+    },
+    {
+      "start": 26,
+      "timestamp": "00:26",
+      "text": "And product question."
+    },
+    {
+      "start": 29,
+      "timestamp": "00:29",
+      "text": "And three problem challenges are left. if you"
+    },
+    {
+      "start": 32,
+      "timestamp": "00:32",
+      "text": "Will look at the sheet carefully or else in the last"
+    },
+    {
+      "start": 34,
+      "timestamp": "00:34",
+      "text": "Three problem challenges are written. Now"
+    },
+    {
+      "start": 37,
+      "timestamp": "00:37",
+      "text": "Look, I don't want to get this done right now."
+    },
+    {
+      "start": 41,
+      "timestamp": "00:41",
+      "text": "I want. Why? because this na to"
+    },
+    {
+      "start": 43,
+      "timestamp": "00:43",
+      "text": "Sliding window pattern over pointer"
+    },
+    {
+      "start": 45,
+      "timestamp": "00:45",
+      "text": "There is a question of. This is a sliding window"
+    },
+    {
+      "start": 48,
+      "timestamp": "00:48",
+      "text": "There are many questions. It does not mean that"
+    },
+    {
+      "start": 50,
+      "timestamp": "00:50",
+      "text": "Belongs to both. And whatever problem or challenge"
+    },
+    {
+      "start": 52,
+      "timestamp": "00:52",
+      "text": "We are keeping that for last."
+    },
+    {
+      "start": 55,
+      "timestamp": "00:55",
+      "text": "Because when we read a lot of patterns"
+    },
+    {
+      "start": 57,
+      "timestamp": "00:57",
+      "text": "If you don't take it then you will have to come for revision."
+    },
+    {
+      "start": 59,
+      "timestamp": "00:59",
+      "text": "How to do? How will you understand that those who"
+    },
+    {
+      "start": 60,
+      "timestamp": "01:00",
+      "text": "Do you still remember what you learned? this every"
+    },
+    {
+      "start": 63,
+      "timestamp": "01:03",
+      "text": "Problem challenge question of every pattern"
+    },
+    {
+      "start": 65,
+      "timestamp": "01:05",
+      "text": "Will do it last. Now this sliding window"
+    },
+    {
+      "start": 67,
+      "timestamp": "01:07",
+      "text": "Why is it of? Because what is a two pointer?"
+    },
+    {
+      "start": 70,
+      "timestamp": "01:10",
+      "text": "To pointer you can think of a super set"
+    },
+    {
+      "start": 72,
+      "timestamp": "01:12",
+      "text": "Is of pattern. sliding window one way"
+    },
+    {
+      "start": 75,
+      "timestamp": "01:15",
+      "text": "It's just a two pointer. sliding window one"
+    },
+    {
+      "start": 78,
+      "timestamp": "01:18",
+      "text": "The two pointer of manner is with some conditions with"
+    },
+    {
+      "start": 82,
+      "timestamp": "01:22",
+      "text": "Even conditions. So every sliding window to"
+    },
+    {
+      "start": 85,
+      "timestamp": "01:25",
+      "text": "Is a pointer. But every two pointer sliding"
+    },
+    {
+      "start": 87,
+      "timestamp": "01:27",
+      "text": "There is no window. Ok? That's why this"
+    },
+    {
+      "start": 89,
+      "timestamp": "01:29",
+      "text": "We have more questions, after this, after this"
+    },
+    {
+      "start": 91,
+      "timestamp": "01:31",
+      "text": "If you walk directly on the sliding window then this"
+    },
+    {
+      "start": 93,
+      "timestamp": "01:33",
+      "text": "Will ask questions. So in this pattern two"
+    },
+    {
+      "start": 96,
+      "timestamp": "01:36",
+      "text": "Questions left which will be covered in this lecture"
+    },
+    {
+      "start": 97,
+      "timestamp": "01:37",
+      "text": "Will do and will do a complete revision tomorrow."
+    },
+    {
+      "start": 101,
+      "timestamp": "01:41",
+      "text": "Of two patterns. What will you do in revision?"
+    },
+    {
+      "start": 104,
+      "timestamp": "01:44",
+      "text": "Will raise question by question."
+    },
+    {
+      "start": 107,
+      "timestamp": "01:47",
+      "text": "Will understand what the question was and will understand"
+    },
+    {
+      "start": 109,
+      "timestamp": "01:49",
+      "text": "Why to pattern? two pointer y two point"
+    },
+    {
+      "start": 112,
+      "timestamp": "01:52",
+      "text": "This is most important. y to pointer"
+    },
+    {
+      "start": 116,
+      "timestamp": "01:56",
+      "text": "Types of two pointers"
+    },
+    {
+      "start": 120,
+      "timestamp": "02:00",
+      "text": "You will see that the two pointers may be different."
+    },
+    {
+      "start": 122,
+      "timestamp": "02:02",
+      "text": "Low may be high. low high movement kya"
+    },
+    {
+      "start": 124,
+      "timestamp": "02:04",
+      "text": "Is doing and a how to recognize. Once"
+    },
+    {
+      "start": 130,
+      "timestamp": "02:10",
+      "text": "Again he will walk looking at the flow chart."
+    },
+    {
+      "start": 132,
+      "timestamp": "02:12",
+      "text": "So there will be revision tomorrow. So tomorrow's lecture will definitely happen."
+    },
+    {
+      "start": 134,
+      "timestamp": "02:14",
+      "text": "Will see. Today we will ask these two questions. Correct"
+    },
+    {
+      "start": 137,
+      "timestamp": "02:17",
+      "text": "Is? Which two questions will you ask today? First"
+    },
+    {
+      "start": 139,
+      "timestamp": "02:19",
+      "text": "Hoga Triplets Smaller Some and Dutch National"
+    },
+    {
+      "start": 144,
+      "timestamp": "02:24",
+      "text": "Flag. These two are very important questions"
+    },
+    {
+      "start": 146,
+      "timestamp": "02:26",
+      "text": "Is. Both of you have very important questions."
+    },
+    {
+      "start": 148,
+      "timestamp": "02:28",
+      "text": "Is. First explanation first"
+    },
+    {
+      "start": 151,
+      "timestamp": "02:31",
+      "text": "Will explain. then its code"
+    },
+    {
+      "start": 152,
+      "timestamp": "02:32",
+      "text": "There is a link, go and check it out. then its"
+    },
+    {
+      "start": 154,
+      "timestamp": "02:34",
+      "text": "Will explain. go to the link of the code"
+    },
+    {
+      "start": 156,
+      "timestamp": "02:36",
+      "text": "Please take a look. And one more thing that stands out"
+    },
+    {
+      "start": 159,
+      "timestamp": "02:39",
+      "text": "This sound comes, this sound of this, this sound which"
+    },
+    {
+      "start": 162,
+      "timestamp": "02:42",
+      "text": "It keeps coming for some time because"
+    },
+    {
+      "start": 164,
+      "timestamp": "02:44",
+      "text": "What is it that you are looking at right now?"
+    },
+    {
+      "start": 166,
+      "timestamp": "02:46",
+      "text": "There is no video right now you just see a board"
+    },
+    {
+      "start": 168,
+      "timestamp": "02:48",
+      "text": "Must have been the video that used to come here."
+    },
+    {
+      "start": 170,
+      "timestamp": "02:50",
+      "text": "That's not because we just came home"
+    },
+    {
+      "start": 173,
+      "timestamp": "02:53",
+      "text": "If there is some internet problem then"
+    },
+    {
+      "start": 174,
+      "timestamp": "02:54",
+      "text": "When we make this side video"
+    },
+    {
+      "start": 176,
+      "timestamp": "02:56",
+      "text": "Neither is that 1 hour video around 10 GB."
+    },
+    {
+      "start": 179,
+      "timestamp": "02:59",
+      "text": "If it becomes possible then upload that 10 GB video."
+    },
+    {
+      "start": 182,
+      "timestamp": "03:02",
+      "text": "Do it, edit it and then upload it on YouTube."
+    },
+    {
+      "start": 185,
+      "timestamp": "03:05",
+      "text": "It takes a lot of internet to do so"
+    },
+    {
+      "start": 187,
+      "timestamp": "03:07",
+      "text": "It is taking too much time. So"
+    },
+    {
+      "start": 188,
+      "timestamp": "03:08",
+      "text": "I don't have that much internet. so now we"
+    },
+    {
+      "start": 190,
+      "timestamp": "03:10",
+      "text": "He is recording directly on the iPad."
+    },
+    {
+      "start": 191,
+      "timestamp": "03:11",
+      "text": "Are. That's why you should read this little by little"
+    },
+    {
+      "start": 193,
+      "timestamp": "03:13",
+      "text": "Comes little by little. tolerate a little"
+    },
+    {
+      "start": 195,
+      "timestamp": "03:15",
+      "text": "Do. can't do that much but try"
+    },
+    {
+      "start": 196,
+      "timestamp": "03:16",
+      "text": "Will do it or not. Don't come that much. a little bit"
+    },
+    {
+      "start": 198,
+      "timestamp": "03:18",
+      "text": "Will come. You see, if you write like this then now this"
+    },
+    {
+      "start": 200,
+      "timestamp": "03:20",
+      "text": "Will fit into it. There is sound even on the black board"
+    },
+    {
+      "start": 202,
+      "timestamp": "03:22",
+      "text": "It comes, doesn't it? So a little bit will come. Effort"
+    },
+    {
+      "start": 204,
+      "timestamp": "03:24",
+      "text": "Will do it or not. So please bear with me a little."
+    },
+    {
+      "start": 207,
+      "timestamp": "03:27",
+      "text": "Ok? Triplets Smaller. triplets"
+    },
+    {
+      "start": 211,
+      "timestamp": "03:31",
+      "text": "Smaller."
+    },
+    {
+      "start": 212,
+      "timestamp": "03:32",
+      "text": "Now those who have not seen yesterday's lecture,"
+    },
+    {
+      "start": 215,
+      "timestamp": "03:35",
+      "text": "Haven't seen yesterday's threesome lecture?"
+    },
+    {
+      "start": 217,
+      "timestamp": "03:37",
+      "text": "They won't understand this. This first we"
+    },
+    {
+      "start": 218,
+      "timestamp": "03:38",
+      "text": "Gave warning. Those who watch that lecture"
+    },
+    {
+      "start": 220,
+      "timestamp": "03:40",
+      "text": "have done, they understood this in 5 minutes"
+    },
+    {
+      "start": 222,
+      "timestamp": "03:42",
+      "text": "Will go. It's a good thing. Ok? question"
+    },
+    {
+      "start": 225,
+      "timestamp": "03:45",
+      "text": "What does he say? What does the question say?"
+    },
+    {
+      "start": 228,
+      "timestamp": "03:48",
+      "text": "You have triplets. you have an array"
+    },
+    {
+      "start": 231,
+      "timestamp": "03:51",
+      "text": "is given. Ok? hey what do you have"
+    },
+    {
+      "start": 233,
+      "timestamp": "03:53",
+      "text": "Gave? -1"
+    },
+    {
+      "start": 235,
+      "timestamp": "03:55",
+      "text": "0 1 and 3."
+    },
+    {
+      "start": 239,
+      "timestamp": "03:59",
+      "text": "ok sir. You are given a sum which is"
+    },
+    {
+      "start": 241,
+      "timestamp": "04:01",
+      "text": "Have two. What do you have to say? number of ij"
+    },
+    {
+      "start": 246,
+      "timestamp": "04:06",
+      "text": "mean number of triplets"
+    },
+    {
+      "start": 249,
+      "timestamp": "04:09",
+      "text": "their sum"
+    },
+    {
+      "start": 251,
+      "timestamp": "04:11",
+      "text": "Less than given is even. their sum is less than given"
+    },
+    {
+      "start": 255,
+      "timestamp": "04:15",
+      "text": "Even means ai + aj + a is less than even."
+    },
+    {
+      "start": 264,
+      "timestamp": "04:24",
+      "text": "How many triplets are there? like if"
+    },
+    {
+      "start": 267,
+      "timestamp": "04:27",
+      "text": "If there are three then you have to answer three. like this"
+    },
+    {
+      "start": 268,
+      "timestamp": "04:28",
+      "text": "What a variety of triplets! These ij's"
+    },
+    {
+      "start": 271,
+      "timestamp": "04:31",
+      "text": "Have indexes. Is the indices. Ok? of ij"
+    },
+    {
+      "start": 274,
+      "timestamp": "04:34",
+      "text": "Have indexes. Ok? and you were told"
+    },
+    {
+      "start": 277,
+      "timestamp": "04:37",
+      "text": "All arrays are distinct. all"
+    },
+    {
+      "start": 279,
+      "timestamp": "04:39",
+      "text": "The elements are distinct. so no"
+    },
+    {
+      "start": 281,
+      "timestamp": "04:41",
+      "text": "Duplicates are not duplicates at all."
+    },
+    {
+      "start": 284,
+      "timestamp": "04:44",
+      "text": "Understand those who watched yesterday's lecture."
+    },
+    {
+      "start": 286,
+      "timestamp": "04:46",
+      "text": "Duplicate must be coming in so important"
+    },
+    {
+      "start": 287,
+      "timestamp": "04:47",
+      "text": "Why is it? Why are we speaking? No"
+    },
+    {
+      "start": 289,
+      "timestamp": "04:49",
+      "text": "Duplicate. Ok? again we are speaking"
+    },
+    {
+      "start": 290,
+      "timestamp": "04:50",
+      "text": "If you haven't seen yesterday's lecture three"
+    },
+    {
+      "start": 292,
+      "timestamp": "04:52",
+      "text": "Look at this even one first. Then"
+    },
+    {
+      "start": 295,
+      "timestamp": "04:55",
+      "text": "See this otherwise you won't understand."
+    },
+    {
+      "start": 297,
+      "timestamp": "04:57",
+      "text": "This will be useless. Don't waste time in this"
+    },
+    {
+      "start": 298,
+      "timestamp": "04:58",
+      "text": "Do it. Just pause and look at it."
+    },
+    {
+      "start": 300,
+      "timestamp": "05:00",
+      "text": "ok sir. Now those who are in this yesterday's three sub"
+    },
+    {
+      "start": 304,
+      "timestamp": "05:04",
+      "text": "Have seen it is exactly the same question"
+    },
+    {
+      "start": 306,
+      "timestamp": "05:06",
+      "text": "or not? There's a little twist. tomorrow we"
+    },
+    {
+      "start": 308,
+      "timestamp": "05:08",
+      "text": "What all did you do? yesterday we did that"
+    },
+    {
+      "start": 310,
+      "timestamp": "05:10",
+      "text": "Find the triplets. find triplets"
+    },
+    {
+      "start": 313,
+      "timestamp": "05:13",
+      "text": "Do those whose sum is equal to 0. And"
+    },
+    {
+      "start": 317,
+      "timestamp": "05:17",
+      "text": "Find triplets whose sum is a given"
+    },
+    {
+      "start": 322,
+      "timestamp": "05:22",
+      "text": "Be equal to the target. equal to given target"
+    },
+    {
+      "start": 326,
+      "timestamp": "05:26",
+      "text": "yes. These two questions were asked yesterday. Isn't it? And"
+    },
+    {
+      "start": 328,
+      "timestamp": "05:28",
+      "text": "What did one do? Some close to target."
+    },
+    {
+      "start": 332,
+      "timestamp": "05:32",
+      "text": "Close to target. Close to target. so this"
+    },
+    {
+      "start": 336,
+      "timestamp": "05:36",
+      "text": "Saw three types of questions yesterday. These"
+    },
+    {
+      "start": 337,
+      "timestamp": "05:37",
+      "text": "What is the question saying that the smaller sum"
+    },
+    {
+      "start": 341,
+      "timestamp": "05:41",
+      "text": "Number of Triplets Number with Some Smaller"
+    },
+    {
+      "start": 346,
+      "timestamp": "05:46",
+      "text": "Than target. Smaller than target. so one thing"
+    },
+    {
+      "start": 351,
+      "timestamp": "05:51",
+      "text": "So it is fixed that the question is of the same type."
+    },
+    {
+      "start": 354,
+      "timestamp": "05:54",
+      "text": "So one thing is fixed that two pointer"
+    },
+    {
+      "start": 356,
+      "timestamp": "05:56",
+      "text": "It will take. No one should have any doubt about this"
+    },
+    {
+      "start": 358,
+      "timestamp": "05:58",
+      "text": "Needed After watching yesterday's lecture in this"
+    },
+    {
+      "start": 361,
+      "timestamp": "06:01",
+      "text": "There will be a two-sum concept. as we"
+    },
+    {
+      "start": 363,
+      "timestamp": "06:03",
+      "text": "Had been doing it in triplets. in triplets"
+    },
+    {
+      "start": 365,
+      "timestamp": "06:05",
+      "text": "What have we been doing? eye fix"
+    },
+    {
+      "start": 367,
+      "timestamp": "06:07",
+      "text": "Used to do. do left right for every i"
+    },
+    {
+      "start": 370,
+      "timestamp": "06:10",
+      "text": "Were. Based on the sum left or right"
+    },
+    {
+      "start": 374,
+      "timestamp": "06:14",
+      "text": "Used to increase. either to the left or to the right"
+    },
+    {
+      "start": 379,
+      "timestamp": "06:19",
+      "text": "Either increased or decreased. this is this tomorrow"
+    },
+    {
+      "start": 380,
+      "timestamp": "06:20",
+      "text": "We have been doing threesomes continuously since"
+    },
+    {
+      "start": 382,
+      "timestamp": "06:22",
+      "text": "I am in right? This is what we have been doing, isn't it? Correct"
+    },
+    {
+      "start": 384,
+      "timestamp": "06:24",
+      "text": "Is? So now you see what is the first step"
+    },
+    {
+      "start": 388,
+      "timestamp": "06:28",
+      "text": "Was? In yesterday's question and today's question"
+    },
+    {
+      "start": 389,
+      "timestamp": "06:29",
+      "text": "Sort the array, brother. sort out"
+    },
+    {
+      "start": 391,
+      "timestamp": "06:31",
+      "text": "Take it. What will happen if you sort it?"
+    },
+    {
+      "start": 394,
+      "timestamp": "06:34",
+      "text": "will go? Well it's already sorted"
+    },
+    {
+      "start": 396,
+      "timestamp": "06:36",
+      "text": "It has happened. But still 0 1 3 is ok?"
+    },
+    {
+      "start": 402,
+      "timestamp": "06:42",
+      "text": "What is your sum?"
+    },
+    {
+      "start": 403,
+      "timestamp": "06:43",
+      "text": "2 From where to where did i move? i 0 to n -"
+    },
+    {
+      "start": 409,
+      "timestamp": "06:49",
+      "text": "Used to last till 2. It used to work, right? for every i"
+    },
+    {
+      "start": 413,
+      "timestamp": "06:53",
+      "text": "What was left? i + 1 what remains right"
+    },
+    {
+      "start": 417,
+      "timestamp": "06:57",
+      "text": "Was? Last n - 1 Been doing this since yesterday"
+    },
+    {
+      "start": 420,
+      "timestamp": "07:00",
+      "text": "Yes brother. Ok? what about us after that"
+    },
+    {
+      "start": 423,
+      "timestamp": "07:03",
+      "text": "used to do? After that they used to calculate the sum. what is even"
+    },
+    {
+      "start": 426,
+      "timestamp": "07:06",
+      "text": "used to happen? ai + a left"
+    },
+    {
+      "start": 431,
+      "timestamp": "07:11",
+      "text": "Plus a right."
+    },
+    {
+      "start": 434,
+      "timestamp": "07:14",
+      "text": "Ok? After that take three types of decisions"
+    },
+    {
+      "start": 437,
+      "timestamp": "07:17",
+      "text": "[Translation failed: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=en&sl=hi&q=%E0%A4%A5%E0%A5%87%E0%A5%A4+%E0%A4%AB%E0%A5%88%E0%A4%B8%E0%A4%B2%E0%A4%BE+%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87+%E0%A4%B2%E0%A5%87%E0%A4%A4%E0%A5%87+%E0%A4%A5%E0%A5%87%3F+%E0%A4%B8%E0%A4%AE+%E0%A4%87%E0%A4%95%E0%A5%8D%E0%A4%B5%E0%A4%B2+%E0%A4%87%E0%A4%95%E0%A5%8D%E0%A4%B5%E0%A4%B2 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))]"
+    },
+    {
+      "start": 441,
+      "timestamp": "07:21",
+      "text": "to target,"
+    },
+    {
+      "start": 445,
+      "timestamp": "07:25",
+      "text": "Some less than target. there were only three conditions"
+    },
+    {
+      "start": 449,
+      "timestamp": "07:29",
+      "text": "Not every time and even greater than target. every"
+    },
+    {
+      "start": 452,
+      "timestamp": "07:32",
+      "text": "There used to be three conditions. Ok? every time"
+    },
+    {
+      "start": 456,
+      "timestamp": "07:36",
+      "text": "Used to do something or the other. speaking generally speaking"
+    },
+    {
+      "start": 459,
+      "timestamp": "07:39",
+      "text": "I used to do different things. Different"
+    },
+    {
+      "start": 460,
+      "timestamp": "07:40",
+      "text": "According to the question. but generally here"
+    },
+    {
+      "start": 463,
+      "timestamp": "07:43",
+      "text": "There used to be left plus plus and here"
+    },
+    {
+      "start": 466,
+      "timestamp": "07:46",
+      "text": "Right minus used to be minus. to speak generally"
+    },
+    {
+      "start": 469,
+      "timestamp": "07:49",
+      "text": "For sum equal equal to target if"
+    },
+    {
+      "start": 471,
+      "timestamp": "07:51",
+      "text": "Had to handle duplicates, both increased"
+    },
+    {
+      "start": 473,
+      "timestamp": "07:53",
+      "text": "Used to give. first do left plus plus"
+    },
+    {
+      "start": 476,
+      "timestamp": "07:56",
+      "text": "Were. used to do right minus minus and till then"
+    },
+    {
+      "start": 479,
+      "timestamp": "07:59",
+      "text": "Kept increasing until there was no duplicate. Is"
+    },
+    {
+      "start": 482,
+      "timestamp": "08:02",
+      "text": "No? They used to work. Now you have every question"
+    },
+    {
+      "start": 486,
+      "timestamp": "08:06",
+      "text": "There is no change in these three conditions according to"
+    },
+    {
+      "start": 487,
+      "timestamp": "08:07",
+      "text": "have to do it. This is the condition. see the condition"
+    },
+    {
+      "start": 490,
+      "timestamp": "08:10",
+      "text": "Same will remain. even or equal to target"
+    },
+    {
+      "start": 492,
+      "timestamp": "08:12",
+      "text": "could be either less or more"
+    },
+    {
+      "start": 494,
+      "timestamp": "08:14",
+      "text": "It is possible These two same in 99% off cases"
+    },
+    {
+      "start": 497,
+      "timestamp": "08:17",
+      "text": "Will remain. You will have to change it here and there."
+    },
+    {
+      "start": 500,
+      "timestamp": "08:20",
+      "text": "You may have to change 10% things. Ok?"
+    },
+    {
+      "start": 503,
+      "timestamp": "08:23",
+      "text": "Now see what is your goal? all till here"
+    },
+    {
+      "start": 505,
+      "timestamp": "08:25",
+      "text": "It's beans. What is your goal? your goal is this"
+    },
+    {
+      "start": 508,
+      "timestamp": "08:28",
+      "text": "Want to find out, right?"
+    },
+    {
+      "start": 510,
+      "timestamp": "08:30",
+      "text": "target"
+    },
+    {
+      "start": 512,
+      "timestamp": "08:32",
+      "text": "Your goal is to get smaller and you have no"
+    },
+    {
+      "start": 515,
+      "timestamp": "08:35",
+      "text": "Do not print triplicate. you just"
+    },
+    {
+      "start": 517,
+      "timestamp": "08:37",
+      "text": "Have to find the number. Have to find the number."
+    },
+    {
+      "start": 521,
+      "timestamp": "08:41",
+      "text": "Have to find the number."
+    },
+    {
+      "start": 524,
+      "timestamp": "08:44",
+      "text": "So whose business is it with you? you like this one"
+    },
+    {
+      "start": 527,
+      "timestamp": "08:47",
+      "text": "Is the work of. This one has a job. do you"
+    },
+    {
+      "start": 529,
+      "timestamp": "08:49",
+      "text": "What is its work? No. do you like this"
+    },
+    {
+      "start": 531,
+      "timestamp": "08:51",
+      "text": "Is? No. so can we do that"
+    },
+    {
+      "start": 534,
+      "timestamp": "08:54",
+      "text": "Take only two conditions. a condition in which we"
+    },
+    {
+      "start": 536,
+      "timestamp": "08:56",
+      "text": "Got this, less than the target. next"
+    },
+    {
+      "start": 538,
+      "timestamp": "08:58",
+      "text": "Combine these two conditions"
+    },
+    {
+      "start": 540,
+      "timestamp": "09:00",
+      "text": "Because if there is even target then either even target"
+    },
+    {
+      "start": 543,
+      "timestamp": "09:03",
+      "text": "is bigger than then same thing because you search"
+    },
+    {
+      "start": 545,
+      "timestamp": "09:05",
+      "text": "What are they? You are even smaller than the target"
+    },
+    {
+      "start": 547,
+      "timestamp": "09:07",
+      "text": "Searching. If even equal to target"
+    },
+    {
+      "start": 550,
+      "timestamp": "09:10",
+      "text": "Even if it exists, it is big. whenever someone big"
+    },
+    {
+      "start": 552,
+      "timestamp": "09:12",
+      "text": "What do we do if we get it? Right"
+    },
+    {
+      "start": 553,
+      "timestamp": "09:13",
+      "text": "Let's subtract. This is what we do, right? Again"
+    },
+    {
+      "start": 556,
+      "timestamp": "09:16",
+      "text": "Tell me and listen. you want the sum to be smaller than the target"
+    },
+    {
+      "start": 559,
+      "timestamp": "09:19",
+      "text": "Are. If you get equal to even target"
+    },
+    {
+      "start": 561,
+      "timestamp": "09:21",
+      "text": "Meaning he is big. You don't want that."
+    },
+    {
+      "start": 564,
+      "timestamp": "09:24",
+      "text": "If you don't want something big then"
+    },
+    {
+      "start": 566,
+      "timestamp": "09:26",
+      "text": "What do you do with that? right minus minus"
+    },
+    {
+      "start": 568,
+      "timestamp": "09:28",
+      "text": "We do. If it is small then you go left"
+    },
+    {
+      "start": 569,
+      "timestamp": "09:29",
+      "text": "Let's do plus plus. So this is ours"
+    },
+    {
+      "start": 571,
+      "timestamp": "09:31",
+      "text": "There is a condition. This is our perfect condition"
+    },
+    {
+      "start": 574,
+      "timestamp": "09:34",
+      "text": "Is. This is a useless condition. We are in this"
+    },
+    {
+      "start": 576,
+      "timestamp": "09:36",
+      "text": "Will increase. so can we do this"
+    },
+    {
+      "start": 580,
+      "timestamp": "09:40",
+      "text": "That we got it even. sum = ai + a"
+    },
+    {
+      "start": 586,
+      "timestamp": "09:46",
+      "text": "Left + a Right."
+    },
+    {
+      "start": 590,
+      "timestamp": "09:50",
+      "text": "now if"
+    },
+    {
+      "start": 593,
+      "timestamp": "09:53",
+      "text": "Sum Greater Than and Equal to Target"
+    },
+    {
+      "start": 598,
+      "timestamp": "09:58",
+      "text": "What is this? These are both conditions. these two"
+    },
+    {
+      "start": 600,
+      "timestamp": "10:00",
+      "text": "There is a condition. This one is also a condition and this"
+    },
+    {
+      "start": 602,
+      "timestamp": "10:02",
+      "text": "This one is also a condition. What does it mean"
+    },
+    {
+      "start": 604,
+      "timestamp": "10:04",
+      "text": "that your sum is either equal to the target or"
+    },
+    {
+      "start": 606,
+      "timestamp": "10:06",
+      "text": "So it's big. So that's what we need"
+    },
+    {
+      "start": 608,
+      "timestamp": "10:08",
+      "text": "No. We want smaller ones. so smaller"
+    },
+    {
+      "start": 610,
+      "timestamp": "10:10",
+      "text": "Right minus minus for. Simple"
+    },
+    {
+      "start": 614,
+      "timestamp": "10:14",
+      "text": "The thing is. If not any duplicate"
+    },
+    {
+      "start": 615,
+      "timestamp": "10:15",
+      "text": "Do not have to handle duplicates. very good."
+    },
+    {
+      "start": 617,
+      "timestamp": "10:17",
+      "text": "but but but but els what does it mean"
+    },
+    {
+      "start": 620,
+      "timestamp": "10:20",
+      "text": "Is? That your sum is less than the target. this is it"
+    },
+    {
+      "start": 624,
+      "timestamp": "10:24",
+      "text": "Needed Now the answer is here, see this"
+    },
+    {
+      "start": 627,
+      "timestamp": "10:27",
+      "text": "Must must must. what does it mean that"
+    },
+    {
+      "start": 629,
+      "timestamp": "10:29",
+      "text": "Understand how to get it from the example. now here"
+    },
+    {
+      "start": 631,
+      "timestamp": "10:31",
+      "text": "Here you have to calculate the answer. But"
+    },
+    {
+      "start": 632,
+      "timestamp": "10:32",
+      "text": "How to calculate the answer? your i is"
+    },
+    {
+      "start": 635,
+      "timestamp": "10:35",
+      "text": "yours here"
+    },
+    {
+      "start": 638,
+      "timestamp": "10:38",
+      "text": "Your left is here and your right is here. Correct"
+    },
+    {
+      "start": 643,
+      "timestamp": "10:43",
+      "text": "Is? See i is here so -2 + 0 + 3"
+    },
+    {
+      "start": 647,
+      "timestamp": "10:47",
+      "text": "What happens? Forest. It is a forest, isn't it? one even"
+    },
+    {
+      "start": 651,
+      "timestamp": "10:51",
+      "text": "Means small. Yes, it is small. one to one"
+    },
+    {
+      "start": 655,
+      "timestamp": "10:55",
+      "text": "It's small isn't it? Yes. Now how will you find the answer?"
+    },
+    {
+      "start": 657,
+      "timestamp": "10:57",
+      "text": "Now see if you can do that right now"
+    },
+    {
+      "start": 659,
+      "timestamp": "10:59",
+      "text": "Your left is here, your right is here. Correct"
+    },
+    {
+      "start": 662,
+      "timestamp": "11:02",
+      "text": "Is? And i is here. so there must be a triplet"
+    },
+    {
+      "start": 664,
+      "timestamp": "11:04",
+      "text": "Your -2, 0 and 3 are now a triplet."
+    },
+    {
+      "start": 669,
+      "timestamp": "11:09",
+      "text": "These. Isn't it? So you can add either one to the answer"
+    },
+    {
+      "start": 672,
+      "timestamp": "11:12",
+      "text": "Can. Can answer plus plus."
+    },
+    {
+      "start": 674,
+      "timestamp": "11:14",
+      "text": "But but look very carefully. Very"
+    },
+    {
+      "start": 676,
+      "timestamp": "11:16",
+      "text": "Look carefully. you are saying that my"
+    },
+    {
+      "start": 679,
+      "timestamp": "11:19",
+      "text": "This is my left, this is my left and this is my three."
+    },
+    {
+      "start": 682,
+      "timestamp": "11:22",
+      "text": "This is. The entire array is sorted. you are speaking"
+    },
+    {
+      "start": 685,
+      "timestamp": "11:25",
+      "text": "That my -2 + 0 + 3 is less than my"
+    },
+    {
+      "start": 689,
+      "timestamp": "11:29",
+      "text": "Even. That's why you're taking it in a triplet"
+    },
+    {
+      "start": 692,
+      "timestamp": "11:32",
+      "text": "Are. That's correct? Listen carefully to one thing."
+    },
+    {
+      "start": 696,
+      "timestamp": "11:36",
+      "text": "If left is this, right is this. whenever even less"
+    },
+    {
+      "start": 700,
+      "timestamp": "11:40",
+      "text": "It used to happen whenever the score was less than the target."
+    },
+    {
+      "start": 704,
+      "timestamp": "11:44",
+      "text": "So what did we do?"
+    },
+    {
+      "start": 706,
+      "timestamp": "11:46",
+      "text": "Used to give plus plus to the left. Ok?"
+    },
+    {
+      "start": 708,
+      "timestamp": "11:48",
+      "text": "Used to give plus plus to the left. this is what we used to do"
+    },
+    {
+      "start": 710,
+      "timestamp": "11:50",
+      "text": "No? See why left is plus plus"
+    },
+    {
+      "start": 712,
+      "timestamp": "11:52",
+      "text": "used to do? But remember why we used to do it?"
+    },
+    {
+      "start": 714,
+      "timestamp": "11:54",
+      "text": "That's why we used to do it if we were right in it."
+    },
+    {
+      "start": 716,
+      "timestamp": "11:56",
+      "text": "minus minus so which is 0 + 3 if my"
+    },
+    {
+      "start": 721,
+      "timestamp": "12:01",
+      "text": "If less than target then 0 + 1 for sure"
+    },
+    {
+      "start": 723,
+      "timestamp": "12:03",
+      "text": "Will be less than target. Listen again. We people"
+    },
+    {
+      "start": 726,
+      "timestamp": "12:06",
+      "text": "Whenever the even was less then why right here"
+    },
+    {
+      "start": 729,
+      "timestamp": "12:09",
+      "text": "Didn't you do it? That's why they didn't do it"
+    },
+    {
+      "start": 731,
+      "timestamp": "12:11",
+      "text": "Because whenever my left and right are equal"
+    },
+    {
+      "start": 734,
+      "timestamp": "12:14",
+      "text": "If it is less than my target then go left or right."
+    },
+    {
+      "start": 737,
+      "timestamp": "12:17",
+      "text": "Whatever I have, it all sums to zero if you"
+    },
+    {
+      "start": 740,
+      "timestamp": "12:20",
+      "text": "If you do, it will be less. question right here"
+    },
+    {
+      "start": 742,
+      "timestamp": "12:22",
+      "text": "Is the most basic part of. question right here"
+    },
+    {
+      "start": 744,
+      "timestamp": "12:24",
+      "text": "Is the most basic part of. When you your i"
+    },
+    {
+      "start": 748,
+      "timestamp": "12:28",
+      "text": "It was here, it was here. it was here so you"
+    },
+    {
+      "start": 750,
+      "timestamp": "12:30",
+      "text": "Said OK-1 0 3 is my answer. Good."
+    },
+    {
+      "start": 756,
+      "timestamp": "12:36",
+      "text": "Is -2 0 and 1 and 1 and 1 also your less"
+    },
+    {
+      "start": 760,
+      "timestamp": "12:40",
+      "text": "will be? Yes, it will be less. Why? -2 + 0 + 3"
+    },
+    {
+      "start": 765,
+      "timestamp": "12:45",
+      "text": "Yours is less then -2 + 0 + Anything Left Off"
+    },
+    {
+      "start": 769,
+      "timestamp": "12:49",
+      "text": "Even three will be less because it is sorted."
+    },
+    {
+      "start": 771,
+      "timestamp": "12:51",
+      "text": "No brother. If one is anything then it should be less than three."
+    },
+    {
+      "start": 773,
+      "timestamp": "12:53",
+      "text": "will be. This is an insult. So when -2 + 0 + 3 my"
+    },
+    {
+      "start": 778,
+      "timestamp": "12:58",
+      "text": "If less than target then -2 0 1 then also target"
+    },
+    {
+      "start": 781,
+      "timestamp": "13:01",
+      "text": "Will be less than. So this also comes in the answer."
+    },
+    {
+      "start": 782,
+      "timestamp": "13:02",
+      "text": "Needed Isn't it? What are you saying? Again"
+    },
+    {
+      "start": 785,
+      "timestamp": "13:05",
+      "text": "Let me tell you what I want to say"
+    },
+    {
+      "start": 787,
+      "timestamp": "13:07",
+      "text": "Are. What is?"
+    },
+    {
+      "start": 790,
+      "timestamp": "13:10",
+      "text": "Take a bigger array then you will understand. yes"
+    },
+    {
+      "start": 793,
+      "timestamp": "13:13",
+      "text": "Could. See"
+    },
+    {
+      "start": 796,
+      "timestamp": "13:16",
+      "text": "0 1 2 3 4 5 6 7 8 Okay? now write this"
+    },
+    {
+      "start": 802,
+      "timestamp": "13:22",
+      "text": "Give it. 1 2 3 4 5 6 7 8 9 Your i = 0."
+    },
+    {
+      "start": 809,
+      "timestamp": "13:29",
+      "text": "So where is your i? I am here."
+    },
+    {
+      "start": 812,
+      "timestamp": "13:32",
+      "text": "Your left is here. your right here"
+    },
+    {
+      "start": 815,
+      "timestamp": "13:35",
+      "text": "Is."
+    },
+    {
+      "start": 817,
+      "timestamp": "13:37",
+      "text": "That's right. Is this correct? Ok. You"
+    },
+    {
+      "start": 820,
+      "timestamp": "13:40",
+      "text": "Now if we find the sum then 1 + 2 + 9"
+    },
+    {
+      "start": 827,
+      "timestamp": "13:47",
+      "text": "Here comes your 12th. Suppose your target"
+    },
+    {
+      "start": 829,
+      "timestamp": "13:49",
+      "text": "Would have been 15. Let the target eq be 15. 12 15"
+    },
+    {
+      "start": 833,
+      "timestamp": "13:53",
+      "text": "If it is less than then add one to the answer."
+    },
+    {
+      "start": 835,
+      "timestamp": "13:55",
+      "text": "Give me an answer to my 1, 2 and nine."
+    },
+    {
+      "start": 838,
+      "timestamp": "13:58",
+      "text": "Is. Good."
+    },
+    {
+      "start": 839,
+      "timestamp": "13:59",
+      "text": "But if your sum of one and two and nine"
+    },
+    {
+      "start": 843,
+      "timestamp": "14:03",
+      "text": "What if 1 is less than your target, 2 and 8?"
+    },
+    {
+      "start": 846,
+      "timestamp": "14:06",
+      "text": "will also be even less? yes will be less because et"
+    },
+    {
+      "start": 849,
+      "timestamp": "14:09",
+      "text": "It's less than nine, isn't it? This means that your 1 2"
+    },
+    {
+      "start": 853,
+      "timestamp": "14:13",
+      "text": "8 will also be less. If your 1 2 8 is less. Now!"
+    },
+    {
+      "start": 857,
+      "timestamp": "14:17",
+      "text": "Look, let's keep the left and right fixed."
+    },
+    {
+      "start": 858,
+      "timestamp": "14:18",
+      "text": "Are. trying to turn the right around"
+    },
+    {
+      "start": 860,
+      "timestamp": "14:20",
+      "text": "Have been. If the sum of my 1 2 and at is less"
+    },
+    {
+      "start": 863,
+      "timestamp": "14:23",
+      "text": "So will the sum of 1 2 7 be less or more?"
+    },
+    {
+      "start": 865,
+      "timestamp": "14:25",
+      "text": "Will be less. Will be less. This will also come in the answer. 1"
+    },
+    {
+      "start": 868,
+      "timestamp": "14:28",
+      "text": "2 7 Similar"
+    },
+    {
+      "start": 871,
+      "timestamp": "14:31",
+      "text": "If you find any such left right"
+    },
+    {
+      "start": 874,
+      "timestamp": "14:34",
+      "text": "Where the sum of left and right is less then"
+    },
+    {
+      "start": 877,
+      "timestamp": "14:37",
+      "text": "Whatever is between left and right"
+    },
+    {
+      "start": 879,
+      "timestamp": "14:39",
+      "text": "The element is that the sum of all will be less. listen again"
+    },
+    {
+      "start": 882,
+      "timestamp": "14:42",
+      "text": "Now left is here, right is here. But"
+    },
+    {
+      "start": 885,
+      "timestamp": "14:45",
+      "text": "If you put the right here on anything"
+    },
+    {
+      "start": 887,
+      "timestamp": "14:47",
+      "text": "So the even will be less. You will keep the right at"
+    },
+    {
+      "start": 890,
+      "timestamp": "14:50",
+      "text": "So less 7 6 5 4 3 2 so 0 and one this is yours"
+    },
+    {
+      "start": 895,
+      "timestamp": "14:55",
+      "text": "Came and left. Zero and one. this is so"
+    },
+    {
+      "start": 898,
+      "timestamp": "14:58",
+      "text": "You came and left. With this if you"
+    },
+    {
+      "start": 901,
+      "timestamp": "15:01",
+      "text": "If you keep any right from 2 to 8 then that"
+    },
+    {
+      "start": 904,
+      "timestamp": "15:04",
+      "text": "Even will be less. That's why that's why"
+    },
+    {
+      "start": 907,
+      "timestamp": "15:07",
+      "text": "Whenever whenever we are together"
+    },
+    {
+      "start": 910,
+      "timestamp": "15:10",
+      "text": "Targets met. Whenever something is less than the target"
+    },
+    {
+      "start": 913,
+      "timestamp": "15:13",
+      "text": "If you get only answer is equal to answer plus one"
+    },
+    {
+      "start": 916,
+      "timestamp": "15:16",
+      "text": "Don't have to do it. how many elements in between"
+    },
+    {
+      "start": 918,
+      "timestamp": "15:18",
+      "text": "can come? Look, there is one on your left. this is"
+    },
+    {
+      "start": 922,
+      "timestamp": "15:22",
+      "text": "How far can you go right from here to here"
+    },
+    {
+      "start": 925,
+      "timestamp": "15:25",
+      "text": "Here means the right obtained from left + 1"
+    },
+    {
+      "start": 930,
+      "timestamp": "15:30",
+      "text": "Count how many elements will come till that point. 1"
+    },
+    {
+      "start": 933,
+      "timestamp": "15:33",
+      "text": "2 3 4 5 6 7 Why did this intake come from 8 -"
+    },
+    {
+      "start": 939,
+      "timestamp": "15:39",
+      "text": "Between any two numbers by doing 1 8 - 1 = 7"
+    },
+    {
+      "start": 944,
+      "timestamp": "15:44",
+      "text": "What number is the high number minus the low number?"
+    },
+    {
+      "start": 947,
+      "timestamp": "15:47",
+      "text": "By numbering it is between one and eight."
+    },
+    {
+      "start": 950,
+      "timestamp": "15:50",
+      "text": "How many numbers are there then numbers from one 2 3 4 5 6"
+    },
+    {
+      "start": 954,
+      "timestamp": "15:54",
+      "text": "Is. Have to do 8 - 1. That's why you don't"
+    },
+    {
+      "start": 957,
+      "timestamp": "15:57",
+      "text": "Have to do. This is useless. Answer equal to answer"
+    },
+    {
+      "start": 961,
+      "timestamp": "16:01",
+      "text": "Plus right - left. Yes Right - Left. Understanding"
+    },
+    {
+      "start": 968,
+      "timestamp": "16:08",
+      "text": "I wondered why they were doing this. now one"
+    },
+    {
+      "start": 970,
+      "timestamp": "16:10",
+      "text": "It's done once. watch now. Now if you do this"
+    },
+    {
+      "start": 974,
+      "timestamp": "16:14",
+      "text": "So this left's work has been done. These"
+    },
+    {
+      "start": 975,
+      "timestamp": "16:15",
+      "text": "Left can pair with whomever"
+    },
+    {
+      "start": 977,
+      "timestamp": "16:17",
+      "text": "He has already made it. Ok?"
+    },
+    {
+      "start": 980,
+      "timestamp": "16:20",
+      "text": "Now you have to increase the left which we"
+    },
+    {
+      "start": 982,
+      "timestamp": "16:22",
+      "text": "People used to do it. Which if we are less than"
+    },
+    {
+      "start": 984,
+      "timestamp": "16:24",
+      "text": "If there was a target, we would move left."
+    },
+    {
+      "start": 986,
+      "timestamp": "16:26",
+      "text": "But before increasing the left, we will answer"
+    },
+    {
+      "start": 988,
+      "timestamp": "16:28",
+      "text": "Take out that this left with whom"
+    },
+    {
+      "start": 990,
+      "timestamp": "16:30",
+      "text": "Any right can be made with this"
+    },
+    {
+      "start": 993,
+      "timestamp": "16:33",
+      "text": "It is possible that if any of these rights accompany this"
+    },
+    {
+      "start": 995,
+      "timestamp": "16:35",
+      "text": "If we can make it then we can include it in our answer."
+    },
+    {
+      "start": 998,
+      "timestamp": "16:38",
+      "text": "Have counted. Now we will move left"
+    },
+    {
+      "start": 1000,
+      "timestamp": "16:40",
+      "text": "Here pay and similar work will do for this."
+    },
+    {
+      "start": 1003,
+      "timestamp": "16:43",
+      "text": "Did you understand? Why are you doing this? Why"
+    },
+    {
+      "start": 1005,
+      "timestamp": "16:45",
+      "text": "Add this to the answer? After this to the left"
+    },
+    {
+      "start": 1008,
+      "timestamp": "16:48",
+      "text": "Will do plus plus because this is us"
+    },
+    {
+      "start": 1010,
+      "timestamp": "16:50",
+      "text": "Used to do. So see the condition remains the same"
+    },
+    {
+      "start": 1013,
+      "timestamp": "16:53",
+      "text": "No? Condition: You have only two conditions. Even"
+    },
+    {
+      "start": 1015,
+      "timestamp": "16:55",
+      "text": "Less than target and some greater than equal to"
+    },
+    {
+      "start": 1018,
+      "timestamp": "16:58",
+      "text": "Target. So you have three conditions. beans"
+    },
+    {
+      "start": 1021,
+      "timestamp": "17:01",
+      "text": "Are working. but before working"
+    },
+    {
+      "start": 1022,
+      "timestamp": "17:02",
+      "text": "You can do whatever you want with your answer."
+    },
+    {
+      "start": 1024,
+      "timestamp": "17:04",
+      "text": "Have been. Ok? Understand? if anyone"
+    },
+    {
+      "start": 1027,
+      "timestamp": "17:07",
+      "text": "If you don't understand then please comment. Tomorrow"
+    },
+    {
+      "start": 1029,
+      "timestamp": "17:09",
+      "text": "Will explain again. It is very important to understand."
+    },
+    {
+      "start": 1032,
+      "timestamp": "17:12",
+      "text": "That's right. So this is its pseudo code."
+    },
+    {
+      "start": 1034,
+      "timestamp": "17:14",
+      "text": "You guys must have understood the pseudo code. tomorrow's"
+    },
+    {
+      "start": 1036,
+      "timestamp": "17:16",
+      "text": "Code and Simple: Here you will find the link to the code."
+    },
+    {
+      "start": 1038,
+      "timestamp": "17:18",
+      "text": "Will get it. He will go and see. Time"
+    },
+    {
+      "start": 1040,
+      "timestamp": "17:20",
+      "text": "Complexity again order of n and order"
+    },
+    {
+      "start": 1043,
+      "timestamp": "17:23",
+      "text": "Of one space."
+    },
+    {
+      "start": 1045,
+      "timestamp": "17:25",
+      "text": "It's time. Ok? no sorry order"
+    },
+    {
+      "start": 1049,
+      "timestamp": "17:29",
+      "text": "Off n² Yes, you will watch tomorrow's lecture, understand."
+    },
+    {
+      "start": 1051,
+      "timestamp": "17:31",
+      "text": "I will come. Why n² n² time order off"
+    },
+    {
+      "start": 1053,
+      "timestamp": "17:33",
+      "text": "This question became one space. next"
+    },
+    {
+      "start": 1056,
+      "timestamp": "17:36",
+      "text": "Come to the question. dutch national"
+    },
+    {
+      "start": 1060,
+      "timestamp": "17:40",
+      "text": "Flag."
+    },
+    {
+      "start": 1062,
+      "timestamp": "17:42",
+      "text": "Ok? Now this is a different type of question."
+    },
+    {
+      "start": 1064,
+      "timestamp": "17:44",
+      "text": "These three terms we were doing separately"
+    },
+    {
+      "start": 1066,
+      "timestamp": "17:46",
+      "text": "It is a type of question. according to me right now"
+    },
+    {
+      "start": 1067,
+      "timestamp": "17:47",
+      "text": "No matter how many questions we asked in the sheet"
+    },
+    {
+      "start": 1069,
+      "timestamp": "17:49",
+      "text": "This is a very different question. Ok? So"
+    },
+    {
+      "start": 1072,
+      "timestamp": "17:52",
+      "text": "What does this say to you? speaks to you"
+    },
+    {
+      "start": 1074,
+      "timestamp": "17:54",
+      "text": "Given an array. Okay, it has been given."
+    },
+    {
+      "start": 1080,
+      "timestamp": "18:00",
+      "text": "Ok? Says there are only three types in array"
+    },
+    {
+      "start": 1082,
+      "timestamp": "18:02",
+      "text": "Is element. 0 1 2 Well this is not sorted"
+    },
+    {
+      "start": 1087,
+      "timestamp": "18:07",
+      "text": "Is. So it can happen in any order"
+    },
+    {
+      "start": 1088,
+      "timestamp": "18:08",
+      "text": "One is zero, 0 is two, 0 is one, it is like this"
+    },
+    {
+      "start": 1092,
+      "timestamp": "18:12",
+      "text": "yes. Ok? Told you to rearrange the array"
+    },
+    {
+      "start": 1096,
+      "timestamp": "18:16",
+      "text": "do it. Rearrange the array. place in"
+    },
+    {
+      "start": 1102,
+      "timestamp": "18:22",
+      "text": "So that all the zeros come together. the whole forest is one"
+    },
+    {
+      "start": 1107,
+      "timestamp": "18:27",
+      "text": "Come along. After that all two come together"
+    },
+    {
+      "start": 1109,
+      "timestamp": "18:29",
+      "text": "Go. Hey, let it become like this. Do this. Rearrange"
+    },
+    {
+      "start": 1114,
+      "timestamp": "18:34",
+      "text": "Do, in place and without sorting"
+    },
+    {
+      "start": 1118,
+      "timestamp": "18:38",
+      "text": "do it. Have to do without sorting."
+    },
+    {
+      "start": 1122,
+      "timestamp": "18:42",
+      "text": "Do without sorting. This question to you"
+    },
+    {
+      "start": 1125,
+      "timestamp": "18:45",
+      "text": "It has been told that you have to do this."
+    },
+    {
+      "start": 1127,
+      "timestamp": "18:47",
+      "text": "First thing first thing first thing which one in this"
+    },
+    {
+      "start": 1129,
+      "timestamp": "18:49",
+      "text": "Will there be a pattern? How to identify that?"
+    },
+    {
+      "start": 1132,
+      "timestamp": "18:52",
+      "text": "Is there a question about array? Yes."
+    },
+    {
+      "start": 1136,
+      "timestamp": "18:56",
+      "text": "Sorted? No. But okay. Ok."
+    },
+    {
+      "start": 1139,
+      "timestamp": "18:59",
+      "text": "Not sorted. can sort"
+    },
+    {
+      "start": 1141,
+      "timestamp": "19:01",
+      "text": "What are they? Can sort? No."
+    },
+    {
+      "start": 1144,
+      "timestamp": "19:04",
+      "text": "It is said in the question that there is no need to sort."
+    },
+    {
+      "start": 1147,
+      "timestamp": "19:07",
+      "text": "Is this a question of rearrangement? What"
+    },
+    {
+      "start": 1149,
+      "timestamp": "19:09",
+      "text": "Has the question been rearranged? To you"
+    },
+    {
+      "start": 1151,
+      "timestamp": "19:11",
+      "text": "Have to do. Do you understand? Yes. Yes."
+    },
+    {
+      "start": 1153,
+      "timestamp": "19:13",
+      "text": "There is a question of rearrangement. what in place"
+    },
+    {
+      "start": 1156,
+      "timestamp": "19:16",
+      "text": "Have to do? Meaning"
+    },
+    {
+      "start": 1158,
+      "timestamp": "19:18",
+      "text": "No extra space. No extra space."
+    },
+    {
+      "start": 1160,
+      "timestamp": "19:20",
+      "text": "Yes. So see most of the two pointer"
+    },
+    {
+      "start": 1162,
+      "timestamp": "19:22",
+      "text": "The condition has been satisfied. array question"
+    },
+    {
+      "start": 1165,
+      "timestamp": "19:25",
+      "text": "Is also. The sorted one was not satisfied."
+    },
+    {
+      "start": 1168,
+      "timestamp": "19:28",
+      "text": "But rearrange is written and in place"
+    },
+    {
+      "start": 1170,
+      "timestamp": "19:30",
+      "text": "If you have to do it then according to me 90% of the cases, 90%"
+    },
+    {
+      "start": 1174,
+      "timestamp": "19:34",
+      "text": "There is a chance that this is a two pointer question."
+    },
+    {
+      "start": 1177,
+      "timestamp": "19:37",
+      "text": "This is a two pointer question. To you"
+    },
+    {
+      "start": 1179,
+      "timestamp": "19:39",
+      "text": "It is given directly in the question. Correct"
+    },
+    {
+      "start": 1180,
+      "timestamp": "19:40",
+      "text": "Is? Now try to solve this question"
+    },
+    {
+      "start": 1183,
+      "timestamp": "19:43",
+      "text": "There are two or three ways. the first brute"
+    },
+    {
+      "start": 1187,
+      "timestamp": "19:47",
+      "text": "Force. The first is brute force. Ok?"
+    },
+    {
+      "start": 1191,
+      "timestamp": "19:51",
+      "text": "Brute force. Do you understand the question now?"
+    },
+    {
+      "start": 1193,
+      "timestamp": "19:53",
+      "text": "All the zeros have to be brought to one side. forest and"
+    },
+    {
+      "start": 1196,
+      "timestamp": "19:56",
+      "text": "You have to create such an array. so array"
+    },
+    {
+      "start": 1198,
+      "timestamp": "19:58",
+      "text": "First of all, what to do with brute force? brute"
+    },
+    {
+      "start": 1201,
+      "timestamp": "20:01",
+      "text": "Force I think many people understand."
+    },
+    {
+      "start": 1203,
+      "timestamp": "20:03",
+      "text": "Must have realized what to do. you three here"
+    },
+    {
+      "start": 1206,
+      "timestamp": "20:06",
+      "text": "Make it. You make three different arrays."
+    },
+    {
+      "start": 1209,
+      "timestamp": "20:09",
+      "text": "Make three separate arrays."
+    },
+    {
+      "start": 1213,
+      "timestamp": "20:13",
+      "text": "This is an array of zero. This is the array of the forest. These"
+    },
+    {
+      "start": 1216,
+      "timestamp": "20:16",
+      "text": "Array is two's. So which is your main array which"
+    },
+    {
+      "start": 1218,
+      "timestamp": "20:18",
+      "text": "Your main array is your main array is from that"
+    },
+    {
+      "start": 1221,
+      "timestamp": "20:21",
+      "text": "If you take out all the zeros and put them here then this is"
+    },
+    {
+      "start": 1223,
+      "timestamp": "20:23",
+      "text": "0 0 0 Done, pick up the whole forest and put it here."
+    },
+    {
+      "start": 1226,
+      "timestamp": "20:26",
+      "text": "If you give this 1 1, everything will become 2 here."
+    },
+    {
+      "start": 1229,
+      "timestamp": "20:29",
+      "text": "If you put it, it will become two-two, after that"
+    },
+    {
+      "start": 1232,
+      "timestamp": "20:32",
+      "text": "Come, now whatever zero is there in it is yours."
+    },
+    {
+      "start": 1235,
+      "timestamp": "20:35",
+      "text": "Write in the main array the number of forests in it."
+    },
+    {
+      "start": 1237,
+      "timestamp": "20:37",
+      "text": "Write that in your main array. In this"
+    },
+    {
+      "start": 1239,
+      "timestamp": "20:39",
+      "text": "Write as many as there are in the main array. So"
+    },
+    {
+      "start": 1241,
+      "timestamp": "20:41",
+      "text": "This is yours. its time complexity"
+    },
+    {
+      "start": 1243,
+      "timestamp": "20:43",
+      "text": "What happened? a n and space complexity"
+    },
+    {
+      "start": 1246,
+      "timestamp": "20:46",
+      "text": "The order is n because you are creating an array."
+    },
+    {
+      "start": 1249,
+      "timestamp": "20:49",
+      "text": "If they are different then it must be his brute force."
+    },
+    {
+      "start": 1251,
+      "timestamp": "20:51",
+      "text": "Went. Everyone must have understood this."
+    },
+    {
+      "start": 1253,
+      "timestamp": "20:53",
+      "text": "Optimized Optimized"
+    },
+    {
+      "start": 1257,
+      "timestamp": "20:57",
+      "text": "optimize"
+    },
+    {
+      "start": 1259,
+      "timestamp": "20:59",
+      "text": "This is what we have now optimized in it"
+    },
+    {
+      "start": 1262,
+      "timestamp": "21:02",
+      "text": "The work we are doing in Root Force"
+    },
+    {
+      "start": 1263,
+      "timestamp": "21:03",
+      "text": "Let's do it a little faster. what do you guys do"
+    },
+    {
+      "start": 1265,
+      "timestamp": "21:05",
+      "text": "were staying? You guys make an array and write zeros in it."
+    },
+    {
+      "start": 1267,
+      "timestamp": "21:07",
+      "text": "Were staying. But why is there a need to write zero?"
+    },
+    {
+      "start": 1269,
+      "timestamp": "21:09",
+      "text": "Is? You guys do one thing. take three variables"
+    },
+    {
+      "start": 1272,
+      "timestamp": "21:12",
+      "text": "Take it. 0 = 0 1 = 0 2 = 0 and the entire array"
+    },
+    {
+      "start": 1278,
+      "timestamp": "21:18",
+      "text": "Traverse once. one to the entire array"
+    },
+    {
+      "start": 1281,
+      "timestamp": "21:21",
+      "text": "Traverse the bars and count. So"
+    },
+    {
+      "start": 1283,
+      "timestamp": "21:23",
+      "text": "You got it I have 0 4. 1 3"
+    },
+    {
+      "start": 1286,
+      "timestamp": "21:26",
+      "text": "is and is 2. Now according to this variable"
+    },
+    {
+      "start": 1290,
+      "timestamp": "21:30",
+      "text": "Write it in the array. you found out that"
+    },
+    {
+      "start": 1292,
+      "timestamp": "21:32",
+      "text": "There are four zeros in my entire array. three forests"
+    },
+    {
+      "start": 1295,
+      "timestamp": "21:35",
+      "text": "Is. Is 2. so just 0"
+    },
+    {
+      "start": 1299,
+      "timestamp": "21:39",
+      "text": "Write three forests in the array. Anywhere Array"
+    },
+    {
+      "start": 1301,
+      "timestamp": "21:41",
+      "text": "Look at the array, the total size of the array will be 4 +"
+    },
+    {
+      "start": 1304,
+      "timestamp": "21:44",
+      "text": "3 7 + 2 9 This is a sure thing because"
+    },
+    {
+      "start": 1306,
+      "timestamp": "21:46",
+      "text": "A variable is created by counting from the array. So"
+    },
+    {
+      "start": 1308,
+      "timestamp": "21:48",
+      "text": "Just write like this, overwrite me"
+    },
+    {
+      "start": 1310,
+      "timestamp": "21:50",
+      "text": "Give it to the array. This is your final array."
+    },
+    {
+      "start": 1312,
+      "timestamp": "21:52",
+      "text": "This is your final array. Isn't it? In this"
+    },
+    {
+      "start": 1315,
+      "timestamp": "21:55",
+      "text": "How much time complexity did it cost? order off"
+    },
+    {
+      "start": 1317,
+      "timestamp": "21:57",
+      "text": "n. How much space did it take? Order of One."
+    },
+    {
+      "start": 1319,
+      "timestamp": "21:59",
+      "text": "There is no space, brother. where is there no space"
+    },
+    {
+      "start": 1321,
+      "timestamp": "22:01",
+      "text": "Is? There is a space of three variables. three variables"
+    },
+    {
+      "start": 1323,
+      "timestamp": "22:03",
+      "text": "So it is constant. So this is one of the"
+    },
+    {
+      "start": 1326,
+      "timestamp": "22:06",
+      "text": "Best Approaches. This one of the best"
+    },
+    {
+      "start": 1328,
+      "timestamp": "22:08",
+      "text": "Approaches. If you see this in any interview"
+    },
+    {
+      "start": 1329,
+      "timestamp": "22:09",
+      "text": "I tell you in the interview, I don't argue with you."
+    },
+    {
+      "start": 1331,
+      "timestamp": "22:11",
+      "text": "Will be able to do it because we are using two pointer"
+    },
+    {
+      "start": 1334,
+      "timestamp": "22:14",
+      "text": "The approach we are learning is also the same approach."
+    },
+    {
+      "start": 1336,
+      "timestamp": "22:16",
+      "text": "That too, same time complexity, same space"
+    },
+    {
+      "start": 1338,
+      "timestamp": "22:18",
+      "text": "There is an approach of complexity. if you like this"
+    },
+    {
+      "start": 1340,
+      "timestamp": "22:20",
+      "text": "If you write in the interview, will you have any argument?"
+    },
+    {
+      "start": 1343,
+      "timestamp": "22:23",
+      "text": "Will not be able to do it. But if by chance"
+    },
+    {
+      "start": 1346,
+      "timestamp": "22:26",
+      "text": "He gives it and says let's go to pointer"
+    },
+    {
+      "start": 1348,
+      "timestamp": "22:28",
+      "text": "Tell me what else we use it for"
+    },
+    {
+      "start": 1350,
+      "timestamp": "22:30",
+      "text": "If you are learning then this is the best approach."
+    },
+    {
+      "start": 1354,
+      "timestamp": "22:34",
+      "text": "Approached. Why is this the best approach?"
+    },
+    {
+      "start": 1357,
+      "timestamp": "22:37",
+      "text": "Let us tell. How many passes are you making in this?"
+    },
+    {
+      "start": 1361,
+      "timestamp": "22:41",
+      "text": "Are? What do passes mean? the whole"
+    },
+    {
+      "start": 1363,
+      "timestamp": "22:43",
+      "text": "How often are you going there? To all"
+    },
+    {
+      "start": 1365,
+      "timestamp": "22:45",
+      "text": "First you traverse the entire array once"
+    },
+    {
+      "start": 1367,
+      "timestamp": "22:47",
+      "text": "To make these zeros and ones and twos. this is when"
+    },
+    {
+      "start": 1370,
+      "timestamp": "22:50",
+      "text": "So it will be made. Only then will you go around the entire array once."
+    },
+    {
+      "start": 1372,
+      "timestamp": "22:52",
+      "text": "So it will be made. So it became a forest. And now again an array"
+    },
+    {
+      "start": 1375,
+      "timestamp": "22:55",
+      "text": "Passed the. To overwrite that"
+    },
+    {
+      "start": 1378,
+      "timestamp": "22:58",
+      "text": "Zero is four times. So we are in the first four"
+    },
+    {
+      "start": 1379,
+      "timestamp": "22:59",
+      "text": "Wrote this. Then write this in the first three"
+    },
+    {
+      "start": 1381,
+      "timestamp": "23:01",
+      "text": "Given. Then wrote this in two. so you have to"
+    },
+    {
+      "start": 1383,
+      "timestamp": "23:03",
+      "text": "Had to pass. meaning you have to complete the array"
+    },
+    {
+      "start": 1386,
+      "timestamp": "23:06",
+      "text": "Had to do this twice. Ok? difference from this"
+    },
+    {
+      "start": 1388,
+      "timestamp": "23:08",
+      "text": "I don't have to but I had to do it. Correct"
+    },
+    {
+      "start": 1390,
+      "timestamp": "23:10",
+      "text": "Is? In the best approach you can get only one pass."
+    },
+    {
+      "start": 1393,
+      "timestamp": "23:13",
+      "text": "do. meaning from the beginning to the end of the array"
+    },
+    {
+      "start": 1395,
+      "timestamp": "23:15",
+      "text": "Will go and the array will be completely sorted. so this"
+    },
+    {
+      "start": 1398,
+      "timestamp": "23:18",
+      "text": "One pass approach. That's why this is the best approach"
+    },
+    {
+      "start": 1399,
+      "timestamp": "23:19",
+      "text": "Is. So the interviewer can tell you that"
+    },
+    {
+      "start": 1402,
+      "timestamp": "23:22",
+      "text": "Pass single. single pass"
+    },
+    {
+      "start": 1406,
+      "timestamp": "23:26",
+      "text": "Tell me the single pass approach. This is a single pass"
+    },
+    {
+      "start": 1408,
+      "timestamp": "23:28",
+      "text": "There is only one approach. Ok? single pass"
+    },
+    {
+      "start": 1412,
+      "timestamp": "23:32",
+      "text": "Explain the approach. What do we know so far?"
+    },
+    {
+      "start": 1414,
+      "timestamp": "23:34",
+      "text": "Have you understood? to us"
+    },
+    {
+      "start": 1416,
+      "timestamp": "23:36",
+      "text": "Have to sort. Isn't it? And we are single"
+    },
+    {
+      "start": 1420,
+      "timestamp": "23:40",
+      "text": "Have to do it nearby. Not to use space."
+    },
+    {
+      "start": 1424,
+      "timestamp": "23:44",
+      "text": "Two pointer will be applied. Two pointer will be applied. Correct"
+    },
+    {
+      "start": 1427,
+      "timestamp": "23:47",
+      "text": "Is? Once we open this question"
+    },
+    {
+      "start": 1429,
+      "timestamp": "23:49",
+      "text": "So that we can find that problem."
+    },
+    {
+      "start": 1433,
+      "timestamp": "23:53",
+      "text": "Get an example. need a good example"
+    },
+    {
+      "start": 1435,
+      "timestamp": "23:55",
+      "text": "No? Ok? We have this example."
+    },
+    {
+      "start": 1444,
+      "timestamp": "24:04",
+      "text": "We have example 2 0 2 1 0 very good"
+    },
+    {
+      "start": 1451,
+      "timestamp": "24:11",
+      "text": "ok now use pointer to pointer"
+    },
+    {
+      "start": 1454,
+      "timestamp": "24:14",
+      "text": "How will you do it? See your final array."
+    },
+    {
+      "start": 1457,
+      "timestamp": "24:17",
+      "text": "Which way is your final supposed to come?"
+    },
+    {
+      "start": 1460,
+      "timestamp": "24:20",
+      "text": "Hey when it's done it will look like this"
+    },
+    {
+      "start": 1465,
+      "timestamp": "24:25",
+      "text": "0 1 2 3 4"
+    },
+    {
+      "start": 1469,
+      "timestamp": "24:29",
+      "text": "5 So what will your final array be like?"
+    },
+    {
+      "start": 1472,
+      "timestamp": "24:32",
+      "text": "Will it be visible? There will be zero twice, there will be one twice"
+    },
+    {
+      "start": 1475,
+      "timestamp": "24:35",
+      "text": "And there will be twice two. It will look like this, right? Now"
+    },
+    {
+      "start": 1478,
+      "timestamp": "24:38",
+      "text": "Look into this. This is your region of zero"
+    },
+    {
+      "start": 1481,
+      "timestamp": "24:41",
+      "text": "Is. This is your region zero. this is yours"
+    },
+    {
+      "start": 1485,
+      "timestamp": "24:45",
+      "text": "Is the region of. This is your forest region. Is"
+    },
+    {
+      "start": 1489,
+      "timestamp": "24:49",
+      "text": "No? So this is zero. this one and this one"
+    },
+    {
+      "start": 1493,
+      "timestamp": "24:53",
+      "text": "Which is to is. So any one if you"
+    },
+    {
+      "start": 1495,
+      "timestamp": "24:55",
+      "text": "We will make your final array in three parts."
+    },
+    {
+      "start": 1498,
+      "timestamp": "24:58",
+      "text": "Is divided. You are looking at a zero"
+    },
+    {
+      "start": 1500,
+      "timestamp": "25:00",
+      "text": "Is the region. One is one region and one is two region."
+    },
+    {
+      "start": 1502,
+      "timestamp": "25:02",
+      "text": "Is the region. means start of an array"
+    },
+    {
+      "start": 1506,
+      "timestamp": "25:06",
+      "text": "will be. And one will come to zero. zero's last"
+    },
+    {
+      "start": 1510,
+      "timestamp": "25:10",
+      "text": "till. Then the forest will begin."
+    },
+    {
+      "start": 1514,
+      "timestamp": "25:14",
+      "text": "There will be an end to the forest."
+    },
+    {
+      "start": 1518,
+      "timestamp": "25:18",
+      "text": "Two will begin,"
+    },
+    {
+      "start": 1521,
+      "timestamp": "25:21",
+      "text": "There will be an end to two. Now look at it like this"
+    },
+    {
+      "start": 1524,
+      "timestamp": "25:24",
+      "text": "It will feel like yours, won't it? Hey it will start from somewhere"
+    },
+    {
+      "start": 1527,
+      "timestamp": "25:27",
+      "text": "Which will be from zero. But okay. so here"
+    },
+    {
+      "start": 1530,
+      "timestamp": "25:30",
+      "text": "It will start from somewhere. it will last till here"
+    },
+    {
+      "start": 1533,
+      "timestamp": "25:33",
+      "text": "Till zero. Then the forest will start. forest ever"
+    },
+    {
+      "start": 1536,
+      "timestamp": "25:36",
+      "text": "It will also end. Then immediately after that two start"
+    },
+    {
+      "start": 1538,
+      "timestamp": "25:38",
+      "text": "It will happen and it will end. so this is yours"
+    },
+    {
+      "start": 1540,
+      "timestamp": "25:40",
+      "text": "It was a zero area. This one one, this two one"
+    },
+    {
+      "start": 1542,
+      "timestamp": "25:42",
+      "text": "The one. This is what is happening isn't it? what in this case"
+    },
+    {
+      "start": 1545,
+      "timestamp": "25:45",
+      "text": "Is? What is your start? your start"
+    },
+    {
+      "start": 1547,
+      "timestamp": "25:47",
+      "text": "The index is zero. zero on which index"
+    },
+    {
+      "start": 1551,
+      "timestamp": "25:51",
+      "text": "Is it last? Zero. Last on this index"
+    },
+    {
+      "start": 1552,
+      "timestamp": "25:52",
+      "text": "Last on one. On one. Begin on one kiss"
+    },
+    {
+      "start": 1555,
+      "timestamp": "25:55",
+      "text": "Happened? To pe. On whom did the forest last? three"
+    },
+    {
+      "start": 1557,
+      "timestamp": "25:57",
+      "text": "Pay. To whom did it begin? On four. and to"
+    },
+    {
+      "start": 1560,
+      "timestamp": "26:00",
+      "text": "At what end? On five. Ok? This much"
+    },
+    {
+      "start": 1564,
+      "timestamp": "26:04",
+      "text": "Did everyone understand or not? Even here."
+    },
+    {
+      "start": 1567,
+      "timestamp": "26:07",
+      "text": "Ok? Let's do the next part now"
+    },
+    {
+      "start": 1569,
+      "timestamp": "26:09",
+      "text": "Are. A video will be added on this immediately."
+    },
+    {
+      "start": 1571,
+      "timestamp": "26:11",
+      "text": "See, till now everyone understood that your"
+    },
+    {
+      "start": 1574,
+      "timestamp": "26:14",
+      "text": "The array is divided. Your array is divided."
+    },
+    {
+      "start": 1576,
+      "timestamp": "26:16",
+      "text": "Divided into chunks. zero in the forest"
+    },
+    {
+      "start": 1579,
+      "timestamp": "26:19",
+      "text": "Of everything in two. Now"
+    },
+    {
+      "start": 1582,
+      "timestamp": "26:22",
+      "text": "just assume just assume"
+    },
+    {
+      "start": 1584,
+      "timestamp": "26:24",
+      "text": "Your array which is given to you which is yours"
+    },
+    {
+      "start": 1586,
+      "timestamp": "26:26",
+      "text": "input array"
+    },
+    {
+      "start": 1587,
+      "timestamp": "26:27",
+      "text": "Your input array given to you is 2 0 2"
+    },
+    {
+      "start": 1592,
+      "timestamp": "26:32",
+      "text": "1"
+    },
+    {
+      "start": 1594,
+      "timestamp": "26:34",
+      "text": "0 0 1 2"
+    },
+    {
+      "start": 1598,
+      "timestamp": "26:38",
+      "text": "5 Suppose this is your region, right?"
+    },
+    {
+      "start": 1601,
+      "timestamp": "26:41",
+      "text": "This is already given to you somewhere"
+    },
+    {
+      "start": 1603,
+      "timestamp": "26:43",
+      "text": "This region is yours and you also need it."
+    },
+    {
+      "start": 1606,
+      "timestamp": "26:46",
+      "text": "What are we trying to say given"
+    },
+    {
+      "start": 1608,
+      "timestamp": "26:48",
+      "text": "are that"
+    },
+    {
+      "start": 1610,
+      "timestamp": "26:50",
+      "text": "Let's say this one is the region, sorry"
+    },
+    {
+      "start": 1614,
+      "timestamp": "26:54",
+      "text": "My recording was gone. Ok? So"
+    },
+    {
+      "start": 1616,
+      "timestamp": "26:56",
+      "text": "What were we saying just now? you in array"
+    },
+    {
+      "start": 1618,
+      "timestamp": "26:58",
+      "text": "Your reasons are. Ok? so if we three"
+    },
+    {
+      "start": 1621,
+      "timestamp": "27:01",
+      "text": "take pointer like this take three pointer"
+    },
+    {
+      "start": 1624,
+      "timestamp": "27:04",
+      "text": "And let us assume this. See"
+    },
+    {
+      "start": 1626,
+      "timestamp": "27:06",
+      "text": "Now you have to do this entire array. Rearrange"
+    },
+    {
+      "start": 1629,
+      "timestamp": "27:09",
+      "text": "Have to do. Let us assume that the left side of this array"
+    },
+    {
+      "start": 1632,
+      "timestamp": "27:12",
+      "text": "There is some part in and also on the right side of this array"
+    },
+    {
+      "start": 1634,
+      "timestamp": "27:14",
+      "text": "There are some parts. Ok? what do we say"
+    },
+    {
+      "start": 1637,
+      "timestamp": "27:17",
+      "text": "Wherever the array starts from"
+    },
+    {
+      "start": 1639,
+      "timestamp": "27:19",
+      "text": "Suppose there is a very large infinite array."
+    },
+    {
+      "start": 1641,
+      "timestamp": "27:21",
+      "text": "That's all you have to worry about."
+    },
+    {
+      "start": 1645,
+      "timestamp": "27:25",
+      "text": "But this array is infinite. you just"
+    },
+    {
+      "start": 1647,
+      "timestamp": "27:27",
+      "text": "Telling to explain. so let's say"
+    },
+    {
+      "start": 1650,
+      "timestamp": "27:30",
+      "text": "that from the start"
+    },
+    {
+      "start": 1652,
+      "timestamp": "27:32",
+      "text": "Low is all zero till -1. Suppose here"
+    },
+    {
+      "start": 1657,
+      "timestamp": "27:37",
+      "text": "Everything is zero. This is in its correct form."
+    },
+    {
+      "start": 1660,
+      "timestamp": "27:40",
+      "text": "Good. Also assume that from hi + 1"
+    },
+    {
+      "start": 1667,
+      "timestamp": "27:47",
+      "text": "There is sub till the end so this is also sorted. These"
+    },
+    {
+      "start": 1670,
+      "timestamp": "27:50",
+      "text": "Is also in its correct form. so from here"
+    },
+    {
+      "start": 1672,
+      "timestamp": "27:52",
+      "text": "There is everything here. Good. the middle part you"
+    },
+    {
+      "start": 1675,
+      "timestamp": "27:55",
+      "text": "Have to sort. The middle part lets you sort"
+    },
+    {
+      "start": 1678,
+      "timestamp": "27:58",
+      "text": "Have to do. middle section you sort"
+    },
+    {
+      "start": 1680,
+      "timestamp": "28:00",
+      "text": "Is. So what about the law and the law?"
+    },
+    {
+      "start": 1683,
+      "timestamp": "28:03",
+      "text": "It should have been in the middle part that"
+    },
+    {
+      "start": 1686,
+      "timestamp": "28:06",
+      "text": "There should have been a forest. This should have happened, right?"
+    },
+    {
+      "start": 1688,
+      "timestamp": "28:08",
+      "text": "If we are saying that we are stuck in the middle"
+    },
+    {
+      "start": 1690,
+      "timestamp": "28:10",
+      "text": "Went somewhere. Everything is zero here. here on"
+    },
+    {
+      "start": 1693,
+      "timestamp": "28:13",
+      "text": "All is two. So there should have been a forest here."
+    },
+    {
+      "start": 1696,
+      "timestamp": "28:16",
+      "text": "Ok? So now your problem will be limited."
+    },
+    {
+      "start": 1698,
+      "timestamp": "28:18",
+      "text": "Has gone. Your problem is gradually becoming smaller now."
+    },
+    {
+      "start": 1700,
+      "timestamp": "28:20",
+      "text": "It is happening. Getting smaller. see you one"
+    },
+    {
+      "start": 1701,
+      "timestamp": "28:21",
+      "text": "Is a teacher. All the topper kids are standing here"
+    },
+    {
+      "start": 1704,
+      "timestamp": "28:24",
+      "text": "Is. All the failure kids are standing here."
+    },
+    {
+      "start": 1706,
+      "timestamp": "28:26",
+      "text": "You've got you've got that in between"
+    },
+    {
+      "start": 1708,
+      "timestamp": "28:28",
+      "text": "Must be an average child. so if here"
+    },
+    {
+      "start": 1711,
+      "timestamp": "28:31",
+      "text": "It would have been better if it was just average. here on"
+    },
+    {
+      "start": 1713,
+      "timestamp": "28:33",
+      "text": "If only there was an average, everything would be fine. But"
+    },
+    {
+      "start": 1716,
+      "timestamp": "28:36",
+      "text": "Consider Just a Human. towards the teacher"
+    },
+    {
+      "start": 1718,
+      "timestamp": "28:38",
+      "text": "Think about it. Think carefully. Sara Topper"
+    },
+    {
+      "start": 1721,
+      "timestamp": "28:41",
+      "text": "It is here. The entire topper is here. total failure"
+    },
+    {
+      "start": 1725,
+      "timestamp": "28:45",
+      "text": "It is here."
+    },
+    {
+      "start": 1727,
+      "timestamp": "28:47",
+      "text": "You are a teacher. You have to arrange. so if"
+    },
+    {
+      "start": 1730,
+      "timestamp": "28:50",
+      "text": "If you see any failure here"
+    },
+    {
+      "start": 1731,
+      "timestamp": "28:51",
+      "text": "What would you say if you go last?"
+    },
+    {
+      "start": 1733,
+      "timestamp": "28:53",
+      "text": "Go stand up. That's correct. any topper"
+    },
+    {
+      "start": 1735,
+      "timestamp": "28:55",
+      "text": "What will you say if you see it? you go start"
+    },
+    {
+      "start": 1737,
+      "timestamp": "28:57",
+      "text": "Go and stand in the one. to failure"
+    },
+    {
+      "start": 1739,
+      "timestamp": "28:59",
+      "text": "What will you say? go and stand last"
+    },
+    {
+      "start": 1741,
+      "timestamp": "29:01",
+      "text": "Go. Yes, he is an average child. one average"
+    },
+    {
+      "start": 1743,
+      "timestamp": "29:03",
+      "text": "There is a child. One is an average child. to the forest here"
+    },
+    {
+      "start": 1745,
+      "timestamp": "29:05",
+      "text": "Should have happened. Leave the forest. average"
+    },
+    {
+      "start": 1747,
+      "timestamp": "29:07",
+      "text": "Leave it. Then tell me hey you"
+    },
+    {
+      "start": 1749,
+      "timestamp": "29:09",
+      "text": "What are you doing here? go with topper"
+    },
+    {
+      "start": 1751,
+      "timestamp": "29:11",
+      "text": "Stand at the start. this is what we do"
+    },
+    {
+      "start": 1753,
+      "timestamp": "29:13",
+      "text": "Are going. This is what we are going to do. Ok?"
+    },
+    {
+      "start": 1755,
+      "timestamp": "29:15",
+      "text": "This is what we are going to do. Did you understand? Now"
+    },
+    {
+      "start": 1759,
+      "timestamp": "29:19",
+      "text": "See what he said? Lo = 0. Mid = 0."
+    },
+    {
+      "start": 1767,
+      "timestamp": "29:27",
+      "text": "Hi = n – 1. What have we said?"
+    },
+    {
+      "start": 1772,
+      "timestamp": "29:32",
+      "text": "What is the range of zero? what is the range of zero"
+    },
+    {
+      "start": 1774,
+      "timestamp": "29:34",
+      "text": "Is? start"
+    },
+    {
+      "start": 1776,
+      "timestamp": "29:36",
+      "text": "From -1 to -1 -1 are all zeros. of two"
+    },
+    {
+      "start": 1782,
+      "timestamp": "29:42",
+      "text": "What is the range?"
+    },
+    {
+      "start": 1785,
+      "timestamp": "29:45",
+      "text": "High +1 is not high pay. +1 to end whatever"
+    },
+    {
+      "start": 1788,
+      "timestamp": "29:48",
+      "text": "There will be an infinite end. any problem"
+    },
+    {
+      "start": 1790,
+      "timestamp": "29:50",
+      "text": "Not there. Here is Pay Two's. what about the forest"
+    },
+    {
+      "start": 1793,
+      "timestamp": "29:53",
+      "text": "Will there be a range? Then what will be the range of the forest? Take"
+    },
+    {
+      "start": 1797,
+      "timestamp": "29:57",
+      "text": "to mid-1"
+    },
+    {
+      "start": 1801,
+      "timestamp": "30:01",
+      "text": "There will be a middle range. Now there is one range left"
+    },
+    {
+      "start": 1803,
+      "timestamp": "30:03",
+      "text": "In this. See if you look at the three pointer"
+    },
+    {
+      "start": 1805,
+      "timestamp": "30:05",
+      "text": "You will see that there is not even one range left. We people"
+    },
+    {
+      "start": 1807,
+      "timestamp": "30:07",
+      "text": "Take it from the start - 1 and cover it then this one"
+    },
+    {
+      "start": 1809,
+      "timestamp": "30:09",
+      "text": "Covered. end cover with high plus one"
+    },
+    {
+      "start": 1812,
+      "timestamp": "30:12",
+      "text": "If given, cover this one also. low to mid"
+    },
+    {
+      "start": 1814,
+      "timestamp": "30:14",
+      "text": "- 1 Covered this one too. but this"
+    },
+    {
+      "start": 1817,
+      "timestamp": "30:17",
+      "text": "The range was saved. This one survived the range."
+    },
+    {
+      "start": 1819,
+      "timestamp": "30:19",
+      "text": "This range has to be sorted. corresponding range"
+    },
+    {
+      "start": 1821,
+      "timestamp": "30:21",
+      "text": "We have to sort it. so this range"
+    },
+    {
+      "start": 1823,
+      "timestamp": "30:23",
+      "text": "We have to sort it. mid to high"
+    },
+    {
+      "start": 1826,
+      "timestamp": "30:26",
+      "text": "Till then we have to sort. this is ours"
+    },
+    {
+      "start": 1829,
+      "timestamp": "30:29",
+      "text": "There is a problem. This is problematic. This only"
+    },
+    {
+      "start": 1832,
+      "timestamp": "30:32",
+      "text": "Ours is a problematic area. Again"
+    },
+    {
+      "start": 1835,
+      "timestamp": "30:35",
+      "text": "Understand in example. Are we speaking?"
+    },
+    {
+      "start": 1838,
+      "timestamp": "30:38",
+      "text": "Look in the example. what to take from the start"
+    },
+    {
+      "start": 1840,
+      "timestamp": "30:40",
+      "text": "-1 Start to -1 Let's say it's -1."
+    },
+    {
+      "start": 1844,
+      "timestamp": "30:44",
+      "text": "Is everything still zero? yes, we are"
+    },
+    {
+      "start": 1845,
+      "timestamp": "30:45",
+      "text": "We have already accepted that everything is zero. Very"
+    },
+    {
+      "start": 1847,
+      "timestamp": "30:47",
+      "text": "Good. From high +1 and it's all here."
+    },
+    {
+      "start": 1850,
+      "timestamp": "30:50",
+      "text": "Here we have already accepted everything"
+    },
+    {
+      "start": 1851,
+      "timestamp": "30:51",
+      "text": "Is. Low to mid-1, 0 to -1 right now its"
+    },
+    {
+      "start": 1856,
+      "timestamp": "30:56",
+      "text": "There is no justification. Everything from 0 to -1 is one."
+    },
+    {
+      "start": 1859,
+      "timestamp": "30:59",
+      "text": "There is no reason for that right now. so we"
+    },
+    {
+      "start": 1861,
+      "timestamp": "31:01",
+      "text": "People don't know. Mid to high. from mid"
+    },
+    {
+      "start": 1864,
+      "timestamp": "31:04",
+      "text": "High means 0 to 5 Is everything unsorted?"
+    },
+    {
+      "start": 1866,
+      "timestamp": "31:06",
+      "text": "What is problematic? yes problematic"
+    },
+    {
+      "start": 1868,
+      "timestamp": "31:08",
+      "text": "Is. It looks completely jumbled."
+    },
+    {
+      "start": 1870,
+      "timestamp": "31:10",
+      "text": "If it is not in order then this is the sort"
+    },
+    {
+      "start": 1871,
+      "timestamp": "31:11",
+      "text": "Have to do. This is what needs to be sorted. Ok?"
+    },
+    {
+      "start": 1874,
+      "timestamp": "31:14",
+      "text": "Now what we told about the work of a teacher is that"
+    },
+    {
+      "start": 1876,
+      "timestamp": "31:16",
+      "text": "If you see topper then start it"
+    },
+    {
+      "start": 1878,
+      "timestamp": "31:18",
+      "text": "Let's try to send it. to failure"
+    },
+    {
+      "start": 1880,
+      "timestamp": "31:20",
+      "text": "Let's see, try to send him to the end"
+    },
+    {
+      "start": 1882,
+      "timestamp": "31:22",
+      "text": "We do. This is what we will do now. So"
+    },
+    {
+      "start": 1885,
+      "timestamp": "31:25",
+      "text": "What is our problematic? Mid = 0."
+    },
+    {
+      "start": 1889,
+      "timestamp": "31:29",
+      "text": "Hi = n – 1. sorting this out now"
+    },
+    {
+      "start": 1893,
+      "timestamp": "31:33",
+      "text": "Is. So why don't we take the mid from zero"
+    },
+    {
+      "start": 1896,
+      "timestamp": "31:36",
+      "text": "Go till the end. This is what the teacher will do. teacher here"
+    },
+    {
+      "start": 1898,
+      "timestamp": "31:38",
+      "text": "Will do it, right? The teacher will conduct the entire class. teacher"
+    },
+    {
+      "start": 1901,
+      "timestamp": "31:41",
+      "text": "Will look at each child one by one. one each"
+    },
+    {
+      "start": 1903,
+      "timestamp": "31:43",
+      "text": "Will see every child after doing this. How long will you see?"
+    },
+    {
+      "start": 1905,
+      "timestamp": "31:45",
+      "text": "Mid to high. Why? because we believe"
+    },
+    {
+      "start": 1908,
+      "timestamp": "31:48",
+      "text": "Have done that from high plus one and sorted"
+    },
+    {
+      "start": 1909,
+      "timestamp": "31:49",
+      "text": "Is. End sorted from high plus one. and that"
+    },
+    {
+      "start": 1912,
+      "timestamp": "31:52",
+      "text": "Will always be sorted. we make it like this"
+    },
+    {
+      "start": 1913,
+      "timestamp": "31:53",
+      "text": "Will make sure. See what it is, don't you like it?"
+    },
+    {
+      "start": 1917,
+      "timestamp": "31:57",
+      "text": "How could this be accepted? why value"
+    },
+    {
+      "start": 1918,
+      "timestamp": "31:58",
+      "text": "For? So this is an algorithm. this dutch"
+    },
+    {
+      "start": 1920,
+      "timestamp": "32:00",
+      "text": "National Flag is the name of this algorithm. Correct"
+    },
+    {
+      "start": 1922,
+      "timestamp": "32:02",
+      "text": "Is? So this algorithm has been thought of. this to you"
+    },
+    {
+      "start": 1925,
+      "timestamp": "32:05",
+      "text": "have to do it. We just have to accept this reason"
+    },
+    {
+      "start": 1928,
+      "timestamp": "32:08",
+      "text": "Have not done for. we make sure"
+    },
+    {
+      "start": 1929,
+      "timestamp": "32:09",
+      "text": "Will make sure it is true. This should be true every time."
+    },
+    {
+      "start": 1931,
+      "timestamp": "32:11",
+      "text": "So in every case, in every iteration, these four"
+    },
+    {
+      "start": 1934,
+      "timestamp": "32:14",
+      "text": "Things should be true. Ok? now you"
+    },
+    {
+      "start": 1936,
+      "timestamp": "32:16",
+      "text": "We see. What are we doing? We"
+    },
+    {
+      "start": 1939,
+      "timestamp": "32:19",
+      "text": "People are moving from mid to zero to end. Correct"
+    },
+    {
+      "start": 1942,
+      "timestamp": "32:22",
+      "text": "Is? So mid to high will work. Ok? now mid"
+    },
+    {
+      "start": 1948,
+      "timestamp": "32:28",
+      "text": "Will last till high. Now look at the array of mid three"
+    },
+    {
+      "start": 1952,
+      "timestamp": "32:32",
+      "text": "Could be a case, right? In the middle of the array you will find"
+    },
+    {
+      "start": 1954,
+      "timestamp": "32:34",
+      "text": "What can be found? first of all you"
+    },
+    {
+      "start": 1955,
+      "timestamp": "32:35",
+      "text": "You can get zero, then you can get one"
+    },
+    {
+      "start": 1958,
+      "timestamp": "32:38",
+      "text": "Is, and you can get two. only three things"
+    },
+    {
+      "start": 1961,
+      "timestamp": "32:41",
+      "text": "Can you get it? Only three elements in the array"
+    },
+    {
+      "start": 1962,
+      "timestamp": "32:42",
+      "text": "Is. Ok? Let's look at everything one by one"
+    },
+    {
+      "start": 1964,
+      "timestamp": "32:44",
+      "text": "What will happen. What did we say first?"
+    },
+    {
+      "start": 1967,
+      "timestamp": "32:47",
+      "text": "The teacher got the topper. so teacher topper"
+    },
+    {
+      "start": 1969,
+      "timestamp": "32:49",
+      "text": "What will he say that you go and stand with the topper?"
+    },
+    {
+      "start": 1971,
+      "timestamp": "32:51",
+      "text": "Be done. Then the teacher will say where the topper"
+    },
+    {
+      "start": 1974,
+      "timestamp": "32:54",
+      "text": "Topper is standing here, you"
+    },
+    {
+      "start": 1976,
+      "timestamp": "32:56",
+      "text": "Stand up after. after this go and stand"
+    },
+    {
+      "start": 1978,
+      "timestamp": "32:58",
+      "text": "Go. That boy over there"
+    },
+    {
+      "start": 1980,
+      "timestamp": "33:00",
+      "text": "What will happen? what about the boy over there"
+    },
+    {
+      "start": 1982,
+      "timestamp": "33:02",
+      "text": "do? swap the guy over there"
+    },
+    {
+      "start": 1983,
+      "timestamp": "33:03",
+      "text": "Will give. so see then see see again"
+    },
+    {
+      "start": 1987,
+      "timestamp": "33:07",
+      "text": "Look again, we are teachers, so what are we?"
+    },
+    {
+      "start": 1991,
+      "timestamp": "33:11",
+      "text": "Will say that if you are zero then you are a off"
+    },
+    {
+      "start": 1995,
+      "timestamp": "33:15",
+      "text": "go in low and see again where zero is"
+    },
+    {
+      "start": 1998,
+      "timestamp": "33:18",
+      "text": "0 lo - till 1 then next space of zero"
+    },
+    {
+      "start": 2001,
+      "timestamp": "33:21",
+      "text": "What is empty? Take - 1 so we agree"
+    },
+    {
+      "start": 2003,
+      "timestamp": "33:23",
+      "text": "Are full. Next space that is empty"
+    },
+    {
+      "start": 2005,
+      "timestamp": "33:25",
+      "text": "It's there, it's there. Ok? We will say take A and"
+    },
+    {
+      "start": 2009,
+      "timestamp": "33:29",
+      "text": "A mid which we are now, swap."
+    },
+    {
+      "start": 2014,
+      "timestamp": "33:34",
+      "text": "What happened from this? The one in the middle was zero"
+    },
+    {
+      "start": 2017,
+      "timestamp": "33:37",
+      "text": "First went on low. Ok? that most"
+    },
+    {
+      "start": 2020,
+      "timestamp": "33:40",
+      "text": "Went on first low. the middle one which was zero"
+    },
+    {
+      "start": 2022,
+      "timestamp": "33:42",
+      "text": "He went on low first. Ok?"
+    },
+    {
+      "start": 2025,
+      "timestamp": "33:45",
+      "text": "It's a good thing. and and"
+    },
+    {
+      "start": 2028,
+      "timestamp": "33:48",
+      "text": "Will it come from here? Will it come from here? from lo"
+    },
+    {
+      "start": 2031,
+      "timestamp": "33:51",
+      "text": "What can come? Can zero come from low?"
+    },
+    {
+      "start": 2033,
+      "timestamp": "33:53",
+      "text": "Is? No. Why? Because where was zero?"
+    },
+    {
+      "start": 2036,
+      "timestamp": "33:56",
+      "text": "Was up to zero low - 1. Was up to zero low - 1. Take"
+    },
+    {
+      "start": 2040,
+      "timestamp": "34:00",
+      "text": "Zero cannot come from. what to take from there"
+    },
+    {
+      "start": 2042,
+      "timestamp": "34:02",
+      "text": "Can you come? no no no no. Hi"
+    },
+    {
+      "start": 2045,
+      "timestamp": "34:05",
+      "text": "Plus one to the end is two. what do you mean by lo"
+    },
+    {
+      "start": 2047,
+      "timestamp": "34:07",
+      "text": "could? Only one can come from here, brother."
+    },
+    {
+      "start": 2049,
+      "timestamp": "34:09",
+      "text": "Only one can come from Lo. lo se only one"
+    },
+    {
+      "start": 2051,
+      "timestamp": "34:11",
+      "text": "Can come. And if the forest is coming then the forest is coming"
+    },
+    {
+      "start": 2053,
+      "timestamp": "34:13",
+      "text": "If it is then it is very good because keep it"
+    },
+    {
+      "start": 2054,
+      "timestamp": "34:14",
+      "text": "There is only forest in between. so take something like this"
+    },
+    {
+      "start": 2057,
+      "timestamp": "34:17",
+      "text": "Can't come so that could be a problem. Take"
+    },
+    {
+      "start": 2059,
+      "timestamp": "34:19",
+      "text": "Only forest can come from. we send zero"
+    },
+    {
+      "start": 2062,
+      "timestamp": "34:22",
+      "text": "The forest is coming. So very good. do this"
+    },
+    {
+      "start": 2064,
+      "timestamp": "34:24",
+      "text": "Two. Increase Lo because now it is zero"
+    },
+    {
+      "start": 2067,
+      "timestamp": "34:27",
+      "text": "That's the range, that's increased. even to mid"
+    },
+    {
+      "start": 2069,
+      "timestamp": "34:29",
+      "text": "crank it up. Mid work is done. here on"
+    },
+    {
+      "start": 2071,
+      "timestamp": "34:31",
+      "text": "The forest has arrived. Wanted a forest. If A is in the middle"
+    },
+    {
+      "start": 2073,
+      "timestamp": "34:33",
+      "text": "If you get one then this is the best case. Best"
+    },
+    {
+      "start": 2075,
+      "timestamp": "34:35",
+      "text": "Only case one was required. Only forest is needed, brother."
+    },
+    {
+      "start": 2078,
+      "timestamp": "34:38",
+      "text": "Already zero. Pay two here. here on"
+    },
+    {
+      "start": 2081,
+      "timestamp": "34:41",
+      "text": "It's a good thing if we get a forest in everything."
+    },
+    {
+      "start": 2082,
+      "timestamp": "34:42",
+      "text": "Is. Good. Forest is found everywhere. to mid"
+    },
+    {
+      "start": 2084,
+      "timestamp": "34:44",
+      "text": "crank it up. There is no need to do anything. These"
+    },
+    {
+      "start": 2087,
+      "timestamp": "34:47",
+      "text": "See the one. This is a special case. you get"
+    },
+    {
+      "start": 2089,
+      "timestamp": "34:49",
+      "text": "Went to. So where can you send To? to"
+    },
+    {
+      "start": 2092,
+      "timestamp": "34:52",
+      "text": "Where will it be sent? send last"
+    },
+    {
+      "start": 2093,
+      "timestamp": "34:53",
+      "text": "yes. Where pe two stands. Stands for टो का फ."
+    },
+    {
+      "start": 2095,
+      "timestamp": "34:55",
+      "text": "Where does the fa of to stand? two ka f hi + 1 more"
+    },
+    {
+      "start": 2099,
+      "timestamp": "34:59",
+      "text": "Standing at the end. Ok? so if hi here"
+    },
+    {
+      "start": 2103,
+      "timestamp": "35:03",
+      "text": "is and here is hi + 1 so from here to"
+    },
+    {
+      "start": 2107,
+      "timestamp": "35:07",
+      "text": "Is full. There's a lot of two. so we all"
+    },
+    {
+      "start": 2109,
+      "timestamp": "35:09",
+      "text": "Where to? put two before it"
+    },
+    {
+      "start": 2111,
+      "timestamp": "35:11",
+      "text": "Will give. So bring 2 here and make it stand."
+    },
+    {
+      "start": 2113,
+      "timestamp": "35:13",
+      "text": "Bring it here and make it stand. bring it here and park it"
+    },
+    {
+      "start": 2114,
+      "timestamp": "35:14",
+      "text": "Two. Is it correct or not?"
+    },
+    {
+      "start": 2118,
+      "timestamp": "35:18",
+      "text": "Bring 2 here and make it stand. So"
+    },
+    {
+      "start": 2121,
+      "timestamp": "35:21",
+      "text": "Look, my internet is going down again and again."
+    },
+    {
+      "start": 2123,
+      "timestamp": "35:23",
+      "text": "Ok? You all have a little patience"
+    },
+    {
+      "start": 2126,
+      "timestamp": "35:26",
+      "text": "Keep it. Sorry. Yes. Now this jo 2 has come to him"
+    },
+    {
+      "start": 2130,
+      "timestamp": "35:30",
+      "text": "Where are we sending people? send it last"
+    },
+    {
+      "start": 2131,
+      "timestamp": "35:31",
+      "text": "Have been. Ok? So you have to understand one thing"
+    },
+    {
+      "start": 2134,
+      "timestamp": "35:34",
+      "text": "I must have come that a mid"
+    },
+    {
+      "start": 2137,
+      "timestamp": "35:37",
+      "text": "and a high"
+    },
+    {
+      "start": 2139,
+      "timestamp": "35:39",
+      "text": "Swapped this. ok swap once"
+    },
+    {
+      "start": 2143,
+      "timestamp": "35:43",
+      "text": "So what were you doing in the first one?"
+    },
+    {
+      "start": 2145,
+      "timestamp": "35:45",
+      "text": "Was swiping in the first one also. Very"
+    },
+    {
+      "start": 2146,
+      "timestamp": "35:46",
+      "text": "Good. And were increasing both. Good"
+    },
+    {
+      "start": 2150,
+      "timestamp": "35:50",
+      "text": "Will the same work be done in this? are we people"
+    },
+    {
+      "start": 2151,
+      "timestamp": "35:51",
+      "text": "In this it will be said that brother, increase the mid and"
+    },
+    {
+      "start": 2154,
+      "timestamp": "35:54",
+      "text": "The high will not increase now. high is low"
+    },
+    {
+      "start": 2155,
+      "timestamp": "35:55",
+      "text": "will be. The high is coming from there from the exit."
+    },
+    {
+      "start": 2157,
+      "timestamp": "35:57",
+      "text": "Well can't do that. Why not"
+    },
+    {
+      "start": 2159,
+      "timestamp": "35:59",
+      "text": "Can do? Understand very carefully."
+    },
+    {
+      "start": 2162,
+      "timestamp": "36:02",
+      "text": "What to expect from Lo Se Array of Lo"
+    },
+    {
+      "start": 2165,
+      "timestamp": "36:05",
+      "text": "Was? We have proved with Array of Low"
+    },
+    {
+      "start": 2167,
+      "timestamp": "36:07",
+      "text": "Only one could have come. Why?"
+    },
+    {
+      "start": 2169,
+      "timestamp": "36:09",
+      "text": "Because zero was till 1. low to mid"
+    },
+    {
+      "start": 2173,
+      "timestamp": "36:13",
+      "text": "If there was a forest till then, the forest would come from here. Ok? Hi"
+    },
+    {
+      "start": 2176,
+      "timestamp": "36:16",
+      "text": "What can come from? what can come from high"
+    },
+    {
+      "start": 2178,
+      "timestamp": "36:18",
+      "text": "Is? Now that flow chart again from High"
+    },
+    {
+      "start": 2180,
+      "timestamp": "36:20",
+      "text": "See. What's in high? look mid to high"
+    },
+    {
+      "start": 2184,
+      "timestamp": "36:24",
+      "text": "This is this high area. This is problematic"
+    },
+    {
+      "start": 2187,
+      "timestamp": "36:27",
+      "text": "It's an area, brother. This is problematic"
+    },
+    {
+      "start": 2188,
+      "timestamp": "36:28",
+      "text": "It is not deterministic at all. what are we"
+    },
+    {
+      "start": 2190,
+      "timestamp": "36:30",
+      "text": "Did you say? Take from start - 1 has 0. Hi"
+    },
+    {
+      "start": 2193,
+      "timestamp": "36:33",
+      "text": "+ 1 to end is two. Low to Mid - 1 in"
+    },
+    {
+      "start": 2196,
+      "timestamp": "36:36",
+      "text": "There is a forest. But this area is problematic."
+    },
+    {
+      "start": 2199,
+      "timestamp": "36:39",
+      "text": "So anything can come from high. high to 0 1 2"
+    },
+    {
+      "start": 2203,
+      "timestamp": "36:43",
+      "text": "Anything can come. Anything can come. Some?"
+    },
+    {
+      "start": 2207,
+      "timestamp": "36:47",
+      "text": "Can also come. so anything can come from high"
+    },
+    {
+      "start": 2210,
+      "timestamp": "36:50",
+      "text": "Is. So you will have to reduce the high"
+    },
+    {
+      "start": 2214,
+      "timestamp": "36:54",
+      "text": "Because what should we put in high now?"
+    },
+    {
+      "start": 2215,
+      "timestamp": "36:55",
+      "text": "Are? Two have been put in high. so this family"
+    },
+    {
+      "start": 2217,
+      "timestamp": "36:57",
+      "text": "Has become of two. So now we go to high school"
+    },
+    {
+      "start": 2219,
+      "timestamp": "36:59",
+      "text": "Will bring it here and it will become i + 1. They"
+    },
+    {
+      "start": 2222,
+      "timestamp": "37:02",
+      "text": "So that's a very good thing. high minus minus"
+    },
+    {
+      "start": 2224,
+      "timestamp": "37:04",
+      "text": "Should do. but nothing about mid"
+    },
+    {
+      "start": 2226,
+      "timestamp": "37:06",
+      "text": "do. Why won't they do anything about mid?"
+    },
+    {
+      "start": 2228,
+      "timestamp": "37:08",
+      "text": "Because now if zero has come from here then"
+    },
+    {
+      "start": 2231,
+      "timestamp": "37:11",
+      "text": "You will have to do this work again. here on"
+    },
+    {
+      "start": 2234,
+      "timestamp": "37:14",
+      "text": "If the forest has come then you will have to do this work again"
+    },
+    {
+      "start": 2235,
+      "timestamp": "37:15",
+      "text": "Will have to. If you come from here then you will again"
+    },
+    {
+      "start": 2237,
+      "timestamp": "37:17",
+      "text": "This work will have to be done. so because that"
+    },
+    {
+      "start": 2239,
+      "timestamp": "37:19",
+      "text": "It is a problematic area because we"
+    },
+    {
+      "start": 2241,
+      "timestamp": "37:21",
+      "text": "Don't know what came from the high"
+    },
+    {
+      "start": 2243,
+      "timestamp": "37:23",
+      "text": "So we won't do anything in the middle and stop"
+    },
+    {
+      "start": 2246,
+      "timestamp": "37:26",
+      "text": "Will do it. And how long will this whole story continue?"
+    },
+    {
+      "start": 2249,
+      "timestamp": "37:29",
+      "text": "What is problematic area? Mid to high."
+    },
+    {
+      "start": 2253,
+      "timestamp": "37:33",
+      "text": "So as soon as mid becomes greater than high"
+    },
+    {
+      "start": 2257,
+      "timestamp": "37:37",
+      "text": "We will stop doing this. we are these"
+    },
+    {
+      "start": 2260,
+      "timestamp": "37:40",
+      "text": "Will stop. Will stop. dry run"
+    },
+    {
+      "start": 2264,
+      "timestamp": "37:44",
+      "text": "You will understand completely."
+    },
+    {
+      "start": 2266,
+      "timestamp": "37:46",
+      "text": "There is a bit of a hard algorithm. believe in"
+    },
+    {
+      "start": 2267,
+      "timestamp": "37:47",
+      "text": "It is very hard."
+    },
+    {
+      "start": 2269,
+      "timestamp": "37:49",
+      "text": "But a little will have to be done."
+    },
+    {
+      "start": 2273,
+      "timestamp": "37:53",
+      "text": "Ok?"
+    },
+    {
+      "start": 2275,
+      "timestamp": "37:55",
+      "text": "2 0 2 1"
+    },
+    {
+      "start": 2280,
+      "timestamp": "38:00",
+      "text": "0 0 1 2 3 4 5 Did we say raise the low"
+    },
+    {
+      "start": 2286,
+      "timestamp": "38:06",
+      "text": "Take Lo = 0 Mid = 0"
+    },
+    {
+      "start": 2292,
+      "timestamp": "38:12",
+      "text": "High = n - 1 5 How long to run Mid when"
+    },
+    {
+      "start": 2297,
+      "timestamp": "38:17",
+      "text": "Until it crosses the high. Very"
+    },
+    {
+      "start": 2299,
+      "timestamp": "38:19",
+      "text": "Good. Let's play. What is mid=0? mid=0"
+    },
+    {
+      "start": 2303,
+      "timestamp": "38:23",
+      "text": "What is? It's two. What did you do in two? mid"
+    },
+    {
+      "start": 2306,
+      "timestamp": "38:26",
+      "text": "And used to swap the high. mid and high"
+    },
+    {
+      "start": 2309,
+      "timestamp": "38:29",
+      "text": "Used to swap. This is what you used to do, right? mid"
+    },
+    {
+      "start": 2312,
+      "timestamp": "38:32",
+      "text": "And swiped high. swap"
+    },
+    {
+      "start": 2315,
+      "timestamp": "38:35",
+      "text": "Will give now. So first of all what is here?"
+    },
+    {
+      "start": 2318,
+      "timestamp": "38:38",
+      "text": "Was? Here the pay was two and here the pay was zero."
+    },
+    {
+      "start": 2321,
+      "timestamp": "38:41",
+      "text": "Swipe mid and high."
+    },
+    {
+      "start": 2327,
+      "timestamp": "38:47",
+      "text": "So here we wrote two. here on"
+    },
+    {
+      "start": 2329,
+      "timestamp": "38:49",
+      "text": "Wrote zero. And subtracted the high by one. Hi"
+    },
+    {
+      "start": 2332,
+      "timestamp": "38:52",
+      "text": "Decreased by one."
+    },
+    {
+      "start": 2334,
+      "timestamp": "38:54",
+      "text": "Decrease the highs by one but increase the mids."
+    },
+    {
+      "start": 2336,
+      "timestamp": "38:56",
+      "text": "No, do not increase the mid because we"
+    },
+    {
+      "start": 2338,
+      "timestamp": "38:58",
+      "text": "I don't know what came from there, anything."
+    },
+    {
+      "start": 2340,
+      "timestamp": "39:00",
+      "text": "Maybe that's why we will move to the next iteration."
+    },
+    {
+      "start": 2343,
+      "timestamp": "39:03",
+      "text": "mid equal to 0 again mid is not increased now"
+    },
+    {
+      "start": 2345,
+      "timestamp": "39:05",
+      "text": "Look now zero has come, what to do mid and low"
+    },
+    {
+      "start": 2348,
+      "timestamp": "39:08",
+      "text": "Had to swipe, look here mid also"
+    },
+    {
+      "start": 2349,
+      "timestamp": "39:09",
+      "text": "If it is zero then it is also zero so there is no need."
+    },
+    {
+      "start": 2352,
+      "timestamp": "39:12",
+      "text": "If you swipe up then it will remain the same"
+    },
+    {
+      "start": 2353,
+      "timestamp": "39:13",
+      "text": "And both have to be increased and both have to be increased"
+    },
+    {
+      "start": 2356,
+      "timestamp": "39:16",
+      "text": "If you want to give something very good then increase both of them mid."
+    },
+    {
+      "start": 2359,
+      "timestamp": "39:19",
+      "text": "Take this one mid is equal to one mid"
+    },
+    {
+      "start": 2364,
+      "timestamp": "39:24",
+      "text": "In = 1, zero came again. What is the plan?"
+    },
+    {
+      "start": 2366,
+      "timestamp": "39:26",
+      "text": "Both have to be swiped. If both are same then"
+    },
+    {
+      "start": 2367,
+      "timestamp": "39:27",
+      "text": "It won't make any difference. increase both"
+    },
+    {
+      "start": 2369,
+      "timestamp": "39:29",
+      "text": "Is. Good. Increase both. Make it two. to"
+    },
+    {
+      "start": 2372,
+      "timestamp": "39:32",
+      "text": "Do it."
+    },
+    {
+      "start": 2374,
+      "timestamp": "39:34",
+      "text": "Mid = two. Now two has come in mid = 2. now to"
+    },
+    {
+      "start": 2378,
+      "timestamp": "39:38",
+      "text": "What to do if it comes? let's swap"
+    },
+    {
+      "start": 2381,
+      "timestamp": "39:41",
+      "text": "With whom? With high. So with high = 4"
+    },
+    {
+      "start": 2384,
+      "timestamp": "39:44",
+      "text": "Will swipe this. So with four when"
+    },
+    {
+      "start": 2386,
+      "timestamp": "39:46",
+      "text": "If you swipe, this will happen and on four"
+    },
+    {
+      "start": 2389,
+      "timestamp": "39:49",
+      "text": "Will put two and reduce the high. Hi"
+    },
+    {
+      "start": 2392,
+      "timestamp": "39:52",
+      "text": "will reduce the but not the mid"
+    },
+    {
+      "start": 2394,
+      "timestamp": "39:54",
+      "text": "Will increase. very good. So Mid = 2 Mid = 2"
+    },
+    {
+      "start": 2398,
+      "timestamp": "39:58",
+      "text": "What's in? Forest. What is a forest? Best case."
+    },
+    {
+      "start": 2400,
+      "timestamp": "40:00",
+      "text": "very good. Just increase the mid, brother. to mid"
+    },
+    {
+      "start": 2401,
+      "timestamp": "40:01",
+      "text": "Just have to increase. Just need to increase the mids. to mid"
+    },
+    {
+      "start": 2403,
+      "timestamp": "40:03",
+      "text": "Just have to increase. Good. Now"
+    },
+    {
+      "start": 2407,
+      "timestamp": "40:07",
+      "text": "Mid = 3 Mid = 3. Look carefully. Attention"
+    },
+    {
+      "start": 2411,
+      "timestamp": "40:11",
+      "text": "View from. did it cross the high"
+    },
+    {
+      "start": 2413,
+      "timestamp": "40:13",
+      "text": "Is. Haven't crossed yet. It has been equalized."
+    },
+    {
+      "start": 2415,
+      "timestamp": "40:15",
+      "text": "Can do. There is one again in mid=high."
+    },
+    {
+      "start": 2417,
+      "timestamp": "40:17",
+      "text": "very good. very good. Increase the mids. mid"
+    },
+    {
+      "start": 2419,
+      "timestamp": "40:19",
+      "text": "Increase the. Now see mid = 4 mid = 4. What"
+    },
+    {
+      "start": 2424,
+      "timestamp": "40:24",
+      "text": "Is mid increased from mid three? yes increase"
+    },
+    {
+      "start": 2427,
+      "timestamp": "40:27",
+      "text": "Has gone. This means that we who"
+    },
+    {
+      "start": 2428,
+      "timestamp": "40:28",
+      "text": "Had gone mid to problematic area"
+    },
+    {
+      "start": 2430,
+      "timestamp": "40:30",
+      "text": "We are that problematic area in the high"
+    },
+    {
+      "start": 2433,
+      "timestamp": "40:33",
+      "text": "Have solved it. exit the program"
+    },
+    {
+      "start": 2434,
+      "timestamp": "40:34",
+      "text": "Give it. Now see if your array is sorted"
+    },
+    {
+      "start": 2436,
+      "timestamp": "40:36",
+      "text": "Has gone? Is your array sorted?"
+    },
+    {
+      "start": 2438,
+      "timestamp": "40:38",
+      "text": "Is your zero here? is yours"
+    },
+    {
+      "start": 2440,
+      "timestamp": "40:40",
+      "text": "Forest has come here? are you here to come"
+    },
+    {
+      "start": 2442,
+      "timestamp": "40:42",
+      "text": "Has gone? Yes it has arrived. then return"
+    },
+    {
+      "start": 2443,
+      "timestamp": "40:43",
+      "text": "Give it."
+    },
+    {
+      "start": 2445,
+      "timestamp": "40:45",
+      "text": "So this becomes its complete explanation."
+    },
+    {
+      "start": 2448,
+      "timestamp": "40:48",
+      "text": "I think we wrote the pseudo code."
+    },
+    {
+      "start": 2450,
+      "timestamp": "40:50",
+      "text": "And you guys have seen the pseudo code. code link"
+    },
+    {
+      "start": 2453,
+      "timestamp": "40:53",
+      "text": "Will be found in the description. so these two"
+    },
+    {
+      "start": 2455,
+      "timestamp": "40:55",
+      "text": "There is a question. very important very"
+    },
+    {
+      "start": 2457,
+      "timestamp": "40:57",
+      "text": "There is a question. Saying again and again."
+    },
+    {
+      "start": 2458,
+      "timestamp": "40:58",
+      "text": "There are many questions. Look at this again."
+    },
+    {
+      "start": 2460,
+      "timestamp": "41:00",
+      "text": "Watch again and again, understand. submit and yes"
+    },
+    {
+      "start": 2464,
+      "timestamp": "41:04",
+      "text": "Please submit. By code link you"
+    },
+    {
+      "start": 2466,
+      "timestamp": "41:06",
+      "text": "Can take some reference. whichever"
+    },
+    {
+      "start": 2467,
+      "timestamp": "41:07",
+      "text": "cpp,java,python all those you can take reference"
+    },
+    {
+      "start": 2472,
+      "timestamp": "41:12",
+      "text": "Can. But please submit. submit"
+    },
+    {
+      "start": 2474,
+      "timestamp": "41:14",
+      "text": "Please do. Now let's meet tomorrow."
+    }
+  ]
+}

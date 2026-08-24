@@ -1,0 +1,1064 @@
+{
+  "video_id": "n7v0SokbF4",
+  "title": "2 Pointers Technique",
+  "language": "en",
+  "model": "unknown",
+  "duration": 570,
+  "segments": [
+    {
+      "start": 0,
+      "timestamp": "00:00",
+      "text": "Yes brother, come and revise the two pointer."
+    },
+    {
+      "start": 2,
+      "timestamp": "00:02",
+      "text": "In. I am very happy that"
+    },
+    {
+      "start": 4,
+      "timestamp": "00:04",
+      "text": "We have read Two Pointer completely. Two Pointer"
+    },
+    {
+      "start": 6,
+      "timestamp": "00:06",
+      "text": "Pattern. So all the people who were reading from the beginning"
+    },
+    {
+      "start": 8,
+      "timestamp": "00:08",
+      "text": "It is a very useful lecture for them. whatever"
+    },
+    {
+      "start": 10,
+      "timestamp": "00:10",
+      "text": "People are watching this channel for the first time"
+    },
+    {
+      "start": 12,
+      "timestamp": "00:12",
+      "text": "So go check out the playlist Two Pointer"
+    },
+    {
+      "start": 14,
+      "timestamp": "00:14",
+      "text": "On the pattern. There we learned. We have this"
+    },
+    {
+      "start": 16,
+      "timestamp": "00:16",
+      "text": "The answer to the question has been learned in great detail."
+    },
+    {
+      "start": 19,
+      "timestamp": "00:19",
+      "text": "Question by putting four five six videos"
+    },
+    {
+      "start": 21,
+      "timestamp": "00:21",
+      "text": "Understand by asking questions. But this revision"
+    },
+    {
+      "start": 24,
+      "timestamp": "00:24",
+      "text": "Let's quickly understand this in the video"
+    },
+    {
+      "start": 25,
+      "timestamp": "00:25",
+      "text": "Answer of the question. When to use"
+    },
+    {
+      "start": 27,
+      "timestamp": "00:27",
+      "text": "pointer? Because this is the purpose of the entire series."
+    },
+    {
+      "start": 29,
+      "timestamp": "00:29",
+      "text": "This means that you should not memorize the questions. you that"
+    },
+    {
+      "start": 32,
+      "timestamp": "00:32",
+      "text": "Don't worry if I ask you five questions."
+    },
+    {
+      "start": 34,
+      "timestamp": "00:34",
+      "text": "If you have given then only five questions will be asked from you."
+    },
+    {
+      "start": 35,
+      "timestamp": "00:35",
+      "text": "Must be the one with six. run this series"
+    },
+    {
+      "start": 38,
+      "timestamp": "00:38",
+      "text": "The purpose of this is that if you ask five questions"
+    },
+    {
+      "start": 40,
+      "timestamp": "00:40",
+      "text": "If so, then ask yourself 50 questions."
+    },
+    {
+      "start": 42,
+      "timestamp": "00:42",
+      "text": "Should become. Which is on the same pattern."
+    },
+    {
+      "start": 45,
+      "timestamp": "00:45",
+      "text": "Ok? First of all when to use"
+    },
+    {
+      "start": 47,
+      "timestamp": "00:47",
+      "text": "Pointers. So first of all let's see that"
+    },
+    {
+      "start": 49,
+      "timestamp": "00:49",
+      "text": "Flow chart. Flow chart is very important that"
+    },
+    {
+      "start": 52,
+      "timestamp": "00:52",
+      "text": "You can see any lead code question"
+    },
+    {
+      "start": 54,
+      "timestamp": "00:54",
+      "text": "How will you know if it has a two pointer?"
+    },
+    {
+      "start": 56,
+      "timestamp": "00:56",
+      "text": "Or it won't seem. First of all that array"
+    },
+    {
+      "start": 59,
+      "timestamp": "00:59",
+      "text": "There should be a question. array or linked list"
+    },
+    {
+      "start": 62,
+      "timestamp": "01:02",
+      "text": "There should be a question of. so far we have"
+    },
+    {
+      "start": 64,
+      "timestamp": "01:04",
+      "text": "No matter how many questions you ask, have you noticed that"
+    },
+    {
+      "start": 66,
+      "timestamp": "01:06",
+      "text": "Have we done questions on graph or tree?"
+    },
+    {
+      "start": 68,
+      "timestamp": "01:08",
+      "text": "Do it or not."
+    },
+    {
+      "start": 70,
+      "timestamp": "01:10",
+      "text": "Why? Because it doesn't seem to be there. Next"
+    },
+    {
+      "start": 72,
+      "timestamp": "01:12",
+      "text": "Things are already sorted and ready to be sorted."
+    },
+    {
+      "start": 77,
+      "timestamp": "01:17",
+      "text": "It will be easier than. be easier to sort"
+    },
+    {
+      "start": 81,
+      "timestamp": "01:21",
+      "text": "Will go. It will become easier. This should happen."
+    },
+    {
+      "start": 87,
+      "timestamp": "01:27",
+      "text": "Or rearrange it as written in the question."
+    },
+    {
+      "start": 90,
+      "timestamp": "01:30",
+      "text": "Brother. What is written in the question?"
+    },
+    {
+      "start": 92,
+      "timestamp": "01:32",
+      "text": "Rearrange or remove duplicate brother."
+    },
+    {
+      "start": 96,
+      "timestamp": "01:36",
+      "text": "remove duplicates or merge in place"
+    },
+    {
+      "start": 101,
+      "timestamp": "01:41",
+      "text": "Brother. Merge in place brother. either this"
+    },
+    {
+      "start": 105,
+      "timestamp": "01:45",
+      "text": "In the question it is written either or or or"
+    },
+    {
+      "start": 108,
+      "timestamp": "01:48",
+      "text": "Then"
+    },
+    {
+      "start": 109,
+      "timestamp": "01:49",
+      "text": "Be in question. find"
+    },
+    {
+      "start": 113,
+      "timestamp": "01:53",
+      "text": "More Than One Thing. Find More Than One Thing."
+    },
+    {
+      "start": 119,
+      "timestamp": "01:59",
+      "text": "Find More Than One Thing Meaning Pairs"
+    },
+    {
+      "start": 123,
+      "timestamp": "02:03",
+      "text": "or triplets"
+    },
+    {
+      "start": 126,
+      "timestamp": "02:06",
+      "text": "Or quadruplets."
+    },
+    {
+      "start": 131,
+      "timestamp": "02:11",
+      "text": "If this is written here in the question then see this"
+    },
+    {
+      "start": 133,
+      "timestamp": "02:13",
+      "text": "Take it. First of all, array or linked list"
+    },
+    {
+      "start": 135,
+      "timestamp": "02:15",
+      "text": "Have questions. After that either he is already"
+    },
+    {
+      "start": 137,
+      "timestamp": "02:17",
+      "text": "Be sorted or work with sorting."
+    },
+    {
+      "start": 139,
+      "timestamp": "02:19",
+      "text": "It will become easier. If this is the situation"
+    },
+    {
+      "start": 142,
+      "timestamp": "02:22",
+      "text": "If it is written in the question, rearrange it."
+    },
+    {
+      "start": 144,
+      "timestamp": "02:24",
+      "text": "remove duplicates merge in place"
+    },
+    {
+      "start": 147,
+      "timestamp": "02:27",
+      "text": "even sub eras sub eras"
+    },
+    {
+      "start": 150,
+      "timestamp": "02:30",
+      "text": "All arrays should also be written in the question either"
+    },
+    {
+      "start": 154,
+      "timestamp": "02:34",
+      "text": "You have to find more than one thing in the question"
+    },
+    {
+      "start": 156,
+      "timestamp": "02:36",
+      "text": "means you have to find a pair either"
+    },
+    {
+      "start": 159,
+      "timestamp": "02:39",
+      "text": "You have to find triplets or you have to find four things."
+    },
+    {
+      "start": 161,
+      "timestamp": "02:41",
+      "text": "Is it necessary to find five things or that vector?"
+    },
+    {
+      "start": 163,
+      "timestamp": "02:43",
+      "text": "I am not talking about finding if vector"
+    },
+    {
+      "start": 165,
+      "timestamp": "02:45",
+      "text": "If you want to search then that is a different matter but one"
+    },
+    {
+      "start": 167,
+      "timestamp": "02:47",
+      "text": "It doesn't mean much to you but one, it means pair to you."
+    },
+    {
+      "start": 170,
+      "timestamp": "02:50",
+      "text": "Find it brother, find only two numbers, find two, find three"
+    },
+    {
+      "start": 173,
+      "timestamp": "02:53",
+      "text": "Find four, find more than one thing"
+    },
+    {
+      "start": 176,
+      "timestamp": "02:56",
+      "text": "If you want to find it, it's somewhere in all this."
+    },
+    {
+      "start": 180,
+      "timestamp": "03:00",
+      "text": "Two pointer you might think. If this method"
+    },
+    {
+      "start": 182,
+      "timestamp": "03:02",
+      "text": "If there is any question then there is 90% chance that"
+    },
+    {
+      "start": 186,
+      "timestamp": "03:06",
+      "text": "There will be a two pointer in it. question by"
+    },
+    {
+      "start": 188,
+      "timestamp": "03:08",
+      "text": "Question let me explain to you how"
+    },
+    {
+      "start": 189,
+      "timestamp": "03:09",
+      "text": "It will take. What was the first question? to"
+    },
+    {
+      "start": 192,
+      "timestamp": "03:12",
+      "text": "Even."
+    },
+    {
+      "start": 194,
+      "timestamp": "03:14",
+      "text": "What were the points in Two Sum? of array"
+    },
+    {
+      "start": 196,
+      "timestamp": "03:16",
+      "text": "There was a question. Wasn't sorted but sorted"
+    },
+    {
+      "start": 200,
+      "timestamp": "03:20",
+      "text": "There is benefit in doing it. who videos"
+    },
+    {
+      "start": 202,
+      "timestamp": "03:22",
+      "text": "I haven't seen it yet, please spare some time."
+    },
+    {
+      "start": 205,
+      "timestamp": "03:25",
+      "text": "Watch the videos. Ok? Only then will you understand this"
+    },
+    {
+      "start": 206,
+      "timestamp": "03:26",
+      "text": "Will come in what we are telling here. Now"
+    },
+    {
+      "start": 209,
+      "timestamp": "03:29",
+      "text": "Sorting is beneficial, isn't it? and pair"
+    },
+    {
+      "start": 212,
+      "timestamp": "03:32",
+      "text": "Had to search. Had to find a pair."
+    },
+    {
+      "start": 217,
+      "timestamp": "03:37",
+      "text": "You can see three things. the ones above this"
+    },
+    {
+      "start": 219,
+      "timestamp": "03:39",
+      "text": "Found in flow chart. That's why this two pointer"
+    },
+    {
+      "start": 220,
+      "timestamp": "03:40",
+      "text": "Was. Three even. Why was threesome a two pointer?"
+    },
+    {
+      "start": 224,
+      "timestamp": "03:44",
+      "text": "The first thing was the question of array."
+    },
+    {
+      "start": 228,
+      "timestamp": "03:48",
+      "text": "Would have been easier to sort. to sort"
+    },
+    {
+      "start": 231,
+      "timestamp": "03:51",
+      "text": "It becomes easier to find more triplets."
+    },
+    {
+      "start": 235,
+      "timestamp": "03:55",
+      "text": "Yes yes triplets had to be found."
+    },
+    {
+      "start": 239,
+      "timestamp": "03:59",
+      "text": "Had to find. And it was just like two. These"
+    },
+    {
+      "start": 243,
+      "timestamp": "04:03",
+      "text": "Tha loop plus two sum. so if two sum two"
+    },
+    {
+      "start": 248,
+      "timestamp": "04:08",
+      "text": "If there was a question of pointer, then three is naturally"
+    },
+    {
+      "start": 250,
+      "timestamp": "04:10",
+      "text": "There was a question of three pointer. all three even"
+    },
+    {
+      "start": 252,
+      "timestamp": "04:12",
+      "text": "In the question we used the same algorithm, the same"
+    },
+    {
+      "start": 254,
+      "timestamp": "04:14",
+      "text": "Had seen logic, same decision tree. Isn't it?"
+    },
+    {
+      "start": 257,
+      "timestamp": "04:17",
+      "text": "Then what was left? square sorted array"
+    },
+    {
+      "start": 262,
+      "timestamp": "04:22",
+      "text": "Square. Now from above you can see"
+    },
+    {
+      "start": 264,
+      "timestamp": "04:24",
+      "text": "Will say that the first thing in this is the array"
+    },
+    {
+      "start": 267,
+      "timestamp": "04:27",
+      "text": "There is a question. Ok?"
+    },
+    {
+      "start": 269,
+      "timestamp": "04:29",
+      "text": "Is sorted."
+    },
+    {
+      "start": 272,
+      "timestamp": "04:32",
+      "text": "Ok? But now you will say that now"
+    },
+    {
+      "start": 274,
+      "timestamp": "04:34",
+      "text": "There is nothing in it. but but but"
+    },
+    {
+      "start": 276,
+      "timestamp": "04:36",
+      "text": "Those who watched this video, complete video"
+    },
+    {
+      "start": 277,
+      "timestamp": "04:37",
+      "text": "Saw that he knew that this question"
+    },
+    {
+      "start": 279,
+      "timestamp": "04:39",
+      "text": "Merge these questions in actual."
+    },
+    {
+      "start": 282,
+      "timestamp": "04:42",
+      "text": "Was of two sorted array. merge to sorted"
+    },
+    {
+      "start": 286,
+      "timestamp": "04:46",
+      "text": "Was. Was of sorted array. take a look at everything"
+    },
+    {
+      "start": 289,
+      "timestamp": "04:49",
+      "text": "indicating that this is a two pointer"
+    },
+    {
+      "start": 291,
+      "timestamp": "04:51",
+      "text": "There is a question. There is a question of two pointer."
+    },
+    {
+      "start": 294,
+      "timestamp": "04:54",
+      "text": "If you have not seen the series then please"
+    },
+    {
+      "start": 296,
+      "timestamp": "04:56",
+      "text": "See. missing a lot of things"
+    },
+    {
+      "start": 297,
+      "timestamp": "04:57",
+      "text": "You. Ok? Because as much as I am here"
+    },
+    {
+      "start": 299,
+      "timestamp": "04:59",
+      "text": "Nothing is there This is not even 2%"
+    },
+    {
+      "start": 301,
+      "timestamp": "05:01",
+      "text": "Of syllabus. 98% of the work has been done there. next"
+    },
+    {
+      "start": 305,
+      "timestamp": "05:05",
+      "text": "What was the question? Remove Duplicates."
+    },
+    {
+      "start": 308,
+      "timestamp": "05:08",
+      "text": "Remove Duplicates. This is so simple"
+    },
+    {
+      "start": 312,
+      "timestamp": "05:12",
+      "text": "Told you. There is a question of array."
+    },
+    {
+      "start": 315,
+      "timestamp": "05:15",
+      "text": "The array is also sorted."
+    },
+    {
+      "start": 318,
+      "timestamp": "05:18",
+      "text": "Remove duplicates from array. Question name"
+    },
+    {
+      "start": 321,
+      "timestamp": "05:21",
+      "text": "This is remove duplicate. flow chart memorization"
+    },
+    {
+      "start": 324,
+      "timestamp": "05:24",
+      "text": "Do. Seems simple enough. to"
+    },
+    {
+      "start": 326,
+      "timestamp": "05:26",
+      "text": "There is a question of pointer. That's right. And"
+    },
+    {
+      "start": 330,
+      "timestamp": "05:30",
+      "text": "What is? What else did you see? dutch national flag"
+    },
+    {
+      "start": 332,
+      "timestamp": "05:32",
+      "text": "yes this is good some dutch national flag now this"
+    },
+    {
+      "start": 339,
+      "timestamp": "05:39",
+      "text": "the question was about"
+    },
+    {
+      "start": 342,
+      "timestamp": "05:42",
+      "text": "Wasn't sorted Wasn't sorted Wasn't sorted"
+    },
+    {
+      "start": 345,
+      "timestamp": "05:45",
+      "text": "had to but didn't"
+    },
+    {
+      "start": 347,
+      "timestamp": "05:47",
+      "text": "And if you have to rearrange the array, you have to rearrange it."
+    },
+    {
+      "start": 350,
+      "timestamp": "05:50",
+      "text": "All I had to do was bring it in this format 0 1 2"
+    },
+    {
+      "start": 353,
+      "timestamp": "05:53",
+      "text": "So had to rearrange and put in place"
+    },
+    {
+      "start": 356,
+      "timestamp": "05:56",
+      "text": "Had to do in place in place no no space"
+    },
+    {
+      "start": 361,
+      "timestamp": "06:01",
+      "text": "No space tells you all these three things together"
+    },
+    {
+      "start": 363,
+      "timestamp": "06:03",
+      "text": "That it was a two pointer question and something"
+    },
+    {
+      "start": 367,
+      "timestamp": "06:07",
+      "text": "Had done and some had not been done yet. Ahead"
+    },
+    {
+      "start": 370,
+      "timestamp": "06:10",
+      "text": "If you do then you will see all the questions which we have asked."
+    },
+    {
+      "start": 372,
+      "timestamp": "06:12",
+      "text": "If I have done it then it is not that in my mind"
+    },
+    {
+      "start": 374,
+      "timestamp": "06:14",
+      "text": "It came to me that this is a two pointer question."
+    },
+    {
+      "start": 375,
+      "timestamp": "06:15",
+      "text": "That's why we will keep them. All these questions"
+    },
+    {
+      "start": 378,
+      "timestamp": "06:18",
+      "text": "That's the whole question. What's in all this?"
+    },
+    {
+      "start": 381,
+      "timestamp": "06:21",
+      "text": "Is it common? Array is common. Look at all the array"
+    },
+    {
+      "start": 384,
+      "timestamp": "06:24",
+      "text": "There are questions. benefit from some sorting"
+    },
+    {
+      "start": 387,
+      "timestamp": "06:27",
+      "text": "Is. Some are easier to sort. Some?"
+    },
+    {
+      "start": 389,
+      "timestamp": "06:29",
+      "text": "Already sorted. some already sorted"
+    },
+    {
+      "start": 391,
+      "timestamp": "06:31",
+      "text": "Is. Something needs to be sorted. so here one"
+    },
+    {
+      "start": 394,
+      "timestamp": "06:34",
+      "text": "Always remember this. Hey what other name is there?"
+    },
+    {
+      "start": 397,
+      "timestamp": "06:37",
+      "text": "Sorting. Arrays and sorting. array and"
+    },
+    {
+      "start": 400,
+      "timestamp": "06:40",
+      "text": "Sorting. Array plus sorting. it's very big"
+    },
+    {
+      "start": 404,
+      "timestamp": "06:44",
+      "text": "There is indication. This is one of the biggest"
+    },
+    {
+      "start": 406,
+      "timestamp": "06:46",
+      "text": "Indication array plus sorting is in 2.10."
+    },
+    {
+      "start": 408,
+      "timestamp": "06:48",
+      "text": "Ok? If not sorted. If"
+    },
+    {
+      "start": 410,
+      "timestamp": "06:50",
+      "text": "Rearrange if not sorted"
+    },
+    {
+      "start": 414,
+      "timestamp": "06:54",
+      "text": "rearrange remove"
+    },
+    {
+      "start": 417,
+      "timestamp": "06:57",
+      "text": "merge"
+    },
+    {
+      "start": 419,
+      "timestamp": "06:59",
+      "text": "With these you should be told to place these"
+    },
+    {
+      "start": 421,
+      "timestamp": "07:01",
+      "text": "Have to place in means no extra"
+    },
+    {
+      "start": 424,
+      "timestamp": "07:04",
+      "text": "Space is the second biggest indication."
+    },
+    {
+      "start": 426,
+      "timestamp": "07:06",
+      "text": "These two points are common to you, these two"
+    },
+    {
+      "start": 429,
+      "timestamp": "07:09",
+      "text": "point these two point this point and this you"
+    },
+    {
+      "start": 433,
+      "timestamp": "07:13",
+      "text": "We will find common in every type of question."
+    },
+    {
+      "start": 435,
+      "timestamp": "07:15",
+      "text": "Five plus five equals seven eight"
+    },
+    {
+      "start": 437,
+      "timestamp": "07:17",
+      "text": "There will be total questions in every question."
+    },
+    {
+      "start": 439,
+      "timestamp": "07:19",
+      "text": "Same thing will be available in common. so now my hope"
+    },
+    {
+      "start": 441,
+      "timestamp": "07:21",
+      "text": "From this you must have understood that two pointer use"
+    },
+    {
+      "start": 443,
+      "timestamp": "07:23",
+      "text": "When does it happen? Ok? And yes, all"
+    },
+    {
+      "start": 446,
+      "timestamp": "07:26",
+      "text": "We have seen all types of movements in the question."
+    },
+    {
+      "start": 449,
+      "timestamp": "07:29",
+      "text": "Have seen. What does two pointer mean?"
+    },
+    {
+      "start": 450,
+      "timestamp": "07:30",
+      "text": "Is? One is left, one is right."
+    },
+    {
+      "start": 453,
+      "timestamp": "07:33",
+      "text": "So we have seen questions where"
+    },
+    {
+      "start": 456,
+      "timestamp": "07:36",
+      "text": "Plus was plus, high minus was minus."
+    },
+    {
+      "start": 459,
+      "timestamp": "07:39",
+      "text": "Was. In what? In two sum. Yes. two sum three"
+    },
+    {
+      "start": 463,
+      "timestamp": "07:43",
+      "text": "Even. This happened in both. We also"
+    },
+    {
+      "start": 466,
+      "timestamp": "07:46",
+      "text": "Have seen questions where lo plus is plus"
+    },
+    {
+      "start": 468,
+      "timestamp": "07:48",
+      "text": "Was. High was also a plus plus. whose is this"
+    },
+    {
+      "start": 471,
+      "timestamp": "07:51",
+      "text": "are we talking? Remove Duplicates."
+    },
+    {
+      "start": 473,
+      "timestamp": "07:53",
+      "text": "Yes. CM and officers used to move forward together that"
+    },
+    {
+      "start": 476,
+      "timestamp": "07:56",
+      "text": "Didn't grow? Remove Duplicates and Merge"
+    },
+    {
+      "start": 480,
+      "timestamp": "08:00",
+      "text": "In sorted arrays. Merge sorted arrays."
+    },
+    {
+      "start": 483,
+      "timestamp": "08:03",
+      "text": "Both grow individually. both would have been a plus"
+    },
+    {
+      "start": 485,
+      "timestamp": "08:05",
+      "text": "Is. We also saw questions where"
+    },
+    {
+      "start": 488,
+      "timestamp": "08:08",
+      "text": "Had three pointers. Low mid high. In what? Whose"
+    },
+    {
+      "start": 493,
+      "timestamp": "08:13",
+      "text": "are talking? Dutch. Dutch Dutch. dutch national"
+    },
+    {
+      "start": 496,
+      "timestamp": "08:16",
+      "text": "Flag. Dutch national flag. The National Flag. So"
+    },
+    {
+      "start": 499,
+      "timestamp": "08:19",
+      "text": "We have seen every type of movement"
+    },
+    {
+      "start": 501,
+      "timestamp": "08:21",
+      "text": "In this uh playlist. Ok? now you"
+    },
+    {
+      "start": 505,
+      "timestamp": "08:25",
+      "text": "What is the plan? If your revision is done"
+    },
+    {
+      "start": 506,
+      "timestamp": "08:26",
+      "text": "Is. What is your work tomorrow? first of all"
+    },
+    {
+      "start": 509,
+      "timestamp": "08:29",
+      "text": "Whatever questions you have, please submit them."
+    },
+    {
+      "start": 511,
+      "timestamp": "08:31",
+      "text": "Do it friend. Ok? just watching videos"
+    },
+    {
+      "start": 513,
+      "timestamp": "08:33",
+      "text": "Will not happen from. please submit them"
+    },
+    {
+      "start": 515,
+      "timestamp": "08:35",
+      "text": "Do it. Sliding is going to start from tomorrow"
+    },
+    {
+      "start": 517,
+      "timestamp": "08:37",
+      "text": "window. sliding window which is a subset"
+    },
+    {
+      "start": 522,
+      "timestamp": "08:42",
+      "text": "Which is a subset. is a subset. subset of"
+    },
+    {
+      "start": 526,
+      "timestamp": "08:46",
+      "text": "Subset of what? Of two pointer. sliding"
+    },
+    {
+      "start": 528,
+      "timestamp": "08:48",
+      "text": "Pointer to window. if you"
+    },
+    {
+      "start": 530,
+      "timestamp": "08:50",
+      "text": "If we tell you in simple words, two pointer"
+    },
+    {
+      "start": 533,
+      "timestamp": "08:53",
+      "text": "That's just this case, sorry, this is this case."
+    },
+    {
+      "start": 537,
+      "timestamp": "08:57",
+      "text": "Called sliding window. this happens"
+    },
+    {
+      "start": 539,
+      "timestamp": "08:59",
+      "text": "Sliding window."
+    },
+    {
+      "start": 542,
+      "timestamp": "09:02",
+      "text": "There is a window in it."
+    },
+    {
+      "start": 545,
+      "timestamp": "09:05",
+      "text": "High lives here and Low lives here"
+    },
+    {
+      "start": 548,
+      "timestamp": "09:08",
+      "text": "Is. Hai grows in this direction. take it this way"
+    },
+    {
+      "start": 550,
+      "timestamp": "09:10",
+      "text": "Increases. This is called window."
+    },
+    {
+      "start": 551,
+      "timestamp": "09:11",
+      "text": "Shrinking. Sliding means shrink. These"
+    },
+    {
+      "start": 553,
+      "timestamp": "09:13",
+      "text": "Will keep shrinking. never such a big window"
+    },
+    {
+      "start": 555,
+      "timestamp": "09:15",
+      "text": "Then it will become so big. then so much"
+    },
+    {
+      "start": 557,
+      "timestamp": "09:17",
+      "text": "As he grows bigger, he keeps sliding. So"
+    },
+    {
+      "start": 559,
+      "timestamp": "09:19",
+      "text": "Well, we will know about it when we know about it."
+    },
+    {
+      "start": 561,
+      "timestamp": "09:21",
+      "text": "But I hope you do well"
+    },
+    {
+      "start": 563,
+      "timestamp": "09:23",
+      "text": "Have you understood? This two pointer one of the"
+    },
+    {
+      "start": 566,
+      "timestamp": "09:26",
+      "text": "Most Basic and Most Fundamental Patterns"
+    },
+    {
+      "start": 568,
+      "timestamp": "09:28",
+      "text": "You guys have understood. very good ways"
+    },
+    {
+      "start": 570,
+      "timestamp": "09:30",
+      "text": "From. Many congratulations to everyone."
+    }
+  ]
+}

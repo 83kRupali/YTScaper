@@ -1,0 +1,1192 @@
+Video ID: Fu7LD_mIo00
+Video URL: https://www.youtube.com/watch?v=Fu7LD_mIo00&list=PLbJhGqY-mq47k_WLUtzVjmarUm1EuXPj2&index=3
+Language: en
+[00:00] My work is to give you my 2 in 3 months
+[00:03] My birthday is coming in the month of January
+[00:04] Learn the pattern correctly in 13 days
+[00:07] Give. Your job is just to be consistent.
+[00:09] If you feel that you are not being consistent
+[00:11] Even if you find it, don't watch it yet. increase view
+[00:12] Is not needed. we are saying again and again
+[00:14] Are. If you do any work then
+[00:16] Be the best. There was a song in the Panchayat, wasn't it?
+[00:18] The metal contains diamond and topaz. So
+[00:20] If you want to be metal, be metal
+[00:22] If you want, become a diamond. iron, silver,
+[00:24] There is no benefit in sleeping. Ok?
+[00:26] Be consistent. we say the same thing again and again
+[00:28] Are speaking. From now on the video will come every day.
+[00:30] The entire pattern should be finished in three-four days
+[00:32] Will go. If you are not consistent then you will
+[00:33] No you will understand. Ok? Today
+[00:35] Introduction Video Hai Two Pointer Pattern
+[00:37] Of. Whoever doesn't have a sheet,
+[00:38] There is a sheet in the description and download it.
+[00:40] Take. Now first pattern and DSA
+[00:44] Topic. Till now all the courses on internet
+[00:47] Yes, this is the course of a striver, of a lover of love.
+[00:48] There is a course, whoever has it, all topic wise
+[00:51] Teaching you DSA. because speaking
+[00:53] That is, first read the array, 100 of the array
+[00:54] Do the question and then get 100% of the link list.
+[00:56] Ask questions, then you will not be stuck like this.
+[00:58] It happens. DSA is not read like that. array
+[01:00] There is no use in doing 100 questions.
+[01:02] Is. If you don't understand that
+[01:03] Which algorithm will be applied in it.
+[01:05] Because array does not have 100 questions.
+[01:07] The array has 1 lakh questions. you do 100
+[01:09] If you can't do anything, then do 100, thousand.
+[01:10] Do it, do 10,000, nothing will happen. That's why
+[01:13] It is important to read the pattern. so what is the pattern
+[01:15] What happens to you in an interview?
+[01:18] Want to solve? you in the interview
+[01:19] Question has to be solved. now question
+[01:22] It is obvious that either the array will be
+[01:24] Either the link will be from the list. besides that
+[01:26] This is the fundamental debt structure
+[01:28] No brother. Array and linked list are fundamental
+[01:30] It happens. Ok? Stq q graph tree and d
+[01:34] Q and so and so, all these arrays and links
+[01:36] Made from list. so it's an obvious thing
+[01:38] That every question is a question of the array. every
+[01:39] The question is a linked list question. For him
+[01:41] How to solve brother? which pattern
+[01:43] Is? Which algorithm will be used? these are us
+[01:44] Understand in patterns. so what about today
+[01:47] Is there a pattern? Two pointer. two pointer pattern
+[01:50] A real world to understand first
+[01:53] Let's give examples. Example that a
+[01:55] There is a building. Ok? four in one building
+[01:57] There is floor. Ok? what should we tell you
+[02:00] Are? 1 2 3 There are four floors. we tell you
+[02:03] Do one thing on the ground floor
+[02:06] It's time. Ok? You are this man. We you
+[02:08] They say do one thing on the upper floor
+[02:10] Get some general items from the fourth floor.
+[02:12] So what will you do? you first one to two
+[02:14] Will go. Two to three will go. three to four
+[02:16] Will go. Will take the goods. Will land three out of four.
+[02:19] Three to two to one. So how many times do you have to do this?
+[02:22] Had to climb? Had to climb four stairs. Four
+[02:24] Had to go down the stairs. So now what is the total work?
+[02:26] did? Eight. Ok? Now for example we will give you
+[02:30] Explain in another way. we told you that
+[02:32] No problem. one on the upper floor too
+[02:34] The man is standing mine. so do one thing that you
+[02:36] Climb up. tell the man upstairs that he
+[02:38] come on down. So what will you do? you one to two
+[02:41] Will go. Till then the man below will go here.
+[02:44] Then you guys are somewhere in between here
+[02:46] Will meet you. somewhere in between
+[02:48] Will meet. So what happened in this? In this you
+[02:50] Had to climb two stairs. take him down two stairs
+[02:53] Fell. Ok? So we are doing the same amount of work.
+[02:56] Earlier also you were climbing four stairs. here too
+[02:59] If you look on the net, you will find only four steps.
+[03:01] He went up in two and went down and became four. But
+[03:03] It took less time. Is the time half over or not?
+[03:06] Earlier you used to climb four. now you two are climbing
+[03:08] Are. You got the same stuff. so time
+[03:10] half done. We halved the time. This only
+[03:12] It is a two pointer. two pointer that's all
+[03:14] The little thing is that if any array or link
+[03:18] There is a question in the list, does anyone tell you?
+[03:20] If there is any work to be done, then if you want to do it then
+[03:23] Will have to be traversed twice or thrice
+[03:25] Will have to traverse four times
+[03:27] Instead of one index, we replace it with two
+[03:30] Use of index or two positions or two men
+[03:32] By doing this we will reduce the time. that much work
+[03:34] only occurs. Mind you, don't reduce your work.
+[03:37] You can. In whatever work, in whatever thing, as much as
+[03:39] To climb a ladder is to climb a ladder.
+[03:41] But if two people work together
+[03:43] Then the work will be half done. three people together
+[03:46] If we work together then the time will be reduced to 1/3. These
+[03:48] There is a two pointer pattern. now pattern now
+[03:52] You must have understood English roughly.
+[03:54] In. Now how to apply the pattern? you know
+[03:56] How will it work if there is a DSA question?
+[03:58] It also involves thinking in two patterns. if to
+[04:00] Pointer: To think or not to think? Embark
+[04:02] If it doesn't work then it's a matter of later. of everything
+[04:04] Probability is 80% 90% but think
+[04:08] That may seem like how to get started. To all
+[04:10] The first thing is the question array
+[04:14] Or it will be of link list. Ok? question
+[04:18] Will be of array or linked list only. If
+[04:20] Question is about tree, graph, stuck
+[04:25] Is it of Ka, DP of or Q.
+[04:29] According to me, in 99% of the cases
+[04:31] The pointer does not appear. to have a two pointer
+[04:34] For queries, array or linked list only.
+[04:35] Will have to happen. So if query array or link
+[04:38] If it is not on the list then there is no point in thinking about it.
+[04:40] About the two pointer. Now let's move ahead.
+[04:42] The question of array and linked list came. now now
+[04:44] It is a matter of further discussion. If you are given that
+[04:47] Sorted data is either by sorting it
+[04:51] You will find it easy. if you think that
+[04:53] It would have been easier if the data was sorted.
+[04:55] If the data is already sorted then this is the second sign.
+[04:57] That's all you need to know about the pattern.
+[04:59] Have to think about the pointer. Ok? Now
+[05:02] Let's move ahead. If this merge is written in the data
+[05:05] It has happened. Something has to be merged. remove
+[05:09] Duplicate is written. remove anywhere
+[05:11] Duplicate is written.
+[05:14] Ok? Either rearrange is written somewhere
+[05:17] But.
+[05:19] For example you are given two arrays
+[05:21] They have to be merged. something in array
+[05:23] They are duplicates and need to be removed. Link
+[05:25] There are some duplicates in the list, remove them.
+[05:26] Have to do. Rearrange that there is a lot in the array
+[05:29] The whole thing is there. 0 is one two in the array. To you
+[05:31] Zero has to be brought to one place. forest in one place
+[05:33] Have to bring. Two to one place. rearrangement of this
+[05:34] It is said that the value will remain the same. here and there
+[05:37] Meaning you have to rearrange. so you absolutely
+[05:39] Can think about two points. next
+[05:42] That is if there is a question about linked list.
+[05:44] Do you see Detect Cycle written anywhere?
+[05:48] Or do you think with your intelligence that if
+[05:50] If there will be a cycle in it then this question will become
+[05:52] Will go. So here pay to pattern to pointer
+[05:55] Looks like a pattern. So remember this flow chart
+[05:57] Keep it. Note this down in your copy.
+[05:58] Next I will tell you how to use flow chart.
+[06:00] How does it happen? everyone can understand the flow chart
+[06:02] Went. Array Linked List Sorted Either Given
+[06:05] Either way it will be easier to sort.
+[06:08] Merge remove or rearrange is written.
+[06:11] Detect cycle written in link list
+[06:12] Is. Either that or there's another thing. if you
+[06:16] Don't find one thing. like most of
+[06:18] The question tells you that one thing
+[06:20] Find it. Find an element. One
+[06:22] Find the index. If you find pair
+[06:25] Have to do this or find triplets.
+[06:28] Either you have to find quadruples.
+[06:30] Meaning there is not one answer. either two answers
+[06:33] Yes, there are three answers, there are four answers. speaks to you
+[06:35] Find a pair that is. love meaning couple
+[06:37] Find a pair or find a triplet means
+[06:40] IJK, tell me three things that come together
+[06:43] Tell me four things that will work
+[06:45] Even if it works, you can talk about two pointer.
+[06:48] Can think. This flow chart is in copy
+[06:50] Make sure to note it down. remember this and
+[06:53] As we put forward questions
+[06:55] As you go, it will become clear to you.
+[06:56] How is the flow chart being used and where?
+[06:58] It is happening. Ok? It's a good thing. one more
+[07:01] Confusion arises whether two pointer and
+[07:04] What is a sliding window? no, one
+[07:07] Does not happen. If you look at the sheet
+[07:10] Both are different patterns. both in one
+[07:11] Not mixed. two pointer and
+[07:13] Sliding windows are almost the same.
+[07:16] But in the question in which both are used
+[07:17] That is different. That's why different patterns
+[07:19] Is. There is not a pattern. sliding window
+[07:21] Let's also forget. sliding window when
+[07:22] We will read when the time comes. focus on two pointer
+[07:25] We do. So what do you understand by two pointer?
+[07:27] came in? When to do any work
+[07:29] Also you use more than one person.
+[07:31] What does man mean? man means man
+[07:33] Not a literal man. Imagine there is an array.
+[07:37] ok sir? 0 1 2 3 4 5 Now if your
+[07:42] The question is to find the sum of the array.
+[07:44] There is 10, there is 20, there is 30, there is 40, there is 50,
+[07:48] Is 60. Now what is your question? sum off
+[07:51] Hey. How to find sum of array? you i
+[07:55] Let's run from 0 to i to n and even
+[07:58] I keep adding plus. similar find
+[08:00] Still doing it, right? so how much do you get in this
+[08:02] Using a man? You are a man in this
+[08:04] Are using. Which man's? of i. And
+[08:06] So there is none. i other than i zero
+[08:08] is moving in a line up to n. You
+[08:10] Let's calculate the sum of all. find the
+[08:12] Product of array. Same thing. zero to n
+[08:14] Will grow up to. You will get the product.
+[08:16] Find the maximum of array. Same thing.
+[08:18] Go from zero to n. which is maximum
+[08:19] Store it. so use one man
+[08:21] Are doing. As soon as we are more than one
+[08:24] Using index or more than one person
+[08:26] Looks like. For example I with J also
+[08:29] Is. What does it mean in Hindi that if
+[08:32] The array is 10 10 this is 0 1 2 3 4 here is 10,
+[08:38] There is 20, there is 30, there is 40, there is 50. as soon as you
+[08:42] start using more than one element
+[08:44] Are. As soon as you start saying let's go
+[08:45] My i will be here. and suppose
+[08:47] My J will be here. not necessary here
+[08:49] Yes for example. so you say mine
+[08:51] I am here. J is here. this is mine
+[08:53] Is. This is my J. Both will roam together.
+[08:56] Will rotate in coordination. in the building
+[08:58] what was happening? a man on the ground floor
+[09:00] Was. A man was on the top floor. Both
+[09:01] Was growing by coordinating. ground
+[09:03] The person on the floor said, "Okay, we are up now."
+[09:05] Are going. God from above said we are ok
+[09:07] Coming down. then the one on the ground floor
+[09:08] Used to grow up. Then it came down
+[09:10] If both of them met at one place then the goods would be
+[09:12] There used to be exchange. That's why one
+[09:14] When you are using more people
+[09:16] So in the pointer to the linked list in the index
+[09:19] That is what is called a two pointer. two pointer
+[09:21] Now some people will have doubt in their mind that
+[09:23] Why pointer? three pointer four pointer
+[09:25] Why not? Because writing to pointer
+[09:28] And it is easy to understand. if two men easy
+[09:30] Is. Now you might be saying that three men
+[09:33] Do it. Now a man is on top of the building
+[09:35] Put one man down, one man down
+[09:36] Sit in the middle. so the one in the middle also moves
+[09:38] will do and things like this will happen then he
+[09:40] It will become complex. he won't understand
+[09:42] You will not be able to write that code well.
+[09:46] You will be able to solve the problem well. So
+[09:48] Where we need more than two people
+[09:50] others have to solve it
+[09:52] There are ways. others to solve it
+[09:53] There are good ways. That's why the two pointer stopped
+[09:55] We are going. Because if binary search
+[09:58] If so then why is there no ternary search? Fornary
+[10:00] Why is there no search? not so finery
+[10:01] It happens. Two pointer is used for this reason
+[10:04] Because it's a balance. Complexity
+[10:07] It is also fine and very useful.
+[10:09] Aap two pointer means cutting a task in half.
+[10:11] Do you understand the meaning? if it takes you 1 hour
+[10:13] If it is, it will take you half an hour. if you
+[10:15] It used to take 2 years for something, but only one year for something.
+[10:17] It will take. So that's half too big. Is a factor.
+[10:20] Ok? That's why we say that to
+[10:22] Pointer. Not three pointer and four pointer
+[10:24] And five pointer. maybe something like uh
+[10:26] Question three even. three in three
+[10:28] Looks like a pointer. So that's one of the two pointers.
+[10:30] It is an enlarged form. three point two pointer
+[10:32] Is a developed form. Ok? so not like that
+[10:34] Have to think. Two pointer everyone understood that a
+[10:37] Do your work by using more people than
+[10:39] Getting it done and coordinating both. Ok?
+[10:41] To coordinate both. Both are not like that
+[10:43] First one person will complete the journey. After that
+[10:45] The other man will be fine. so this is the same
+[10:47] The matter is done. For example if you are an array
+[10:50] What are you saying that we are like this two pointer
+[10:52] Think in which i first complete from here to here
+[10:56] It will be fine then if it goes all the way from here to here then
+[10:59] Why are you using j? so you to i
+[11:01] Use it. It became such a thing that a
+[11:02] The man will climb the entire building. then another
+[11:04] The man will climb the entire building. so this two
+[11:06] There is no pointer. This one pointer two times
+[11:07] Is. Ok? Two times is one pointer. to
+[11:11] The pointer means both will move together.
+[11:13] If we move in coordination together so that
+[11:15] May your work be done quickly. work is work the same
+[11:18] But it will happen soon. a man doing a job
+[11:20] If yes then it is taking 1 hour. two men
+[11:22] Coordinates work in an office
+[11:23] It takes half the time in school.
+[11:25] It's the same thing. Same concept and there is no
+[11:27] It's not rocket science. Ok? so now we
+[11:31] People see how the question is framed. So
+[11:33] Now whenever you create a question this will flow
+[11:35] Chart speaking again and again flow chart
+[11:37] Write it somewhere in your notebook. what is flow chart
+[11:39] Is? Is array linked list sorted or sorted
+[11:41] There is benefit in doing it. Have to merge.
+[11:43] Have to remove duplicates. to rearrange
+[11:45] Is. Detect Cycle in Link Listing
+[11:47] Is. Whether to search for pair or triplet
+[11:49] Or find quadruple or five to anything
+[11:51] Have to search. If you want to search for more than one thing
+[11:53] You can do it. yes it doesn't mean that
+[11:56] that if someone is speaking in that vector
+[11:57] If you want to search or tell, then you can use this
+[11:59] Two pointer array can mean a lot of things
+[12:01] Is. It is specifically given that brother
+[12:03] If you want to find one thing or three things then you
+[12:05] Think about it. This one again
+[12:09] Not a 100% thing. You will say that 100% now
+[12:12] Someone will say in the comments that see this one
+[12:14] There was a question in which it was written remove duplicate
+[12:17] It happened but two pointer is not used in it
+[12:18] Used to be. So this is not a 100% thing. These
+[12:20] Increases probability. whenever interview
+[12:23] Any question will come in
+[12:25] So where do you start thinking? from somewhere
+[12:27] You will start thinking. may be your first
+[12:29] Be wrong. So maybe first two pointer
+[12:31] Think about it. After that gave 5 minutes time on this.
+[12:34] Did you think Nana was from Two Pointer?
+[12:35] Used to be. Then what do you think? binary search
+[12:37] Think about it. Gave 2 minutes time on binary search.
+[12:40] You thought it wouldn't be possible even with binary search.
+[12:42] Then you think about back tracking. said yes back
+[12:44] It will be done through tracking. so how to think this
+[12:46] Is? You will start thinking from somewhere above, right?
+[12:48] Now a car or bike gets damaged.
+[12:51] So it's not like the mechanic would know
+[12:53] What exactly is bad? starts
+[12:55] Is. Begins to debunk. he says this
+[12:56] It may get worse. Now if this is not there then that
+[12:58] It may get worse. So the probability
+[13:00] Grow accordingly. maybe two pointer
+[13:02] The probability of this should be 70%. so you first
+[13:04] Think about it, maybe you don't feel like it?
+[13:06] The probability of binary search is 20%.
+[13:08] Maybe think about this. Even this may not happen. yes
+[13:10] Could be back tracking in that question
+[13:12] The probability should be only 10%. for example back
+[13:14] From the flow chart that will be created for tracking
+[13:16] There may be some condition, there may be a few matches.
+[13:18] Have been. Not everything is matching. This way
+[13:20] That's why patterns are important to think about
+[13:23] Gets you started. where to think and
+[13:25] How far to go? where you click
+[13:26] Have to stop there. Ok? enough
+[13:28] You also get intuition with practice
+[13:30] It may be that the question seems to be
+[13:32] Question binary of pointer but in real
+[13:34] Is of search. So when will that intuition come? They
+[13:36] When will practice come? when you a lot
+[13:37] Will question when you remain in this
+[13:40] In the series. Ok? i think to
+[13:42] According to the theory of pointer, this much
+[13:44] is enough. Now let us come to the question.
+[13:46] Are. What is the question? the first one on the sheet
+[13:49] The question is, okay? first of sheet
+[13:52] What is the question? is to some
+[13:54] to sum
+[13:56] You all go and read the questions. Now
+[13:59] There are two ways to sum in the question.
+[14:01] Now yes one more thing has gone wrong in the sheet
+[14:03] From me. The link to two is wrong.
+[14:05] Is. So let us tell you what is in the sheet
+[14:07] Which is written and which is the real two pointer pattern?
+[14:09] And why wouldn't both be applicable? Isn't it?
+[14:12] Now there is one or two. Ok? to sum
+[14:16] What is the question that gives you an array?
+[14:17] Is given and a target is given.
+[14:22] You have to tell two numbers in this array like this. Two
+[14:25] Number or two indexes to say that this
+[14:27] For example you say that my two
+[14:29] The numbers are a and b. Their sum is equal to two
+[14:32] There should be a target. This is a big question
+[14:35] Is. Ok? What does it mean? Sorry.
+[14:38] What does it mean? is that if the array is for
+[14:41] Example array is 2 7 11 and 15 and your
+[14:46] The target given to you is nine so 0 1 2 3
+[14:52] If your target is given nine then which one?
+[14:54] You can tell if two numbers are even by looking at them.
+[14:55] That is nine, the sum of 2 + 7 is nine. Ok?
+[14:59] So you have to return this number. now in this
+[15:01] Let's see how a flow chart works
+[15:03] And how is the format of this question?
+[15:06] This question has two parts. Ok? Two
+[15:08] What can we call it, not Part A?
+[15:10] There are two forms. There is no pointer to a form.
+[15:13] The second form is on two pointer. how to know
+[15:15] Are? Let's find out from the certificate. tiny
+[15:16] It's a thing. But it is a very important thing.
+[15:19] For example, if you were told that this
+[15:22] Hey, first of all, what is our flow chart?
+[15:24] Was? First of all we had a flow chart that
+[15:26] Is the question about array or linked list?
+[15:28] There is a question. Have a question about array? Yes sir.
+[15:29] There is a question of array. Are you sorted?
+[15:31] is given? Sorted is not given.
+[15:33] Would sorting be beneficial? this this this this
+[15:35] It's a small thing. Will look very carefully.
+[15:37] Please understand very carefully. now in question
+[15:40] Can ask you two things. in question
+[15:43] What have you asked? Give us a pair. So
+[15:44] Paired flow chart then click on it.
+[15:46] It is said that the pair is asking brother to be a two pointer.
+[15:48] Could. Don't know. array question
+[15:50] Is. Pair is asking. It is possible If
+[15:52] In your question you should say that the number
+[15:54] Please return. Meaning of two numbers if 2 +
+[15:58] If the sum of 7 is nine then you have the question
+[16:00] The person said that we have two and seven in the answer.
+[16:02] Needed This can be a form of question
+[16:05] Only that number has to be returned. if not then
+[16:07] Told you to return the index to us.
+[16:08] You don't have to return the number, brother. index
+[16:10] Have to do. Meaning to return 0 and one. These
+[16:13] The question has two forms. Did everyone understand?
+[16:15] Telling again. told you that
+[16:17] Give us two numbers which have the same target. Now
+[16:20] An array can contain two things. or so he said
+[16:22] Please give the actual number only. to
+[16:24] Give more intake. If not this then its index
+[16:26] Two. Give zero and one. so the number is either
+[16:28] Index.
+[16:30] This question has two forms. Done
+[16:33] No? Now a two pointer can be installed in one. One
+[16:37] Cannot find two pointer. Why
+[16:39] Can't seem? Let us tell.
+[16:42] For number sake, if you have to give number. Simple
+[16:44] If you want to give numbers then you can sort the array
+[16:47] Are. You fundamental principle of sorting
+[16:50] Understand that for example in sorting if
+[16:53] Your original array looks like this:
+[16:56] is this? 2 7 11 15 0 1 2 3 Now look at this array
+[17:02] Already sorted. This by chance sorted
+[17:05] Is. It is not written in the question that
+[17:06] Is sorted. Ok? You must be feeling this
+[17:08] This 2 7 11 15 is sorted. to this array
+[17:10] Let's change it. change this array to
+[17:13] 7 11 2 and 15. Ok? Now array sorted
+[17:17] Not there. Suppose this array was given. Now
+[17:20] What happens when you sort this array?
+[17:23] What happens if neither? When you sort the array
+[17:25] If we do this then it becomes 2 7 11 and 15 0
+[17:31] 1 2 3 Now look at a very interesting thing
+[17:34] The number that was previously in the array is
+[17:36] What were the numbers in the array from two to 11?
+[17:40] It was 15. What numbers are there in this array?
+[17:42] Sorting the same number makes the number smaller.
+[17:44] What happens when sorting 2 7 11 15
+[17:48] changes index changes look to
+[17:52] Which index was the first second on?
+[17:53] Was on index. Now come to two zero index
+[17:55] Went. Earlier the intake was at zero index. intake
+[17:57] Now the one index has come. 11 on the first one
+[18:00] Was. It's 11 o'clock. 15 beans remained but three
+[18:03] Things have changed. so your full number is two
+[18:05] There is a problem with the index. Is done?
+[18:08] Too was here earlier. Now it has come here.
+[18:10] If he asks you to just give him your number. give the number
+[18:13] Two. Index if doesn't matter. then
+[18:14] You could have sorted it and got the job done. Because
+[18:16] Index gets messed up in sorting.
+[18:18] The number remains the same. So if I told you that
+[18:21] Number two brother, then you could have sorted.
+[18:25] It also explains why we can sort.
+[18:27] But we can sort. but if
+[18:29] Give the index if anyone ever asks you brother.
+[18:31] Give index. No number required. index
+[18:33] If you want a position then you are sorted.
+[18:36] So that's a very good thing. but you sort
+[18:37] Can't do that. Why? will sort
+[18:40] Your index to number will be messed up. Wrong
+[18:42] The answer will come. Ok? so this two pointer when
+[18:45] Will it take? When will it take place? When you have been asked that
+[18:48] Brother number two. number two index matter
+[18:52] Doesn't. So in that case you can
+[18:53] Can sort. Or if I told you
+[18:56] Given that the index is two and the sorted array is
+[18:59] It is a sorted array. you don't have to sort
+[19:01] If yes then you can use two pointer. Ok?
+[19:04] If it says index two and sorted
+[19:06] If it is not there then the two pointer will not be used because
+[19:08] You can't sort it. sort
+[19:10] It will be easier to do. How can that be easy?
+[19:12] We tell you. But do you understand this?
+[19:14] How can small things make a difference?
+[19:16] Does matter. Just look at an index and a number
+[19:18] By moving around, a pattern appears. One
+[19:20] There doesn't seem to be a pattern. this small one
+[19:21] You have to understand small things and keep in mind
+[19:24] Have to keep. ok sir? now come ours
+[19:27] On question. So any DSA questions
+[19:30] If you are a beginner. Ok? if you
+[19:32] Speaking for beginners. First of all
+[19:34] Don't try to think of his best approach.
+[19:36] Do it. People have a tendency that we
+[19:38] Day one will start thinking about the perfect approach.
+[19:40] From. First of all you write brute force brother.
+[19:43] Brute force means in today's date if you
+[19:46] You don't know how to say anything now
+[19:49] Solve it. solve it by any means
+[19:51] The dirtiest approach you can think of
+[19:53] But if it gets solved then we call it
+[19:54] Is brute force. brute means one who has
+[19:56] There is no brain. Ok? So if you
+[19:59] First of all you have to think about brute force. to write
+[20:01] No need for brute force. but you
+[20:03] Should know how to do it with brute force
+[20:04] Brother? Now how will we do this? for example
+[20:07] This is your array. Isn't it? your target is
+[20:10] Nine.
+[20:13] Brute Four Sabse Sabse Jo Basic Approach Jo
+[20:15] Class 10 students should also come.
+[20:17] What is? We will do one thing. will run i
+[20:20] We go from zero to three. i will increase. as soon as i
+[20:24] Will come on seven then we will add another pointer J
+[20:26] Will start from below. Now there is intake. Now, it is Ok
+[20:28] Is? Now that you have come to intake, what do you think?
+[20:30] Want to search? When you have come to intake, you
+[20:33] Have to find another number which is equal to nine
+[20:36] If yes then it should be 7 + x = 9. x to come
+[20:39] Needed So whenever you come to intake, you
+[20:42] Find anywhere in the entire array that
+[20:44] [Translation failed: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=en&sl=hi&q=%E0%A4%A8%E0%A4%B9%E0%A5%80%E0%A4%82%E0%A5%A4+%E0%A4%A4%E0%A5%8B+%E0%A4%85%E0%A4%97%E0%A4%B0+%E0%A4%9F%E0%A5%82+%E0%A4%B9%E0%A5%88+%E0%A4%A4%E0%A5%8B+%E0%A4%AF%E0%A4%B9%E0%A5%80+%E0%A4%86%E0%A4%82%E0%A4%B8%E0%A4%B0+%E0%A4%B9%E0%A5%88+%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%A8 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))]
+[20:47] And two. If there is no two then seven is part of the answer.
+[20:49] Not there. You move on to the next one. if you to
+[20:51] When two of you come, how much more do you want?
+[20:54] May he become a nine. Need to consume. search further
+[20:56] Take it, is it available somewhere or not? if not then
+[20:57] very good thing. Go ahead. come at 11
+[21:00] Go. How much does 11 need to become nine?
+[21:02] 11 needs -2 to become a nine? Search
+[21:05] Is there -2 somewhere or not? how much on 15th
+[21:07] Needed? 15 needs -6 to become a nine.
+[21:09] Find out whether it is complete -6 or not? so like this
+[21:11] If you search again and again, you will get
+[21:13] You will get the answer. Very dirty solution.
+[21:15] Yes, a very dirty solution. But what
+[21:17] Does it work? Yes, it works. to this
+[21:19] Route Four. What is its time complexity?
+[21:22] will be? So first of all you are running i
+[21:24] From zero to n. I'm going to every element.
+[21:27] Now when I is going to every element then every i
+[21:29] For you are searching the entire array. this is it
+[21:31] Working, right? i if you want to
+[21:34] If you want to search then how will you find it? whole again
+[21:36] Will have to search in the array. Isn't it? linear search
+[21:38] have to do it. So for every i you
+[21:41] Just moving it from 0 to n. For every i you j
+[21:43] Also running from zero to n. which of
+[21:46] Time complexity is n².
+[21:48] Meaning if the size of the array is five then you can use 5
+[21:50] Square 25 are working. array size
+[21:53] If 10 then you are doing 10² 100 work.
+[21:55] So let's see how much it is increasing. of array
+[21:57] If the size becomes 1 lakh then your computer
+[21:59] Will stop. Isn't it? Because the size of the array
+[22:01] If 1 lakh is reached then you can do 10 to the power of 12.
+[22:04] Are doing. 10 to the power 12 means 1000
+[22:07] GB is doing so much work. your computer is
+[22:11] Will go off. ok sir. brute force write
+[22:13] For. Now let us come to our two pointer
+[22:15] On the pattern. Now what is another solution to this?
+[22:18] What is another solution? one more
+[22:21] What is the solution? 7 11 2 15 0 1 2 3 now
+[22:29] The better solution for this always seems to us like this
+[22:31] Have to go. brute
+[22:33] a little better than brute
+[22:36] And optimized.
+[22:40] Isn't it? We wrote Brute. now brute
+[22:43] What was happening in me? what's happening in the route
+[22:44] It was that we were looking at an element.
+[22:46] After that we were searching in the entire array
+[22:48] That somewhere there is a target minus this element that
+[22:50] No. This is what they were doing. we were all seven
+[22:52] Is 9 - 7 = 2 in the element or not? This only
+[22:56] Were trying to find. why not this
+[22:58] Try to find these extra searches
+[23:00] We are trying to make it easier every time.
+[23:02] What does it mean? A map is one thing.
+[23:06] You will know.
+[23:08] In hashmap you can see all the elements and their
+[23:10] Write down the index. what in hash map
+[23:12] Do we have to write? hash map us
+[23:14] Write that 7 is on 0, 11 is on one, 2 is on
+[23:18] And 15 is on 3. These are us in the hash map
+[23:21] Wrote it down. now when you come
+[23:25] Your i = 7 becomes. i = 7 came. find you
+[23:29] What is? You have to find 9 - 7 to. so to
+[23:32] nice to traverse the array to find
+[23:34] You ask the hash map. you have two
+[23:36] is.#Every operation of sh map is ordered by
+[23:39] Forest. Meaning it takes only one time to order.
+[23:42] Off one means constant time, not some time.
+[23:43] Zero time so if you come to i = 7
+[23:46] If yes, then you should ask the hash map.
+[23:48] You have two hash maps will say yes yes
+[23:50] I have two, this index has two.
+[23:53] If it is on the index then go and return it.
+[23:55] What will you return now? Return the number again.
+[23:57] What has to be done is to return the index in it
+[23:59] So if you want to return an index or
+[24:01] If you want to return the number then please return it.
+[24:02] Give seven and two why because on seven
+[24:05] So now you are in the array, Seven is in the array.
+[24:07] Who is telling? The map is telling.
+[24:09] So you will do it. the time of this
+[24:11] Complexity will come, order will come.
+[24:13] off n. Why? Because you take i from zero to n
+[24:17] So still driving. i your zero to n
+[24:19] Still going. You can still use every element
+[24:21] Will ask for. But the question is to ask.
+[24:23] That's what's happening in the forest. so its time
+[24:25] Complexity becomes order of n.
+[24:28] But but but now someone will say that this also
+[24:30] So it's not a two pointer, brother. this too you i
+[24:32] You are running the same and querying the hashmap.
+[24:34] yes. So there is no two pointer. exactly this
+[24:36] There is no two pointer. we are still two
+[24:37] Haven't come to the pointer. I am giving you this
+[24:38] I am telling you the meaning of the question that a
+[24:40] There should be 10 ways to solve the question
+[24:42] Could. Ok? but you get the best
+[24:44] Have to find a way. Understand for him. now you
+[24:47] Say that this is a one pointer. Absolutely
+[24:49] That's correct. This one pointer, this two pointer
+[24:50] Not there. So why use two pointer? These
+[24:52] So it is ready. So it was done with one pointer.
+[24:54] No brother. Now we have to learn useless things.
+[24:57] I have come here to do my PhD on two pointers.
+[24:58] Learn it. Why learn two pointer? Now!
+[25:01] What is happening in this? now is your time
+[25:03] The order has been placed. how much space should there be
+[25:05] Went? Space is hash map when you write #shmap
+[25:08] Don't write in your notebook. These
+[25:10] It will be stored somewhere in the computer itself. so you
+[25:11] What are you doing? If there are four elements in the array
+[25:14] So you are taking the place of eight here.
+[25:16] Taking every element and its
+[25:17] Index. If the array has 10 elements then you
+[25:19] Creating a hash map of size 20. now in this
+[25:21] What is the problem? problem always
+[25:24] Always save space. space
+[25:27] Using should be your last option
+[25:29] In any DSA pattern. Why? Because
+[25:31] If the array has 10 elements you will get 20 integers.
+[25:35] Getting it stored. get 20 integers stored
+[25:38] Are you? 7 0 11 1 2 15 3 if in array
+[25:41] If it was 20, you would store 40 integers. You
+[25:44] Imagine your company. your company
+[25:47] There are 1 lakh elements. array of 1 lakh 1 lakh
+[25:49] It is a very small number for any company.
+[25:51] For. So how much is in your element? This much.
+[25:54] How much will you make for the store? 2 * 10 to the
+[25:57] Power 4 integers.
+[26:00] What does it mean? 2 lakh integers.
+[26:05] An integer that takes up space in the computer for
+[26:08] Example: He is taking 8 bytes. Your
+[26:10] Convert eight into 16 1 2 3 4 5 bytes.
+[26:15] So this becomes 1600 KB. Do this also.
+[26:20] So this becomes 1.6 MB.
+[26:23] So when your array length is 1 lakh then you
+[26:26] Taking up 1.6 MB space. Isn't it? of array
+[26:29] Length 1 lakh is not available in any company.
+[26:31] Now suppose the length of the array is 10 to the power 9.
+[26:33] Is. Multiply this by 10 to the power 4
+[26:36] From. Multiplied, right? Now what is the answer?
+[26:38] will come? 161 2 3 MB They know how big
+[26:42] is the number? This is 16 GB. 16 GB. so if
+[26:47] The length of the array in your program is 10.
+[26:49] If power is 9 then you need 16 GB memory.
+[26:52] Just to store the hashmap. the rest is yours
+[26:54] Chrome is running. your program is running
+[26:55] Is. Your variables are moving, that's a different matter.
+[26:57] Is. 16 GB memory just to store it
+[27:00] Need for. 16 GB RAM and where is it
+[27:02] Is it stored? where does the program run
+[27:03] Is? Runs in RAM. in today's date
+[27:06] How much RAM does a laptop have? 8GB anyone
+[27:09] Anyone have a 12GB MacBook or a good laptop?
+[27:12] So its 16GB now its 16 GB RAM you are 16
+[27:15] If you enter hashmap in GB then your laptop
+[27:17] What will happen, this is why the space will be closed
+[27:19] Avoid it is always said in the company
+[27:22] That's it, don't use space brother, you can have time.
+[27:25] So take up a little more space, at least.
+[27:27] Use it, space is expensive, okay?
+[27:30] That's why we can't use space now
+[27:33] Now the next thing that comes is not using space.
+[27:34] Now we can format the pattern of
+[27:37] Have come to the question. we understand you
+[27:39] Let's give. What is your exact question now?
+[27:40] It is going to happen? Why do we play so many roles?
+[27:43] tying? We will come directly to this question
+[27:44] Would go. That's why there are so many roles
+[27:46] It is important because you also understand
+[27:48] Needed Copying us will do nothing.
+[27:50] Now that we have thought of this, you too should think of this.
+[27:52] If you read this then you are copying us.
+[27:55] Are. You should know this complete process
+[27:57] If someone is doing something then why is he doing it?
+[27:58] That man. Ok? Now we come to the final question
+[28:01] Write which is the question of the sheet. To you
+[28:04] Find you are given an array.
+[28:07] Given an unsorted array.
+[28:10] You have to find two numbers in it
+[28:13] Whose sum is equal to a given target. And
+[28:17] Do not use extra space written to you
+[28:20] Is. This is a question of exact lead code
+[28:22] Whose name is Two Sum Two. you will get its link
+[28:25] Will go. Go to the description and go.
+[28:27] Extra space. this is your question
+[28:30] Where pay to pattern will be used. why now
+[28:32] will be? Again come directly to this question
+[28:34] Could. But so much for narrating Ramayana
+[28:37] This was the meaning. Now let's start our flow
+[28:40] Let's use the chart. yes first of all
+[28:42] The matter is written here. yes yes it is written
+[28:45] Is. Array is not sorted. Is unsorted.
+[28:47] So will sorting be beneficial?
+[28:49] Will look further now. Have to find two numbers.
+[28:51] Have to find two number pairs. Correct!
+[28:53] The thing is. And don't use extra space.
+[28:56] Just add this to the flow chart
+[28:57] Do not use extra whenever you feel like it
+[28:59] Find more than two things by space
+[29:01] If it has to be done then a two pointer will be used in it. Correct
+[29:03] Is? What are you saying? ever written
+[29:05] Do not use extra space and you have to or
+[29:08] If you want to find three or four or five things
+[29:10] There will be a two pointer in it. So look at this
+[29:12] The match is done. This match is done. let this match happen
+[29:14] Went. can't understand about it
+[29:15] Is. What don't you understand about it?
+[29:17] Is it easier to sort or
+[29:19] Will not done? It will definitely happen. Why would it happen? Now!
+[29:22] Let us tell. Suppose this is your array. Value
+[29:26] Take it. O dear
+[29:29] Now suppose this is your array. 2 5 1 7 more
+[29:36] 3 0 1 2 3 4 This is your array. what is it to you
+[29:41] Want to search? You have to find target = 6.
+[29:45] The target is to find equal to six. now we are one
+[29:48] Let's show the thing. Now you get one more
+[29:51] Have to tell the number. If you ever want to tell me your number
+[29:54] Can sort. Absolutely can.
+[29:55] The number does not change in sorting.
+[29:56] If you want to tell the index, you cannot do it.
+[29:58] Anytime any array is in question
+[29:59] If you want to tell the index then don't do sorting at all
+[30:01] Think about it. It will be a complete mess. sort it
+[30:04] Why will it be easier for us to do this? We
+[30:06] Are telling. now you have to sort
+[30:09] To this. If you sort then you will get 1 2 3
+[30:11] 5 7 1 2 3 5 7 0 1 2 3 4 Now see how
+[30:20] The pointer will solve this beautifully.
+[30:22] Will solve beautifully. Ok? you a
+[30:25] Do the work. First we hire a man
+[30:27] Were applying. One was coming. he is searching
+[30:29] Was. What will we do now? to two men
+[30:31] Will be put to work in the building. you are one
+[30:33] Keep it here. You put a J here. why keep
+[30:36] Are you? How are you keeping it? Let us tell.
+[30:39] What is your target brother? your target is
+[30:41] Six.
+[30:44] Ok? Now let's see how it will increase? in
+[30:47] Sum both of them. of current i and J
+[30:49] Sum the numbers. What is even? 1 +
+[30:52] 7 = 8. If at is equal to target then very
+[30:55] It's a good thing. Returns the numbers i and j
+[30:57] Please do it. but but but if this
+[31:00] Not equal to target. there was one more thing
+[31:02] Have two in the two pointer in the pattern that you two
+[31:06] Use pointer. but every time har har
+[31:10] thing everything every iteration after doing something
+[31:12] After this you will have to change one or the other pointer.
+[31:15] It has to be done. Am I speaking? if i
+[31:18] Hai, J Hai, Two Pointer Hai. you any one
+[31:21] Did a small job. now after that after that
+[31:23] In the step below you have to either change i
+[31:25] Either J will have to change.
+[31:27] If both of them don't change then the program will never change.
+[31:28] will not last. For example a man
+[31:31] It is on the top of the building. one man building
+[31:32] Is below. Now we said that both
+[31:34] Do not change. So both of them live in the same house
+[31:36] If he goes, nothing will happen. every time either
+[31:39] There will be change, either both will change, both will also change
+[31:41] Can happen. But change is necessary.
+[31:42] Change is necessary. And why would it change?
+[31:45] For this you have to think logically. What
+[31:46] Will there be change? Why will there be change? where change
+[31:49] will be? How much will there be change? both will be that one
+[31:51] will be? For this we have to understand. what do we do now
+[31:53] Speak? Sum these two. Is at. Now
+[31:56] At see at six to now or now now three in this
+[32:00] There may be a case. your time came at you
+[32:02] Have to find six. Now there are three ways in the world
+[32:05] There may be a possibility. either 8 = 6
+[32:08] go. In that case we will return the number
+[32:10] Give. Either eight will be smaller than six or
+[32:14] Eight will be greater than six. three possibilities
+[32:16] There are only three types of integers in the world
+[32:18] You will get the choice. Either will be equal, Les
+[32:21] Will be, will be greater. Apart from this, there is no one else
+[32:22] There is no choice. Someone else says that there is a fourth one too,
+[32:24] Not there.
+[32:26] Now suppose if at now what do you see
+[32:28] That is, eight is greater than six. now see what
+[32:31] Said every time someone or the other changes
+[32:33] Have to do. Now see that one is equal to seven.
+[32:36] Eight which is greater than six. Ok? array
+[32:39] Is sorted. Let us sort the array.
+[32:40] Remember please remember. now you have two
+[32:43] There is a way. These two move towards each other
+[32:46] Used to be. Isn't it? This further under the building
+[32:48] The one will go up. The one on top will come down. Now
+[32:51] If you say that we should expand the forest to
+[32:52] Will bring the pay and will leave the seven to the seven.
+[32:55] You tell me one thing, one is here, two is here.
+[32:58] Yes, the array is sorted. so after the forest as much
+[33:00] All elements are greater than one. it is true
+[33:03] Because there is a big element in the right.
+[33:04] You are sorted. so if you are saying
+[33:07] If the sum of one and seven is greater then you
+[33:09] What are you saying that we are the sum of two and seven?
+[33:12] If you look at it, the sum of two and seven is obvious.
+[33:13] It will be bigger than six, right? Why? Again
+[33:15] Understand, this is a very important thing. many people
+[33:17] Doesn't understand. very fundamental
+[33:19] It's a basic thing. You say the same as one and seven.
+[33:22] Are that is greater than six. very good
+[33:24] The thing is. Now you are saying, should we destroy the forest?
+[33:25] Try increasing it? What brother? so forest of forests
+[33:27] If you increase it to the right, then what is to the right?
+[33:30] Is? There is a bigger element than forest. Any
+[33:31] Element Ho will be bigger than one. sorted
+[33:33] It is array. Could be 1000, could be 2000
+[33:35] Yes, it could be 1 lakh, it could be 500.
+[33:37] But it is bigger than the forest. So when the forest and the seven
+[33:40] The sum is greater than one, so is the sum of two and seven.
+[33:42] So it will be greater than six. one and one's sum at
+[33:45] Is. Some of to and from obviously at some
+[33:47] So it will be big. There will be no, there will be 10, there will be 11,
+[33:50] There will be 12. Brother, he is bigger than six. Is
+[33:53] No? So there is no use in increasing the forest.
+[33:56] If your Joe is bigger than Eight Six. Can we
+[33:59] Can people reduce intake? yes, reduce taxes
+[34:01] Can. Why can it be reduced? Because
+[34:03] The sum of one and seven is eight. greater than six
+[34:06] Is. Where will the intake take place? Seven is going here.
+[34:09] Coming behind. On top of seven buildings
+[34:11] Sitting. Coming down. Seven go here
+[34:14] Can go here. this direction
+[34:15] Will grow in. the one from this direction of consumption
+[34:17] It is smaller than Element Seven. I know this
+[34:19] Is it to you? It is smaller than seven. by consumption
+[34:21] It can be anything small. could be six
+[34:23] Could be five, 4, 3, -2, - 100 something
+[34:26] Can also happen. but smaller than seven
+[34:28] It's guaranteed, isn't it? So you if you small now
+[34:30] Suppose you are saying that one and seven
+[34:32] If the sum of is bigger then the one with is a little smaller
+[34:34] Take the sum of the elements. maybe he can you
+[34:36] Don't know. It is possible as soon as possible
+[34:38] There is a complete change. if you increase your intake
+[34:41] If so, what is the sum of one and five? Six.
+[34:43] With Khatak you get the answer. Ok?
+[34:46] What do we understand from this? now for
+[34:47] Give an example. One and seven are equal if at
+[34:50] Is. If your target was six or not
+[34:52] Let's take another example also. Would have been 12.
+[34:55] What is your target? 12. of forest and consumption
+[34:58] There is an even eight which is less than 12. so what
+[35:00] It is wise to reduce intake
+[35:03] Is? No. Because consumption is even smaller
+[35:05] Will become. If you are one and seven are eight, then one is one.
+[35:07] And five is six. So of forest and seven
+[35:09] When it is less than that then the forest is better than any other
+[35:11] If you add, it will be less. In this case it
+[35:13] Will increase. two and seven equal nine
+[35:15] Which is one bigger than at. Ok? still this
+[35:18] Is smaller than 12. So now let's say you are on two and
+[35:20] If you are standing at seven then whom will you increase? to seven
+[35:22] Increase two by less. Why? because when
+[35:24] If the sum of two and seven is less than this then two and
+[35:27] The sum of five is obviously smaller than this. So
+[35:28] You try to see three and seven
+[35:30] Take it. What is the sum of three and seven? 10
+[35:33] Still smaller than 12 and increase. from 5 more
+[35:36] What is the sum of? 12 12 = 12 quickly
+[35:38] You found the answer 5 12. Do you understand now? pseudo code
+[35:42] See.
+[35:43] First of all, what are we doing? array
+[35:45] Sorting. After this revision
+[35:48] Getting it done. Now let's write pseudo code. One
+[35:50] We are keeping the elements here. One
+[35:52] We are keeping the elements here. What is it
+[35:54] Is? It is standing at the start. The end of this array
+[35:57] Standing on. We are doing it every time
+[36:00] Are. What are you doing? is ai aj now in it
+[36:05] So in the world there are three types of universe
+[36:06] Could be a possibility. ai + aj your
+[36:11] Let it become equal with your partner or target.
+[36:13] This is a very good thing. return tax in
+[36:15] Give it. Your ai + aj should be small.
+[36:20] From you. What to do if it is small?
+[36:23] What did you understand? What did you understand? Look here.
+[36:25] Look, the sum of one and one is less than 12.
+[36:29] So what did you do? The forest was expanded. to seven
+[36:31] Didn't reduce because need to increase further
+[36:33] You have to go, you just have to come back, are you ready?
+[36:36] If you are sitting with a small man then you are also small
+[36:38] If you are trying to sit with a man
+[36:39] Well it won't be possible if it's small
+[36:43] is small in this case we have i plus plus
+[36:46] Have to do is taking i forward third
+[36:48] what can be the choice ai
+[36:52] +aj
+[36:54] Brother, what did you do in bigger than even?
+[36:57] What did you do, why don't you say what you did?
+[36:59] The sum of one and seven is greater than the sum of eight and six.
+[37:02] If it is big then there is no benefit in expanding the forest.
+[37:04] If it doesn't happen and you grow up, there will be more difference.
+[37:07] Increase intake, reduce intake by withdrawing intake
+[37:10] Let's slow it down a bit. All you see is this.
+[37:12] It's like a game, you do one number and it's a little less.
+[37:15] It is a little, we will increase it more and more as we grow.
+[37:18] I am trying to reduce it a bit.
+[37:20] Trying to bring it into balance
+[37:22] Neither ai is equal to j, what will j do?
+[37:25] I will do minus minus brother, say, say, say.
+[37:28] By speaking this pseudo code will be done and where
+[37:32] So you know it's I and J
+[37:35] So you return it. number in
+[37:37] Have to return. If Array Already Sorted
+[37:39] If there was and if the index had to be returned
+[37:41] It also depends on which question.
+[37:43] hey brother? Will work in numbers. here already
+[37:47] If it is sorted then it will also be included in the index.
+[37:49] Speak with your mouth open. Listen with an open mind.
+[37:51] Listen with open ears. Open your mind and understand.
+[37:54] Do you understand the two pointer? why did it seem
+[37:56] In this? After listening to the complete Ramayana. so now
+[38:00] Now how will you think about this? someone say this
+[38:02] Maybe if you think then how can we
+[38:04] Will you think about it brother? so come with practice
+[38:07] Is. Believe me, we also don't know anything at first
+[38:09] Was. So much so that we gave 40 minutes of Ramayana today
+[38:12] Are. We don't have even 4 seconds knowledge about this
+[38:14] It was 2 years ago today. slowly slowly slowly
+[38:17] It becomes. And it's not like we
+[38:19] Teaching by writing script. we some
+[38:20] Isn't he a hero or some teleporter in front of him?
+[38:22] It is going on. we are reading. all my mind
+[38:24] Is in. Everyone is telling you. my mind
+[38:26] Whatever is in me is why we say that
+[38:28] Watch the video till the end. something in between
+[38:30] Something will come up that you didn't know about.
+[38:32] You can learn. When we were in college too
+[38:34] So used to watch Striver's video. so his
+[38:36] Video 40 minutes 1 hour and a half
+[38:38] The video remained. So we could understand.
+[38:40] We could understand it in the first 10 minutes.
+[38:42] But we still watched it completely. Because
+[38:43] From time to time he would tell me something like this
+[38:45] Nor could he write such beautiful code.
+[38:48] He used to write code so beautifully that it seemed
+[38:50] Yes brother, this is a great thing. So whatever we do today
+[38:52] If we are doing it, it is because of him. We a lot
+[38:54] Learned from people. good thing about many people
+[38:56] This is what we are teaching you today. You
+[38:58] Learn from me too. You also teach. you too
+[39:01] Learn from five people. of five
+[39:02] Learn the good things and move ahead. Correct
+[39:04] Is? Let's write pseudo code. in pseudo code
+[39:07] What will be your input brother? yes, one more
+[39:09] The thing is. Will not write the complete code. complete code
+[39:12] You write yourself. You have to write the complete code
+[39:14] Will have to. Isn't it? What do we do in pseudo code?
+[39:16] Speak? What will be your input? your input
+[39:19] Hey sir. And a target sum. so the most
+[39:24] What is the first task? Sort it out. sort
+[39:27] Hey. Now this is written differently in C++
+[39:29] goes. Differently in Java. Python
+[39:31] In a different way. Look at the syntax.
+[39:33] There is no use in teaching syntax. Now
+[39:35] Learn to think. Learn to think. Syntax
+[39:38] So anyone can learn. syntax in 1 day
+[39:39] Man learns. now take two variables
+[39:43] Take it. j = n - 1 What is n? array length
+[39:47] Is. If it is not given, take it out. Now
+[39:49] Now there is one more thing. One more thing oh my god
+[39:52] So you forgot to tell me the most important thing.
+[39:54] ji where are you? Yes, let's say it was like this.
+[39:58] That it is not in the array at all. even if it's like this
+[40:00] It is possible It is important that he is yours
+[40:02] is a friend who is giving you such a situation
+[40:03] Inserted into the array. tell you that 20
+[40:05] Find it brother. 20 any even element
+[40:08] Will do, 20 will not come. Will not come. so this
+[40:10] How will this case end? in the building
+[40:12] One man down, one man up. so both
+[40:15] Is coming. But you will know when you get it
+[40:17] It will work that it is the same, it is not. so when will it end
+[40:19] will be? When will it end? Whenever your two pointer
+[40:22] The question is, both your pointers are the same.
+[40:25] Come into position. listen carefully mind
+[40:27] By opening. If you start then both
+[40:29] The pointer remains at different positions. yes
+[40:31] Someone may be ahead, someone may be behind, someone may be above.
+[40:33] Yes, someone is down there. If ever in the world
+[40:36] Both elements occupy the same array position
+[40:38] got ya ya ya ya ya ya
+[40:42] If both cross each other cross
+[40:45] done or found your program is over
+[40:48] There is no one left for you before that.
+[40:50] won't work ok then stop for sure
+[40:52] I am telling you again what it means to go.
+[40:54] I am telling you again, write this down somewhere.
+[40:56] One is here, one is here, it's going right
+[41:00] Where did he go, he is going left, he is going right
+[41:03] It has been said that sometimes both will meet and
+[41:05] Or even cross. not necessarily a
+[41:07] Will cross if found. as soon as I got it
+[41:09] Either you crossed your program
+[41:12] Have to stop. how to code this thing
+[41:14] It is written that also understand where it is. Now
+[41:17] See i is 0. i j n – 1. It is possible
+[41:21] The length of the array should be your five. so how much of j
+[41:24] Will there be value? Four. Ok? good thing
+[41:27] Is. So i is 0. j = 4. i will always increase.
+[41:34] i is always growing right? so i can be one
+[41:37] Is. There may be two. Could be three. Four
+[41:39] It is possible J can always be less. So
+[41:41] J will either be three. Sometimes there will be two.
+[41:44] Someday it will become a forest. Now see what is this condition
+[41:47] Is it valid? One and three still not crossed
+[41:49] Have done. This one is here, this one is here. Very
+[41:51] Good. Two and two are found here. One
+[41:54] Came into position. Close the program.
+[41:55] Suppose this would not have happened if someone had said that
+[41:58] It's like four and one so i see i walked on four
+[42:01] has gone j has come to the forest so crossed
+[42:03] No brother, there is no two pointer now.
+[42:05] So a man is walking up a man
+[42:06] If he is going down then what will he do?
+[42:08] Will not be able to do it, coordination is lost
+[42:09] How do you write the loop in the code?
+[42:13] Hain vile means that until this condition
+[42:17] That's right, until then this is what we are saying.
+[42:19] Until brothers cross each other
+[42:21] Either you have or you haven't met, only then I will continue to do so.
+[42:25] Why are you not writing less than J equals?
+[42:27] Are? Because we don't even have to meet. a box
+[42:29] Don't even have to pay. i must be less than j
+[42:31] Has to happen. i will be here j will be here. Very
+[42:34] It's a good thing. as soon as met or crossed
+[42:36] Game over. So while i is less than j means
+[42:38] What happens? As long as brother i is laced with j
+[42:42] Keep doing all this work. come out as soon as i go
+[42:44] Go. Not after that. After that it is simple.
+[42:47] You take an even variable. so you ai and
+[42:51] Find the sum of aj.
+[42:54] Now what did you say? Only three conditions can happen
+[42:56] Is in the entire universe. one each for all three
+[42:58] Do check it brother. If sum equals two
+[43:01] Targeted. Very good thing. Too much
+[43:03] Congratulations everyone. Please return it. return i j
+[43:07] or whatever you need to return a i a j number
+[43:10] If yes then please do so. Otherwise do i. understand you
+[43:12] I must have come. It is not so now. yes one
+[43:14] And the thing is as soon as you return
+[43:16] Your function ends. Ok?
+[43:18] If this return is made then something further
+[43:19] Will not do. The entire function is over. if these
+[43:21] If it does not work, it means this condition is not true.
+[43:24] If what we are saying is that if these returns
+[43:26] If it does not happen, it means this condition is false. now this
+[43:28] If the condition fails then two more things can happen.
+[43:30] If something is less than the target. what about this
+[43:35] it means? The sum of one and seven is eight. from 12
+[43:38] is less. So will you increase forest or consumption?
+[43:39] will you reduce? Will increase the forest. i++ yes. else let's go
+[43:45] Write if. There is no need to write. Even
+[43:48] Greater than target means sum of one and seven
+[43:51] Is at. If it is greater than six then increase one further.
+[43:53] Will you give or reduce the intake? Will reduce it brother.
+[43:56] J minus minus stop this while loop
+[44:00] The one. And if you come out of this loop
+[44:02] anytime. What should we say? When will this vicious loop stop?
+[44:05] will be? When i and j cross each other
+[44:07] Went. If you crossed and did not find the answer
+[44:09] Then you will never get the answer in this world. Some?
+[44:12] Return empty. whatever question
+[44:13] It may be written in -1 to return or whatever.
+[44:16] anything empty
+[44:18] Or error, whatever is in the question.
+[44:20] It must be written that make it -1, do this. Very
+[44:22] It will also be written in the question that the answer will be
+[44:24] Even then you have to write such programs
+[44:26] Because maybe in an interview
+[44:28] It will happen or it will happen. If you don't speak, brother, if you don't exist,
+[44:30] If you want to do -1 then you will do -1. So this question
+[44:33] Depends on the question. so we
+[44:35] Hope you understand. Very
+[44:37] Hard work has been put in. I will tell you all this tomorrow.
+[44:40] More videos will come from. maybe come today itself
+[44:43] Go, come tomorrow. So this whole video is one
+[44:44] Two pointer will be available in playlist
+[44:46] Of. You can see. my goal is to move forward
+[44:48] Thousands of college kids should go and see this.
+[44:50] Understand, learn. So go update this in the sheet
+[44:54] The link is done. go and practice with him
+[44:55] Do it. If you feel like it, then two and two
+[44:58] Practice both. Ok?
+[45:00] What does it mean to practice both?
+[45:02] Try doing both. how much we
+[45:05] Learn the approach? a brute learns his someone
+[45:06] There is no benefit. learn a better approach
+[45:08] In which hash map is used. learn that too
+[45:10] Take it. If you feel like it then there is no harm in it.
+[45:11] Not there. And two pointer in better approach
+[45:13] Pattern. What is its time complexity?
+[45:15] Is? So forgot to tell. look that's why we
+[45:17] They say watch the video till the end. Sometimes
+[45:19] If you suddenly remember something, let me know.
+[45:20] Are. What is time complexity? hash
+[45:23] What time did the map seller have?
+[45:24] Complexity? The order was n. Yes. Sometimes
+[45:27] Also remember one thing that at any time
+[45:29] If you sort, then it looks like n log n.
+[45:31] It is only there. It will cost more than that. no less than
+[45:34] It will take. So first of all our sorting
+[45:36] It took n log n. It took so much. Now
+[45:39] What are you doing? I came running from one place
+[45:40] Yes, J is walking from a place. so let's go one
+[45:42] It has been a bar. It is not working separately. I
+[45:45] Half is running and J is running the other half.
+[45:47] Is. Order of N is taking place in our walk.
+[45:50] So whichever is bigger, you should get it.
+[45:52] It seems as if you are doing independent work.
+[45:54] A day's rest on time complexity
+[45:56] Will tell from and in detail. But
+[45:57] Whichever is bigger n log n is bigger. so n login
+[46:00] It's time for this. How much space did it take? Some?
+[46:02] No. There is no space. order of one
+[46:04] Space. Zero Space 0 Yes Yes. no matter how big
+[46:08] Hey, we will not take up space. so 1
+[46:10] be an array of billions, of 2 billions, one
+[46:12] No space worth trillion is needed. Any
+[46:13] No RAM required in laptop. walk in it
+[46:15] Will go order of one space. Ok? all three
+[46:17] You got to know the approach. in brute
+[46:19] How much was it? n² was time, one was space. hash
+[46:22] Map n space n time. This n log n time
+[46:25] One Space. Ask these in all three interviews also
+[46:27] Could. So please explain this also. then go
+[46:31] Submit, run. If it doesn't work then hint
+[46:34] Read. But slowly understand my goal
+[46:37] You have to explain all this. my goal is you
+[46:39] Master, we are not from the school that you
+[46:41] Will get 400 questions memorized. any benefit from that
+[46:43] Not there. teach you that if 100
+[46:46] Even if you ask questions, it will be the 101st question.
+[46:48] You should come to your mind and come
+[46:49] Will go. Will come gradually. everyone would have come
+[46:51] Is. I am not a very intelligent person
+[46:54] Is. I don't have a chart at hand. Frequently
+[46:56] We give examples. I don't mean any of us
+[46:59] Was born in Patna. my private
+[47:01] Went to college. Then from there he went to IIT.
+[47:02] From there went to startup. from startup
+[47:04] If everyone comes to earn money then everyone will come to YouTube.
+[47:07] One can understand everything as per one's own.
+[47:09] it may take a little more or less time
+[47:11] But if everything is done then this is the first day.
+[47:14] Enjoy it, watch it again
+[47:16] Make notes, solve questions and
+[47:18] see you tomorrow see you tomorrow tomorrow

@@ -1,0 +1,911 @@
+Video ID: ljJJcYql6Bc
+Video URL: https://www.youtube.com/watch?v=ljJJcYql6Bc&list=PLbJhGqY-mq47k_WLUtzVjmarUm1EuXPj2&index=8
+Language: en
+[00:00] okay brother. So today is day five two pointer
+[00:03] And today is the last day of this pattern.
+[00:05] Of. Why are we talking about the last day?
+[00:07] Because if you open the sheet and see,
+[00:11] And question remains. Ok? one left
+[00:14] triplets
+[00:15] smaller sum
+[00:18] One is the Dutch national flag.
+[00:22] More questions remain. All that's left is one.
+[00:26] And product question.
+[00:29] And three problem challenges are left. if you
+[00:32] Will look at the sheet carefully or else in the last
+[00:34] Three problem challenges are written. Now
+[00:37] Look, I don't want to get this done right now.
+[00:41] I want. Why? because this na to
+[00:43] Sliding window pattern over pointer
+[00:45] There is a question of. This is a sliding window
+[00:48] There are many questions. It does not mean that
+[00:50] Belongs to both. And whatever problem or challenge
+[00:52] We are keeping that for last.
+[00:55] Because when we read a lot of patterns
+[00:57] If you don't take it then you will have to come for revision.
+[00:59] How to do? How will you understand that those who
+[01:00] Do you still remember what you learned? this every
+[01:03] Problem challenge question of every pattern
+[01:05] Will do it last. Now this sliding window
+[01:07] Why is it of? Because what is a two pointer?
+[01:10] To pointer you can think of a super set
+[01:12] Is of pattern. sliding window one way
+[01:15] It's just a two pointer. sliding window one
+[01:18] The two pointer of manner is with some conditions with
+[01:22] Even conditions. So every sliding window to
+[01:25] Is a pointer. But every two pointer sliding
+[01:27] There is no window. Ok? That's why this
+[01:29] We have more questions, after this, after this
+[01:31] If you walk directly on the sliding window then this
+[01:33] Will ask questions. So in this pattern two
+[01:36] Questions left which will be covered in this lecture
+[01:37] Will do and will do a complete revision tomorrow.
+[01:41] Of two patterns. What will you do in revision?
+[01:44] Will raise question by question.
+[01:47] Will understand what the question was and will understand
+[01:49] Why to pattern? two pointer y two point
+[01:52] This is most important. y to pointer
+[01:56] Types of two pointers
+[02:00] You will see that the two pointers may be different.
+[02:02] Low may be high. low high movement kya
+[02:04] Is doing and a how to recognize. Once
+[02:10] Again he will walk looking at the flow chart.
+[02:12] So there will be revision tomorrow. So tomorrow's lecture will definitely happen.
+[02:14] Will see. Today we will ask these two questions. Correct
+[02:17] Is? Which two questions will you ask today? First
+[02:19] Hoga Triplets Smaller Some and Dutch National
+[02:24] Flag. These two are very important questions
+[02:26] Is. Both of you have very important questions.
+[02:28] Is. First explanation first
+[02:31] Will explain. then its code
+[02:32] There is a link, go and check it out. then its
+[02:34] Will explain. go to the link of the code
+[02:36] Please take a look. And one more thing that stands out
+[02:39] This sound comes, this sound of this, this sound which
+[02:42] It keeps coming for some time because
+[02:44] What is it that you are looking at right now?
+[02:46] There is no video right now you just see a board
+[02:48] Must have been the video that used to come here.
+[02:50] That's not because we just came home
+[02:53] If there is some internet problem then
+[02:54] When we make this side video
+[02:56] Neither is that 1 hour video around 10 GB.
+[02:59] If it becomes possible then upload that 10 GB video.
+[03:02] Do it, edit it and then upload it on YouTube.
+[03:05] It takes a lot of internet to do so
+[03:07] It is taking too much time. So
+[03:08] I don't have that much internet. so now we
+[03:10] He is recording directly on the iPad.
+[03:11] Are. That's why you should read this little by little
+[03:13] Comes little by little. tolerate a little
+[03:15] Do. can't do that much but try
+[03:16] Will do it or not. Don't come that much. a little bit
+[03:18] Will come. You see, if you write like this then now this
+[03:20] Will fit into it. There is sound even on the black board
+[03:22] It comes, doesn't it? So a little bit will come. Effort
+[03:24] Will do it or not. So please bear with me a little.
+[03:27] Ok? Triplets Smaller. triplets
+[03:31] Smaller.
+[03:32] Now those who have not seen yesterday's lecture,
+[03:35] Haven't seen yesterday's threesome lecture?
+[03:37] They won't understand this. This first we
+[03:38] Gave warning. Those who watch that lecture
+[03:40] have done, they understood this in 5 minutes
+[03:42] Will go. It's a good thing. Ok? question
+[03:45] What does he say? What does the question say?
+[03:48] You have triplets. you have an array
+[03:51] is given. Ok? hey what do you have
+[03:53] Gave? -1
+[03:55] 0 1 and 3.
+[03:59] ok sir. You are given a sum which is
+[04:01] Have two. What do you have to say? number of ij
+[04:06] mean number of triplets
+[04:09] their sum
+[04:11] Less than given is even. their sum is less than given
+[04:15] Even means ai + aj + a is less than even.
+[04:24] How many triplets are there? like if
+[04:27] If there are three then you have to answer three. like this
+[04:28] What a variety of triplets! These ij's
+[04:31] Have indexes. Is the indices. Ok? of ij
+[04:34] Have indexes. Ok? and you were told
+[04:37] All arrays are distinct. all
+[04:39] The elements are distinct. so no
+[04:41] Duplicates are not duplicates at all.
+[04:44] Understand those who watched yesterday's lecture.
+[04:46] Duplicate must be coming in so important
+[04:47] Why is it? Why are we speaking? No
+[04:49] Duplicate. Ok? again we are speaking
+[04:50] If you haven't seen yesterday's lecture three
+[04:52] Look at this even one first. Then
+[04:55] See this otherwise you won't understand.
+[04:57] This will be useless. Don't waste time in this
+[04:58] Do it. Just pause and look at it.
+[05:00] ok sir. Now those who are in this yesterday's three sub
+[05:04] Have seen it is exactly the same question
+[05:06] or not? There's a little twist. tomorrow we
+[05:08] What all did you do? yesterday we did that
+[05:10] Find the triplets. find triplets
+[05:13] Do those whose sum is equal to 0. And
+[05:17] Find triplets whose sum is a given
+[05:22] Be equal to the target. equal to given target
+[05:26] yes. These two questions were asked yesterday. Isn't it? And
+[05:28] What did one do? Some close to target.
+[05:32] Close to target. Close to target. so this
+[05:36] Saw three types of questions yesterday. These
+[05:37] What is the question saying that the smaller sum
+[05:41] Number of Triplets Number with Some Smaller
+[05:46] Than target. Smaller than target. so one thing
+[05:51] So it is fixed that the question is of the same type.
+[05:54] So one thing is fixed that two pointer
+[05:56] It will take. No one should have any doubt about this
+[05:58] Needed After watching yesterday's lecture in this
+[06:01] There will be a two-sum concept. as we
+[06:03] Had been doing it in triplets. in triplets
+[06:05] What have we been doing? eye fix
+[06:07] Used to do. do left right for every i
+[06:10] Were. Based on the sum left or right
+[06:14] Used to increase. either to the left or to the right
+[06:19] Either increased or decreased. this is this tomorrow
+[06:20] We have been doing threesomes continuously since
+[06:22] I am in right? This is what we have been doing, isn't it? Correct
+[06:24] Is? So now you see what is the first step
+[06:28] Was? In yesterday's question and today's question
+[06:29] Sort the array, brother. sort out
+[06:31] Take it. What will happen if you sort it?
+[06:34] will go? Well it's already sorted
+[06:36] It has happened. But still 0 1 3 is ok?
+[06:42] What is your sum?
+[06:43] 2 From where to where did i move? i 0 to n -
+[06:49] Used to last till 2. It used to work, right? for every i
+[06:53] What was left? i + 1 what remains right
+[06:57] Was? Last n - 1 Been doing this since yesterday
+[07:00] Yes brother. Ok? what about us after that
+[07:03] used to do? After that they used to calculate the sum. what is even
+[07:06] used to happen? ai + a left
+[07:11] Plus a right.
+[07:14] Ok? After that take three types of decisions
+[07:17] [Translation failed: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=en&sl=hi&q=%E0%A4%A5%E0%A5%87%E0%A5%A4+%E0%A4%AB%E0%A5%88%E0%A4%B8%E0%A4%B2%E0%A4%BE+%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87+%E0%A4%B2%E0%A5%87%E0%A4%A4%E0%A5%87+%E0%A4%A5%E0%A5%87%3F+%E0%A4%B8%E0%A4%AE+%E0%A4%87%E0%A4%95%E0%A5%8D%E0%A4%B5%E0%A4%B2+%E0%A4%87%E0%A4%95%E0%A5%8D%E0%A4%B5%E0%A4%B2 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))]
+[07:21] to target,
+[07:25] Some less than target. there were only three conditions
+[07:29] Not every time and even greater than target. every
+[07:32] There used to be three conditions. Ok? every time
+[07:36] Used to do something or the other. speaking generally speaking
+[07:39] I used to do different things. Different
+[07:40] According to the question. but generally here
+[07:43] There used to be left plus plus and here
+[07:46] Right minus used to be minus. to speak generally
+[07:49] For sum equal equal to target if
+[07:51] Had to handle duplicates, both increased
+[07:53] Used to give. first do left plus plus
+[07:56] Were. used to do right minus minus and till then
+[07:59] Kept increasing until there was no duplicate. Is
+[08:02] No? They used to work. Now you have every question
+[08:06] There is no change in these three conditions according to
+[08:07] have to do it. This is the condition. see the condition
+[08:10] Same will remain. even or equal to target
+[08:12] could be either less or more
+[08:14] It is possible These two same in 99% off cases
+[08:17] Will remain. You will have to change it here and there.
+[08:20] You may have to change 10% things. Ok?
+[08:23] Now see what is your goal? all till here
+[08:25] It's beans. What is your goal? your goal is this
+[08:28] Want to find out, right?
+[08:30] target
+[08:32] Your goal is to get smaller and you have no
+[08:35] Do not print triplicate. you just
+[08:37] Have to find the number. Have to find the number.
+[08:41] Have to find the number.
+[08:44] So whose business is it with you? you like this one
+[08:47] Is the work of. This one has a job. do you
+[08:49] What is its work? No. do you like this
+[08:51] Is? No. so can we do that
+[08:54] Take only two conditions. a condition in which we
+[08:56] Got this, less than the target. next
+[08:58] Combine these two conditions
+[09:00] Because if there is even target then either even target
+[09:03] is bigger than then same thing because you search
+[09:05] What are they? You are even smaller than the target
+[09:07] Searching. If even equal to target
+[09:10] Even if it exists, it is big. whenever someone big
+[09:12] What do we do if we get it? Right
+[09:13] Let's subtract. This is what we do, right? Again
+[09:16] Tell me and listen. you want the sum to be smaller than the target
+[09:19] Are. If you get equal to even target
+[09:21] Meaning he is big. You don't want that.
+[09:24] If you don't want something big then
+[09:26] What do you do with that? right minus minus
+[09:28] We do. If it is small then you go left
+[09:29] Let's do plus plus. So this is ours
+[09:31] There is a condition. This is our perfect condition
+[09:34] Is. This is a useless condition. We are in this
+[09:36] Will increase. so can we do this
+[09:40] That we got it even. sum = ai + a
+[09:46] Left + a Right.
+[09:50] now if
+[09:53] Sum Greater Than and Equal to Target
+[09:58] What is this? These are both conditions. these two
+[10:00] There is a condition. This one is also a condition and this
+[10:02] This one is also a condition. What does it mean
+[10:04] that your sum is either equal to the target or
+[10:06] So it's big. So that's what we need
+[10:08] No. We want smaller ones. so smaller
+[10:10] Right minus minus for. Simple
+[10:14] The thing is. If not any duplicate
+[10:15] Do not have to handle duplicates. very good.
+[10:17] but but but but els what does it mean
+[10:20] Is? That your sum is less than the target. this is it
+[10:24] Needed Now the answer is here, see this
+[10:27] Must must must. what does it mean that
+[10:29] Understand how to get it from the example. now here
+[10:31] Here you have to calculate the answer. But
+[10:32] How to calculate the answer? your i is
+[10:35] yours here
+[10:38] Your left is here and your right is here. Correct
+[10:43] Is? See i is here so -2 + 0 + 3
+[10:47] What happens? Forest. It is a forest, isn't it? one even
+[10:51] Means small. Yes, it is small. one to one
+[10:55] It's small isn't it? Yes. Now how will you find the answer?
+[10:57] Now see if you can do that right now
+[10:59] Your left is here, your right is here. Correct
+[11:02] Is? And i is here. so there must be a triplet
+[11:04] Your -2, 0 and 3 are now a triplet.
+[11:09] These. Isn't it? So you can add either one to the answer
+[11:12] Can. Can answer plus plus.
+[11:14] But but look very carefully. Very
+[11:16] Look carefully. you are saying that my
+[11:19] This is my left, this is my left and this is my three.
+[11:22] This is. The entire array is sorted. you are speaking
+[11:25] That my -2 + 0 + 3 is less than my
+[11:29] Even. That's why you're taking it in a triplet
+[11:32] Are. That's correct? Listen carefully to one thing.
+[11:36] If left is this, right is this. whenever even less
+[11:40] It used to happen whenever the score was less than the target.
+[11:44] So what did we do?
+[11:46] Used to give plus plus to the left. Ok?
+[11:48] Used to give plus plus to the left. this is what we used to do
+[11:50] No? See why left is plus plus
+[11:52] used to do? But remember why we used to do it?
+[11:54] That's why we used to do it if we were right in it.
+[11:56] minus minus so which is 0 + 3 if my
+[12:01] If less than target then 0 + 1 for sure
+[12:03] Will be less than target. Listen again. We people
+[12:06] Whenever the even was less then why right here
+[12:09] Didn't you do it? That's why they didn't do it
+[12:11] Because whenever my left and right are equal
+[12:14] If it is less than my target then go left or right.
+[12:17] Whatever I have, it all sums to zero if you
+[12:20] If you do, it will be less. question right here
+[12:22] Is the most basic part of. question right here
+[12:24] Is the most basic part of. When you your i
+[12:28] It was here, it was here. it was here so you
+[12:30] Said OK-1 0 3 is my answer. Good.
+[12:36] Is -2 0 and 1 and 1 and 1 also your less
+[12:40] will be? Yes, it will be less. Why? -2 + 0 + 3
+[12:45] Yours is less then -2 + 0 + Anything Left Off
+[12:49] Even three will be less because it is sorted.
+[12:51] No brother. If one is anything then it should be less than three.
+[12:53] will be. This is an insult. So when -2 + 0 + 3 my
+[12:58] If less than target then -2 0 1 then also target
+[13:01] Will be less than. So this also comes in the answer.
+[13:02] Needed Isn't it? What are you saying? Again
+[13:05] Let me tell you what I want to say
+[13:07] Are. What is?
+[13:10] Take a bigger array then you will understand. yes
+[13:13] Could. See
+[13:16] 0 1 2 3 4 5 6 7 8 Okay? now write this
+[13:22] Give it. 1 2 3 4 5 6 7 8 9 Your i = 0.
+[13:29] So where is your i? I am here.
+[13:32] Your left is here. your right here
+[13:35] Is.
+[13:37] That's right. Is this correct? Ok. You
+[13:40] Now if we find the sum then 1 + 2 + 9
+[13:47] Here comes your 12th. Suppose your target
+[13:49] Would have been 15. Let the target eq be 15. 12 15
+[13:53] If it is less than then add one to the answer.
+[13:55] Give me an answer to my 1, 2 and nine.
+[13:58] Is. Good.
+[13:59] But if your sum of one and two and nine
+[14:03] What if 1 is less than your target, 2 and 8?
+[14:06] will also be even less? yes will be less because et
+[14:09] It's less than nine, isn't it? This means that your 1 2
+[14:13] 8 will also be less. If your 1 2 8 is less. Now!
+[14:17] Look, let's keep the left and right fixed.
+[14:18] Are. trying to turn the right around
+[14:20] Have been. If the sum of my 1 2 and at is less
+[14:23] So will the sum of 1 2 7 be less or more?
+[14:25] Will be less. Will be less. This will also come in the answer. 1
+[14:28] 2 7 Similar
+[14:31] If you find any such left right
+[14:34] Where the sum of left and right is less then
+[14:37] Whatever is between left and right
+[14:39] The element is that the sum of all will be less. listen again
+[14:42] Now left is here, right is here. But
+[14:45] If you put the right here on anything
+[14:47] So the even will be less. You will keep the right at
+[14:50] So less 7 6 5 4 3 2 so 0 and one this is yours
+[14:55] Came and left. Zero and one. this is so
+[14:58] You came and left. With this if you
+[15:01] If you keep any right from 2 to 8 then that
+[15:04] Even will be less. That's why that's why
+[15:07] Whenever whenever we are together
+[15:10] Targets met. Whenever something is less than the target
+[15:13] If you get only answer is equal to answer plus one
+[15:16] Don't have to do it. how many elements in between
+[15:18] can come? Look, there is one on your left. this is
+[15:22] How far can you go right from here to here
+[15:25] Here means the right obtained from left + 1
+[15:30] Count how many elements will come till that point. 1
+[15:33] 2 3 4 5 6 7 Why did this intake come from 8 -
+[15:39] Between any two numbers by doing 1 8 - 1 = 7
+[15:44] What number is the high number minus the low number?
+[15:47] By numbering it is between one and eight.
+[15:50] How many numbers are there then numbers from one 2 3 4 5 6
+[15:54] Is. Have to do 8 - 1. That's why you don't
+[15:57] Have to do. This is useless. Answer equal to answer
+[16:01] Plus right - left. Yes Right - Left. Understanding
+[16:08] I wondered why they were doing this. now one
+[16:10] It's done once. watch now. Now if you do this
+[16:14] So this left's work has been done. These
+[16:15] Left can pair with whomever
+[16:17] He has already made it. Ok?
+[16:20] Now you have to increase the left which we
+[16:22] People used to do it. Which if we are less than
+[16:24] If there was a target, we would move left.
+[16:26] But before increasing the left, we will answer
+[16:28] Take out that this left with whom
+[16:30] Any right can be made with this
+[16:33] It is possible that if any of these rights accompany this
+[16:35] If we can make it then we can include it in our answer.
+[16:38] Have counted. Now we will move left
+[16:40] Here pay and similar work will do for this.
+[16:43] Did you understand? Why are you doing this? Why
+[16:45] Add this to the answer? After this to the left
+[16:48] Will do plus plus because this is us
+[16:50] Used to do. So see the condition remains the same
+[16:53] No? Condition: You have only two conditions. Even
+[16:55] Less than target and some greater than equal to
+[16:58] Target. So you have three conditions. beans
+[17:01] Are working. but before working
+[17:02] You can do whatever you want with your answer.
+[17:04] Have been. Ok? Understand? if anyone
+[17:07] If you don't understand then please comment. Tomorrow
+[17:09] Will explain again. It is very important to understand.
+[17:12] That's right. So this is its pseudo code.
+[17:14] You guys must have understood the pseudo code. tomorrow's
+[17:16] Code and Simple: Here you will find the link to the code.
+[17:18] Will get it. He will go and see. Time
+[17:20] Complexity again order of n and order
+[17:23] Of one space.
+[17:25] It's time. Ok? no sorry order
+[17:29] Off n² Yes, you will watch tomorrow's lecture, understand.
+[17:31] I will come. Why n² n² time order off
+[17:33] This question became one space. next
+[17:36] Come to the question. dutch national
+[17:40] Flag.
+[17:42] Ok? Now this is a different type of question.
+[17:44] These three terms we were doing separately
+[17:46] It is a type of question. according to me right now
+[17:47] No matter how many questions we asked in the sheet
+[17:49] This is a very different question. Ok? So
+[17:52] What does this say to you? speaks to you
+[17:54] Given an array. Okay, it has been given.
+[18:00] Ok? Says there are only three types in array
+[18:02] Is element. 0 1 2 Well this is not sorted
+[18:07] Is. So it can happen in any order
+[18:08] One is zero, 0 is two, 0 is one, it is like this
+[18:12] yes. Ok? Told you to rearrange the array
+[18:16] do it. Rearrange the array. place in
+[18:22] So that all the zeros come together. the whole forest is one
+[18:27] Come along. After that all two come together
+[18:29] Go. Hey, let it become like this. Do this. Rearrange
+[18:34] Do, in place and without sorting
+[18:38] do it. Have to do without sorting.
+[18:42] Do without sorting. This question to you
+[18:45] It has been told that you have to do this.
+[18:47] First thing first thing first thing which one in this
+[18:49] Will there be a pattern? How to identify that?
+[18:52] Is there a question about array? Yes.
+[18:56] Sorted? No. But okay. Ok.
+[18:59] Not sorted. can sort
+[19:01] What are they? Can sort? No.
+[19:04] It is said in the question that there is no need to sort.
+[19:07] Is this a question of rearrangement? What
+[19:09] Has the question been rearranged? To you
+[19:11] Have to do. Do you understand? Yes. Yes.
+[19:13] There is a question of rearrangement. what in place
+[19:16] Have to do? Meaning
+[19:18] No extra space. No extra space.
+[19:20] Yes. So see most of the two pointer
+[19:22] The condition has been satisfied. array question
+[19:25] Is also. The sorted one was not satisfied.
+[19:28] But rearrange is written and in place
+[19:30] If you have to do it then according to me 90% of the cases, 90%
+[19:34] There is a chance that this is a two pointer question.
+[19:37] This is a two pointer question. To you
+[19:39] It is given directly in the question. Correct
+[19:40] Is? Now try to solve this question
+[19:43] There are two or three ways. the first brute
+[19:47] Force. The first is brute force. Ok?
+[19:51] Brute force. Do you understand the question now?
+[19:53] All the zeros have to be brought to one side. forest and
+[19:56] You have to create such an array. so array
+[19:58] First of all, what to do with brute force? brute
+[20:01] Force I think many people understand.
+[20:03] Must have realized what to do. you three here
+[20:06] Make it. You make three different arrays.
+[20:09] Make three separate arrays.
+[20:13] This is an array of zero. This is the array of the forest. These
+[20:16] Array is two's. So which is your main array which
+[20:18] Your main array is your main array is from that
+[20:21] If you take out all the zeros and put them here then this is
+[20:23] 0 0 0 Done, pick up the whole forest and put it here.
+[20:26] If you give this 1 1, everything will become 2 here.
+[20:29] If you put it, it will become two-two, after that
+[20:32] Come, now whatever zero is there in it is yours.
+[20:35] Write in the main array the number of forests in it.
+[20:37] Write that in your main array. In this
+[20:39] Write as many as there are in the main array. So
+[20:41] This is yours. its time complexity
+[20:43] What happened? a n and space complexity
+[20:46] The order is n because you are creating an array.
+[20:49] If they are different then it must be his brute force.
+[20:51] Went. Everyone must have understood this.
+[20:53] Optimized Optimized
+[20:57] optimize
+[20:59] This is what we have now optimized in it
+[21:02] The work we are doing in Root Force
+[21:03] Let's do it a little faster. what do you guys do
+[21:05] were staying? You guys make an array and write zeros in it.
+[21:07] Were staying. But why is there a need to write zero?
+[21:09] Is? You guys do one thing. take three variables
+[21:12] Take it. 0 = 0 1 = 0 2 = 0 and the entire array
+[21:18] Traverse once. one to the entire array
+[21:21] Traverse the bars and count. So
+[21:23] You got it I have 0 4. 1 3
+[21:26] is and is 2. Now according to this variable
+[21:30] Write it in the array. you found out that
+[21:32] There are four zeros in my entire array. three forests
+[21:35] Is. Is 2. so just 0
+[21:39] Write three forests in the array. Anywhere Array
+[21:41] Look at the array, the total size of the array will be 4 +
+[21:44] 3 7 + 2 9 This is a sure thing because
+[21:46] A variable is created by counting from the array. So
+[21:48] Just write like this, overwrite me
+[21:50] Give it to the array. This is your final array.
+[21:52] This is your final array. Isn't it? In this
+[21:55] How much time complexity did it cost? order off
+[21:57] n. How much space did it take? Order of One.
+[21:59] There is no space, brother. where is there no space
+[22:01] Is? There is a space of three variables. three variables
+[22:03] So it is constant. So this is one of the
+[22:06] Best Approaches. This one of the best
+[22:08] Approaches. If you see this in any interview
+[22:09] I tell you in the interview, I don't argue with you.
+[22:11] Will be able to do it because we are using two pointer
+[22:14] The approach we are learning is also the same approach.
+[22:16] That too, same time complexity, same space
+[22:18] There is an approach of complexity. if you like this
+[22:20] If you write in the interview, will you have any argument?
+[22:23] Will not be able to do it. But if by chance
+[22:26] He gives it and says let's go to pointer
+[22:28] Tell me what else we use it for
+[22:30] If you are learning then this is the best approach.
+[22:34] Approached. Why is this the best approach?
+[22:37] Let us tell. How many passes are you making in this?
+[22:41] Are? What do passes mean? the whole
+[22:43] How often are you going there? To all
+[22:45] First you traverse the entire array once
+[22:47] To make these zeros and ones and twos. this is when
+[22:50] So it will be made. Only then will you go around the entire array once.
+[22:52] So it will be made. So it became a forest. And now again an array
+[22:55] Passed the. To overwrite that
+[22:58] Zero is four times. So we are in the first four
+[22:59] Wrote this. Then write this in the first three
+[23:01] Given. Then wrote this in two. so you have to
+[23:03] Had to pass. meaning you have to complete the array
+[23:06] Had to do this twice. Ok? difference from this
+[23:08] I don't have to but I had to do it. Correct
+[23:10] Is? In the best approach you can get only one pass.
+[23:13] do. meaning from the beginning to the end of the array
+[23:15] Will go and the array will be completely sorted. so this
+[23:18] One pass approach. That's why this is the best approach
+[23:19] Is. So the interviewer can tell you that
+[23:22] Pass single. single pass
+[23:26] Tell me the single pass approach. This is a single pass
+[23:28] There is only one approach. Ok? single pass
+[23:32] Explain the approach. What do we know so far?
+[23:34] Have you understood? to us
+[23:36] Have to sort. Isn't it? And we are single
+[23:40] Have to do it nearby. Not to use space.
+[23:44] Two pointer will be applied. Two pointer will be applied. Correct
+[23:47] Is? Once we open this question
+[23:49] So that we can find that problem.
+[23:53] Get an example. need a good example
+[23:55] No? Ok? We have this example.
+[24:04] We have example 2 0 2 1 0 very good
+[24:11] ok now use pointer to pointer
+[24:14] How will you do it? See your final array.
+[24:17] Which way is your final supposed to come?
+[24:20] Hey when it's done it will look like this
+[24:25] 0 1 2 3 4
+[24:29] 5 So what will your final array be like?
+[24:32] Will it be visible? There will be zero twice, there will be one twice
+[24:35] And there will be twice two. It will look like this, right? Now
+[24:38] Look into this. This is your region of zero
+[24:41] Is. This is your region zero. this is yours
+[24:45] Is the region of. This is your forest region. Is
+[24:49] No? So this is zero. this one and this one
+[24:53] Which is to is. So any one if you
+[24:55] We will make your final array in three parts.
+[24:58] Is divided. You are looking at a zero
+[25:00] Is the region. One is one region and one is two region.
+[25:02] Is the region. means start of an array
+[25:06] will be. And one will come to zero. zero's last
+[25:10] till. Then the forest will begin.
+[25:14] There will be an end to the forest.
+[25:18] Two will begin,
+[25:21] There will be an end to two. Now look at it like this
+[25:24] It will feel like yours, won't it? Hey it will start from somewhere
+[25:27] Which will be from zero. But okay. so here
+[25:30] It will start from somewhere. it will last till here
+[25:33] Till zero. Then the forest will start. forest ever
+[25:36] It will also end. Then immediately after that two start
+[25:38] It will happen and it will end. so this is yours
+[25:40] It was a zero area. This one one, this two one
+[25:42] The one. This is what is happening isn't it? what in this case
+[25:45] Is? What is your start? your start
+[25:47] The index is zero. zero on which index
+[25:51] Is it last? Zero. Last on this index
+[25:52] Last on one. On one. Begin on one kiss
+[25:55] Happened? To pe. On whom did the forest last? three
+[25:57] Pay. To whom did it begin? On four. and to
+[26:00] At what end? On five. Ok? This much
+[26:04] Did everyone understand or not? Even here.
+[26:07] Ok? Let's do the next part now
+[26:09] Are. A video will be added on this immediately.
+[26:11] See, till now everyone understood that your
+[26:14] The array is divided. Your array is divided.
+[26:16] Divided into chunks. zero in the forest
+[26:19] Of everything in two. Now
+[26:22] just assume just assume
+[26:24] Your array which is given to you which is yours
+[26:26] input array
+[26:27] Your input array given to you is 2 0 2
+[26:32] 1
+[26:34] 0 0 1 2
+[26:38] 5 Suppose this is your region, right?
+[26:41] This is already given to you somewhere
+[26:43] This region is yours and you also need it.
+[26:46] What are we trying to say given
+[26:48] are that
+[26:50] Let's say this one is the region, sorry
+[26:54] My recording was gone. Ok? So
+[26:56] What were we saying just now? you in array
+[26:58] Your reasons are. Ok? so if we three
+[27:01] take pointer like this take three pointer
+[27:04] And let us assume this. See
+[27:06] Now you have to do this entire array. Rearrange
+[27:09] Have to do. Let us assume that the left side of this array
+[27:12] There is some part in and also on the right side of this array
+[27:14] There are some parts. Ok? what do we say
+[27:17] Wherever the array starts from
+[27:19] Suppose there is a very large infinite array.
+[27:21] That's all you have to worry about.
+[27:25] But this array is infinite. you just
+[27:27] Telling to explain. so let's say
+[27:30] that from the start
+[27:32] Low is all zero till -1. Suppose here
+[27:37] Everything is zero. This is in its correct form.
+[27:40] Good. Also assume that from hi + 1
+[27:47] There is sub till the end so this is also sorted. These
+[27:50] Is also in its correct form. so from here
+[27:52] There is everything here. Good. the middle part you
+[27:55] Have to sort. The middle part lets you sort
+[27:58] Have to do. middle section you sort
+[28:00] Is. So what about the law and the law?
+[28:03] It should have been in the middle part that
+[28:06] There should have been a forest. This should have happened, right?
+[28:08] If we are saying that we are stuck in the middle
+[28:10] Went somewhere. Everything is zero here. here on
+[28:13] All is two. So there should have been a forest here.
+[28:16] Ok? So now your problem will be limited.
+[28:18] Has gone. Your problem is gradually becoming smaller now.
+[28:20] It is happening. Getting smaller. see you one
+[28:21] Is a teacher. All the topper kids are standing here
+[28:24] Is. All the failure kids are standing here.
+[28:26] You've got you've got that in between
+[28:28] Must be an average child. so if here
+[28:31] It would have been better if it was just average. here on
+[28:33] If only there was an average, everything would be fine. But
+[28:36] Consider Just a Human. towards the teacher
+[28:38] Think about it. Think carefully. Sara Topper
+[28:41] It is here. The entire topper is here. total failure
+[28:45] It is here.
+[28:47] You are a teacher. You have to arrange. so if
+[28:50] If you see any failure here
+[28:51] What would you say if you go last?
+[28:53] Go stand up. That's correct. any topper
+[28:55] What will you say if you see it? you go start
+[28:57] Go and stand in the one. to failure
+[28:59] What will you say? go and stand last
+[29:01] Go. Yes, he is an average child. one average
+[29:03] There is a child. One is an average child. to the forest here
+[29:05] Should have happened. Leave the forest. average
+[29:07] Leave it. Then tell me hey you
+[29:09] What are you doing here? go with topper
+[29:11] Stand at the start. this is what we do
+[29:13] Are going. This is what we are going to do. Ok?
+[29:15] This is what we are going to do. Did you understand? Now
+[29:19] See what he said? Lo = 0. Mid = 0.
+[29:27] Hi = n – 1. What have we said?
+[29:32] What is the range of zero? what is the range of zero
+[29:34] Is? start
+[29:36] From -1 to -1 -1 are all zeros. of two
+[29:42] What is the range?
+[29:45] High +1 is not high pay. +1 to end whatever
+[29:48] There will be an infinite end. any problem
+[29:50] Not there. Here is Pay Two's. what about the forest
+[29:53] Will there be a range? Then what will be the range of the forest? Take
+[29:57] to mid-1
+[30:01] There will be a middle range. Now there is one range left
+[30:03] In this. See if you look at the three pointer
+[30:05] You will see that there is not even one range left. We people
+[30:07] Take it from the start - 1 and cover it then this one
+[30:09] Covered. end cover with high plus one
+[30:12] If given, cover this one also. low to mid
+[30:14] - 1 Covered this one too. but this
+[30:17] The range was saved. This one survived the range.
+[30:19] This range has to be sorted. corresponding range
+[30:21] We have to sort it. so this range
+[30:23] We have to sort it. mid to high
+[30:26] Till then we have to sort. this is ours
+[30:29] There is a problem. This is problematic. This only
+[30:32] Ours is a problematic area. Again
+[30:35] Understand in example. Are we speaking?
+[30:38] Look in the example. what to take from the start
+[30:40] -1 Start to -1 Let's say it's -1.
+[30:44] Is everything still zero? yes, we are
+[30:45] We have already accepted that everything is zero. Very
+[30:47] Good. From high +1 and it's all here.
+[30:50] Here we have already accepted everything
+[30:51] Is. Low to mid-1, 0 to -1 right now its
+[30:56] There is no justification. Everything from 0 to -1 is one.
+[30:59] There is no reason for that right now. so we
+[31:01] People don't know. Mid to high. from mid
+[31:04] High means 0 to 5 Is everything unsorted?
+[31:06] What is problematic? yes problematic
+[31:08] Is. It looks completely jumbled.
+[31:10] If it is not in order then this is the sort
+[31:11] Have to do. This is what needs to be sorted. Ok?
+[31:14] Now what we told about the work of a teacher is that
+[31:16] If you see topper then start it
+[31:18] Let's try to send it. to failure
+[31:20] Let's see, try to send him to the end
+[31:22] We do. This is what we will do now. So
+[31:25] What is our problematic? Mid = 0.
+[31:29] Hi = n – 1. sorting this out now
+[31:33] Is. So why don't we take the mid from zero
+[31:36] Go till the end. This is what the teacher will do. teacher here
+[31:38] Will do it, right? The teacher will conduct the entire class. teacher
+[31:41] Will look at each child one by one. one each
+[31:43] Will see every child after doing this. How long will you see?
+[31:45] Mid to high. Why? because we believe
+[31:48] Have done that from high plus one and sorted
+[31:49] Is. End sorted from high plus one. and that
+[31:52] Will always be sorted. we make it like this
+[31:53] Will make sure. See what it is, don't you like it?
+[31:57] How could this be accepted? why value
+[31:58] For? So this is an algorithm. this dutch
+[32:00] National Flag is the name of this algorithm. Correct
+[32:02] Is? So this algorithm has been thought of. this to you
+[32:05] have to do it. We just have to accept this reason
+[32:08] Have not done for. we make sure
+[32:09] Will make sure it is true. This should be true every time.
+[32:11] So in every case, in every iteration, these four
+[32:14] Things should be true. Ok? now you
+[32:16] We see. What are we doing? We
+[32:19] People are moving from mid to zero to end. Correct
+[32:22] Is? So mid to high will work. Ok? now mid
+[32:28] Will last till high. Now look at the array of mid three
+[32:32] Could be a case, right? In the middle of the array you will find
+[32:34] What can be found? first of all you
+[32:35] You can get zero, then you can get one
+[32:38] Is, and you can get two. only three things
+[32:41] Can you get it? Only three elements in the array
+[32:42] Is. Ok? Let's look at everything one by one
+[32:44] What will happen. What did we say first?
+[32:47] The teacher got the topper. so teacher topper
+[32:49] What will he say that you go and stand with the topper?
+[32:51] Be done. Then the teacher will say where the topper
+[32:54] Topper is standing here, you
+[32:56] Stand up after. after this go and stand
+[32:58] Go. That boy over there
+[33:00] What will happen? what about the boy over there
+[33:02] do? swap the guy over there
+[33:03] Will give. so see then see see again
+[33:07] Look again, we are teachers, so what are we?
+[33:11] Will say that if you are zero then you are a off
+[33:15] go in low and see again where zero is
+[33:18] 0 lo - till 1 then next space of zero
+[33:21] What is empty? Take - 1 so we agree
+[33:23] Are full. Next space that is empty
+[33:25] It's there, it's there. Ok? We will say take A and
+[33:29] A mid which we are now, swap.
+[33:34] What happened from this? The one in the middle was zero
+[33:37] First went on low. Ok? that most
+[33:40] Went on first low. the middle one which was zero
+[33:42] He went on low first. Ok?
+[33:45] It's a good thing. and and
+[33:48] Will it come from here? Will it come from here? from lo
+[33:51] What can come? Can zero come from low?
+[33:53] Is? No. Why? Because where was zero?
+[33:56] Was up to zero low - 1. Was up to zero low - 1. Take
+[34:00] Zero cannot come from. what to take from there
+[34:02] Can you come? no no no no. Hi
+[34:05] Plus one to the end is two. what do you mean by lo
+[34:07] could? Only one can come from here, brother.
+[34:09] Only one can come from Lo. lo se only one
+[34:11] Can come. And if the forest is coming then the forest is coming
+[34:13] If it is then it is very good because keep it
+[34:14] There is only forest in between. so take something like this
+[34:17] Can't come so that could be a problem. Take
+[34:19] Only forest can come from. we send zero
+[34:22] The forest is coming. So very good. do this
+[34:24] Two. Increase Lo because now it is zero
+[34:27] That's the range, that's increased. even to mid
+[34:29] crank it up. Mid work is done. here on
+[34:31] The forest has arrived. Wanted a forest. If A is in the middle
+[34:33] If you get one then this is the best case. Best
+[34:35] Only case one was required. Only forest is needed, brother.
+[34:38] Already zero. Pay two here. here on
+[34:41] It's a good thing if we get a forest in everything.
+[34:42] Is. Good. Forest is found everywhere. to mid
+[34:44] crank it up. There is no need to do anything. These
+[34:47] See the one. This is a special case. you get
+[34:49] Went to. So where can you send To? to
+[34:52] Where will it be sent? send last
+[34:53] yes. Where pe two stands. Stands for टो का फ.
+[34:55] Where does the fa of to stand? two ka f hi + 1 more
+[34:59] Standing at the end. Ok? so if hi here
+[35:03] is and here is hi + 1 so from here to
+[35:07] Is full. There's a lot of two. so we all
+[35:09] Where to? put two before it
+[35:11] Will give. So bring 2 here and make it stand.
+[35:13] Bring it here and make it stand. bring it here and park it
+[35:14] Two. Is it correct or not?
+[35:18] Bring 2 here and make it stand. So
+[35:21] Look, my internet is going down again and again.
+[35:23] Ok? You all have a little patience
+[35:26] Keep it. Sorry. Yes. Now this jo 2 has come to him
+[35:30] Where are we sending people? send it last
+[35:31] Have been. Ok? So you have to understand one thing
+[35:34] I must have come that a mid
+[35:37] and a high
+[35:39] Swapped this. ok swap once
+[35:43] So what were you doing in the first one?
+[35:45] Was swiping in the first one also. Very
+[35:46] Good. And were increasing both. Good
+[35:50] Will the same work be done in this? are we people
+[35:51] In this it will be said that brother, increase the mid and
+[35:54] The high will not increase now. high is low
+[35:55] will be. The high is coming from there from the exit.
+[35:57] Well can't do that. Why not
+[35:59] Can do? Understand very carefully.
+[36:02] What to expect from Lo Se Array of Lo
+[36:05] Was? We have proved with Array of Low
+[36:07] Only one could have come. Why?
+[36:09] Because zero was till 1. low to mid
+[36:13] If there was a forest till then, the forest would come from here. Ok? Hi
+[36:16] What can come from? what can come from high
+[36:18] Is? Now that flow chart again from High
+[36:20] See. What's in high? look mid to high
+[36:24] This is this high area. This is problematic
+[36:27] It's an area, brother. This is problematic
+[36:28] It is not deterministic at all. what are we
+[36:30] Did you say? Take from start - 1 has 0. Hi
+[36:33] + 1 to end is two. Low to Mid - 1 in
+[36:36] There is a forest. But this area is problematic.
+[36:39] So anything can come from high. high to 0 1 2
+[36:43] Anything can come. Anything can come. Some?
+[36:47] Can also come. so anything can come from high
+[36:50] Is. So you will have to reduce the high
+[36:54] Because what should we put in high now?
+[36:55] Are? Two have been put in high. so this family
+[36:57] Has become of two. So now we go to high school
+[36:59] Will bring it here and it will become i + 1. They
+[37:02] So that's a very good thing. high minus minus
+[37:04] Should do. but nothing about mid
+[37:06] do. Why won't they do anything about mid?
+[37:08] Because now if zero has come from here then
+[37:11] You will have to do this work again. here on
+[37:14] If the forest has come then you will have to do this work again
+[37:15] Will have to. If you come from here then you will again
+[37:17] This work will have to be done. so because that
+[37:19] It is a problematic area because we
+[37:21] Don't know what came from the high
+[37:23] So we won't do anything in the middle and stop
+[37:26] Will do it. And how long will this whole story continue?
+[37:29] What is problematic area? Mid to high.
+[37:33] So as soon as mid becomes greater than high
+[37:37] We will stop doing this. we are these
+[37:40] Will stop. Will stop. dry run
+[37:44] You will understand completely.
+[37:46] There is a bit of a hard algorithm. believe in
+[37:47] It is very hard.
+[37:49] But a little will have to be done.
+[37:53] Ok?
+[37:55] 2 0 2 1
+[38:00] 0 0 1 2 3 4 5 Did we say raise the low
+[38:06] Take Lo = 0 Mid = 0
+[38:12] High = n - 1 5 How long to run Mid when
+[38:17] Until it crosses the high. Very
+[38:19] Good. Let's play. What is mid=0? mid=0
+[38:23] What is? It's two. What did you do in two? mid
+[38:26] And used to swap the high. mid and high
+[38:29] Used to swap. This is what you used to do, right? mid
+[38:32] And swiped high. swap
+[38:35] Will give now. So first of all what is here?
+[38:38] Was? Here the pay was two and here the pay was zero.
+[38:41] Swipe mid and high.
+[38:47] So here we wrote two. here on
+[38:49] Wrote zero. And subtracted the high by one. Hi
+[38:52] Decreased by one.
+[38:54] Decrease the highs by one but increase the mids.
+[38:56] No, do not increase the mid because we
+[38:58] I don't know what came from there, anything.
+[39:00] Maybe that's why we will move to the next iteration.
+[39:03] mid equal to 0 again mid is not increased now
+[39:05] Look now zero has come, what to do mid and low
+[39:08] Had to swipe, look here mid also
+[39:09] If it is zero then it is also zero so there is no need.
+[39:12] If you swipe up then it will remain the same
+[39:13] And both have to be increased and both have to be increased
+[39:16] If you want to give something very good then increase both of them mid.
+[39:19] Take this one mid is equal to one mid
+[39:24] In = 1, zero came again. What is the plan?
+[39:26] Both have to be swiped. If both are same then
+[39:27] It won't make any difference. increase both
+[39:29] Is. Good. Increase both. Make it two. to
+[39:32] Do it.
+[39:34] Mid = two. Now two has come in mid = 2. now to
+[39:38] What to do if it comes? let's swap
+[39:41] With whom? With high. So with high = 4
+[39:44] Will swipe this. So with four when
+[39:46] If you swipe, this will happen and on four
+[39:49] Will put two and reduce the high. Hi
+[39:52] will reduce the but not the mid
+[39:54] Will increase. very good. So Mid = 2 Mid = 2
+[39:58] What's in? Forest. What is a forest? Best case.
+[40:00] very good. Just increase the mid, brother. to mid
+[40:01] Just have to increase. Just need to increase the mids. to mid
+[40:03] Just have to increase. Good. Now
+[40:07] Mid = 3 Mid = 3. Look carefully. Attention
+[40:11] View from. did it cross the high
+[40:13] Is. Haven't crossed yet. It has been equalized.
+[40:15] Can do. There is one again in mid=high.
+[40:17] very good. very good. Increase the mids. mid
+[40:19] Increase the. Now see mid = 4 mid = 4. What
+[40:24] Is mid increased from mid three? yes increase
+[40:27] Has gone. This means that we who
+[40:28] Had gone mid to problematic area
+[40:30] We are that problematic area in the high
+[40:33] Have solved it. exit the program
+[40:34] Give it. Now see if your array is sorted
+[40:36] Has gone? Is your array sorted?
+[40:38] Is your zero here? is yours
+[40:40] Forest has come here? are you here to come
+[40:42] Has gone? Yes it has arrived. then return
+[40:43] Give it.
+[40:45] So this becomes its complete explanation.
+[40:48] I think we wrote the pseudo code.
+[40:50] And you guys have seen the pseudo code. code link
+[40:53] Will be found in the description. so these two
+[40:55] There is a question. very important very
+[40:57] There is a question. Saying again and again.
+[40:58] There are many questions. Look at this again.
+[41:00] Watch again and again, understand. submit and yes
+[41:04] Please submit. By code link you
+[41:06] Can take some reference. whichever
+[41:07] cpp,java,python all those you can take reference
+[41:12] Can. But please submit. submit
+[41:14] Please do. Now let's meet tomorrow.

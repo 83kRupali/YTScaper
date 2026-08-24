@@ -1,0 +1,2669 @@
+{
+  "video_id": "qH2VQY48mg4",
+  "title": "DSA Introduction",
+  "language": "en",
+  "model": "unknown",
+  "duration": 1149,
+  "segments": [
+    {
+      "start": 0,
+      "timestamp": "00:00",
+      "text": "Hello, I know many of you"
+    },
+    {
+      "start": 3,
+      "timestamp": "00:03",
+      "text": "If you have come from Instagram then you"
+    },
+    {
+      "start": 5,
+      "timestamp": "00:05",
+      "text": "You may know me but those who don't"
+    },
+    {
+      "start": 7,
+      "timestamp": "00:07",
+      "text": "Let me tell you that my name is Pratyush"
+    },
+    {
+      "start": 9,
+      "timestamp": "00:09",
+      "text": "Is. I work at Akamai which is"
+    },
+    {
+      "start": 11,
+      "timestamp": "00:11",
+      "text": "The world's largest CDN or networking"
+    },
+    {
+      "start": 13,
+      "timestamp": "00:13",
+      "text": "You can say company. Why should I tell you all this?"
+    },
+    {
+      "start": 15,
+      "timestamp": "00:15",
+      "text": "I'm here because I want to show off"
+    },
+    {
+      "start": 17,
+      "timestamp": "00:17",
+      "text": "Am. No, that's why I'm telling you all this"
+    },
+    {
+      "start": 18,
+      "timestamp": "00:18",
+      "text": "Because you listen to me carefully. So"
+    },
+    {
+      "start": 20,
+      "timestamp": "00:20",
+      "text": "I am not some unique fundu man who"
+    },
+    {
+      "start": 22,
+      "timestamp": "00:22",
+      "text": "Lufander is in the company and he took the camera today"
+    },
+    {
+      "start": 25,
+      "timestamp": "00:25",
+      "text": "have purchased. He felt like making YouTube today"
+    },
+    {
+      "start": 27,
+      "timestamp": "00:27",
+      "text": "Is. No and I completed my studies in IIT"
+    },
+    {
+      "start": 29,
+      "timestamp": "00:29",
+      "text": "Completed from Dhanbad. I like it very much"
+    },
+    {
+      "start": 32,
+      "timestamp": "00:32",
+      "text": "DSA arrives. I might have three or four years"
+    },
+    {
+      "start": 34,
+      "timestamp": "00:34",
+      "text": "Done doing DSA. so i feel good"
+    },
+    {
+      "start": 35,
+      "timestamp": "00:35",
+      "text": "There is a lot of understanding about this thing. That's why it's more important"
+    },
+    {
+      "start": 38,
+      "timestamp": "00:38",
+      "text": "I want you to listen to me. so first of all"
+    },
+    {
+      "start": 41,
+      "timestamp": "00:41",
+      "text": "People have doubts whether to do DSA"
+    },
+    {
+      "start": 43,
+      "timestamp": "00:43",
+      "text": "Is it still necessary or can it be done through development?"
+    },
+    {
+      "start": 45,
+      "timestamp": "00:45",
+      "text": "goes? So whoever is telling you that"
+    },
+    {
+      "start": 47,
+      "timestamp": "00:47",
+      "text": "It is no longer necessary to do DSA. he lies to you"
+    },
+    {
+      "start": 49,
+      "timestamp": "00:49",
+      "text": "Is speaking. if you don't believe"
+    },
+    {
+      "start": 50,
+      "timestamp": "00:50",
+      "text": "If yes, then try developing it a lot."
+    },
+    {
+      "start": 52,
+      "timestamp": "00:52",
+      "text": "You make a very long and detailed resume and"
+    },
+    {
+      "start": 55,
+      "timestamp": "00:55",
+      "text": "Give first round to any company"
+    },
+    {
+      "start": 57,
+      "timestamp": "00:57",
+      "text": "of the interview and you will be asked for DSA. You"
+    },
+    {
+      "start": 58,
+      "timestamp": "00:58",
+      "text": "Will be out. So yes, reading DSA"
+    },
+    {
+      "start": 60,
+      "timestamp": "01:00",
+      "text": "It is absolutely necessary and for the next 10 years also"
+    },
+    {
+      "start": 62,
+      "timestamp": "01:02",
+      "text": "It will be necessary. But why is there a problem? Now"
+    },
+    {
+      "start": 65,
+      "timestamp": "01:05",
+      "text": "Why did I create this channel? why us"
+    },
+    {
+      "start": 67,
+      "timestamp": "01:07",
+      "text": "People suddenly started talking about DSA patterns today."
+    },
+    {
+      "start": 68,
+      "timestamp": "01:08",
+      "text": "are talking? why do you waste your time"
+    },
+    {
+      "start": 71,
+      "timestamp": "01:11",
+      "text": "I will tell you what should be done in this matter."
+    },
+    {
+      "start": 74,
+      "timestamp": "01:14",
+      "text": "So I have used this logic in the reel of Instagram."
+    },
+    {
+      "start": 76,
+      "timestamp": "01:16",
+      "text": "Has also given. So how did we learn English?"
+    },
+    {
+      "start": 78,
+      "timestamp": "01:18",
+      "text": "Was? We learned English that we first"
+    },
+    {
+      "start": 80,
+      "timestamp": "01:20",
+      "text": "Learned the alphabet A to Z. Isn't it? His"
+    },
+    {
+      "start": 82,
+      "timestamp": "01:22",
+      "text": "After that we made small words. cat,"
+    },
+    {
+      "start": 85,
+      "timestamp": "01:25",
+      "text": "Tom, Apple, Pat, Tree made it all."
+    },
+    {
+      "start": 88,
+      "timestamp": "01:28",
+      "text": "After that we made short sentences."
+    },
+    {
+      "start": 90,
+      "timestamp": "01:30",
+      "text": "Like I'm a boy, I'm a good boy. His"
+    },
+    {
+      "start": 93,
+      "timestamp": "01:33",
+      "text": "Make more complex sentences later. As"
+    },
+    {
+      "start": 95,
+      "timestamp": "01:35",
+      "text": "Me and Pratyush are very good friends. I"
+    },
+    {
+      "start": 97,
+      "timestamp": "01:37",
+      "text": "Have Recently Started a YouTube Channel."
+    },
+    {
+      "start": 99,
+      "timestamp": "01:39",
+      "text": "We learned English by doing this, right?"
+    },
+    {
+      "start": 101,
+      "timestamp": "01:41",
+      "text": "It may happen that while you are doing this"
+    },
+    {
+      "start": 104,
+      "timestamp": "01:44",
+      "text": "So you remember some alphabets"
+    },
+    {
+      "start": 106,
+      "timestamp": "01:46",
+      "text": "No. For example, you may not remember that"
+    },
+    {
+      "start": 108,
+      "timestamp": "01:48",
+      "text": "What comes after Q? you don't remember"
+    },
+    {
+      "start": 110,
+      "timestamp": "01:50",
+      "text": "What comes before ji. but than that"
+    },
+    {
+      "start": 111,
+      "timestamp": "01:51",
+      "text": "It doesn't matter. if you make small words"
+    },
+    {
+      "start": 113,
+      "timestamp": "01:53",
+      "text": "If you are writing CAT, you should"
+    },
+    {
+      "start": 114,
+      "timestamp": "01:54",
+      "text": "Just three alphabets are needed. if you apple"
+    },
+    {
+      "start": 117,
+      "timestamp": "01:57",
+      "text": "If you are writing then you just have to"
+    },
+    {
+      "start": 118,
+      "timestamp": "01:58",
+      "text": "Alphabets are needed. Similar to you"
+    },
+    {
+      "start": 121,
+      "timestamp": "02:01",
+      "text": "All English words are also available."
+    },
+    {
+      "start": 122,
+      "timestamp": "02:02",
+      "text": "Not possible. all english words"
+    },
+    {
+      "start": 124,
+      "timestamp": "02:04",
+      "text": "If you go to add then lakhs and crores"
+    },
+    {
+      "start": 126,
+      "timestamp": "02:06",
+      "text": "Will be in. So it's not like I"
+    },
+    {
+      "start": 128,
+      "timestamp": "02:08",
+      "text": "You know all the English words either"
+    },
+    {
+      "start": 130,
+      "timestamp": "02:10",
+      "text": "Will be coming. Still we know English well"
+    },
+    {
+      "start": 132,
+      "timestamp": "02:12",
+      "text": "Comes to speak. I can speak English."
+    },
+    {
+      "start": 134,
+      "timestamp": "02:14",
+      "text": "I can understand English. study english"
+    },
+    {
+      "start": 136,
+      "timestamp": "02:16",
+      "text": "Can. So now imagine that this way"
+    },
+    {
+      "start": 139,
+      "timestamp": "02:19",
+      "text": "Instead of learning English in another way."
+    },
+    {
+      "start": 141,
+      "timestamp": "02:21",
+      "text": "Someone tells you to do this so that first you"
+    },
+    {
+      "start": 144,
+      "timestamp": "02:24",
+      "text": "Learn all the English alphabets. you spoke"
+    },
+    {
+      "start": 146,
+      "timestamp": "02:26",
+      "text": "Okay, it's a good thing, we should also learn. His"
+    },
+    {
+      "start": 148,
+      "timestamp": "02:28",
+      "text": "After that you learn all the English words. as many"
+    },
+    {
+      "start": 149,
+      "timestamp": "02:29",
+      "text": "It doesn't matter if there are millions of words."
+    },
+    {
+      "start": 151,
+      "timestamp": "02:31",
+      "text": "Remember everyone's spelling. meaning of everything"
+    },
+    {
+      "start": 153,
+      "timestamp": "02:33",
+      "text": "Remember. Write everything down in your notebook. Remember."
+    },
+    {
+      "start": 156,
+      "timestamp": "02:36",
+      "text": "After that you read all the sentences."
+    },
+    {
+      "start": 158,
+      "timestamp": "02:38",
+      "text": "All possible sentences in English"
+    },
+    {
+      "start": 159,
+      "timestamp": "02:39",
+      "text": "Read them all. Remember everyone. After that"
+    },
+    {
+      "start": 162,
+      "timestamp": "02:42",
+      "text": "Go make a sentence like I am a boy."
+    },
+    {
+      "start": 164,
+      "timestamp": "02:44",
+      "text": "Will get. So if you learn in this way then"
+    },
+    {
+      "start": 167,
+      "timestamp": "02:47",
+      "text": "You keep learning for 10-20 years and you"
+    },
+    {
+      "start": 169,
+      "timestamp": "02:49",
+      "text": "Nothing comes. Isn't it? Now we have the same logic"
+    },
+    {
+      "start": 172,
+      "timestamp": "02:52",
+      "text": "Why not applying to DSA?"
+    },
+    {
+      "start": 173,
+      "timestamp": "02:53",
+      "text": "past five means past five"
+    },
+    {
+      "start": 175,
+      "timestamp": "02:55",
+      "text": "What has happened over the years is that every creator"
+    },
+    {
+      "start": 178,
+      "timestamp": "02:58",
+      "text": "A sheet has come for every Uber. I too from the same"
+    },
+    {
+      "start": 181,
+      "timestamp": "03:01",
+      "text": "Read it when I was preparing. now that sheet"
+    },
+    {
+      "start": 183,
+      "timestamp": "03:03",
+      "text": "There are topic wise questions. their main"
+    },
+    {
+      "start": 185,
+      "timestamp": "03:05",
+      "text": "The idea is that we will discuss DSA topic wise."
+    },
+    {
+      "start": 188,
+      "timestamp": "03:08",
+      "text": "Will read. We will read Ares first. array"
+    },
+    {
+      "start": 190,
+      "timestamp": "03:10",
+      "text": "Will do mentorship. After that we link"
+    },
+    {
+      "start": 192,
+      "timestamp": "03:12",
+      "text": "Will come on the list. link list when mastery"
+    },
+    {
+      "start": 194,
+      "timestamp": "03:14",
+      "text": "After that we will come to strings. it"
+    },
+    {
+      "start": 196,
+      "timestamp": "03:16",
+      "text": "The method is the same as all the words in English."
+    },
+    {
+      "start": 197,
+      "timestamp": "03:17",
+      "text": "Gonna remember. any person in his"
+    },
+    {
+      "start": 200,
+      "timestamp": "03:20",
+      "text": "Not the entire array of questions in life time"
+    },
+    {
+      "start": 202,
+      "timestamp": "03:22",
+      "text": "Can do. If any of you think"
+    },
+    {
+      "start": 204,
+      "timestamp": "03:24",
+      "text": "If I know it well, then come with me"
+    },
+    {
+      "start": 206,
+      "timestamp": "03:26",
+      "text": "Schedule one to one. I am one with you"
+    },
+    {
+      "start": 207,
+      "timestamp": "03:27",
+      "text": "I will ask questions only about the array. someone in it"
+    },
+    {
+      "start": 209,
+      "timestamp": "03:29",
+      "text": "There will be no advanced concept. do you understand"
+    },
+    {
+      "start": 211,
+      "timestamp": "03:31",
+      "text": "Will come where are you and where are you standing"
+    },
+    {
+      "start": 213,
+      "timestamp": "03:33",
+      "text": "Are. So it is not that if you topic wise"
+    },
+    {
+      "start": 217,
+      "timestamp": "03:37",
+      "text": "will read, you will read arrays, so you will read arrays until"
+    },
+    {
+      "start": 219,
+      "timestamp": "03:39",
+      "text": "If you don't master it, you don't move forward."
+    },
+    {
+      "start": 221,
+      "timestamp": "03:41",
+      "text": "Can. Because array is a data structure."
+    },
+    {
+      "start": 223,
+      "timestamp": "03:43",
+      "text": "Array queries if you only look at the lead code"
+    },
+    {
+      "start": 225,
+      "timestamp": "03:45",
+      "text": "If you look, there are thousands of questions just for the array."
+    },
+    {
+      "start": 226,
+      "timestamp": "03:46",
+      "text": "Are. Simple Arrays Questions. These"
+    },
+    {
+      "start": 229,
+      "timestamp": "03:49",
+      "text": "The problem is in doing topic wise DSA."
+    },
+    {
+      "start": 231,
+      "timestamp": "03:51",
+      "text": "That's why a lot of you will relate"
+    },
+    {
+      "start": 233,
+      "timestamp": "03:53",
+      "text": "Why did you start reading DSA from me?"
+    },
+    {
+      "start": 236,
+      "timestamp": "03:56",
+      "text": "Have done it many times. I also during my college time"
+    },
+    {
+      "start": 238,
+      "timestamp": "03:58",
+      "text": "I started it at least five-six times"
+    },
+    {
+      "start": 239,
+      "timestamp": "03:59",
+      "text": "Reading. You start. you do it from the beginning"
+    },
+    {
+      "start": 242,
+      "timestamp": "04:02",
+      "text": "yes? From array. Everyone starts with the array."
+    },
+    {
+      "start": 244,
+      "timestamp": "04:04",
+      "text": "You keep asking a series of questions. 6"
+    },
+    {
+      "start": 246,
+      "timestamp": "04:06",
+      "text": "Months later you feel that either"
+    },
+    {
+      "start": 248,
+      "timestamp": "04:08",
+      "text": "It's not ending, friend. How does the rest end?"
+    },
+    {
+      "start": 249,
+      "timestamp": "04:09",
+      "text": "There is still such a huge syllabus left. right now i"
+    },
+    {
+      "start": 251,
+      "timestamp": "04:11",
+      "text": "Unable to do the topics in the initial array. You"
+    },
+    {
+      "start": 253,
+      "timestamp": "04:13",
+      "text": "Then you leave it. This is the mistake in this."
+    },
+    {
+      "start": 256,
+      "timestamp": "04:16",
+      "text": "That's why DSA patterns come into existence."
+    },
+    {
+      "start": 258,
+      "timestamp": "04:18",
+      "text": "What are patterns? patterns any"
+    },
+    {
+      "start": 261,
+      "timestamp": "04:21",
+      "text": "The question does not require an algorithm."
+    },
+    {
+      "start": 263,
+      "timestamp": "04:23",
+      "text": "Is. Either you have to understand that this"
+    },
+    {
+      "start": 265,
+      "timestamp": "04:25",
+      "text": "What question are you asking? Because"
+    },
+    {
+      "start": 266,
+      "timestamp": "04:26",
+      "text": "The question is in English. They"
+    },
+    {
+      "start": 268,
+      "timestamp": "04:28",
+      "text": "What to do in question? that question"
+    },
+    {
+      "start": 270,
+      "timestamp": "04:30",
+      "text": "Which algorithm will solve it? which data"
+    },
+    {
+      "start": 272,
+      "timestamp": "04:32",
+      "text": "Will it be solved with structure? they decide"
+    },
+    {
+      "start": 274,
+      "timestamp": "04:34",
+      "text": "These are the patterns of that question. of patterns"
+    },
+    {
+      "start": 276,
+      "timestamp": "04:36",
+      "text": "There are some examples. two pointer pattern,"
+    },
+    {
+      "start": 278,
+      "timestamp": "04:38",
+      "text": "Back tracking either slow and fast pointer"
+    },
+    {
+      "start": 281,
+      "timestamp": "04:41",
+      "text": "Pattern. Total 28 such patterns"
+    },
+    {
+      "start": 283,
+      "timestamp": "04:43",
+      "text": "Are in DSA. Now DSA"
+    },
+    {
+      "start": 286,
+      "timestamp": "04:46",
+      "text": "The questions are infinite. question if"
+    },
+    {
+      "start": 287,
+      "timestamp": "04:47",
+      "text": "If you start doing one by one then you will never"
+    },
+    {
+      "start": 289,
+      "timestamp": "04:49",
+      "text": "Will be possible. Then you never reach the interview."
+    },
+    {
+      "start": 290,
+      "timestamp": "04:50",
+      "text": "Will not reach. Patterns are finite."
+    },
+    {
+      "start": 292,
+      "timestamp": "04:52",
+      "text": "How much are the patterns? just 28 to 8 28 anyone"
+    },
+    {
+      "start": 296,
+      "timestamp": "04:56",
+      "text": "If you raise the question of DSA then it is like this"
+    },
+    {
+      "start": 298,
+      "timestamp": "04:58",
+      "text": "Will come in one pattern only. in that pattern now"
+    },
+    {
+      "start": 301,
+      "timestamp": "05:01",
+      "text": "If you master it, you will understand."
+    },
+    {
+      "start": 302,
+      "timestamp": "05:02",
+      "text": "Will know which algorithm you have to apply,"
+    },
+    {
+      "start": 304,
+      "timestamp": "05:04",
+      "text": "Which data structure to use? after this"
+    },
+    {
+      "start": 306,
+      "timestamp": "05:06",
+      "text": "You can move a little further. atlist"
+    },
+    {
+      "start": 308,
+      "timestamp": "05:08",
+      "text": "You can tell the athlete interviewer that"
+    },
+    {
+      "start": 310,
+      "timestamp": "05:10",
+      "text": "This is what is coming to my mind. that's why reading"
+    },
+    {
+      "start": 313,
+      "timestamp": "05:13",
+      "text": "DSA pattern is necessary. Why? Because"
+    },
+    {
+      "start": 314,
+      "timestamp": "05:14",
+      "text": "Firstly, it takes less time. finite"
+    },
+    {
+      "start": 316,
+      "timestamp": "05:16",
+      "text": "There are things. You can do more by asking less questions."
+    },
+    {
+      "start": 319,
+      "timestamp": "05:19",
+      "text": "Can you understand? You get 500, 600, 1000, 2000"
+    },
+    {
+      "start": 322,
+      "timestamp": "05:22",
+      "text": "There is no need to question. nor yours"
+    },
+    {
+      "start": 323,
+      "timestamp": "05:23",
+      "text": "I have as much time as I can think of."
+    },
+    {
+      "start": 325,
+      "timestamp": "05:25",
+      "text": "I am your situation. So on this channel we"
+    },
+    {
+      "start": 329,
+      "timestamp": "05:29",
+      "text": "Will shift phase wise. some people know"
+    },
+    {
+      "start": 332,
+      "timestamp": "05:32",
+      "text": "what I am going to teach will happen in advance"
+    },
+    {
+      "start": 334,
+      "timestamp": "05:34",
+      "text": "For the next 10 days. some people don't know"
+    },
+    {
+      "start": 336,
+      "timestamp": "05:36",
+      "text": "will be. Never mind when you weigh so much"
+    },
+    {
+      "start": 338,
+      "timestamp": "05:38",
+      "text": "Talking for those who know it"
+    },
+    {
+      "start": 339,
+      "timestamp": "05:39",
+      "text": "I wonder if I have waited so much for 10 days?"
+    },
+    {
+      "start": 341,
+      "timestamp": "05:41",
+      "text": "And weigh it. Even if you feel that"
+    },
+    {
+      "start": 344,
+      "timestamp": "05:44",
+      "text": "You will know what I am going to teach in 10 days."
+    },
+    {
+      "start": 345,
+      "timestamp": "05:45",
+      "text": "Still, I would recommend that you"
+    },
+    {
+      "start": 347,
+      "timestamp": "05:47",
+      "text": "Do watch the classes. definitely something like this"
+    },
+    {
+      "start": 350,
+      "timestamp": "05:50",
+      "text": "You will get what you did not know either"
+    },
+    {
+      "start": 352,
+      "timestamp": "05:52",
+      "text": "You must have forgotten. something helpful to you"
+    },
+    {
+      "start": 354,
+      "timestamp": "05:54",
+      "text": "will get. Ok? Ok. So we are this fuzz wise"
+    },
+    {
+      "start": 356,
+      "timestamp": "05:56",
+      "text": "Will start. First up will be Fuzz One."
+    },
+    {
+      "start": 358,
+      "timestamp": "05:58",
+      "text": "Ok? What's my goal in Fuzz One?"
+    },
+    {
+      "start": 361,
+      "timestamp": "06:01",
+      "text": "What I hope I can give you is the basic"
+    },
+    {
+      "start": 363,
+      "timestamp": "06:03",
+      "text": "Let me explain the data structure. in english"
+    },
+    {
+      "start": 366,
+      "timestamp": "06:06",
+      "text": "Just like the alphabets are A to Z."
+    },
+    {
+      "start": 368,
+      "timestamp": "06:08",
+      "text": "Before starting anything"
+    },
+    {
+      "start": 370,
+      "timestamp": "06:10",
+      "text": "Learning the basics or its syntax is very"
+    },
+    {
+      "start": 372,
+      "timestamp": "06:12",
+      "text": "It is necessary. So it seems to me my intellect"
+    },
+    {
+      "start": 376,
+      "timestamp": "06:16",
+      "text": "According to that you will get it in 10 to 12 days."
+    },
+    {
+      "start": 379,
+      "timestamp": "06:19",
+      "text": "I will teach you very basic DSA. Ok?"
+    },
+    {
+      "start": 382,
+      "timestamp": "06:22",
+      "text": "It won't be so good if you go"
+    },
+    {
+      "start": 384,
+      "timestamp": "06:24",
+      "text": "Only these 10 will help you crack any interview"
+    },
+    {
+      "start": 386,
+      "timestamp": "06:26",
+      "text": "From days of study. But this is more than enough"
+    },
+    {
+      "start": 389,
+      "timestamp": "06:29",
+      "text": "Which is what we are going to cover next. To you"
+    },
+    {
+      "start": 391,
+      "timestamp": "06:31",
+      "text": "sometimes difficulty in understanding things ahead"
+    },
+    {
+      "start": 393,
+      "timestamp": "06:33",
+      "text": "Will not be born. This is my promise. So"
+    },
+    {
+      "start": 395,
+      "timestamp": "06:35",
+      "text": "I will try in 10 to 12 days"
+    },
+    {
+      "start": 397,
+      "timestamp": "06:37",
+      "text": "There will be a one-hour class and I will"
+    },
+    {
+      "start": 400,
+      "timestamp": "06:40",
+      "text": "I will teach you some topics which we will talk about"
+    },
+    {
+      "start": 402,
+      "timestamp": "06:42",
+      "text": "Will do further. Related to those topics"
+    },
+    {
+      "start": 404,
+      "timestamp": "06:44",
+      "text": "I will give you some questions and some"
+    },
+    {
+      "start": 406,
+      "timestamp": "06:46",
+      "text": "I will explain the questions in class. Some?"
+    },
+    {
+      "start": 408,
+      "timestamp": "06:48",
+      "text": "Questions I will tell you that Gigs for"
+    },
+    {
+      "start": 409,
+      "timestamp": "06:49",
+      "text": "Get paid for gigs. If you have that basic"
+    },
+    {
+      "start": 411,
+      "timestamp": "06:51",
+      "text": "If you ask questions then you have a good reputation"
+    },
+    {
+      "start": 413,
+      "timestamp": "06:53",
+      "text": "DSA will be caught. Ok? Second"
+    },
+    {
+      "start": 415,
+      "timestamp": "06:55",
+      "text": "Fudge We will start with the pattern."
+    },
+    {
+      "start": 417,
+      "timestamp": "06:57",
+      "text": "Those who have not received the pattern sheets yet"
+    },
+    {
+      "start": 419,
+      "timestamp": "06:59",
+      "text": "There is an Instagram link in the description"
+    },
+    {
+      "start": 421,
+      "timestamp": "07:01",
+      "text": "Is. Go there and comment anything."
+    },
+    {
+      "start": 423,
+      "timestamp": "07:03",
+      "text": "Will come in DM. That comes from automation."
+    },
+    {
+      "start": 424,
+      "timestamp": "07:04",
+      "text": "I don't send it to you personally. one more thing"
+    },
+    {
+      "start": 427,
+      "timestamp": "07:07",
+      "text": "Got cleared. Ok? We will come in phase two"
+    },
+    {
+      "start": 429,
+      "timestamp": "07:09",
+      "text": "Will go to patterns. Now phase two will happen later"
+    },
+    {
+      "start": 431,
+      "timestamp": "07:11",
+      "text": "The thing is. first decide on phase one"
+    },
+    {
+      "start": 433,
+      "timestamp": "07:13",
+      "text": "Let's see what will happen, in which language"
+    },
+    {
+      "start": 435,
+      "timestamp": "07:15",
+      "text": "Will it happen and in what way? so that once"
+    },
+    {
+      "start": 438,
+      "timestamp": "07:18",
+      "text": "Let's take a look. Now in phase two we are in phase one"
+    },
+    {
+      "start": 441,
+      "timestamp": "07:21",
+      "text": "What am I going to do? we are going to do"
+    },
+    {
+      "start": 442,
+      "timestamp": "07:22",
+      "text": "These are the basics. Ok? Now what about the basics?"
+    },
+    {
+      "start": 445,
+      "timestamp": "07:25",
+      "text": "Not if you want to learn any language"
+    },
+    {
+      "start": 447,
+      "timestamp": "07:27",
+      "text": "If the future comes to your mind,"
+    },
+    {
+      "start": 449,
+      "timestamp": "07:29",
+      "text": "I feel like I have to learn a new language,"
+    },
+    {
+      "start": 450,
+      "timestamp": "07:30",
+      "text": "JavaScript is done, Rust is done, G is done"
+    },
+    {
+      "start": 452,
+      "timestamp": "07:32",
+      "text": "If you want to do anything in Python then you should do these things."
+    },
+    {
+      "start": 455,
+      "timestamp": "07:35",
+      "text": "Are necessary. What are these things? To all"
+    },
+    {
+      "start": 457,
+      "timestamp": "07:37",
+      "text": "First you should get his input"
+    },
+    {
+      "start": 459,
+      "timestamp": "07:39",
+      "text": "Output. Input output means you input"
+    },
+    {
+      "start": 462,
+      "timestamp": "07:42",
+      "text": "How to get it, how to get it printed? it"
+    },
+    {
+      "start": 464,
+      "timestamp": "07:44",
+      "text": "You need it in any language"
+    },
+    {
+      "start": 465,
+      "timestamp": "07:45",
+      "text": "Needed Ok? the second thing you want"
+    },
+    {
+      "start": 468,
+      "timestamp": "07:48",
+      "text": "You need variables or data types."
+    },
+    {
+      "start": 471,
+      "timestamp": "07:51",
+      "text": "What are variables or data types?"
+    },
+    {
+      "start": 473,
+      "timestamp": "07:53",
+      "text": "that if you have to store a number, if"
+    },
+    {
+      "start": 477,
+      "timestamp": "07:57",
+      "text": "If you want to store your name then how can you do it?"
+    },
+    {
+      "start": 479,
+      "timestamp": "07:59",
+      "text": "Will you get it stored? How do you declare?"
+    },
+    {
+      "start": 481,
+      "timestamp": "08:01",
+      "text": "will you do? How will you write? if i tell you"
+    },
+    {
+      "start": 483,
+      "timestamp": "08:03",
+      "text": "I say make an array then you make an array"
+    },
+    {
+      "start": 485,
+      "timestamp": "08:05",
+      "text": "How will you make it? How is it written? These"
+    },
+    {
+      "start": 487,
+      "timestamp": "08:07",
+      "text": "You must come. Ok? the third thing"
+    },
+    {
+      "start": 490,
+      "timestamp": "08:10",
+      "text": "Those are loops. loops meaning"
+    },
+    {
+      "start": 492,
+      "timestamp": "08:12",
+      "text": "What happens? Loops do the same thing"
+    },
+    {
+      "start": 493,
+      "timestamp": "08:13",
+      "text": "Do it again and again. So if a program comes"
+    },
+    {
+      "start": 496,
+      "timestamp": "08:16",
+      "text": "that prints hello world then you get one line"
+    },
+    {
+      "start": 498,
+      "timestamp": "08:18",
+      "text": "I will write print hello world very"
+    },
+    {
+      "start": 499,
+      "timestamp": "08:19",
+      "text": "Nice. If a program comes print"
+    },
+    {
+      "start": 501,
+      "timestamp": "08:21",
+      "text": "hello world 10 times so you what 10 times"
+    },
+    {
+      "start": 503,
+      "timestamp": "08:23",
+      "text": "You will write this thing, not print hello world."
+    },
+    {
+      "start": 505,
+      "timestamp": "08:25",
+      "text": "We will do it with a loop. so loop a lot"
+    },
+    {
+      "start": 506,
+      "timestamp": "08:26",
+      "text": "Basic is a very integral part of any"
+    },
+    {
+      "start": 508,
+      "timestamp": "08:28",
+      "text": "Of language. You're bound to get loops."
+    },
+    {
+      "start": 509,
+      "timestamp": "08:29",
+      "text": "Needed Ok? loops you know the syntax"
+    },
+    {
+      "start": 512,
+      "timestamp": "08:32",
+      "text": "Needed You must understand that the loop"
+    },
+    {
+      "start": 514,
+      "timestamp": "08:34",
+      "text": "What will happen by writing? what is infinite loop"
+    },
+    {
+      "start": 516,
+      "timestamp": "08:36",
+      "text": "It happens? Uh what is a finite loop?"
+    },
+    {
+      "start": 518,
+      "timestamp": "08:38",
+      "text": "etc. Ok? Next thing comes functions."
+    },
+    {
+      "start": 521,
+      "timestamp": "08:41",
+      "text": "Ok? Why are functions so important?"
+    },
+    {
+      "start": 523,
+      "timestamp": "08:43",
+      "text": "goes? Because no matter how much DSA we"
+    },
+    {
+      "start": 525,
+      "timestamp": "08:45",
+      "text": "Do it either on lead code or on GFG"
+    },
+    {
+      "start": 527,
+      "timestamp": "08:47",
+      "text": "You don't have to write the entire program there."
+    },
+    {
+      "start": 529,
+      "timestamp": "08:49",
+      "text": "Would. There you don't have to take input,"
+    },
+    {
+      "start": 530,
+      "timestamp": "08:50",
+      "text": "Output does not have to be taken. there you just"
+    },
+    {
+      "start": 532,
+      "timestamp": "08:52",
+      "text": "Function has to be written. would have given you"
+    },
+    {
+      "start": 534,
+      "timestamp": "08:54",
+      "text": "is a function. You have to write the logic of the function."
+    },
+    {
+      "start": 536,
+      "timestamp": "08:56",
+      "text": "That's it. That's why write the function write the function"
+    },
+    {
+      "start": 538,
+      "timestamp": "08:58",
+      "text": "And it is very important to understand the function. Ok?"
+    },
+    {
+      "start": 541,
+      "timestamp": "09:01",
+      "text": "Functions I don't ever feel like following you"
+    },
+    {
+      "start": 543,
+      "timestamp": "09:03",
+      "text": "Will leave. You can learn any language. To you"
+    },
+    {
+      "start": 544,
+      "timestamp": "09:04",
+      "text": "Must know how to write functions. Ok? Next"
+    },
+    {
+      "start": 547,
+      "timestamp": "09:07",
+      "text": "The thing is related to function only. now you"
+    },
+    {
+      "start": 549,
+      "timestamp": "09:09",
+      "text": "If you have learned how to write functions then you will know recursion."
+    },
+    {
+      "start": 551,
+      "timestamp": "09:11",
+      "text": "Should also come. Ok? what is recursion"
+    },
+    {
+      "start": 553,
+      "timestamp": "09:13",
+      "text": "It happens. Recursion is the same function which"
+    },
+    {
+      "start": 555,
+      "timestamp": "09:15",
+      "text": "Call yourself. you from yourself"
+    },
+    {
+      "start": 557,
+      "timestamp": "09:17",
+      "text": "Whoever knows the function must know the function."
+    },
+    {
+      "start": 559,
+      "timestamp": "09:19",
+      "text": "Small means one thing."
+    },
+    {
+      "start": 562,
+      "timestamp": "09:22",
+      "text": "it occurs. Ok? you pass input into it"
+    },
+    {
+      "start": 564,
+      "timestamp": "09:24",
+      "text": "Yes, it gives you output. that is"
+    },
+    {
+      "start": 565,
+      "timestamp": "09:25",
+      "text": "Function. Function means a box. in the box"
+    },
+    {
+      "start": 567,
+      "timestamp": "09:27",
+      "text": "Input will come. The output will go out of the box."
+    },
+    {
+      "start": 570,
+      "timestamp": "09:30",
+      "text": "Now what is recursion and not recursion"
+    },
+    {
+      "start": 571,
+      "timestamp": "09:31",
+      "text": "It happens that the same function a f for"
+    },
+    {
+      "start": 574,
+      "timestamp": "09:34",
+      "text": "Example is a fun function. This yourself"
+    },
+    {
+      "start": 577,
+      "timestamp": "09:37",
+      "text": "He is calling. this to some other function"
+    },
+    {
+      "start": 578,
+      "timestamp": "09:38",
+      "text": "By not calling yourself over and over again"
+    },
+    {
+      "start": 580,
+      "timestamp": "09:40",
+      "text": "is calling. this is called recursion"
+    },
+    {
+      "start": 582,
+      "timestamp": "09:42",
+      "text": "In small. Ok? now these five"
+    },
+    {
+      "start": 584,
+      "timestamp": "09:44",
+      "text": "Topics are done. a little bit more"
+    },
+    {
+      "start": 588,
+      "timestamp": "09:48",
+      "text": "Now here we saw the data types."
+    },
+    {
+      "start": 590,
+      "timestamp": "09:50",
+      "text": "Was. By this data type I meant basic"
+    },
+    {
+      "start": 592,
+      "timestamp": "09:52",
+      "text": "Data Types. such as integer character"
+    },
+    {
+      "start": 595,
+      "timestamp": "09:55",
+      "text": "String is done. Ok?"
+    },
+    {
+      "start": 598,
+      "timestamp": "09:58",
+      "text": "Next one we will learn some advanced data"
+    },
+    {
+      "start": 600,
+      "timestamp": "10:00",
+      "text": "Type means arrays or vectors."
+    },
+    {
+      "start": 605,
+      "timestamp": "10:05",
+      "text": "purse"
+    },
+    {
+      "start": 607,
+      "timestamp": "10:07",
+      "text": "Apart from this, you can also use hashmaps and hashmaps."
+    },
+    {
+      "start": 611,
+      "timestamp": "10:11",
+      "text": "Believe it or not it is a data structure"
+    },
+    {
+      "start": 613,
+      "timestamp": "10:13",
+      "text": "Slightly Advanced Data Structure Hashmaps and"
+    },
+    {
+      "start": 615,
+      "timestamp": "10:15",
+      "text": "Yes, six topics, six topics, 10 or 12 days."
+    },
+    {
+      "start": 619,
+      "timestamp": "10:19",
+      "text": "It is not necessary to give two days to each topic."
+    },
+    {
+      "start": 622,
+      "timestamp": "10:22",
+      "text": "It will take me more days to complete the whole thing if"
+    },
+    {
+      "start": 624,
+      "timestamp": "10:24",
+      "text": "study on time, study with discipline"
+    },
+    {
+      "start": 626,
+      "timestamp": "10:26",
+      "text": "Be consistent and study for more than 10 days"
+    },
+    {
+      "start": 628,
+      "timestamp": "10:28",
+      "text": "This is not a game. it will prepare you"
+    },
+    {
+      "start": 630,
+      "timestamp": "10:30",
+      "text": "For the journey ahead. now this kiss"
+    },
+    {
+      "start": 633,
+      "timestamp": "10:33",
+      "text": "Will it be in language? very important"
+    },
+    {
+      "start": 634,
+      "timestamp": "10:34",
+      "text": "DMs keep coming to me or mine"
+    },
+    {
+      "start": 636,
+      "timestamp": "10:36",
+      "text": "Language is this and that. so look honestly"
+    },
+    {
+      "start": 638,
+      "timestamp": "10:38",
+      "text": "My language is C. I just feel like it"
+    },
+    {
+      "start": 641,
+      "timestamp": "10:41",
+      "text": "Is. Believe it or not, I have been working for two-three years."
+    },
+    {
+      "start": 644,
+      "timestamp": "10:44",
+      "text": "I am doing it. And because I love networking"
+    },
+    {
+      "start": 646,
+      "timestamp": "10:46",
+      "text": "I am working. So in networking"
+    },
+    {
+      "start": 649,
+      "timestamp": "10:49",
+      "text": "It is very important to write things fast. so we"
+    },
+    {
+      "start": 650,
+      "timestamp": "10:50",
+      "text": "People write in C. but at your convenience"
+    },
+    {
+      "start": 653,
+      "timestamp": "10:53",
+      "text": "For I know nobody likes these days"
+    },
+    {
+      "start": 655,
+      "timestamp": "10:55",
+      "text": "Wanted to learn. So for your convenience my"
+    },
+    {
+      "start": 657,
+      "timestamp": "10:57",
+      "text": "One main language will be C++. C++ even today"
+    },
+    {
+      "start": 661,
+      "timestamp": "11:01",
+      "text": "One of the best languages. if you"
+    },
+    {
+      "start": 662,
+      "timestamp": "11:02",
+      "text": "Do competitive programming, DSA"
+    },
+    {
+      "start": 664,
+      "timestamp": "11:04",
+      "text": "You learn and do anything so fast."
+    },
+    {
+      "start": 667,
+      "timestamp": "11:07",
+      "text": "It is moving. A very easy to understand"
+    },
+    {
+      "start": 669,
+      "timestamp": "11:09",
+      "text": "No but relatively easy to"
+    },
+    {
+      "start": 671,
+      "timestamp": "11:11",
+      "text": "Understand. Ok? now i know"
+    },
+    {
+      "start": 674,
+      "timestamp": "11:14",
+      "text": "That many people are not even interested in C++"
+    },
+    {
+      "start": 676,
+      "timestamp": "11:16",
+      "text": "Is. So no problem. Java I"
+    },
+    {
+      "start": 679,
+      "timestamp": "11:19",
+      "text": "Studied in class nine or class 10. But"
+    },
+    {
+      "start": 681,
+      "timestamp": "11:21",
+      "text": "I remember Java and C++ are almost same."
+    },
+    {
+      "start": 684,
+      "timestamp": "11:24",
+      "text": "Ok? If you look at the syntax atlist"
+    },
+    {
+      "start": 686,
+      "timestamp": "11:26",
+      "text": "70 to 80% syntax of Basic is same."
+    },
+    {
+      "start": 690,
+      "timestamp": "11:30",
+      "text": "Is. Ok? just a little here and there"
+    },
+    {
+      "start": 692,
+      "timestamp": "11:32",
+      "text": "There is a difference of letters. Otherwise if in C++"
+    },
+    {
+      "start": 695,
+      "timestamp": "11:35",
+      "text": "If you write int A then in Java also you"
+    },
+    {
+      "start": 697,
+      "timestamp": "11:37",
+      "text": "Write int A only. so much the same"
+    },
+    {
+      "start": 700,
+      "timestamp": "11:40",
+      "text": "Is. So it will be easier for me to teach also."
+    },
+    {
+      "start": 701,
+      "timestamp": "11:41",
+      "text": "You will also find it easier to read. next"
+    },
+    {
+      "start": 704,
+      "timestamp": "11:44",
+      "text": "Language Ah Python Python a little bit I"
+    },
+    {
+      "start": 706,
+      "timestamp": "11:46",
+      "text": "Have done it in college. Well I recommend"
+    },
+    {
+      "start": 709,
+      "timestamp": "11:49",
+      "text": "I don't do that if you're starting out."
+    },
+    {
+      "start": 710,
+      "timestamp": "11:50",
+      "text": "yes. yes, let's talk about that further"
+    },
+    {
+      "start": 712,
+      "timestamp": "11:52",
+      "text": "do. So also C++ Java Python Python"
+    },
+    {
+      "start": 714,
+      "timestamp": "11:54",
+      "text": "Have a lot of knowledge. Python uh a little"
+    },
+    {
+      "start": 717,
+      "timestamp": "11:57",
+      "text": "It is short in writing and that is why people"
+    },
+    {
+      "start": 719,
+      "timestamp": "11:59",
+      "text": "Those who like Python and those who like AIL"
+    },
+    {
+      "start": 721,
+      "timestamp": "12:01",
+      "text": "etc., want to do data science"
+    },
+    {
+      "start": 722,
+      "timestamp": "12:02",
+      "text": "If Python is fine for them too, then it's fine."
+    },
+    {
+      "start": 724,
+      "timestamp": "12:04",
+      "text": "Is. C++ Java and Python both of these"
+    },
+    {
+      "start": 727,
+      "timestamp": "12:07",
+      "text": "Are similar. Python becomes different a bit."
+    },
+    {
+      "start": 729,
+      "timestamp": "12:09",
+      "text": "Many things are different in Python, these two"
+    },
+    {
+      "start": 731,
+      "timestamp": "12:11",
+      "text": "From. Now what is my recommendation? If"
+    },
+    {
+      "start": 734,
+      "timestamp": "12:14",
+      "text": "If you don't know either of these then I"
+    },
+    {
+      "start": 736,
+      "timestamp": "12:16",
+      "text": "I will tell you to start with C++. Why"
+    },
+    {
+      "start": 739,
+      "timestamp": "12:19",
+      "text": "Start? This is one advantage for you"
+    },
+    {
+      "start": 741,
+      "timestamp": "12:21",
+      "text": "Because C++ is a very versatile language"
+    },
+    {
+      "start": 743,
+      "timestamp": "12:23",
+      "text": "Is. If you if you tell someone that"
+    },
+    {
+      "start": 745,
+      "timestamp": "12:25",
+      "text": "This shows whether I know C or C++."
+    },
+    {
+      "start": 747,
+      "timestamp": "12:27",
+      "text": "that you can learn anything because you"
+    },
+    {
+      "start": 749,
+      "timestamp": "12:29",
+      "text": "No, these languages ​​have been around for a long time. so if"
+    },
+    {
+      "start": 752,
+      "timestamp": "12:32",
+      "text": "You don't know anything if you are blank"
+    },
+    {
+      "start": 753,
+      "timestamp": "12:33",
+      "text": "Start with C++ of course. if you"
+    },
+    {
+      "start": 756,
+      "timestamp": "12:36",
+      "text": "If you know one of the three languages, you"
+    },
+    {
+      "start": 757,
+      "timestamp": "12:37",
+      "text": "Stick to your language. I am the basics"
+    },
+    {
+      "start": 759,
+      "timestamp": "12:39",
+      "text": "I will definitely teach in all three. This is what I promise"
+    },
+    {
+      "start": 761,
+      "timestamp": "12:41",
+      "text": "I am doing it. Further patterns. the front ones"
+    },
+    {
+      "start": 764,
+      "timestamp": "12:44",
+      "text": "Watch when we shift patterns"
+    },
+    {
+      "start": 767,
+      "timestamp": "12:47",
+      "text": "To teach the main thing in patterns, this"
+    },
+    {
+      "start": 768,
+      "timestamp": "12:48",
+      "text": "Let me explain the logic to you, let me explain it to you"
+    },
+    {
+      "start": 770,
+      "timestamp": "12:50",
+      "text": "Should I teach you how to think? this is not me"
+    },
+    {
+      "start": 772,
+      "timestamp": "12:52",
+      "text": "Took a computer language class"
+    },
+    {
+      "start": 774,
+      "timestamp": "12:54",
+      "text": "I am not. So whatever things in patterns I"
+    },
+    {
+      "start": 776,
+      "timestamp": "12:56",
+      "text": "I will explain it to the General. how to write"
+    },
+    {
+      "start": 778,
+      "timestamp": "12:58",
+      "text": "Is? For example, if there is a graph, if"
+    },
+    {
+      "start": 781,
+      "timestamp": "13:01",
+      "text": "If there is a tree then how to write it? that i"
+    },
+    {
+      "start": 783,
+      "timestamp": "13:03",
+      "text": "I will explain in C++ only. preferably in java"
+    },
+    {
+      "start": 785,
+      "timestamp": "13:05",
+      "text": "I will explain. If possible, I would like to learn Python."
+    },
+    {
+      "start": 787,
+      "timestamp": "13:07",
+      "text": "Can I explain? I don't know this. this me"
+    },
+    {
+      "start": 789,
+      "timestamp": "13:09",
+      "text": "I will think further. Similar response comes"
+    },
+    {
+      "start": 790,
+      "timestamp": "13:10",
+      "text": "As children come. so my personal to you"
+    },
+    {
+      "start": 793,
+      "timestamp": "13:13",
+      "text": "Recommended if you don't know anything"
+    },
+    {
+      "start": 795,
+      "timestamp": "13:15",
+      "text": "So you start with C++. if you know"
+    },
+    {
+      "start": 797,
+      "timestamp": "13:17",
+      "text": "Also if you are ready to switch"
+    },
+    {
+      "start": 799,
+      "timestamp": "13:19",
+      "text": "Still, you should start with C++ because"
+    },
+    {
+      "start": 800,
+      "timestamp": "13:20",
+      "text": "My strongest language is C++. So"
+    },
+    {
+      "start": 803,
+      "timestamp": "13:23",
+      "text": "If you face any problem in C++"
+    },
+    {
+      "start": 805,
+      "timestamp": "13:25",
+      "text": "not compiling even yes compile"
+    },
+    {
+      "start": 807,
+      "timestamp": "13:27",
+      "text": "Even if it doesn't work, I will help you completely."
+    },
+    {
+      "start": 809,
+      "timestamp": "13:29",
+      "text": "I can do it. so I know it very well"
+    },
+    {
+      "start": 811,
+      "timestamp": "13:31",
+      "text": "It's C++, that's why I know it well."
+    },
+    {
+      "start": 814,
+      "timestamp": "13:34",
+      "text": "Yes, she will come to you too. Now one more question"
+    },
+    {
+      "start": 817,
+      "timestamp": "13:37",
+      "text": "You may have noticed in Phase One that I"
+    },
+    {
+      "start": 819,
+      "timestamp": "13:39",
+      "text": "Trees are not graphs"
+    },
+    {
+      "start": 822,
+      "timestamp": "13:42",
+      "text": "Either DP Dynamic Programming or"
+    },
+    {
+      "start": 825,
+      "timestamp": "13:45",
+      "text": "Didn't include this yes sorry in fuzz one"
+    },
+    {
+      "start": 828,
+      "timestamp": "13:48",
+      "text": "One thing is left, yes, when we come here"
+    },
+    {
+      "start": 831,
+      "timestamp": "13:51",
+      "text": "Link List Yes Work without Link List"
+    },
+    {
+      "start": 833,
+      "timestamp": "13:53",
+      "text": "You can't learn the link list friend."
+    },
+    {
+      "start": 835,
+      "timestamp": "13:55",
+      "text": "This is a very scary thing for people."
+    },
+    {
+      "start": 837,
+      "timestamp": "13:57",
+      "text": "Looks good but without link list no work"
+    },
+    {
+      "start": 839,
+      "timestamp": "13:59",
+      "text": "maybe not ok then a link list"
+    },
+    {
+      "start": 841,
+      "timestamp": "14:01",
+      "text": "It has been added, now you will see that there"
+    },
+    {
+      "start": 843,
+      "timestamp": "14:03",
+      "text": "tree graph dp stack"
+    },
+    {
+      "start": 845,
+      "timestamp": "14:05",
+      "text": "This is not all. This is not why"
+    },
+    {
+      "start": 847,
+      "timestamp": "14:07",
+      "text": "Because I want to avoid topic wise DSA."
+    },
+    {
+      "start": 849,
+      "timestamp": "14:09",
+      "text": "I am wanting. If I keep everyone in this again"
+    },
+    {
+      "start": 850,
+      "timestamp": "14:10",
+      "text": "If I include it then it will be a basic course only."
+    },
+    {
+      "start": 852,
+      "timestamp": "14:12",
+      "text": "Topic wise course will be made. these two-ti"
+    },
+    {
+      "start": 854,
+      "timestamp": "14:14",
+      "text": "The month will drag on as much as I don't want."
+    },
+    {
+      "start": 855,
+      "timestamp": "14:15",
+      "text": "Am. So now all this very advanced data"
+    },
+    {
+      "start": 858,
+      "timestamp": "14:18",
+      "text": "There are structures. Ok? a C++ or"
+    },
+    {
+      "start": 861,
+      "timestamp": "14:21",
+      "text": "A data structure named Stuck in Java"
+    },
+    {
+      "start": 864,
+      "timestamp": "14:24",
+      "text": "It happens. but uses stacks internally"
+    },
+    {
+      "start": 866,
+      "timestamp": "14:26",
+      "text": "Is array or linked list. Ok? internally"
+    },
+    {
+      "start": 868,
+      "timestamp": "14:28",
+      "text": "In any language you can find trees or"
+    },
+    {
+      "start": 870,
+      "timestamp": "14:30",
+      "text": "Graphs or Stacks Different Data"
+    },
+    {
+      "start": 872,
+      "timestamp": "14:32",
+      "text": "Structure will not be found. This in the hood meaning"
+    },
+    {
+      "start": 875,
+      "timestamp": "14:35",
+      "text": "In the hood meaning written in array below"
+    },
+    {
+      "start": 877,
+      "timestamp": "14:37",
+      "text": "are either written in the link list"
+    },
+    {
+      "start": 879,
+      "timestamp": "14:39",
+      "text": "Are. These are packaged and made into"
+    },
+    {
+      "start": 881,
+      "timestamp": "14:41",
+      "text": "Brother, you are stuck, use it. you insert"
+    },
+    {
+      "start": 883,
+      "timestamp": "14:43",
+      "text": "Do it, pop it. What you have to do inside"
+    },
+    {
+      "start": 885,
+      "timestamp": "14:45",
+      "text": "The hood array is running. so all this"
+    },
+    {
+      "start": 887,
+      "timestamp": "14:47",
+      "text": "As their patterns emerge, their"
+    },
+    {
+      "start": 888,
+      "timestamp": "14:48",
+      "text": "Related patterns will come, I will tell you a little"
+    },
+    {
+      "start": 890,
+      "timestamp": "14:50",
+      "text": "I will teach you something. Right now I don't think so"
+    },
+    {
+      "start": 892,
+      "timestamp": "14:52",
+      "text": "This requires brainwashing. Now!"
+    },
+    {
+      "start": 893,
+      "timestamp": "14:53",
+      "text": "Whatever is there is sufficient. Ok? so that's it"
+    },
+    {
+      "start": 897,
+      "timestamp": "14:57",
+      "text": "This was it. This was a small introduction"
+    },
+    {
+      "start": 898,
+      "timestamp": "14:58",
+      "text": "Video. so yes, what do I need from you"
+    },
+    {
+      "start": 900,
+      "timestamp": "15:00",
+      "text": "Will it happen in this session? the first thing i"
+    },
+    {
+      "start": 902,
+      "timestamp": "15:02",
+      "text": "Consistency will be required from you. This I"
+    },
+    {
+      "start": 904,
+      "timestamp": "15:04",
+      "text": "Absolutely don't like that people mean day one"
+    },
+    {
+      "start": 907,
+      "timestamp": "15:07",
+      "text": "If 10,000 people watch day one, then"
+    },
+    {
+      "start": 909,
+      "timestamp": "15:09",
+      "text": "5,000 people watch Day Two. then like this"
+    },
+    {
+      "start": 911,
+      "timestamp": "15:11",
+      "text": "By doing so, five people are saved on day 30."
+    },
+    {
+      "start": 914,
+      "timestamp": "15:14",
+      "text": "I don't like him at all. it will happen like this"
+    },
+    {
+      "start": 916,
+      "timestamp": "15:16",
+      "text": "So neither will you enjoy teaching me nor will you."
+    },
+    {
+      "start": 918,
+      "timestamp": "15:18",
+      "text": "You are going to get some benefit. so if you"
+    },
+    {
+      "start": 920,
+      "timestamp": "15:20",
+      "text": "They think that way."
+    },
+    {
+      "start": 922,
+      "timestamp": "15:22",
+      "text": "If you think I'm a little"
+    },
+    {
+      "start": 923,
+      "timestamp": "15:23",
+      "text": "If I stop studying then I love you"
+    },
+    {
+      "start": 926,
+      "timestamp": "15:26",
+      "text": "I wish you didn't even start. Time"
+    },
+    {
+      "start": 928,
+      "timestamp": "15:28",
+      "text": "Don't waste neither yours nor mine. you unsk"
+    },
+    {
+      "start": 931,
+      "timestamp": "15:31",
+      "text": "Subscribe, go away. if you join"
+    },
+    {
+      "start": 933,
+      "timestamp": "15:33",
+      "text": "So make sure you are consistent"
+    },
+    {
+      "start": 935,
+      "timestamp": "15:35",
+      "text": "Stay. You and I will be consistent. This, I"
+    },
+    {
+      "start": 937,
+      "timestamp": "15:37",
+      "text": "I will tell you with a promise. And if you are a"
+    },
+    {
+      "start": 940,
+      "timestamp": "15:40",
+      "text": "If you take one step, I will take nine steps and meet you."
+    },
+    {
+      "start": 943,
+      "timestamp": "15:43",
+      "text": "Will do. But you have to take a step."
+    },
+    {
+      "start": 945,
+      "timestamp": "15:45",
+      "text": "I will come to your house and sit you in my lap."
+    },
+    {
+      "start": 947,
+      "timestamp": "15:47",
+      "text": "I won't teach you because I want your tuition"
+    },
+    {
+      "start": 948,
+      "timestamp": "15:48",
+      "text": "I am not a teacher. If I was nine for you"
+    },
+    {
+      "start": 950,
+      "timestamp": "15:50",
+      "text": "If I am taking steps then you are one for me"
+    },
+    {
+      "start": 952,
+      "timestamp": "15:52",
+      "text": "Take one more step and we will meet. Correct"
+    },
+    {
+      "start": 954,
+      "timestamp": "15:54",
+      "text": "Is? So there is one thing I want from you."
+    },
+    {
+      "start": 956,
+      "timestamp": "15:56",
+      "text": "Be consistent. If anyone thinks that"
+    },
+    {
+      "start": 959,
+      "timestamp": "15:59",
+      "text": "I don't understand please comment"
+    },
+    {
+      "start": 960,
+      "timestamp": "16:00",
+      "text": "I want to say that brother, you taught this lecture."
+    },
+    {
+      "start": 962,
+      "timestamp": "16:02",
+      "text": "Absolutely useless. Ok? someone in it"
+    },
+    {
+      "start": 964,
+      "timestamp": "16:04",
+      "text": "There is no question of hesitation. You"
+    },
+    {
+      "start": 966,
+      "timestamp": "16:06",
+      "text": "Comment that it was a very useless lecture. Some?"
+    },
+    {
+      "start": 968,
+      "timestamp": "16:08",
+      "text": "Did not get it. Teach again. myself"
+    },
+    {
+      "start": 969,
+      "timestamp": "16:09",
+      "text": "Will teach again. next 10 videos"
+    },
+    {
+      "start": 971,
+      "timestamp": "16:11",
+      "text": "Will put. There is no cost for uploading videos."
+    },
+    {
+      "start": 973,
+      "timestamp": "16:13",
+      "text": "Ok? I don't get edited. this raw"
+    },
+    {
+      "start": 975,
+      "timestamp": "16:15",
+      "text": "There is video. So I put this. in that"
+    },
+    {
+      "start": 977,
+      "timestamp": "16:17",
+      "text": "It doesn't cost me any money. my 30 minutes"
+    },
+    {
+      "start": 979,
+      "timestamp": "16:19",
+      "text": "Time goes by. I have plenty of time."
+    },
+    {
+      "start": 981,
+      "timestamp": "16:21",
+      "text": "You will definitely comment that I understand."
+    },
+    {
+      "start": 983,
+      "timestamp": "16:23",
+      "text": "Not coming. Teach again. Again"
+    },
+    {
+      "start": 984,
+      "timestamp": "16:24",
+      "text": "I will teach. But you have to be consistent."
+    },
+    {
+      "start": 986,
+      "timestamp": "16:26",
+      "text": "If you don't watch the middle five days"
+    },
+    {
+      "start": 988,
+      "timestamp": "16:28",
+      "text": "Obviously you have some difficulty on the sixth day"
+    },
+    {
+      "start": 990,
+      "timestamp": "16:30",
+      "text": "Will happen."
+    },
+    {
+      "start": 992,
+      "timestamp": "16:32",
+      "text": "So the second thing is that these will be recorded."
+    },
+    {
+      "start": 993,
+      "timestamp": "16:33",
+      "text": "I asked on the story whether you want live or"
+    },
+    {
+      "start": 996,
+      "timestamp": "16:36",
+      "text": "Recorded but a lot of people in live"
+    },
+    {
+      "start": 998,
+      "timestamp": "16:38",
+      "text": "May I remain available? May I remain available."
+    },
+    {
+      "start": 1000,
+      "timestamp": "16:40",
+      "text": "I will stay. So that's why it will be recorded. I"
+    },
+    {
+      "start": 1002,
+      "timestamp": "16:42",
+      "text": "I will try to post videos everyday."
+    },
+    {
+      "start": 1005,
+      "timestamp": "16:45",
+      "text": "What will be the length of Everyday Video? one hour"
+    },
+    {
+      "start": 1008,
+      "timestamp": "16:48",
+      "text": "One Hour One Topic Few Questions around"
+    },
+    {
+      "start": 1012,
+      "timestamp": "16:52",
+      "text": "By a little. When will the everyday video come? Me"
+    },
+    {
+      "start": 1015,
+      "timestamp": "16:55",
+      "text": "Looks like between 8 to 9:00 pm"
+    },
+    {
+      "start": 1017,
+      "timestamp": "16:57",
+      "text": "There is no hard coded time. but i"
+    },
+    {
+      "start": 1019,
+      "timestamp": "16:59",
+      "text": "I will try between 8:00 and 9:00"
+    },
+    {
+      "start": 1021,
+      "timestamp": "17:01",
+      "text": "The video should come. What will happen in the video?"
+    },
+    {
+      "start": 1023,
+      "timestamp": "17:03",
+      "text": "There will be discussion in three languages ​​in the video."
+    },
+    {
+      "start": 1025,
+      "timestamp": "17:05",
+      "text": "First I will explain to you the topic of today."
+    },
+    {
+      "start": 1027,
+      "timestamp": "17:07",
+      "text": "What is the topic? Once you understand the topic."
+    },
+    {
+      "start": 1030,
+      "timestamp": "17:10",
+      "text": "After that C++ Java, Python"
+    },
+    {
+      "start": 1035,
+      "timestamp": "17:15",
+      "text": "Because this is basic class. so you me"
+    },
+    {
+      "start": 1037,
+      "timestamp": "17:17",
+      "text": "I would recommend you one"
+    },
+    {
+      "start": 1038,
+      "timestamp": "17:18",
+      "text": "Select language. only his part"
+    },
+    {
+      "start": 1040,
+      "timestamp": "17:20",
+      "text": "See. Don't waste time. so for"
+    },
+    {
+      "start": 1041,
+      "timestamp": "17:21",
+      "text": "If the example video is of 1 hour then"
+    },
+    {
+      "start": 1044,
+      "timestamp": "17:24",
+      "text": "Some part of it will be of C++, some part of"
+    },
+    {
+      "start": 1047,
+      "timestamp": "17:27",
+      "text": "Must be from Java. Isn't it? so in the video"
+    },
+    {
+      "start": 1050,
+      "timestamp": "17:30",
+      "text": "Playable cards come. Isn't it? when you"
+    },
+    {
+      "start": 1052,
+      "timestamp": "17:32",
+      "text": "If you do this on video, a player will come."
+    },
+    {
+      "start": 1054,
+      "timestamp": "17:34",
+      "text": "Isn't it where time is written? So"
+    },
+    {
+      "start": 1055,
+      "timestamp": "17:35",
+      "text": "There you will see a section which"
+    },
+    {
+      "start": 1057,
+      "timestamp": "17:37",
+      "text": "Will be of C++. The next section will appear which"
+    },
+    {
+      "start": 1059,
+      "timestamp": "17:39",
+      "text": "Must be from Java. so you go to your section"
+    },
+    {
+      "start": 1062,
+      "timestamp": "17:42",
+      "text": "Take a look. Topic is important for everyone to see"
+    },
+    {
+      "start": 1064,
+      "timestamp": "17:44",
+      "text": "Is. Don't miss the topic, then you will understand further."
+    },
+    {
+      "start": 1065,
+      "timestamp": "17:45",
+      "text": "I will not come. Ok?"
+    },
+    {
+      "start": 1067,
+      "timestamp": "17:47",
+      "text": "And one more thing I need from you is that you"
+    },
+    {
+      "start": 1070,
+      "timestamp": "17:50",
+      "text": "This is not just to see. first of all"
+    },
+    {
+      "start": 1072,
+      "timestamp": "17:52",
+      "text": "You should have a copy. yes, i"
+    },
+    {
+      "start": 1074,
+      "timestamp": "17:54",
+      "text": "I know now everything is online. Little"
+    },
+    {
+      "start": 1075,
+      "timestamp": "17:55",
+      "text": "Old Fashioned But Brother DSA Learn Maths"
+    },
+    {
+      "start": 1079,
+      "timestamp": "17:59",
+      "text": "Learn. Anything that takes hard work."
+    },
+    {
+      "start": 1081,
+      "timestamp": "18:01",
+      "text": "Any skill has to be learned. you copy pen"
+    },
+    {
+      "start": 1083,
+      "timestamp": "18:03",
+      "text": "Will have to sit down. Ok? one of yours"
+    },
+    {
+      "start": 1085,
+      "timestamp": "18:05",
+      "text": "Must have a copy. you have a pen"
+    },
+    {
+      "start": 1087,
+      "timestamp": "18:07",
+      "text": "Should be. any if you have yes sorry"
+    },
+    {
+      "start": 1090,
+      "timestamp": "18:10",
+      "text": "You must also have a laptop. How much"
+    },
+    {
+      "start": 1092,
+      "timestamp": "18:12",
+      "text": "It doesn't matter if the laptop is dirty"
+    },
+    {
+      "start": 1094,
+      "timestamp": "18:14",
+      "text": "Is. Ok? Must have a laptop with"
+    },
+    {
+      "start": 1097,
+      "timestamp": "18:17",
+      "text": "GFG should open. visiting gfg"
+    },
+    {
+      "start": 1099,
+      "timestamp": "18:19",
+      "text": "Create an account. Create an account on lead code."
+    },
+    {
+      "start": 1102,
+      "timestamp": "18:22",
+      "text": "And where will you run the code? the code i"
+    },
+    {
+      "start": 1104,
+      "timestamp": "18:24",
+      "text": "I will tell you how to run that code. copy it now"
+    },
+    {
+      "start": 1106,
+      "timestamp": "18:26",
+      "text": "Don't stop writing. to run you code"
+    },
+    {
+      "start": 1108,
+      "timestamp": "18:28",
+      "text": "If you have VS Code then it's great."
+    },
+    {
+      "start": 1111,
+      "timestamp": "18:31",
+      "text": "The thing is. Otherwise you can use any online compiler"
+    },
+    {
+      "start": 1113,
+      "timestamp": "18:33",
+      "text": "Can take. Ok? So I too when you"
+    },
+    {
+      "start": 1114,
+      "timestamp": "18:34",
+      "text": "Will teach you code. When I code too,"
+    },
+    {
+      "start": 1116,
+      "timestamp": "18:36",
+      "text": "I will also do it in the online compiler. Correct"
+    },
+    {
+      "start": 1118,
+      "timestamp": "18:38",
+      "text": "Is? I don't use any fancy software like that"
+    },
+    {
+      "start": 1120,
+      "timestamp": "18:40",
+      "text": "I want to make you think that this is a tree"
+    },
+    {
+      "start": 1123,
+      "timestamp": "18:43",
+      "text": "Using software. That's why it's fast."
+    },
+    {
+      "start": 1124,
+      "timestamp": "18:44",
+      "text": "Isn't it? So you will need all these things."
+    },
+    {
+      "start": 1127,
+      "timestamp": "18:47",
+      "text": "I will try, next video should come soon"
+    },
+    {
+      "start": 1129,
+      "timestamp": "18:49",
+      "text": "Either she will come tomorrow. to meanwell channel"
+    },
+    {
+      "start": 1132,
+      "timestamp": "18:52",
+      "text": "Please subscribe. if you make it this far"
+    },
+    {
+      "start": 1133,
+      "timestamp": "18:53",
+      "text": "If there are, then those who are not yet here"
+    },
+    {
+      "start": 1134,
+      "timestamp": "18:54",
+      "text": "If yes, then their attention span is very short. These"
+    },
+    {
+      "start": 1137,
+      "timestamp": "18:57",
+      "text": "Want everything and hope that 10 days"
+    },
+    {
+      "start": 1139,
+      "timestamp": "18:59",
+      "text": "Your phase one should be completed within. New"
+    },
+    {
+      "start": 1142,
+      "timestamp": "19:02",
+      "text": "You will find many patterns inside the ear."
+    },
+    {
+      "start": 1144,
+      "timestamp": "19:04",
+      "text": "Have deep knowledge."
+    },
+    {
+      "start": 1146,
+      "timestamp": "19:06",
+      "text": "This was today's video, if you like it then like it."
+    },
+    {
+      "start": 1148,
+      "timestamp": "19:08",
+      "text": "Please do a comment for your brother."
+    },
+    {
+      "start": 1149,
+      "timestamp": "19:09",
+      "text": "And keep subscribing. Thank you."
+    }
+  ]
+}

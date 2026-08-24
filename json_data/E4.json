@@ -1,0 +1,3839 @@
+{
+  "video_id": "PvyEr3CeKzE",
+  "title": "2 Pointers Technique",
+  "language": "en",
+  "model": "unknown",
+  "duration": 1805,
+  "segments": [
+    {
+      "start": 0,
+      "timestamp": "00:00",
+      "text": "Today is day two. Welcome everyone. to start"
+    },
+    {
+      "start": 3,
+      "timestamp": "00:03",
+      "text": "Before starting, I want to tell you an important thing, see"
+    },
+    {
+      "start": 5,
+      "timestamp": "00:05",
+      "text": "We believe that in today's era you people"
+    },
+    {
+      "start": 7,
+      "timestamp": "00:07",
+      "text": "If you are going to watch a three-second reel, then 40"
+    },
+    {
+      "start": 9,
+      "timestamp": "00:09",
+      "text": "The minute video seems too long. In this"
+    },
+    {
+      "start": 10,
+      "timestamp": "00:10",
+      "text": "You all must be crazy"
+    },
+    {
+      "start": 13,
+      "timestamp": "00:13",
+      "text": "How will we sit for 40 minutes? but not complete"
+    },
+    {
+      "start": 15,
+      "timestamp": "00:15",
+      "text": "Watch the video. If you are watching a video"
+    },
+    {
+      "start": 17,
+      "timestamp": "00:17",
+      "text": "So watch it completely. Now there is a reason for this. Its"
+    },
+    {
+      "start": 19,
+      "timestamp": "00:19",
+      "text": "The reason is not to increase my watch time"
+    },
+    {
+      "start": 21,
+      "timestamp": "00:21",
+      "text": "Is. You have to monetize my channel."
+    },
+    {
+      "start": 23,
+      "timestamp": "00:23",
+      "text": "I have to manage my household expenses. not like that"
+    },
+    {
+      "start": 24,
+      "timestamp": "00:24",
+      "text": "Not there. But when we teach you for 40 minutes"
+    },
+    {
+      "start": 27,
+      "timestamp": "00:27",
+      "text": "If you like the two pointer pattern"
+    },
+    {
+      "start": 30,
+      "timestamp": "00:30",
+      "text": "Are teaching. teaching him a question or two"
+    },
+    {
+      "start": 32,
+      "timestamp": "00:32",
+      "text": "If yes then everything is connected. It is not that we"
+    },
+    {
+      "start": 34,
+      "timestamp": "00:34",
+      "text": "We are teaching you history about Akbar."
+    },
+    {
+      "start": 36,
+      "timestamp": "00:36",
+      "text": "Tell me about your life, then tell about Humayun, then"
+    },
+    {
+      "start": 37,
+      "timestamp": "00:37",
+      "text": "Tell about Jahangir. so you think"
+    },
+    {
+      "start": 39,
+      "timestamp": "00:39",
+      "text": "Akbar is done, the rest is up to us."
+    },
+    {
+      "start": 41,
+      "timestamp": "00:41",
+      "text": "If we know in advance then we leave it."
+    },
+    {
+      "start": 42,
+      "timestamp": "00:42",
+      "text": "It's not like that. small talk"
+    },
+    {
+      "start": 45,
+      "timestamp": "00:45",
+      "text": "Listen to the full video because"
+    },
+    {
+      "start": 48,
+      "timestamp": "00:48",
+      "text": "The quality of your coding will increase. Yours"
+    },
+    {
+      "start": 49,
+      "timestamp": "00:49",
+      "text": "The quality of thinking will increase. When we first"
+    },
+    {
+      "start": 52,
+      "timestamp": "00:52",
+      "text": "We used to see that we are not born. Look, we are not born."
+    },
+    {
+      "start": 55,
+      "timestamp": "00:55",
+      "text": "It was my intention to become an expert in DSA."
+    },
+    {
+      "start": 56,
+      "timestamp": "00:56",
+      "text": "Were not born. so we first"
+    },
+    {
+      "start": 58,
+      "timestamp": "00:58",
+      "text": "Used to watch Striver's video. love babbar"
+    },
+    {
+      "start": 60,
+      "timestamp": "01:00",
+      "text": "Used to watch video of. a sumit malik sir"
+    },
+    {
+      "start": 62,
+      "timestamp": "01:02",
+      "text": "Used to be. Let's run Pep Coding. their"
+    },
+    {
+      "start": 64,
+      "timestamp": "01:04",
+      "text": "Used to watch videos. So these people's video also"
+    },
+    {
+      "start": 66,
+      "timestamp": "01:06",
+      "text": "Lived very big. 40 minutes, 1"
+    },
+    {
+      "start": 67,
+      "timestamp": "01:07",
+      "text": "Of an hour, of 1.5 hours. so we also thought"
+    },
+    {
+      "start": 70,
+      "timestamp": "01:10",
+      "text": "what to see. I understand only 10"
+    },
+    {
+      "start": 72,
+      "timestamp": "01:12",
+      "text": "Would arrive within minutes. which in 10 minutes"
+    },
+    {
+      "start": 73,
+      "timestamp": "01:13",
+      "text": "He would explain, we would understand, we would code."
+    },
+    {
+      "start": 75,
+      "timestamp": "01:15",
+      "text": "Were. So earlier we also used to leave it."
+    },
+    {
+      "start": 77,
+      "timestamp": "01:17",
+      "text": "But then we see that Striver"
+    },
+    {
+      "start": 79,
+      "timestamp": "01:19",
+      "text": "You will watch the full video also. in between"
+    },
+    {
+      "start": 81,
+      "timestamp": "01:21",
+      "text": "I will tell you little by little, like this"
+    },
+    {
+      "start": 83,
+      "timestamp": "01:23",
+      "text": "He will tell good things, so well"
+    },
+    {
+      "start": 85,
+      "timestamp": "01:25",
+      "text": "Will you write the code and you will think oh my god"
+    },
+    {
+      "start": 87,
+      "timestamp": "01:27",
+      "text": "So it was a very good thing. We will never do this"
+    },
+    {
+      "start": 88,
+      "timestamp": "01:28",
+      "text": "Could think. That is why it is important to see all this and"
+    },
+    {
+      "start": 91,
+      "timestamp": "01:31",
+      "text": "Because we have watched so many videos"
+    },
+    {
+      "start": 93,
+      "timestamp": "01:33",
+      "text": "Neither is the good thing about those people, nor about us."
+    },
+    {
+      "start": 95,
+      "timestamp": "01:35",
+      "text": "Let us tell. tell me something original too"
+    },
+    {
+      "start": 97,
+      "timestamp": "01:37",
+      "text": "Are. So if you watch the whole video then"
+    },
+    {
+      "start": 99,
+      "timestamp": "01:39",
+      "text": "You will have an understanding. That's why"
+    },
+    {
+      "start": 101,
+      "timestamp": "01:41",
+      "text": "It is important that you watch the entire video. remaining 2"
+    },
+    {
+      "start": 103,
+      "timestamp": "01:43",
+      "text": "To see 4 minutes of Instagram,"
+    },
+    {
+      "start": 105,
+      "timestamp": "01:45",
+      "text": "Let's watch the reels, brother. Instagram's"
+    },
+    {
+      "start": 107,
+      "timestamp": "01:47",
+      "text": "Watch the reels a lot. Scroll in 3-seconds"
+    },
+    {
+      "start": 109,
+      "timestamp": "01:49",
+      "text": "Do it. But take out 40 minutes of the day"
+    },
+    {
+      "start": 112,
+      "timestamp": "01:52",
+      "text": "Watch this video for a minute. watch time"
+    },
+    {
+      "start": 114,
+      "timestamp": "01:54",
+      "text": "Not to increase your thinking power"
+    },
+    {
+      "start": 116,
+      "timestamp": "01:56",
+      "text": "To increase. Ok? Ok? So"
+    },
+    {
+      "start": 117,
+      "timestamp": "01:57",
+      "text": "Motivation is done. So today is day two. Today"
+    },
+    {
+      "start": 119,
+      "timestamp": "01:59",
+      "text": "The questions we are going to ask are"
+    },
+    {
+      "start": 121,
+      "timestamp": "02:01",
+      "text": "is removed"
+    },
+    {
+      "start": 123,
+      "timestamp": "02:03",
+      "text": "Duplicate. must have appeared on your screen"
+    },
+    {
+      "start": 125,
+      "timestamp": "02:05",
+      "text": "Question. That question has to be asked. array one"
+    },
+    {
+      "start": 126,
+      "timestamp": "02:06",
+      "text": "Have to question. also with link list"
+    },
+    {
+      "start": 128,
+      "timestamp": "02:08",
+      "text": "Don't have to do it. We will teach the link list now."
+    },
+    {
+      "start": 130,
+      "timestamp": "02:10",
+      "text": "First the array is disposed in this pattern."
+    },
+    {
+      "start": 132,
+      "timestamp": "02:12",
+      "text": "So what is the question? remove duplicates"
+    },
+    {
+      "start": 134,
+      "timestamp": "02:14",
+      "text": "From Sorted Array. now day one flow"
+    },
+    {
+      "start": 138,
+      "timestamp": "02:18",
+      "text": "Do you remember the chart or not, brother? remember that"
+    },
+    {
+      "start": 139,
+      "timestamp": "02:19",
+      "text": "No? If you don't remember then flow chart of day one"
+    },
+    {
+      "start": 141,
+      "timestamp": "02:21",
+      "text": "Go and see. note it down in your copy"
+    },
+    {
+      "start": 143,
+      "timestamp": "02:23",
+      "text": "Read it two-three times. Now look at this question"
+    },
+    {
+      "start": 145,
+      "timestamp": "02:25",
+      "text": "What are you seeing in me? the first one"
+    },
+    {
+      "start": 147,
+      "timestamp": "02:27",
+      "text": "Remember the point Remove Duplicate Flow Chart"
+    },
+    {
+      "start": 150,
+      "timestamp": "02:30",
+      "text": "From sorted array first sign of array"
+    },
+    {
+      "start": 153,
+      "timestamp": "02:33",
+      "text": "Is there a question or not, brother? array question"
+    },
+    {
+      "start": 155,
+      "timestamp": "02:35",
+      "text": "Is it or not? Yes sir. Hey what question?"
+    },
+    {
+      "start": 158,
+      "timestamp": "02:38",
+      "text": "Sorted is written in? either sorted"
+    },
+    {
+      "start": 160,
+      "timestamp": "02:40",
+      "text": "Doing this will help. Yes, it is written."
+    },
+    {
+      "start": 162,
+      "timestamp": "02:42",
+      "text": "Is sorted. What's the problem? also sorted"
+    },
+    {
+      "start": 164,
+      "timestamp": "02:44",
+      "text": "It is written. What else is written? remove"
+    },
+    {
+      "start": 166,
+      "timestamp": "02:46",
+      "text": "Duplicate. Remove Duplicates. flow chart"
+    },
+    {
+      "start": 168,
+      "timestamp": "02:48",
+      "text": "Exact match was taking place in the third step of"
+    },
+    {
+      "start": 171,
+      "timestamp": "02:51",
+      "text": "Brother. Remove Duplicates. Rearrange Array,"
+    },
+    {
+      "start": 173,
+      "timestamp": "02:53",
+      "text": "Remove Duplicates, Merge All See You"
+    },
+    {
+      "start": 176,
+      "timestamp": "02:56",
+      "text": "Everything is told to you in the question."
+    },
+    {
+      "start": 178,
+      "timestamp": "02:58",
+      "text": "Question means your help"
+    },
+    {
+      "start": 180,
+      "timestamp": "03:00",
+      "text": "To do it you just have to understand. you just"
+    },
+    {
+      "start": 181,
+      "timestamp": "03:01",
+      "text": "Must know how to make connections. get all three things"
+    },
+    {
+      "start": 184,
+      "timestamp": "03:04",
+      "text": "Has gone. You got no 80 in this question"
+    },
+    {
+      "start": 187,
+      "timestamp": "03:07",
+      "text": "There is a 90% chance that a two pointer will be taken. First"
+    },
+    {
+      "start": 190,
+      "timestamp": "03:10",
+      "text": "You have to start thinking from this. like this we"
+    },
+    {
+      "start": 192,
+      "timestamp": "03:12",
+      "text": "People understand that about the two pointer"
+    },
+    {
+      "start": 193,
+      "timestamp": "03:13",
+      "text": "Can be thought. Now what is this question? Is"
+    },
+    {
+      "start": 196,
+      "timestamp": "03:16",
+      "text": "We will tell you this in a little while."
+    },
+    {
+      "start": 198,
+      "timestamp": "03:18",
+      "text": "The question is that you are given an array."
+    },
+    {
+      "start": 201,
+      "timestamp": "03:21",
+      "text": "The array is sorted and the first thing in the array is"
+    },
+    {
+      "start": 203,
+      "timestamp": "03:23",
+      "text": "There may be a duplicate element."
+    },
+    {
+      "start": 205,
+      "timestamp": "03:25",
+      "text": "Duplicate means repeated element. yes"
+    },
+    {
+      "start": 207,
+      "timestamp": "03:27",
+      "text": "Your array may be like this. be one three times,"
+    },
+    {
+      "start": 210,
+      "timestamp": "03:30",
+      "text": "Twice there are two and twice there are three. It is possible"
+    },
+    {
+      "start": 213,
+      "timestamp": "03:33",
+      "text": "Is. Now see this array is sorted. Yes sir"
+    },
+    {
+      "start": 217,
+      "timestamp": "03:37",
+      "text": "Is sorted. There are duplicates in the array."
+    },
+    {
+      "start": 218,
+      "timestamp": "03:38",
+      "text": "There is also a duplicate. what have you been told"
+    },
+    {
+      "start": 220,
+      "timestamp": "03:40",
+      "text": "Removes duplicates from that array. But"
+    },
+    {
+      "start": 223,
+      "timestamp": "03:43",
+      "text": "But but one more thing is written"
+    },
+    {
+      "start": 225,
+      "timestamp": "03:45",
+      "text": "The question is whether to order these."
+    },
+    {
+      "start": 228,
+      "timestamp": "03:48",
+      "text": "Inorder means no space, no space. previous"
+    },
+    {
+      "start": 231,
+      "timestamp": "03:51",
+      "text": "It was mentioned in the video that it was worth one billion."
+    },
+    {
+      "start": 233,
+      "timestamp": "03:53",
+      "text": "The array uses 16 GB RAM. that's why no"
+    },
+    {
+      "start": 236,
+      "timestamp": "03:56",
+      "text": "Last step of space no space flow chart"
+    },
+    {
+      "start": 238,
+      "timestamp": "03:58",
+      "text": "Was. So you see all four things have matched."
+    },
+    {
+      "start": 240,
+      "timestamp": "04:00",
+      "text": "There is a question of array. is a sorted array."
+    },
+    {
+      "start": 242,
+      "timestamp": "04:02",
+      "text": "Have to remove duplicates. in zero space"
+    },
+    {
+      "start": 244,
+      "timestamp": "04:04",
+      "text": "Have to do. A two pointer will definitely be involved in this."
+    },
+    {
+      "start": 246,
+      "timestamp": "04:06",
+      "text": "Can't be solved by any other algorithm"
+    },
+    {
+      "start": 248,
+      "timestamp": "04:08",
+      "text": "This question sometime. Come now. now in space"
+    },
+    {
+      "start": 251,
+      "timestamp": "04:11",
+      "text": "If you want to do it, do you have to make a return?"
+    },
+    {
+      "start": 253,
+      "timestamp": "04:13",
+      "text": "What is it, it is a return to you in a way."
+    },
+    {
+      "start": 255,
+      "timestamp": "04:15",
+      "text": "Have to give a value but that is a different matter"
+    },
+    {
+      "start": 257,
+      "timestamp": "04:17",
+      "text": "What is your work? What is your main work?"
+    },
+    {
+      "start": 260,
+      "timestamp": "04:20",
+      "text": "This array has to be made like this, now look at this"
+    },
+    {
+      "start": 262,
+      "timestamp": "04:22",
+      "text": "What are duplicate and unique elements?"
+    },
+    {
+      "start": 265,
+      "timestamp": "04:25",
+      "text": "One is unique, two is unique, three is unique"
+    },
+    {
+      "start": 268,
+      "timestamp": "04:28",
+      "text": "There are only three unique elements and everything else"
+    },
+    {
+      "start": 270,
+      "timestamp": "04:30",
+      "text": "Is repeated. What you have to do is to array"
+    },
+    {
+      "start": 272,
+      "timestamp": "04:32",
+      "text": "It has to be arranged in such a way that the forest comes first."
+    },
+    {
+      "start": 274,
+      "timestamp": "04:34",
+      "text": "Then comes two, then comes three. once you"
+    },
+    {
+      "start": 278,
+      "timestamp": "04:38",
+      "text": "After writing this, you can write anything in the array."
+    },
+    {
+      "start": 280,
+      "timestamp": "04:40",
+      "text": "Do it, it doesn't matter. input output"
+    },
+    {
+      "start": 282,
+      "timestamp": "04:42",
+      "text": "This is what makes the difference. listen to that again"
+    },
+    {
+      "start": 285,
+      "timestamp": "04:45",
+      "text": "There are so many duplicate unique elements."
+    },
+    {
+      "start": 287,
+      "timestamp": "04:47",
+      "text": "There are three unique elements. you get all three"
+    },
+    {
+      "start": 289,
+      "timestamp": "04:49",
+      "text": "The unique element has to be brought from the beginning. 1 2"
+    },
+    {
+      "start": 291,
+      "timestamp": "04:51",
+      "text": "3 After that you can do anything"
+    },
+    {
+      "start": 293,
+      "timestamp": "04:53",
+      "text": "In. After that write your name on the array"
+    },
+    {
+      "start": 294,
+      "timestamp": "04:54",
+      "text": "Give it. It doesn't matter. output"
+    },
+    {
+      "start": 296,
+      "timestamp": "04:56",
+      "text": "This is what makes the difference. That's right. Understanding"
+    },
+    {
+      "start": 298,
+      "timestamp": "04:58",
+      "text": "Everyone must have come. very good thing."
+    },
+    {
+      "start": 301,
+      "timestamp": "05:01",
+      "text": "Now let us explain this with an example."
+    },
+    {
+      "start": 303,
+      "timestamp": "05:03",
+      "text": "What does this question want to say?"
+    },
+    {
+      "start": 305,
+      "timestamp": "05:05",
+      "text": "How do you have to think about the question?"
+    },
+    {
+      "start": 307,
+      "timestamp": "05:07",
+      "text": "How to put two pointer in the question? Now"
+    },
+    {
+      "start": 309,
+      "timestamp": "05:09",
+      "text": "Suppose elections are going on in Bihar. Correct"
+    },
+    {
+      "start": 311,
+      "timestamp": "05:11",
+      "text": "Is? So it's not a matter of cast but"
+    },
+    {
+      "start": 313,
+      "timestamp": "05:13",
+      "text": "Election is on, brother, so you have to understand."
+    },
+    {
+      "start": 315,
+      "timestamp": "05:15",
+      "text": "It is easy. Suppose you are the Chief Minister"
+    },
+    {
+      "start": 317,
+      "timestamp": "05:17",
+      "text": "Are. You are the Chief Minister. came home to you"
+    },
+    {
+      "start": 321,
+      "timestamp": "05:21",
+      "text": "It has happened. Isn't it? This is the house of PM Awas Yojana"
+    },
+    {
+      "start": 325,
+      "timestamp": "05:25",
+      "text": "Is. A lot. very social man"
+    },
+    {
+      "start": 327,
+      "timestamp": "05:27",
+      "text": "Is. You have a man from Dalit community. Your"
+    },
+    {
+      "start": 331,
+      "timestamp": "05:31",
+      "text": "Nearby is a man from Muslim community. near you"
+    },
+    {
+      "start": 334,
+      "timestamp": "05:34",
+      "text": "He is a man of Yadav society. and you have"
+    },
+    {
+      "start": 336,
+      "timestamp": "05:36",
+      "text": "He is also a man of Brahmin community. a lot of"
+    },
+    {
+      "start": 338,
+      "timestamp": "05:38",
+      "text": "The man lives, right? What do you have to do? Yours"
+    },
+    {
+      "start": 341,
+      "timestamp": "05:41",
+      "text": "What is the work? Now Dalit community is not like this"
+    },
+    {
+      "start": 343,
+      "timestamp": "05:43",
+      "text": "That there is only one man in Bihar. dalit society"
+    },
+    {
+      "start": 345,
+      "timestamp": "05:45",
+      "text": "Is a great man. So the respect of Dalit community"
+    },
+    {
+      "start": 347,
+      "timestamp": "05:47",
+      "text": "Take three men. Two of Muslim society"
+    },
+    {
+      "start": 349,
+      "timestamp": "05:49",
+      "text": "Is a man. There are three men from Yadav community and"
+    },
+    {
+      "start": 351,
+      "timestamp": "05:51",
+      "text": "There are two men from Brahmin community. total cast"
+    },
+    {
+      "start": 356,
+      "timestamp": "05:56",
+      "text": "How much is done? Total cast is four."
+    },
+    {
+      "start": 358,
+      "timestamp": "05:58",
+      "text": "You got only four houses from PM Awas Yojana"
+    },
+    {
+      "start": 360,
+      "timestamp": "06:00",
+      "text": "Is. You have been given only four houses. Yours"
+    },
+    {
+      "start": 364,
+      "timestamp": "06:04",
+      "text": "What is the work? That a Dalit man gets a house."
+    },
+    {
+      "start": 368,
+      "timestamp": "06:08",
+      "text": "A Muslim man should get a house. a yadav"
+    },
+    {
+      "start": 371,
+      "timestamp": "06:11",
+      "text": "A man gets a house and a Brahmin man"
+    },
+    {
+      "start": 373,
+      "timestamp": "06:13",
+      "text": "If it finds a home then there should be no duplicates. Four"
+    },
+    {
+      "start": 376,
+      "timestamp": "06:16",
+      "text": "There is a house, there are four castes, so each caste has one"
+    },
+    {
+      "start": 377,
+      "timestamp": "06:17",
+      "text": "The man has to be given a house. ignore the rest"
+    },
+    {
+      "start": 379,
+      "timestamp": "06:19",
+      "text": "Give. This is your job as a Chief Minister."
+    },
+    {
+      "start": 382,
+      "timestamp": "06:22",
+      "text": "Ok? Now what have you been told that now"
+    },
+    {
+      "start": 385,
+      "timestamp": "06:25",
+      "text": "You also have an officer. you have an officer"
+    },
+    {
+      "start": 387,
+      "timestamp": "06:27",
+      "text": "Is also. You are the Chief Minister. You"
+    },
+    {
+      "start": 389,
+      "timestamp": "06:29",
+      "text": "Is the Chief Minister. Come on we are little man"
+    },
+    {
+      "start": 391,
+      "timestamp": "06:31",
+      "text": "Is. We are officers. what have you been told"
+    },
+    {
+      "start": 394,
+      "timestamp": "06:34",
+      "text": "That everything is like this, isn't it? These people are already"
+    },
+    {
+      "start": 396,
+      "timestamp": "06:36",
+      "text": "Lives a lot at home. Ok?"
+    },
+    {
+      "start": 399,
+      "timestamp": "06:39",
+      "text": "These people have a lot of houses in Bihar. 0 1 2 3"
+    },
+    {
+      "start": 403,
+      "timestamp": "06:43",
+      "text": "4 5 6 7 8 How do these people live now? First"
+    },
+    {
+      "start": 407,
+      "timestamp": "06:47",
+      "text": "The brother-in-law remains a Dalit. Sara remains a Dalit. D"
+    },
+    {
+      "start": 410,
+      "timestamp": "06:50",
+      "text": "Three after that two men from Muslim community"
+    },
+    {
+      "start": 413,
+      "timestamp": "06:53",
+      "text": "Live. Three men belong to Yadav community"
+    },
+    {
+      "start": 415,
+      "timestamp": "06:55",
+      "text": "Are. And let's go two men from Brahmin community"
+    },
+    {
+      "start": 418,
+      "timestamp": "06:58",
+      "text": "Live. Ok? It's a good thing. you like this"
+    },
+    {
+      "start": 421,
+      "timestamp": "07:01",
+      "text": "Now you were told that sir, the first four"
+    },
+    {
+      "start": 423,
+      "timestamp": "07:03",
+      "text": "That house is the Chief Minister's house and that is the PM residence."
+    },
+    {
+      "start": 425,
+      "timestamp": "07:05",
+      "text": "Has a plan. The first four houses mean this"
+    },
+    {
+      "start": 428,
+      "timestamp": "07:08",
+      "text": "This is the house, sir, now from the beginning of this"
+    },
+    {
+      "start": 431,
+      "timestamp": "07:11",
+      "text": "Look at the first four houses, three in the first four houses."
+    },
+    {
+      "start": 432,
+      "timestamp": "07:12",
+      "text": "People from Dalit community are living there. One"
+    },
+    {
+      "start": 434,
+      "timestamp": "07:14",
+      "text": "People of Muslim community are living there. To you"
+    },
+    {
+      "start": 436,
+      "timestamp": "07:16",
+      "text": "The officer was called and said, Sir, we do not like this."
+    },
+    {
+      "start": 438,
+      "timestamp": "07:18",
+      "text": "Should do. One Dalit in the first four houses"
+    },
+    {
+      "start": 441,
+      "timestamp": "07:21",
+      "text": "Society one Muslim, one Yadav and one Brahmin"
+    },
+    {
+      "start": 444,
+      "timestamp": "07:24",
+      "text": "should be given a house. So this is the question"
+    },
+    {
+      "start": 445,
+      "timestamp": "07:25",
+      "text": "No. This is what the question is saying to you"
+    },
+    {
+      "start": 447,
+      "timestamp": "07:27",
+      "text": "That duplicate has to be removed brother. the first four"
+    },
+    {
+      "start": 449,
+      "timestamp": "07:29",
+      "text": "Unique in all the slots in the beginning"
+    },
+    {
+      "start": 452,
+      "timestamp": "07:32",
+      "text": "Keep the man. no different from the rest of the house"
+    },
+    {
+      "start": 454,
+      "timestamp": "07:34",
+      "text": "Does matter. No matter who lives in the rest of the house or"
+    },
+    {
+      "start": 457,
+      "timestamp": "07:37",
+      "text": "It doesn't matter whether someone is there or someone else comes."
+    },
+    {
+      "start": 459,
+      "timestamp": "07:39",
+      "text": "Doesn't fall. We from the first four houses"
+    },
+    {
+      "start": 461,
+      "timestamp": "07:41",
+      "text": "Does it matter? Why does it fall by four?"
+    },
+    {
+      "start": 462,
+      "timestamp": "07:42",
+      "text": "Because the number of unique elements is four. Now"
+    },
+    {
+      "start": 465,
+      "timestamp": "07:45",
+      "text": "See what we told you in the last class?"
+    },
+    {
+      "start": 468,
+      "timestamp": "07:48",
+      "text": "Before writing any algorithm, first"
+    },
+    {
+      "start": 471,
+      "timestamp": "07:51",
+      "text": "Consider it brute force. Ok? Now"
+    },
+    {
+      "start": 474,
+      "timestamp": "07:54",
+      "text": "What will be your brute force? now root"
+    },
+    {
+      "start": 475,
+      "timestamp": "07:55",
+      "text": "What will you say in the force that is the dirtiest"
+    },
+    {
+      "start": 478,
+      "timestamp": "07:58",
+      "text": "This could be the solution. will say that"
+    },
+    {
+      "start": 479,
+      "timestamp": "07:59",
+      "text": "Brother, listen, all the people of Dalit community are standing here."
+    },
+    {
+      "start": 482,
+      "timestamp": "08:02",
+      "text": "Come on, speak in one line, okay sir?"
+    },
+    {
+      "start": 484,
+      "timestamp": "08:04",
+      "text": "The entire Muslim community has become an array of this."
+    },
+    {
+      "start": 486,
+      "timestamp": "08:06",
+      "text": "People of Yadav community, stand here."
+    },
+    {
+      "start": 490,
+      "timestamp": "08:10",
+      "text": "Let the people stand in a separate line brother and"
+    },
+    {
+      "start": 492,
+      "timestamp": "08:12",
+      "text": "All Brahmin men stand aside brother."
+    },
+    {
+      "start": 495,
+      "timestamp": "08:15",
+      "text": "Now you started in that array what did you do"
+    },
+    {
+      "start": 498,
+      "timestamp": "08:18",
+      "text": "Started raising the Dalit community one by one"
+    },
+    {
+      "start": 500,
+      "timestamp": "08:20",
+      "text": "One man takes the first man home here"
+    },
+    {
+      "start": 503,
+      "timestamp": "08:23",
+      "text": "Gave it to the first person of Muslim community to raise"
+    },
+    {
+      "start": 505,
+      "timestamp": "08:25",
+      "text": "Gave away the house here and picked up the house of Yadav community."
+    },
+    {
+      "start": 507,
+      "timestamp": "08:27",
+      "text": "Gave me a house here and took her as a Brahmin."
+    },
+    {
+      "start": 509,
+      "timestamp": "08:29",
+      "text": "Gave a house here. You did the rest of the house, right?"
+    },
+    {
+      "start": 511,
+      "timestamp": "08:31",
+      "text": "It doesn't matter what you do. so 0 1 2"
+    },
+    {
+      "start": 514,
+      "timestamp": "08:34",
+      "text": "3 Look at the four unique houses in the first four houses."
+    },
+    {
+      "start": 516,
+      "timestamp": "08:36",
+      "text": "The element has arrived. So this is the solution"
+    },
+    {
+      "start": 518,
+      "timestamp": "08:38",
+      "text": "Could. But what can you do for this?"
+    },
+    {
+      "start": 520,
+      "timestamp": "08:40",
+      "text": "Are you? You are making a lot of fuss about this"
+    },
+    {
+      "start": 522,
+      "timestamp": "08:42",
+      "text": "Are. For this you are telling Dalit people"
+    },
+    {
+      "start": 523,
+      "timestamp": "08:43",
+      "text": "So you go and stand in a different house first."
+    },
+    {
+      "start": 526,
+      "timestamp": "08:46",
+      "text": "Telling Muslim people that you are different"
+    },
+    {
+      "start": 527,
+      "timestamp": "08:47",
+      "text": "Stand in the field. Yadav people"
+    },
+    {
+      "start": 529,
+      "timestamp": "08:49",
+      "text": "They are saying, brother, stay in a different field."
+    },
+    {
+      "start": 531,
+      "timestamp": "08:51",
+      "text": "You are saying that you are standing in a different field."
+    },
+    {
+      "start": 532,
+      "timestamp": "08:52",
+      "text": "So using a lot of space. Meaning"
+    },
+    {
+      "start": 534,
+      "timestamp": "08:54",
+      "text": "Where will these people stand? these people in the field"
+    },
+    {
+      "start": 536,
+      "timestamp": "08:56",
+      "text": "Will stand, right? You feel four types of fields."
+    },
+    {
+      "start": 538,
+      "timestamp": "08:58",
+      "text": "Will go. After that it will take more time for you to"
+    },
+    {
+      "start": 540,
+      "timestamp": "09:00",
+      "text": "Have to select one by one and then insert. But"
+    },
+    {
+      "start": 543,
+      "timestamp": "09:03",
+      "text": "Your life is already made easy"
+    },
+    {
+      "start": 545,
+      "timestamp": "09:05",
+      "text": "Question. What did the question tell you?"
+    },
+    {
+      "start": 547,
+      "timestamp": "09:07",
+      "text": "Now if the questions are sorted you"
+    },
+    {
+      "start": 550,
+      "timestamp": "09:10",
+      "text": "Have you ever said in your life, remember that"
+    },
+    {
+      "start": 552,
+      "timestamp": "09:12",
+      "text": "Any work, no man is free"
+    },
+    {
+      "start": 554,
+      "timestamp": "09:14",
+      "text": "Does. any man, any time, any thing"
+    },
+    {
+      "start": 558,
+      "timestamp": "09:18",
+      "text": "Babu, he doesn't do anything without any reason. so you"
+    },
+    {
+      "start": 561,
+      "timestamp": "09:21",
+      "text": "What has been said? Sorted. now you"
+    },
+    {
+      "start": 563,
+      "timestamp": "09:23",
+      "text": "Why is it called sorted? that lead code"
+    },
+    {
+      "start": 564,
+      "timestamp": "09:24",
+      "text": "Did you feel like sorting that one? No. No."
+    },
+    {
+      "start": 566,
+      "timestamp": "09:26",
+      "text": "Sorting takes a lot of time. Any"
+    },
+    {
+      "start": 568,
+      "timestamp": "09:28",
+      "text": "Sorting an array takes n log n time."
+    },
+    {
+      "start": 570,
+      "timestamp": "09:30",
+      "text": "Is. If you are given a sorted array then"
+    },
+    {
+      "start": 572,
+      "timestamp": "09:32",
+      "text": "Given with reason. He doesn't feel like it."
+    },
+    {
+      "start": 574,
+      "timestamp": "09:34",
+      "text": "He is you, he is your uncle, isn't he?"
+    },
+    {
+      "start": 576,
+      "timestamp": "09:36",
+      "text": "Told me to take it sorted brother. sorted"
+    },
+    {
+      "start": 578,
+      "timestamp": "09:38",
+      "text": "Why is it given? Sorted is given so that"
+    },
+    {
+      "start": 581,
+      "timestamp": "09:41",
+      "text": "People from all over the society will be anywhere. so one"
+    },
+    {
+      "start": 584,
+      "timestamp": "09:44",
+      "text": "Will be in the same line. means to say"
+    },
+    {
+      "start": 586,
+      "timestamp": "09:46",
+      "text": "What does it mean that if some people of Dalit community"
+    },
+    {
+      "start": 588,
+      "timestamp": "09:48",
+      "text": "If so, then everyone will be together. Muslim"
+    },
+    {
+      "start": 590,
+      "timestamp": "09:50",
+      "text": "The people of the society will be together. Yadav"
+    },
+    {
+      "start": 592,
+      "timestamp": "09:52",
+      "text": "The people of the society will be together. Brahmin's"
+    },
+    {
+      "start": 594,
+      "timestamp": "09:54",
+      "text": "People will be together. not different"
+    },
+    {
+      "start": 596,
+      "timestamp": "09:56",
+      "text": "Must be because it is sorted. so say this"
+    },
+    {
+      "start": 598,
+      "timestamp": "09:58",
+      "text": "Means there is D1, there is D2, there is D3. Its"
+    },
+    {
+      "start": 602,
+      "timestamp": "10:02",
+      "text": "After this, if even one Muslim starts, even one"
+    },
+    {
+      "start": 604,
+      "timestamp": "10:04",
+      "text": "If the people of Muslim community start then that's it."
+    },
+    {
+      "start": 606,
+      "timestamp": "10:06",
+      "text": "Remained Muslim. Now Dalits cannot come"
+    },
+    {
+      "start": 608,
+      "timestamp": "10:08",
+      "text": "Because it is sorted. standing in a line"
+    },
+    {
+      "start": 610,
+      "timestamp": "10:10",
+      "text": "Everyone forms a group. Now look at it like this"
+    },
+    {
+      "start": 613,
+      "timestamp": "10:13",
+      "text": "Was given to you. so wherever people are"
+    },
+    {
+      "start": 617,
+      "timestamp": "10:17",
+      "text": "Don't see all the people of Dalit community in one line"
+    },
+    {
+      "start": 619,
+      "timestamp": "10:19",
+      "text": "Are in. Yes, we are in one line. all"
+    },
+    {
+      "start": 620,
+      "timestamp": "10:20",
+      "text": "People of Muslim community are in a line. Yes"
+    },
+    {
+      "start": 622,
+      "timestamp": "10:22",
+      "text": "Are. All the Yadav people are in a line. all"
+    },
+    {
+      "start": 624,
+      "timestamp": "10:24",
+      "text": "Brahmin people are in a line. so this you"
+    },
+    {
+      "start": 627,
+      "timestamp": "10:27",
+      "text": "Sorted means given. so one of"
+    },
+    {
+      "start": 629,
+      "timestamp": "10:29",
+      "text": "Method of doing why you use two pointer"
+    },
+    {
+      "start": 631,
+      "timestamp": "10:31",
+      "text": "Have to do? Two pointer explains why use"
+    },
+    {
+      "start": 633,
+      "timestamp": "10:33",
+      "text": "Have to do? How to use? Why? so you"
+    },
+    {
+      "start": 636,
+      "timestamp": "10:36",
+      "text": "Have understood. Why? So from the flow chart everyone"
+    },
+    {
+      "start": 637,
+      "timestamp": "10:37",
+      "text": "Must have understood. you can do one thing"
+    },
+    {
+      "start": 639,
+      "timestamp": "10:39",
+      "text": "Are here. Ok? you a you because a"
+    },
+    {
+      "start": 642,
+      "timestamp": "10:42",
+      "text": "Tej is the Chief Minister so you can do one thing"
+    },
+    {
+      "start": 645,
+      "timestamp": "10:45",
+      "text": "that you say that you remember you have"
+    },
+    {
+      "start": 649,
+      "timestamp": "10:49",
+      "text": "There is also an opportunity. Now look at one more thing"
+    },
+    {
+      "start": 652,
+      "timestamp": "10:52",
+      "text": "It is to be understood that in any case the first house is"
+    },
+    {
+      "start": 657,
+      "timestamp": "10:57",
+      "text": "It must be unique. the first house comes first"
+    },
+    {
+      "start": 660,
+      "timestamp": "11:00",
+      "text": "The person living in the house above"
+    },
+    {
+      "start": 662,
+      "timestamp": "11:02",
+      "text": "Is it wise to leave or not?"
+    },
+    {
+      "start": 664,
+      "timestamp": "11:04",
+      "text": "Why is there intelligence? Why? because the first"
+    },
+    {
+      "start": 666,
+      "timestamp": "11:06",
+      "text": "The man is the first man of that society. So"
+    },
+    {
+      "start": 669,
+      "timestamp": "11:09",
+      "text": "It is already granted that that man is unique"
+    },
+    {
+      "start": 672,
+      "timestamp": "11:12",
+      "text": "Is. Isn't it? This man is unique, isn't he?"
+    },
+    {
+      "start": 674,
+      "timestamp": "11:14",
+      "text": "In your society. It may happen after this"
+    },
+    {
+      "start": 675,
+      "timestamp": "11:15",
+      "text": "100 more people standing. we don't care"
+    },
+    {
+      "start": 677,
+      "timestamp": "11:17",
+      "text": "No? This man is unique. so the first house"
+    },
+    {
+      "start": 680,
+      "timestamp": "11:20",
+      "text": "Wisdom lies in giving it to someone"
+    },
+    {
+      "start": 681,
+      "timestamp": "11:21",
+      "text": "Go. That's correct. what would you do that first"
+    },
+    {
+      "start": 685,
+      "timestamp": "11:25",
+      "text": "Whichever man is standing is the first D1 standing."
+    },
+    {
+      "start": 687,
+      "timestamp": "11:27",
+      "text": "Leave him alone. Left it as it is."
+    },
+    {
+      "start": 690,
+      "timestamp": "11:30",
+      "text": "Now let's create the array once. only then you will understand"
+    },
+    {
+      "start": 693,
+      "timestamp": "11:33",
+      "text": "Will show what we are trying to say"
+    },
+    {
+      "start": 695,
+      "timestamp": "11:35",
+      "text": "Already. Ok? Wrote y2 here. See"
+    },
+    {
+      "start": 699,
+      "timestamp": "11:39",
+      "text": "All this cast and all, you guys don't say like that"
+    },
+    {
+      "start": 701,
+      "timestamp": "11:41",
+      "text": "That he does this, he does that. these you guys"
+    },
+    {
+      "start": 702,
+      "timestamp": "11:42",
+      "text": "To explain we are. Ok?"
+    },
+    {
+      "start": 704,
+      "timestamp": "11:44",
+      "text": "So you can think so because oh and"
+    },
+    {
+      "start": 707,
+      "timestamp": "11:47",
+      "text": "You don't get that much from Link List Zero One."
+    },
+    {
+      "start": 708,
+      "timestamp": "11:48",
+      "text": "Will understand. If you think so"
+    },
+    {
+      "start": 711,
+      "timestamp": "11:51",
+      "text": "If you don't want to do it, please write. next time"
+    },
+    {
+      "start": 712,
+      "timestamp": "11:52",
+      "text": "Since we will not. now that you have"
+    },
+    {
+      "start": 714,
+      "timestamp": "11:54",
+      "text": "There is an officer man. Yes, I am. you to the officer"
+    },
+    {
+      "start": 717,
+      "timestamp": "11:57",
+      "text": "Make me sit here. This is the house, isn't it?"
+    },
+    {
+      "start": 720,
+      "timestamp": "12:00",
+      "text": "It has been allotted. Whom? be on D1"
+    },
+    {
+      "start": 723,
+      "timestamp": "12:03",
+      "text": "Already happened. Now you are a Chief Minister, you are here"
+    },
+    {
+      "start": 727,
+      "timestamp": "12:07",
+      "text": "Start coming from. You are here. Two"
+    },
+    {
+      "start": 731,
+      "timestamp": "12:11",
+      "text": "Are man. There is an officer. green officer"
+    },
+    {
+      "start": 733,
+      "timestamp": "12:13",
+      "text": "Is. This is an officer and this is the CM. now you"
+    },
+    {
+      "start": 736,
+      "timestamp": "12:16",
+      "text": "Start looking from here. you know how"
+    },
+    {
+      "start": 739,
+      "timestamp": "12:19",
+      "text": "It will do that this D2 is here now here."
+    },
+    {
+      "start": 741,
+      "timestamp": "12:21",
+      "text": "Is D2. See D2 is not unique. d one"
+    },
+    {
+      "start": 743,
+      "timestamp": "12:23",
+      "text": "Was. There were already people from a Dalit community. One"
+    },
+    {
+      "start": 746,
+      "timestamp": "12:26",
+      "text": "And the man came. But how will you know?"
+    },
+    {
+      "start": 748,
+      "timestamp": "12:28",
+      "text": "You wouldn't know by looking at his face."
+    },
+    {
+      "start": 749,
+      "timestamp": "12:29",
+      "text": "Is it unique or repeated? how to know"
+    },
+    {
+      "start": 752,
+      "timestamp": "12:32",
+      "text": "Look, if any man repeats this"
+    },
+    {
+      "start": 756,
+      "timestamp": "12:36",
+      "text": "Look at the first man in such a list."
+    },
+    {
+      "start": 758,
+      "timestamp": "12:38",
+      "text": "So you have already done the work. You are in charge of D1."
+    },
+    {
+      "start": 761,
+      "timestamp": "12:41",
+      "text": "Did it. House was also allotted to D1. of D1"
+    },
+    {
+      "start": 763,
+      "timestamp": "12:43",
+      "text": "Nothing to do with it. If D2 is repeated"
+    },
+    {
+      "start": 767,
+      "timestamp": "12:47",
+      "text": "So will D2 look like D1? Yes,"
+    },
+    {
+      "start": 770,
+      "timestamp": "12:50",
+      "text": "Will be visible. Why? Because it's a sorted array"
+    },
+    {
+      "start": 772,
+      "timestamp": "12:52",
+      "text": "Brother? See D2 will be equal to D1. you here"
+    },
+    {
+      "start": 777,
+      "timestamp": "12:57",
+      "text": "So D1 D2 is written then you feel that"
+    },
+    {
+      "start": 778,
+      "timestamp": "12:58",
+      "text": "It is different but in sorted array it is written like this"
+    },
+    {
+      "start": 780,
+      "timestamp": "13:00",
+      "text": "Will it be 1 1 2 So what if D2 is in its previous"
+    },
+    {
+      "start": 785,
+      "timestamp": "13:05",
+      "text": "It is like the same one, which means it is unique."
+    },
+    {
+      "start": 787,
+      "timestamp": "13:07",
+      "text": "Not there. Are you able to understand? d3 your last"
+    },
+    {
+      "start": 790,
+      "timestamp": "13:10",
+      "text": "If it is the same as the one then it is not unique. m1"
+    },
+    {
+      "start": 793,
+      "timestamp": "13:13",
+      "text": "There are no beans. Look M1 from its last one"
+    },
+    {
+      "start": 795,
+      "timestamp": "13:15",
+      "text": "Is different. Why is it different? Because here d"
+    },
+    {
+      "start": 797,
+      "timestamp": "13:17",
+      "text": "It's over. m has started. m is different. These"
+    },
+    {
+      "start": 800,
+      "timestamp": "13:20",
+      "text": "The one with m is the same. Why? because it is repeated"
+    },
+    {
+      "start": 802,
+      "timestamp": "13:22",
+      "text": "No? Here is the sorted array. it is different."
+    },
+    {
+      "start": 804,
+      "timestamp": "13:24",
+      "text": "See y1 is different from m2 because here"
+    },
+    {
+      "start": 807,
+      "timestamp": "13:27",
+      "text": "If Muslim ends or Yadav starts, it is different. y2"
+    },
+    {
+      "start": 810,
+      "timestamp": "13:30",
+      "text": "It's beans. y3 is the same. b1 is different. why b1"
+    },
+    {
+      "start": 814,
+      "timestamp": "13:34",
+      "text": "Is it different? Because y ended here."
+    },
+    {
+      "start": 816,
+      "timestamp": "13:36",
+      "text": "B has started. So the best way for you"
+    },
+    {
+      "start": 819,
+      "timestamp": "13:39",
+      "text": "What is the pass for identifying duplicates? if that"
+    },
+    {
+      "start": 821,
+      "timestamp": "13:41",
+      "text": "This element is related to the element behind it."
+    },
+    {
+      "start": 823,
+      "timestamp": "13:43",
+      "text": "If it is equal then it is not unique child. These"
+    },
+    {
+      "start": 825,
+      "timestamp": "13:45",
+      "text": "Is repeated. This is repeated. if these"
+    },
+    {
+      "start": 828,
+      "timestamp": "13:48",
+      "text": "If the element is not equal to the previous one then this"
+    },
+    {
+      "start": 830,
+      "timestamp": "13:50",
+      "text": "He is the first man of his society who is starting"
+    },
+    {
+      "start": 832,
+      "timestamp": "13:52",
+      "text": "Has this. Like y1 is not equal to m2."
+    },
+    {
+      "start": 835,
+      "timestamp": "13:55",
+      "text": "y and m are different types. That's why y1 is unique"
+    },
+    {
+      "start": 838,
+      "timestamp": "13:58",
+      "text": "Is. Then you will know that it is unique. Correct"
+    },
+    {
+      "start": 840,
+      "timestamp": "14:00",
+      "text": "Is? Now you know that it is unique."
+    },
+    {
+      "start": 843,
+      "timestamp": "14:03",
+      "text": "But what will you do by making it unique? you we"
+    },
+    {
+      "start": 845,
+      "timestamp": "14:05",
+      "text": "What were you explained in the beginning? you have you"
+    },
+    {
+      "start": 848,
+      "timestamp": "14:08",
+      "text": "There are only four houses to give. from that this"
+    },
+    {
+      "start": 850,
+      "timestamp": "14:10",
+      "text": "The house you are saying that already we"
+    },
+    {
+      "start": 852,
+      "timestamp": "14:12",
+      "text": "Have been allotted. what is your next house"
+    },
+    {
+      "start": 854,
+      "timestamp": "14:14",
+      "text": "To allot passes? next house which house"
+    },
+    {
+      "start": 857,
+      "timestamp": "14:17",
+      "text": "Pay Officer What did you do before? See"
+    },
+    {
+      "start": 860,
+      "timestamp": "14:20",
+      "text": "You might be feeling like it's going a little fast."
+    },
+    {
+      "start": 862,
+      "timestamp": "14:22",
+      "text": "Yes, but we will tell you again and again so that you understand."
+    },
+    {
+      "start": 864,
+      "timestamp": "14:24",
+      "text": "Will go. Where does your officer stand? to the officer"
+    },
+    {
+      "start": 868,
+      "timestamp": "14:28",
+      "text": "You have been placed at zero. only houses with zero"
+    },
+    {
+      "start": 870,
+      "timestamp": "14:30",
+      "text": "Pay has been raised and a house with zero has been allotted."
+    },
+    {
+      "start": 872,
+      "timestamp": "14:32",
+      "text": "It is done. So which house is allotted next?"
+    },
+    {
+      "start": 875,
+      "timestamp": "14:35",
+      "text": "To do? Officer plus one. in front of the officer"
+    },
+    {
+      "start": 877,
+      "timestamp": "14:37",
+      "text": "If the house is left then the forest is left. if officer"
+    },
+    {
+      "start": 880,
+      "timestamp": "14:40",
+      "text": "If you stand at zero, the forest is empty. officer if"
+    },
+    {
+      "start": 882,
+      "timestamp": "14:42",
+      "text": "If one is standing then two is empty. the forest was filled"
+    },
+    {
+      "start": 884,
+      "timestamp": "14:44",
+      "text": "Is. The house till which the officer stands will be full."
+    },
+    {
+      "start": 887,
+      "timestamp": "14:47",
+      "text": "It has happened. The house next to it is vacant. Now"
+    },
+    {
+      "start": 890,
+      "timestamp": "14:50",
+      "text": "See Age A Chief Minister if you get to know"
+    },
+    {
+      "start": 893,
+      "timestamp": "14:53",
+      "text": "Suppose M1 is unique. if you look at it"
+    },
+    {
+      "start": 896,
+      "timestamp": "14:56",
+      "text": "If it is not unique then it has no use"
+    },
+    {
+      "start": 897,
+      "timestamp": "14:57",
+      "text": "Is. His work has been done. this unique"
+    },
+    {
+      "start": 900,
+      "timestamp": "15:00",
+      "text": "Not there. This is not unique. No problem."
+    },
+    {
+      "start": 901,
+      "timestamp": "15:01",
+      "text": "As soon as you find out that M1 son, you"
+    },
+    {
+      "start": 904,
+      "timestamp": "15:04",
+      "text": "If it is unique, then where should you give the M1 a home?"
+    },
+    {
+      "start": 906,
+      "timestamp": "15:06",
+      "text": "M1 will have to be given a home, this is the task"
+    },
+    {
+      "start": 908,
+      "timestamp": "15:08",
+      "text": "That every unique person needs a home. to M1"
+    },
+    {
+      "start": 911,
+      "timestamp": "15:11",
+      "text": "Have to give a house, where to give a house? one of the officers"
+    },
+    {
+      "start": 914,
+      "timestamp": "15:14",
+      "text": "The next house has to be given. what can be done then"
+    },
+    {
+      "start": 917,
+      "timestamp": "15:17",
+      "text": "That the house next to the officer is on M1"
+    },
+    {
+      "start": 920,
+      "timestamp": "15:20",
+      "text": "Pick it up, put it simple here. to this"
+    },
+    {
+      "start": 922,
+      "timestamp": "15:22",
+      "text": "Erase and write m1 here. Will be done."
+    },
+    {
+      "start": 925,
+      "timestamp": "15:25",
+      "text": "Telling again. Where are you to the officer?"
+    },
+    {
+      "start": 927,
+      "timestamp": "15:27",
+      "text": "erected? What was the first thing you did?"
+    },
+    {
+      "start": 929,
+      "timestamp": "15:29",
+      "text": "The first house is the first man. The house with zero is the first man."
+    },
+    {
+      "start": 932,
+      "timestamp": "15:32",
+      "text": "Gave it to him that it would definitely be unique. His"
+    },
+    {
+      "start": 934,
+      "timestamp": "15:34",
+      "text": "The work is finished. Now the house where the officer is standing"
+    },
+    {
+      "start": 937,
+      "timestamp": "15:37",
+      "text": "Yes, it has been allotted. front house free"
+    },
+    {
+      "start": 939,
+      "timestamp": "15:39",
+      "text": "Will always be there. Now as a CM you will get duplicate"
+    },
+    {
+      "start": 942,
+      "timestamp": "15:42",
+      "text": "How to know which element is behind you"
+    },
+    {
+      "start": 944,
+      "timestamp": "15:44",
+      "text": "is not equal to the element that is unique"
+    },
+    {
+      "start": 946,
+      "timestamp": "15:46",
+      "text": "Is. Have to give it a home. what home to give him"
+    },
+    {
+      "start": 948,
+      "timestamp": "15:48",
+      "text": "Is? To give a house next to the officer. saying"
+    },
+    {
+      "start": 950,
+      "timestamp": "15:50",
+      "text": "That it is empty. So pick this up. officer's"
+    },
+    {
+      "start": 953,
+      "timestamp": "15:53",
+      "text": "Put it in the next one. don't swap"
+    },
+    {
+      "start": 955,
+      "timestamp": "15:55",
+      "text": "Is. Just put it in the house. Why?"
+    },
+    {
+      "start": 956,
+      "timestamp": "15:56",
+      "text": "Because earlier we told you that you only need these four"
+    },
+    {
+      "start": 959,
+      "timestamp": "15:59",
+      "text": "Means from home. The remaining five or six houses"
+    },
+    {
+      "start": 962,
+      "timestamp": "16:02",
+      "text": "You don't care what's going on"
+    },
+    {
+      "start": 963,
+      "timestamp": "16:03",
+      "text": "Is. That's why not swapping. just that"
+    },
+    {
+      "start": 965,
+      "timestamp": "16:05",
+      "text": "Filling that man in the house. and one"
+    },
+    {
+      "start": 968,
+      "timestamp": "16:08",
+      "text": "These bars were filled. Once you pick up this M1, you"
+    },
+    {
+      "start": 971,
+      "timestamp": "16:11",
+      "text": "Posted here. After that now see m1 lifted"
+    },
+    {
+      "start": 973,
+      "timestamp": "16:13",
+      "text": "Put it here. That means this house too"
+    },
+    {
+      "start": 975,
+      "timestamp": "16:15",
+      "text": "Filled up. This also got allotted. and in the beginning"
+    },
+    {
+      "start": 978,
+      "timestamp": "16:18",
+      "text": "What had we decided as to where the officer would go?"
+    },
+    {
+      "start": 979,
+      "timestamp": "16:19",
+      "text": "will stand? Officer on the house allotted"
+    },
+    {
+      "start": 982,
+      "timestamp": "16:22",
+      "text": "Will stand. So you give the officer one increase."
+    },
+    {
+      "start": 985,
+      "timestamp": "16:25",
+      "text": "you bring the officer you bring the officer here"
+    },
+    {
+      "start": 988,
+      "timestamp": "16:28",
+      "text": "Because the officer is always standing there who"
+    },
+    {
+      "start": 990,
+      "timestamp": "16:30",
+      "text": "The house is full and and as a cm as a cm"
+    },
+    {
+      "start": 994,
+      "timestamp": "16:34",
+      "text": "Your work is done. You gave the house to m1."
+    },
+    {
+      "start": 996,
+      "timestamp": "16:36",
+      "text": "You go ahead. You go ahead. You"
+    },
+    {
+      "start": 998,
+      "timestamp": "16:38",
+      "text": "Go ahead here. Now see M1 has been given a home."
+    },
+    {
+      "start": 1001,
+      "timestamp": "16:41",
+      "text": "m2 is not to be given a house. why house m2"
+    },
+    {
+      "start": 1003,
+      "timestamp": "16:43",
+      "text": "Don't want to give? Because we don't swap"
+    },
+    {
+      "start": 1005,
+      "timestamp": "16:45",
+      "text": "Have done. m1 is still here. so m2 still"
+    },
+    {
+      "start": 1008,
+      "timestamp": "16:48",
+      "text": "is equal to m1. Then CM will say you"
+    },
+    {
+      "start": 1010,
+      "timestamp": "16:50",
+      "text": "You are a duplicate, son. Ok? Be duplicated."
+    },
+    {
+      "start": 1012,
+      "timestamp": "16:52",
+      "text": "Will move forward. y1 is not equal to m2."
+    },
+    {
+      "start": 1014,
+      "timestamp": "16:54",
+      "text": "Beans will work. give the house next to the officer"
+    },
+    {
+      "start": 1017,
+      "timestamp": "16:57",
+      "text": "Will give. Will increase the officer. Chief Minister"
+    },
+    {
+      "start": 1019,
+      "timestamp": "16:59",
+      "text": "Will increase. elevated to Chief Minister"
+    },
+    {
+      "start": 1022,
+      "timestamp": "17:02",
+      "text": "Will give. And so you have understood completely"
+    },
+    {
+      "start": 1024,
+      "timestamp": "17:04",
+      "text": "How is the algorithm working? its dry"
+    },
+    {
+      "start": 1026,
+      "timestamp": "17:06",
+      "text": "Will run now. We will give you a dry run right now."
+    },
+    {
+      "start": 1027,
+      "timestamp": "17:07",
+      "text": "Will show. And there is one small thing. you this"
+    },
+    {
+      "start": 1030,
+      "timestamp": "17:10",
+      "text": "What to return in the program, right?"
+    },
+    {
+      "start": 1032,
+      "timestamp": "17:12",
+      "text": "You have to return Number of Unique People."
+    },
+    {
+      "start": 1035,
+      "timestamp": "17:15",
+      "text": "So see Number of Unique People from the same"
+    },
+    {
+      "start": 1037,
+      "timestamp": "17:17",
+      "text": "Because the output will be printed. one thing is this"
+    },
+    {
+      "start": 1039,
+      "timestamp": "17:19",
+      "text": "That's the number of unique people"
+    },
+    {
+      "start": 1042,
+      "timestamp": "17:22",
+      "text": "See if there is even one person in the array, the whole array is"
+    },
+    {
+      "start": 1045,
+      "timestamp": "17:25",
+      "text": "There is not a single person in the entire society."
+    },
+    {
+      "start": 1046,
+      "timestamp": "17:26",
+      "text": "If he is also a man, then this forest must be a forest, why?"
+    },
+    {
+      "start": 1049,
+      "timestamp": "17:29",
+      "text": "It will happen because the first man is sure"
+    },
+    {
+      "start": 1051,
+      "timestamp": "17:31",
+      "text": "Everyone is unique, after that everyone can be."
+    },
+    {
+      "start": 1052,
+      "timestamp": "17:32",
+      "text": "May be from the same community but the beginning is one"
+    },
+    {
+      "start": 1054,
+      "timestamp": "17:34",
+      "text": "If it is unique then you can start that"
+    },
+    {
+      "start": 1056,
+      "timestamp": "17:36",
+      "text": "There is one with a number of variables and and"
+    },
+    {
+      "start": 1060,
+      "timestamp": "17:40",
+      "text": "Whenever you find a unique element and"
+    },
+    {
+      "start": 1062,
+      "timestamp": "17:42",
+      "text": "If you are changing this house then"
+    },
+    {
+      "start": 1064,
+      "timestamp": "17:44",
+      "text": "Add this race to it as a plus. Understanding"
+    },
+    {
+      "start": 1066,
+      "timestamp": "17:46",
+      "text": "What are you saying? number of unique"
+    },
+    {
+      "start": 1068,
+      "timestamp": "17:48",
+      "text": "If there is one in the beginning then it is a sure thing. In this"
+    },
+    {
+      "start": 1070,
+      "timestamp": "17:50",
+      "text": "So no one has two opinions or three opinions."
+    },
+    {
+      "start": 1072,
+      "timestamp": "17:52",
+      "text": "Whenever you find a unique element,"
+    },
+    {
+      "start": 1075,
+      "timestamp": "17:55",
+      "text": "I get this, I get this, I get this"
+    },
+    {
+      "start": 1077,
+      "timestamp": "17:57",
+      "text": "Increase the number of unique by one and last"
+    },
+    {
+      "start": 1079,
+      "timestamp": "17:59",
+      "text": "Please return it. so what about this"
+    },
+    {
+      "start": 1081,
+      "timestamp": "18:01",
+      "text": "You must have come here before."
+    },
+    {
+      "start": 1083,
+      "timestamp": "18:03",
+      "text": "Was unique. If you got M1 then you can do this"
+    },
+    {
+      "start": 1085,
+      "timestamp": "18:05",
+      "text": "Given. When y1 was found, it was made three. b1"
+    },
+    {
+      "start": 1088,
+      "timestamp": "18:08",
+      "text": "If found then four it and return four"
+    },
+    {
+      "start": 1090,
+      "timestamp": "18:10",
+      "text": "Given. What is this four? four number of unique"
+    },
+    {
+      "start": 1092,
+      "timestamp": "18:12",
+      "text": "That's it. What did we expect in the beginning?"
+    },
+    {
+      "start": 1094,
+      "timestamp": "18:14",
+      "text": "There are only four types of people. look only four"
+    },
+    {
+      "start": 1096,
+      "timestamp": "18:16",
+      "text": "You were a man of manners and you were the four returners."
+    },
+    {
+      "start": 1098,
+      "timestamp": "18:18",
+      "text": "Please do it. the rest of the printing and whatever else"
+    },
+    {
+      "start": 1100,
+      "timestamp": "18:20",
+      "text": "He will adopt all the lead codes. Now one of"
+    },
+    {
+      "start": 1103,
+      "timestamp": "18:23",
+      "text": "Take a look at the pseudo code and dry run."
+    },
+    {
+      "start": 1105,
+      "timestamp": "18:25",
+      "text": "Are. Now leaving aside all this talk of society,"
+    },
+    {
+      "start": 1109,
+      "timestamp": "18:29",
+      "text": "Let us explain to you through real examples."
+    },
+    {
+      "start": 1111,
+      "timestamp": "18:31",
+      "text": "What will happen in reality? when you do that"
+    },
+    {
+      "start": 1114,
+      "timestamp": "18:34",
+      "text": "Ok? Now let's take an example for"
+    },
+    {
+      "start": 1117,
+      "timestamp": "18:37",
+      "text": "For your convenience. just a small example"
+    },
+    {
+      "start": 1120,
+      "timestamp": "18:40",
+      "text": "Will take. Need to take a very big example"
+    },
+    {
+      "start": 1121,
+      "timestamp": "18:41",
+      "text": "Not there. 1 1 2 3 Good example. Now"
+    },
+    {
+      "start": 1128,
+      "timestamp": "18:48",
+      "text": "See what will happen? who can even understand"
+    },
+    {
+      "start": 1130,
+      "timestamp": "18:50",
+      "text": "Went to see. we keep saying the same thing again and again"
+    },
+    {
+      "start": 1132,
+      "timestamp": "18:52",
+      "text": "Are. Don't leave now. a lot of things in it"
+    },
+    {
+      "start": 1133,
+      "timestamp": "18:53",
+      "text": "And we will tell you now. You have come here. To all"
+    },
+    {
+      "start": 1137,
+      "timestamp": "18:57",
+      "text": "What work do we have to do first? Officer."
+    },
+    {
+      "start": 1141,
+      "timestamp": "19:01",
+      "text": "Where are you keeping the officer? first house"
+    },
+    {
+      "start": 1143,
+      "timestamp": "19:03",
+      "text": "Pay. At zero. This has been allotted, son."
+    },
+    {
+      "start": 1145,
+      "timestamp": "19:05",
+      "text": "Has been allotted. so number of unique"
+    },
+    {
+      "start": 1149,
+      "timestamp": "19:09",
+      "text": "What is the number of unique? There must be one."
+    },
+    {
+      "start": 1152,
+      "timestamp": "19:12",
+      "text": "There must be one. There must be one. and our"
+    },
+    {
+      "start": 1154,
+      "timestamp": "19:14",
+      "text": "Who is CM Sahib? Where does CM Sahib stand?"
+    },
+    {
+      "start": 1156,
+      "timestamp": "19:16",
+      "text": "will happen? On one. Why would you stand on the forest floor?"
+    },
+    {
+      "start": 1158,
+      "timestamp": "19:18",
+      "text": "Because now you have finished this man's work."
+    },
+    {
+      "start": 1161,
+      "timestamp": "19:21",
+      "text": "Have given. You have to check from here."
+    },
+    {
+      "start": 1162,
+      "timestamp": "19:22",
+      "text": "CM Saheb will always check from the front. Forest"
+    },
+    {
+      "start": 1165,
+      "timestamp": "19:25",
+      "text": "Will check from. The officer is standing at ground zero."
+    },
+    {
+      "start": 1167,
+      "timestamp": "19:27",
+      "text": "Zero is filled. Zero has no use now"
+    },
+    {
+      "start": 1169,
+      "timestamp": "19:29",
+      "text": "Not there. There is no existence. here now"
+    },
+    {
+      "start": 1170,
+      "timestamp": "19:30",
+      "text": "Zero has filled the house. And CM sir from here"
+    },
+    {
+      "start": 1173,
+      "timestamp": "19:33",
+      "text": "Will check. The officer is standing here. Now"
+    },
+    {
+      "start": 1175,
+      "timestamp": "19:35",
+      "text": "Let's get CM sir checked. so now"
+    },
+    {
+      "start": 1177,
+      "timestamp": "19:37",
+      "text": "CM sir is one. So you see what CM"
+    },
+    {
+      "start": 1180,
+      "timestamp": "19:40",
+      "text": "Now how does CM check? Check"
+    },
+    {
+      "start": 1182,
+      "timestamp": "19:42",
+      "text": "What is the logic of doing this? whether this man"
+    },
+    {
+      "start": 1184,
+      "timestamp": "19:44",
+      "text": "Is it equal to the person behind or not? Now"
+    },
+    {
+      "start": 1187,
+      "timestamp": "19:47",
+      "text": "See if this man is the man behind him"
+    },
+    {
+      "start": 1188,
+      "timestamp": "19:48",
+      "text": "is equal to? Yes, it is equal. so not this"
+    },
+    {
+      "start": 1190,
+      "timestamp": "19:50",
+      "text": "[Translation failed: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=en&sl=hi&q=%E0%A4%B9%E0%A5%88+%E0%A4%AF%E0%A5%82%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A5%A4+%E0%A4%B8%E0%A5%80%E0%A4%8F%E0%A4%AE+%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%AC+%E0%A4%AF%E0%A4%B9%E0%A4%BE%E0%A4%82+%E0%A4%86+%E0%A4%97%E0%A4%8F%E0%A5%A4+%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE+%E0%A4%AF%E0%A5%87 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))]"
+    },
+    {
+      "start": 1193,
+      "timestamp": "19:53",
+      "text": "Is a man equal to the one behind him? Yes,"
+    },
+    {
+      "start": 1195,
+      "timestamp": "19:55",
+      "text": "Is equal to the one behind. call it home"
+    },
+    {
+      "start": 1196,
+      "timestamp": "19:56",
+      "text": "will get. CM Saheb came here. watch now"
+    },
+    {
+      "start": 1198,
+      "timestamp": "19:58",
+      "text": "Look carefully. Look carefully. Very"
+    },
+    {
+      "start": 1199,
+      "timestamp": "19:59",
+      "text": "Will look carefully. Is this man behind him?"
+    },
+    {
+      "start": 1201,
+      "timestamp": "20:01",
+      "text": "is equal to the one? No. no no meaning"
+    },
+    {
+      "start": 1203,
+      "timestamp": "20:03",
+      "text": "This is a unique element because sorted array"
+    },
+    {
+      "start": 1205,
+      "timestamp": "20:05",
+      "text": "Is. Everyone standing in a group in a line"
+    },
+    {
+      "start": 1207,
+      "timestamp": "20:07",
+      "text": "Is. This is a sorted element. what do we do in this"
+    },
+    {
+      "start": 1210,
+      "timestamp": "20:10",
+      "text": "Taught? What were you taught? where is this man"
+    },
+    {
+      "start": 1214,
+      "timestamp": "20:14",
+      "text": "want to put? In place of Officer + 1. in officer"
+    },
+    {
+      "start": 1216,
+      "timestamp": "20:16",
+      "text": "No. The officer was standing in a full house"
+    },
+    {
+      "start": 1218,
+      "timestamp": "20:18",
+      "text": "Is. So what is Officer + 1? equal"
+    },
+    {
+      "start": 1222,
+      "timestamp": "20:22",
+      "text": "Two one. Pick up this man and put him here"
+    },
+    {
+      "start": 1225,
+      "timestamp": "20:25",
+      "text": "Give it. What to do after that? officer which house"
+    },
+    {
+      "start": 1228,
+      "timestamp": "20:28",
+      "text": "stands on? Which fills the house."
+    },
+    {
+      "start": 1230,
+      "timestamp": "20:30",
+      "text": "So we brought the officer here. officer"
+    },
+    {
+      "start": 1232,
+      "timestamp": "20:32",
+      "text": "Came here from here. your officer here"
+    },
+    {
+      "start": 1234,
+      "timestamp": "20:34",
+      "text": "Is standing. Increase the number of unique. one increase"
+    },
+    {
+      "start": 1237,
+      "timestamp": "20:37",
+      "text": "Two. Found another man who found a home"
+    },
+    {
+      "start": 1239,
+      "timestamp": "20:39",
+      "text": "Is. Increase the number off. increase it increase it"
+    },
+    {
+      "start": 1242,
+      "timestamp": "20:42",
+      "text": "Two. Give a raise to CM sir also. CM sir"
+    },
+    {
+      "start": 1244,
+      "timestamp": "20:44",
+      "text": "Increase it also. Because this is also the work of CM"
+    },
+    {
+      "start": 1246,
+      "timestamp": "20:46",
+      "text": "Sir, it has been done. give a raise to CM sir"
+    },
+    {
+      "start": 1249,
+      "timestamp": "20:49",
+      "text": "Brother. Now you are done like this. Let's move ahead."
+    },
+    {
+      "start": 1252,
+      "timestamp": "20:52",
+      "text": "Where is CM sir now? one yes one more thing"
+    },
+    {
+      "start": 1256,
+      "timestamp": "20:56",
+      "text": "Is. One more thing was left out. see if anyone"
+    },
+    {
+      "start": 1259,
+      "timestamp": "20:59",
+      "text": "man do you get a duplicate or not"
+    },
+    {
+      "start": 1261,
+      "timestamp": "21:01",
+      "text": "Get it. CM sir is ahead in every matter"
+    },
+    {
+      "start": 1263,
+      "timestamp": "21:03",
+      "text": "Will increase. CM sir, every case because CM"
+    },
+    {
+      "start": 1265,
+      "timestamp": "21:05",
+      "text": "Sir has to check only one thing that"
+    },
+    {
+      "start": 1267,
+      "timestamp": "21:07",
+      "text": "Duplicates that are unique. if unique"
+    },
+    {
+      "start": 1269,
+      "timestamp": "21:09",
+      "text": "So we will do the household work. if duplicate"
+    },
+    {
+      "start": 1271,
+      "timestamp": "21:11",
+      "text": "Then we will move ahead. So this is my little one"
+    },
+    {
+      "start": 1273,
+      "timestamp": "21:13",
+      "text": "It was a mistake that CM sir is now CM."
+    },
+    {
+      "start": 1275,
+      "timestamp": "21:15",
+      "text": "Sir will come, sorry will come at four. Because"
+    },
+    {
+      "start": 1278,
+      "timestamp": "21:18",
+      "text": "CM Saheb was increasing every time. Ok? One"
+    },
+    {
+      "start": 1280,
+      "timestamp": "21:20",
+      "text": "Will show it again and again. Don't panic. is this"
+    },
+    {
+      "start": 1283,
+      "timestamp": "21:23",
+      "text": "Is a man equal to the one behind him? No."
+    },
+    {
+      "start": 1286,
+      "timestamp": "21:26",
+      "text": "Yes, if it is equal then it means it is a duplicate."
+    },
+    {
+      "start": 1288,
+      "timestamp": "21:28",
+      "text": "Give CM sir one more increase to five."
+    },
+    {
+      "start": 1290,
+      "timestamp": "21:30",
+      "text": "Is this man equal to the one behind him?"
+    },
+    {
+      "start": 1292,
+      "timestamp": "21:32",
+      "text": "No, it is not equal to the one behind. What"
+    },
+    {
+      "start": 1294,
+      "timestamp": "21:34",
+      "text": "do it? Which house should you put it in? one of the officers"
+    },
+    {
+      "start": 1297,
+      "timestamp": "21:37",
+      "text": "Put it in the next house. Write this here."
+    },
+    {
+      "start": 1300,
+      "timestamp": "21:40",
+      "text": "Write it down here and give the officer a raise."
+    },
+    {
+      "start": 1304,
+      "timestamp": "21:44",
+      "text": "Two. And increase the number of uniques by one. And"
+    },
+    {
+      "start": 1308,
+      "timestamp": "21:48",
+      "text": "CM Saheb will improve in every case. CM"
+    },
+    {
+      "start": 1309,
+      "timestamp": "21:49",
+      "text": "Sir, it will definitely increase. CM sir's"
+    },
+    {
+      "start": 1311,
+      "timestamp": "21:51",
+      "text": "We don't have enough time to progress."
+    },
+    {
+      "start": 1313,
+      "timestamp": "21:53",
+      "text": "And give promotion to CM sir."
+    },
+    {
+      "start": 1315,
+      "timestamp": "21:55",
+      "text": "When will CM Saheb stop? When Bihar's"
+    },
+    {
+      "start": 1318,
+      "timestamp": "21:58",
+      "text": "The whole house will be destroyed. full house of bihar"
+    },
+    {
+      "start": 1320,
+      "timestamp": "22:00",
+      "text": "It will end here at six, right? So"
+    },
+    {
+      "start": 1322,
+      "timestamp": "22:02",
+      "text": "CM sahib can go from zero to five."
+    },
+    {
+      "start": 1325,
+      "timestamp": "22:05",
+      "text": "CM sahib can go from zero to five."
+    },
+    {
+      "start": 1328,
+      "timestamp": "22:08",
+      "text": "So as soon as CM Saheb comes on six, the game will come."
+    },
+    {
+      "start": 1330,
+      "timestamp": "22:10",
+      "text": "It will end. What do you have to return?"
+    },
+    {
+      "start": 1332,
+      "timestamp": "22:12",
+      "text": "Have to return three three three. one more time"
+    },
+    {
+      "start": 1335,
+      "timestamp": "22:15",
+      "text": "Take a look. there was a little confusion"
+    },
+    {
+      "start": 1337,
+      "timestamp": "22:17",
+      "text": "will be. we messed it up a little"
+    },
+    {
+      "start": 1340,
+      "timestamp": "22:20",
+      "text": "Were. 1 1 2 3 0 1 2 3 4 5 how to start"
+    },
+    {
+      "start": 1348,
+      "timestamp": "22:28",
+      "text": "Have to do? Take officer zero. Unique"
+    },
+    {
+      "start": 1351,
+      "timestamp": "22:31",
+      "text": "Take one. CM Sahib from the forest"
+    },
+    {
+      "start": 1355,
+      "timestamp": "22:35",
+      "text": "Get it started. is this one a duplicate"
+    },
+    {
+      "start": 1357,
+      "timestamp": "22:37",
+      "text": "Is that unique brother? Is it a duplicate? Why?"
+    },
+    {
+      "start": 1359,
+      "timestamp": "22:39",
+      "text": "Same as the one behind. To CM Saheb"
+    },
+    {
+      "start": 1362,
+      "timestamp": "22:42",
+      "text": "Two. Is it the same or a duplicate?"
+    },
+    {
+      "start": 1364,
+      "timestamp": "22:44",
+      "text": "Is it unique? Is it a duplicate? beans from the back"
+    },
+    {
+      "start": 1366,
+      "timestamp": "22:46",
+      "text": "Right brother? Give three to CM sir. What"
+    },
+    {
+      "start": 1369,
+      "timestamp": "22:49",
+      "text": "Is this unique? Yes, it is unique. so its"
+    },
+    {
+      "start": 1372,
+      "timestamp": "22:52",
+      "text": "What is the meaning? Pick it up one of the officer's"
+    },
+    {
+      "start": 1375,
+      "timestamp": "22:55",
+      "text": "Put the next one in the house. officer gets a raise"
+    },
+    {
+      "start": 1378,
+      "timestamp": "22:58",
+      "text": "Two. Increase Unique by one. And CM sir"
+    },
+    {
+      "start": 1381,
+      "timestamp": "23:01",
+      "text": "It keeps increasing in every case. is this"
+    },
+    {
+      "start": 1384,
+      "timestamp": "23:04",
+      "text": "Is it unique or the same? This is not unique."
+    },
+    {
+      "start": 1387,
+      "timestamp": "23:07",
+      "text": "Same as the one behind. CM sir gets a raise"
+    },
+    {
+      "start": 1389,
+      "timestamp": "23:09",
+      "text": "Two. Is this unique? Yes, it is unique."
+    },
+    {
+      "start": 1391,
+      "timestamp": "23:11",
+      "text": "Where will you put this? officer one ahead of officer"
+    },
+    {
+      "start": 1393,
+      "timestamp": "23:13",
+      "text": "Was on the forest. Will pick it up and put it on two."
+    },
+    {
+      "start": 1396,
+      "timestamp": "23:16",
+      "text": "Will pick it up and put it on two. after this"
+    },
+    {
+      "start": 1399,
+      "timestamp": "23:19",
+      "text": "Will give one increase to the officer. After this one"
+    },
+    {
+      "start": 1402,
+      "timestamp": "23:22",
+      "text": "Will increase. CM sir, in every case of ours"
+    },
+    {
+      "start": 1405,
+      "timestamp": "23:25",
+      "text": "Keep increasing. As soon as CM Saheb is here"
+    },
+    {
+      "start": 1407,
+      "timestamp": "23:27",
+      "text": "- 1 which is near the length of the array of fives"
+    },
+    {
+      "start": 1410,
+      "timestamp": "23:30",
+      "text": "The program reached its end. what to do return"
+    },
+    {
+      "start": 1412,
+      "timestamp": "23:32",
+      "text": "Are you? Three. What is three? number off"
+    },
+    {
+      "start": 1414,
+      "timestamp": "23:34",
+      "text": "Unique People. When you see the original array"
+    },
+    {
+      "start": 1416,
+      "timestamp": "23:36",
+      "text": "The number of unique people was three. 1 2 3 like this"
+    },
+    {
+      "start": 1419,
+      "timestamp": "23:39",
+      "text": "By doing this you place these. so now this"
+    },
+    {
+      "start": 1422,
+      "timestamp": "23:42",
+      "text": "What is the pattern? Pattern to pointer. Why"
+    },
+    {
+      "start": 1424,
+      "timestamp": "23:44",
+      "text": "Two pointer? CM sir do some work alone"
+    },
+    {
+      "start": 1426,
+      "timestamp": "23:46",
+      "text": "Have been. officer doing some work alone"
+    },
+    {
+      "start": 1428,
+      "timestamp": "23:48",
+      "text": "Is. CM and officer are working together."
+    },
+    {
+      "start": 1430,
+      "timestamp": "23:50",
+      "text": "As soon as the CM finds someone, he feels"
+    },
+    {
+      "start": 1432,
+      "timestamp": "23:52",
+      "text": "I mean, this is unique, so I call it that."
+    },
+    {
+      "start": 1434,
+      "timestamp": "23:54",
+      "text": "You go and take the house next to the officer."
+    },
+    {
+      "start": 1436,
+      "timestamp": "23:56",
+      "text": "Take. Officer, you go ahead and so does the CM."
+    },
+    {
+      "start": 1439,
+      "timestamp": "23:59",
+      "text": "Moves forward. If the CM feels that"
+    },
+    {
+      "start": 1441,
+      "timestamp": "24:01",
+      "text": "If this is a duplicate then the CM would have just moved ahead."
+    },
+    {
+      "start": 1443,
+      "timestamp": "24:03",
+      "text": "Is. Now you understand how to coordinate"
+    },
+    {
+      "start": 1445,
+      "timestamp": "24:05",
+      "text": "Used to be. This is what two pointer means"
+    },
+    {
+      "start": 1448,
+      "timestamp": "24:08",
+      "text": "two pointers work together"
+    },
+    {
+      "start": 1449,
+      "timestamp": "24:09",
+      "text": "By coordination. CM says that you"
+    },
+    {
+      "start": 1451,
+      "timestamp": "24:11",
+      "text": "Go take the house next to the officer. Meaning"
+    },
+    {
+      "start": 1453,
+      "timestamp": "24:13",
+      "text": "Coordination is taking place. This was a two pointer."
+    },
+    {
+      "start": 1455,
+      "timestamp": "24:15",
+      "text": "Now let us quickly show you the pseudo code."
+    },
+    {
+      "start": 1457,
+      "timestamp": "24:17",
+      "text": "Let's give. What will I give you, brother? array"
+    },
+    {
+      "start": 1460,
+      "timestamp": "24:20",
+      "text": "Will be given which will be sorted. To you"
+    },
+    {
+      "start": 1465,
+      "timestamp": "24:25",
+      "text": "What to do about returns? number of unique"
+    },
+    {
+      "start": 1467,
+      "timestamp": "24:27",
+      "text": "Elements have to be returned. this is the return"
+    },
+    {
+      "start": 1470,
+      "timestamp": "24:30",
+      "text": "Have to do. And you also have to rearrange the array"
+    },
+    {
+      "start": 1473,
+      "timestamp": "24:33",
+      "text": "Is. First of all you go to the officer."
+    },
+    {
+      "start": 1477,
+      "timestamp": "24:37",
+      "text": "Only officer should speak to understand. low high also"
+    },
+    {
+      "start": 1479,
+      "timestamp": "24:39",
+      "text": "Some people say. But okay. Do."
+    },
+    {
+      "start": 1482,
+      "timestamp": "24:42",
+      "text": "Whatever this is our unique element, we call it"
+    },
+    {
+      "start": 1484,
+      "timestamp": "24:44",
+      "text": "People took the forest. Why forest? There is one and one"
+    },
+    {
+      "start": 1486,
+      "timestamp": "24:46",
+      "text": "Took CM also. Have to start from cm one."
+    },
+    {
+      "start": 1489,
+      "timestamp": "24:49",
+      "text": "How long is the program to run? as long as"
+    },
+    {
+      "start": 1493,
+      "timestamp": "24:53",
+      "text": "It should not be less than CM sir's length. What is n? n"
+    },
+    {
+      "start": 1496,
+      "timestamp": "24:56",
+      "text": "= Length. Array dot length."
+    },
+    {
+      "start": 1500,
+      "timestamp": "25:00",
+      "text": "Now what should CM do first?"
+    },
+    {
+      "start": 1503,
+      "timestamp": "25:03",
+      "text": "Are? Let's check for duplicates. Duplicate"
+    },
+    {
+      "start": 1504,
+      "timestamp": "25:04",
+      "text": "How to check? that current element"
+    },
+    {
+      "start": 1506,
+      "timestamp": "25:06",
+      "text": "Is it equal to the previous one or not? So if array of"
+    },
+    {
+      "start": 1510,
+      "timestamp": "25:10",
+      "text": "cM equals equal array of cM - 1 if"
+    },
+    {
+      "start": 1515,
+      "timestamp": "25:15",
+      "text": "If it is a duplicate then what did the CMG do? Oho"
+    },
+    {
+      "start": 1517,
+      "timestamp": "25:17",
+      "text": "CM increases brother. CM does not stop"
+    },
+    {
+      "start": 1519,
+      "timestamp": "25:19",
+      "text": "Are for someone. and continue"
+    },
+    {
+      "start": 1522,
+      "timestamp": "25:22",
+      "text": "Continue means no further execution"
+    },
+    {
+      "start": 1524,
+      "timestamp": "25:24",
+      "text": "do it. Move on to the next loop iteration, brother."
+    },
+    {
+      "start": 1526,
+      "timestamp": "25:26",
+      "text": "But but but but you have come here. You"
+    },
+    {
+      "start": 1529,
+      "timestamp": "25:29",
+      "text": "Have come here. means you got unique"
+    },
+    {
+      "start": 1530,
+      "timestamp": "25:30",
+      "text": "Is. If you had a duplicate then you would have been promoted to CM."
+    },
+    {
+      "start": 1533,
+      "timestamp": "25:33",
+      "text": "Would have continued. but came here"
+    },
+    {
+      "start": 1534,
+      "timestamp": "25:34",
+      "text": "So a duplicate has been found. first task"
+    },
+    {
+      "start": 1537,
+      "timestamp": "25:37",
+      "text": "What do you do? Let's give this man a home."
+    },
+    {
+      "start": 1539,
+      "timestamp": "25:39",
+      "text": "Where do you give a house? officer +1 officer wala"
+    },
+    {
+      "start": 1542,
+      "timestamp": "25:42",
+      "text": "No, the officer is full, child. equal to"
+    },
+    {
+      "start": 1545,
+      "timestamp": "25:45",
+      "text": "To which person are you giving the house? where cm"
+    },
+    {
+      "start": 1547,
+      "timestamp": "25:47",
+      "text": "Sir is here now. gets home."
+    },
+    {
+      "start": 1551,
+      "timestamp": "25:51",
+      "text": "The officer increased. And the number of unique also increased"
+    },
+    {
+      "start": 1555,
+      "timestamp": "25:55",
+      "text": "Went. Rest plus has become plus and CM sir"
+    },
+    {
+      "start": 1558,
+      "timestamp": "25:58",
+      "text": "So they keep on increasing. Brother CM Saheb"
+    },
+    {
+      "start": 1560,
+      "timestamp": "26:00",
+      "text": "Don't stop. This loop is over. loop when"
+    },
+    {
+      "start": 1562,
+      "timestamp": "26:02",
+      "text": "will end? When CM Saheb reached last"
+    },
+    {
+      "start": 1563,
+      "timestamp": "26:03",
+      "text": "If you go out of Bihar then loop"
+    },
+    {
+      "start": 1565,
+      "timestamp": "26:05",
+      "text": "It will end. And what do you have to return?"
+    },
+    {
+      "start": 1567,
+      "timestamp": "26:07",
+      "text": "Is? You have to return this to you. These"
+    },
+    {
+      "start": 1570,
+      "timestamp": "26:10",
+      "text": "Those who were increasing the race have to return the race. These"
+    },
+    {
+      "start": 1572,
+      "timestamp": "26:12",
+      "text": "Pseudo code is done. its time"
+    },
+    {
+      "start": 1574,
+      "timestamp": "26:14",
+      "text": "Complexity"
+    },
+    {
+      "start": 1576,
+      "timestamp": "26:16",
+      "text": "What are you doing in array now? you are here"
+    },
+    {
+      "start": 1578,
+      "timestamp": "26:18",
+      "text": "I am doing something that a man"
+    },
+    {
+      "start": 1580,
+      "timestamp": "26:20",
+      "text": "going on completely and after that inside the same"
+    },
+    {
+      "start": 1582,
+      "timestamp": "26:22",
+      "text": "Another man going full circle again and again. No"
+    },
+    {
+      "start": 1584,
+      "timestamp": "26:24",
+      "text": "This is happening. CM sir from one line"
+    },
+    {
+      "start": 1586,
+      "timestamp": "26:26",
+      "text": "Going to the end. Whenever CM Sahib"
+    },
+    {
+      "start": 1588,
+      "timestamp": "26:28",
+      "text": "If he feels something, he gets some work done. He"
+    },
+    {
+      "start": 1590,
+      "timestamp": "26:30",
+      "text": "Send it to the officer and get the work done. They"
+    },
+    {
+      "start": 1592,
+      "timestamp": "26:32",
+      "text": "All constant is small work. CM sir"
+    },
+    {
+      "start": 1594,
+      "timestamp": "26:34",
+      "text": "What are you doing? CM sir CM sir"
+    },
+    {
+      "start": 1597,
+      "timestamp": "26:37",
+      "text": "Walking from here to here. whenever they"
+    },
+    {
+      "start": 1599,
+      "timestamp": "26:39",
+      "text": "Something unique seems to be the house swap."
+    },
+    {
+      "start": 1601,
+      "timestamp": "26:41",
+      "text": "We do. Let's promote the officer. to unique"
+    },
+    {
+      "start": 1604,
+      "timestamp": "26:44",
+      "text": "Let's increase and move forward with our work"
+    },
+    {
+      "start": 1605,
+      "timestamp": "26:45",
+      "text": "We do. That's why only one is passing"
+    },
+    {
+      "start": 1608,
+      "timestamp": "26:48",
+      "text": "Is in the array. Its time complexity"
+    },
+    {
+      "start": 1610,
+      "timestamp": "26:50",
+      "text": "Order of n is any kind of space"
+    },
+    {
+      "start": 1612,
+      "timestamp": "26:52",
+      "text": "are you taking? All that we mentioned above"
+    },
+    {
+      "start": 1615,
+      "timestamp": "26:55",
+      "text": "Make the man of the society stand separately. As such"
+    },
+    {
+      "start": 1617,
+      "timestamp": "26:57",
+      "text": "Are you doing something like this? You are saying that different"
+    },
+    {
+      "start": 1619,
+      "timestamp": "26:59",
+      "text": "hit the ground. Not doing anything brother. Some?"
+    },
+    {
+      "start": 1620,
+      "timestamp": "27:00",
+      "text": "Not doing. Zero space brother. Zero space."
+    },
+    {
+      "start": 1622,
+      "timestamp": "27:02",
+      "text": "Two pointer is used only because zero"
+    },
+    {
+      "start": 1624,
+      "timestamp": "27:04",
+      "text": "We have to take space. we need space"
+    },
+    {
+      "start": 1625,
+      "timestamp": "27:05",
+      "text": "Don't want to take it. So its order is n."
+    },
+    {
+      "start": 1628,
+      "timestamp": "27:08",
+      "text": "Time and order of one became its space."
+    },
+    {
+      "start": 1630,
+      "timestamp": "27:10",
+      "text": "We should never use space."
+    },
+    {
+      "start": 1632,
+      "timestamp": "27:12",
+      "text": "want. That's why two pointers are important"
+    },
+    {
+      "start": 1634,
+      "timestamp": "27:14",
+      "text": "Is. What did we say in the question?"
+    },
+    {
+      "start": 1636,
+      "timestamp": "27:16",
+      "text": "Have done. Yes, we have done everything."
+    },
+    {
+      "start": 1638,
+      "timestamp": "27:18",
+      "text": "Isn't it? So if anyone has doubts now"
+    },
+    {
+      "start": 1640,
+      "timestamp": "27:20",
+      "text": "Please ask in comments. anyone think that this"
+    },
+    {
+      "start": 1643,
+      "timestamp": "27:23",
+      "text": "Couldn't understand from the example. a little more you"
+    },
+    {
+      "start": 1646,
+      "timestamp": "27:26",
+      "text": "If you want to explain then please ask. and whatever you"
+    },
+    {
+      "start": 1648,
+      "timestamp": "27:28",
+      "text": "People will ask doubts in the next class."
+    },
+    {
+      "start": 1650,
+      "timestamp": "27:30",
+      "text": "Will answer. That's why one child is enough"
+    },
+    {
+      "start": 1652,
+      "timestamp": "27:32",
+      "text": "Achcha Doubt was asked in the last class that you"
+    },
+    {
+      "start": 1655,
+      "timestamp": "27:35",
+      "text": "What did you tell me earlier about the one that is two or two?"
+    },
+    {
+      "start": 1657,
+      "timestamp": "27:37",
+      "text": "In that you said that the n of the last one"
+    },
+    {
+      "start": 1659,
+      "timestamp": "27:39",
+      "text": "Log time comes. How does this n log time come about?"
+    },
+    {
+      "start": 1662,
+      "timestamp": "27:42",
+      "text": "Is? Look at the time complexity."
+    },
+    {
+      "start": 1664,
+      "timestamp": "27:44",
+      "text": "How does it go? Suppose in your house"
+    },
+    {
+      "start": 1667,
+      "timestamp": "27:47",
+      "text": "You are. Is your father. your mother"
+    },
+    {
+      "start": 1671,
+      "timestamp": "27:51",
+      "text": "Are. You earn ₹00. your father ₹400"
+    },
+    {
+      "start": 1676,
+      "timestamp": "27:56",
+      "text": "Earn. Your mother earns ₹10,000"
+    },
+    {
+      "start": 1678,
+      "timestamp": "27:58",
+      "text": "Are. Ok? If you want time for this house now"
+    },
+    {
+      "start": 1682,
+      "timestamp": "28:02",
+      "text": "This is not the point of removing complexity"
+    },
+    {
+      "start": 1683,
+      "timestamp": "28:03",
+      "text": "That is, you add everyone. If of this house"
+    },
+    {
+      "start": 1685,
+      "timestamp": "28:05",
+      "text": "If you want to calculate total income then time"
+    },
+    {
+      "start": 1687,
+      "timestamp": "28:07",
+      "text": "All according to the rule of complexity"
+    },
+    {
+      "start": 1689,
+      "timestamp": "28:09",
+      "text": "What is the maximum?"
+    },
+    {
+      "start": 1691,
+      "timestamp": "28:11",
+      "text": "40,000 so you say that the income of this house"
+    },
+    {
+      "start": 1694,
+      "timestamp": "28:14",
+      "text": "or the time of our program"
+    },
+    {
+      "start": 1696,
+      "timestamp": "28:16",
+      "text": "The complexity is 40,000. That's why"
+    },
+    {
+      "start": 1699,
+      "timestamp": "28:19",
+      "text": "Came unlogged. Whenever you are in the program"
+    },
+    {
+      "start": 1701,
+      "timestamp": "28:21",
+      "text": "Work independently, for example"
+    },
+    {
+      "start": 1703,
+      "timestamp": "28:23",
+      "text": "You have written this very big program."
+    },
+    {
+      "start": 1705,
+      "timestamp": "28:25",
+      "text": "In this, when you do small independent work"
+    },
+    {
+      "start": 1707,
+      "timestamp": "28:27",
+      "text": "Have been. For example here you can see some"
+    },
+    {
+      "start": 1709,
+      "timestamp": "28:29",
+      "text": "Sorted. Here you run a function."
+    },
+    {
+      "start": 1713,
+      "timestamp": "28:33",
+      "text": "Here you run another function. these three"
+    },
+    {
+      "start": 1715,
+      "timestamp": "28:35",
+      "text": "The work is independent from each other. In this"
+    },
+    {
+      "start": 1717,
+      "timestamp": "28:37",
+      "text": "Time taken n log n. Time order imposed in this"
+    },
+    {
+      "start": 1720,
+      "timestamp": "28:40",
+      "text": "off n. It took n². So when you total"
+    },
+    {
+      "start": 1722,
+      "timestamp": "28:42",
+      "text": "Let's calculate time complexity."
+    },
+    {
+      "start": 1724,
+      "timestamp": "28:44",
+      "text": "Don't do it to everyone. Maximum. In this"
+    },
+    {
+      "start": 1726,
+      "timestamp": "28:46",
+      "text": "What is the maximum? n² is maximum then you"
+    },
+    {
+      "start": 1728,
+      "timestamp": "28:48",
+      "text": "Let's say my time complexity n²"
+    },
+    {
+      "start": 1730,
+      "timestamp": "28:50",
+      "text": "Is. That's why this happens. Time"
+    },
+    {
+      "start": 1731,
+      "timestamp": "28:51",
+      "text": "Will do a lecture on complexity. To you"
+    },
+    {
+      "start": 1733,
+      "timestamp": "28:53",
+      "text": "Will explain what its n means."
+    },
+    {
+      "start": 1735,
+      "timestamp": "28:55",
+      "text": "But there was a good doubt. There was a good doubt. Who"
+    },
+    {
+      "start": 1737,
+      "timestamp": "28:57",
+      "text": "The child had also asked Doubt, very, very good."
+    },
+    {
+      "start": 1738,
+      "timestamp": "28:58",
+      "text": "If you guys also have any doubt then please ask."
+    },
+    {
+      "start": 1740,
+      "timestamp": "29:00",
+      "text": "We will tell that in the next video. every"
+    },
+    {
+      "start": 1742,
+      "timestamp": "29:02",
+      "text": "We read the comments. it's not like that no"
+    },
+    {
+      "start": 1743,
+      "timestamp": "29:03",
+      "text": "Let's read. So this is pseudo code and so on. pause"
+    },
+    {
+      "start": 1746,
+      "timestamp": "29:06",
+      "text": "Try it. Go and submit. array one"
+    },
+    {
+      "start": 1748,
+      "timestamp": "29:08",
+      "text": "Have to question. which is written in the second column"
+    },
+    {
+      "start": 1750,
+      "timestamp": "29:10",
+      "text": "It has happened. You saw in the beginning that you have to do that."
+    },
+    {
+      "start": 1751,
+      "timestamp": "29:11",
+      "text": "Don't list the links yet. link list we"
+    },
+    {
+      "start": 1753,
+      "timestamp": "29:13",
+      "text": "Will tell you. but also in link list"
+    },
+    {
+      "start": 1755,
+      "timestamp": "29:15",
+      "text": "Same theory. What is the link list to you?"
+    },
+    {
+      "start": 1757,
+      "timestamp": "29:17",
+      "text": "What is the difference between the two questions?"
+    },
+    {
+      "start": 1758,
+      "timestamp": "29:18",
+      "text": "One speaks that duplicates from sorted array"
+    },
+    {
+      "start": 1760,
+      "timestamp": "29:20",
+      "text": "Remove. Second says sorted link list"
+    },
+    {
+      "start": 1762,
+      "timestamp": "29:22",
+      "text": "Remove duplicates from. The theory is the same. theory"
+    },
+    {
+      "start": 1764,
+      "timestamp": "29:24",
+      "text": "This is the one with CM and officer. you understood right"
+    },
+    {
+      "start": 1766,
+      "timestamp": "29:26",
+      "text": "How did the coordination happen? how the two interact"
+    },
+    {
+      "start": 1768,
+      "timestamp": "29:28",
+      "text": "They worked together. this is what happens"
+    },
+    {
+      "start": 1770,
+      "timestamp": "29:30",
+      "text": "Power of the pointer. If CM keeps doing it alone"
+    },
+    {
+      "start": 1772,
+      "timestamp": "29:32",
+      "text": "So it takes a lot of time. but just one more"
+    },
+    {
+      "start": 1775,
+      "timestamp": "29:35",
+      "text": "By using man, time is reduced. then this would happen"
+    },
+    {
+      "start": 1777,
+      "timestamp": "29:37",
+      "text": "Power of two pointer. And those who are still"
+    },
+    {
+      "start": 1780,
+      "timestamp": "29:40",
+      "text": "watching thank you very much for watching"
+    },
+    {
+      "start": 1782,
+      "timestamp": "29:42",
+      "text": "Whatever support you guys have been showing so far"
+    },
+    {
+      "start": 1784,
+      "timestamp": "29:44",
+      "text": "It is very good. This is how you guys support"
+    },
+    {
+      "start": 1786,
+      "timestamp": "29:46",
+      "text": "Keep showing. This is how we teach you"
+    },
+    {
+      "start": 1787,
+      "timestamp": "29:47",
+      "text": "Will stay and make it to 100 till my birthday"
+    },
+    {
+      "start": 1791,
+      "timestamp": "29:51",
+      "text": "Give it. We are your job till my birthday."
+    },
+    {
+      "start": 1792,
+      "timestamp": "29:52",
+      "text": "Will get it installed. Isn't it? This is give and take"
+    },
+    {
+      "start": 1794,
+      "timestamp": "29:54",
+      "text": "That's the situation. so let's go very much"
+    },
+    {
+      "start": 1797,
+      "timestamp": "29:57",
+      "text": "Thank you. Watch videos daily. consistent"
+    },
+    {
+      "start": 1799,
+      "timestamp": "29:59",
+      "text": "Stay. Make notes. Submit. Any"
+    },
+    {
+      "start": 1803,
+      "timestamp": "30:03",
+      "text": "If you have doubts, don't be afraid. your brother is sitting"
+    },
+    {
+      "start": 1805,
+      "timestamp": "30:05",
+      "text": "It happened here. ask us and"
+    }
+  ]
+}

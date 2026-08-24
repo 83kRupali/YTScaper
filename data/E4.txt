@@ -1,0 +1,769 @@
+Video ID: PvyEr3CeKzE
+Video URL: https://www.youtube.com/watch?v=PvyEr3CeKzE&list=PLbJhGqY-mq47k_WLUtzVjmarUm1EuXPj2&index=4
+Language: en
+[00:00] Today is day two. Welcome everyone. to start
+[00:03] Before starting, I want to tell you an important thing, see
+[00:05] We believe that in today's era you people
+[00:07] If you are going to watch a three-second reel, then 40
+[00:09] The minute video seems too long. In this
+[00:10] You all must be crazy
+[00:13] How will we sit for 40 minutes? but not complete
+[00:15] Watch the video. If you are watching a video
+[00:17] So watch it completely. Now there is a reason for this. Its
+[00:19] The reason is not to increase my watch time
+[00:21] Is. You have to monetize my channel.
+[00:23] I have to manage my household expenses. not like that
+[00:24] Not there. But when we teach you for 40 minutes
+[00:27] If you like the two pointer pattern
+[00:30] Are teaching. teaching him a question or two
+[00:32] If yes then everything is connected. It is not that we
+[00:34] We are teaching you history about Akbar.
+[00:36] Tell me about your life, then tell about Humayun, then
+[00:37] Tell about Jahangir. so you think
+[00:39] Akbar is done, the rest is up to us.
+[00:41] If we know in advance then we leave it.
+[00:42] It's not like that. small talk
+[00:45] Listen to the full video because
+[00:48] The quality of your coding will increase. Yours
+[00:49] The quality of thinking will increase. When we first
+[00:52] We used to see that we are not born. Look, we are not born.
+[00:55] It was my intention to become an expert in DSA.
+[00:56] Were not born. so we first
+[00:58] Used to watch Striver's video. love babbar
+[01:00] Used to watch video of. a sumit malik sir
+[01:02] Used to be. Let's run Pep Coding. their
+[01:04] Used to watch videos. So these people's video also
+[01:06] Lived very big. 40 minutes, 1
+[01:07] Of an hour, of 1.5 hours. so we also thought
+[01:10] what to see. I understand only 10
+[01:12] Would arrive within minutes. which in 10 minutes
+[01:13] He would explain, we would understand, we would code.
+[01:15] Were. So earlier we also used to leave it.
+[01:17] But then we see that Striver
+[01:19] You will watch the full video also. in between
+[01:21] I will tell you little by little, like this
+[01:23] He will tell good things, so well
+[01:25] Will you write the code and you will think oh my god
+[01:27] So it was a very good thing. We will never do this
+[01:28] Could think. That is why it is important to see all this and
+[01:31] Because we have watched so many videos
+[01:33] Neither is the good thing about those people, nor about us.
+[01:35] Let us tell. tell me something original too
+[01:37] Are. So if you watch the whole video then
+[01:39] You will have an understanding. That's why
+[01:41] It is important that you watch the entire video. remaining 2
+[01:43] To see 4 minutes of Instagram,
+[01:45] Let's watch the reels, brother. Instagram's
+[01:47] Watch the reels a lot. Scroll in 3-seconds
+[01:49] Do it. But take out 40 minutes of the day
+[01:52] Watch this video for a minute. watch time
+[01:54] Not to increase your thinking power
+[01:56] To increase. Ok? Ok? So
+[01:57] Motivation is done. So today is day two. Today
+[01:59] The questions we are going to ask are
+[02:01] is removed
+[02:03] Duplicate. must have appeared on your screen
+[02:05] Question. That question has to be asked. array one
+[02:06] Have to question. also with link list
+[02:08] Don't have to do it. We will teach the link list now.
+[02:10] First the array is disposed in this pattern.
+[02:12] So what is the question? remove duplicates
+[02:14] From Sorted Array. now day one flow
+[02:18] Do you remember the chart or not, brother? remember that
+[02:19] No? If you don't remember then flow chart of day one
+[02:21] Go and see. note it down in your copy
+[02:23] Read it two-three times. Now look at this question
+[02:25] What are you seeing in me? the first one
+[02:27] Remember the point Remove Duplicate Flow Chart
+[02:30] From sorted array first sign of array
+[02:33] Is there a question or not, brother? array question
+[02:35] Is it or not? Yes sir. Hey what question?
+[02:38] Sorted is written in? either sorted
+[02:40] Doing this will help. Yes, it is written.
+[02:42] Is sorted. What's the problem? also sorted
+[02:44] It is written. What else is written? remove
+[02:46] Duplicate. Remove Duplicates. flow chart
+[02:48] Exact match was taking place in the third step of
+[02:51] Brother. Remove Duplicates. Rearrange Array,
+[02:53] Remove Duplicates, Merge All See You
+[02:56] Everything is told to you in the question.
+[02:58] Question means your help
+[03:00] To do it you just have to understand. you just
+[03:01] Must know how to make connections. get all three things
+[03:04] Has gone. You got no 80 in this question
+[03:07] There is a 90% chance that a two pointer will be taken. First
+[03:10] You have to start thinking from this. like this we
+[03:12] People understand that about the two pointer
+[03:13] Can be thought. Now what is this question? Is
+[03:16] We will tell you this in a little while.
+[03:18] The question is that you are given an array.
+[03:21] The array is sorted and the first thing in the array is
+[03:23] There may be a duplicate element.
+[03:25] Duplicate means repeated element. yes
+[03:27] Your array may be like this. be one three times,
+[03:30] Twice there are two and twice there are three. It is possible
+[03:33] Is. Now see this array is sorted. Yes sir
+[03:37] Is sorted. There are duplicates in the array.
+[03:38] There is also a duplicate. what have you been told
+[03:40] Removes duplicates from that array. But
+[03:43] But but one more thing is written
+[03:45] The question is whether to order these.
+[03:48] Inorder means no space, no space. previous
+[03:51] It was mentioned in the video that it was worth one billion.
+[03:53] The array uses 16 GB RAM. that's why no
+[03:56] Last step of space no space flow chart
+[03:58] Was. So you see all four things have matched.
+[04:00] There is a question of array. is a sorted array.
+[04:02] Have to remove duplicates. in zero space
+[04:04] Have to do. A two pointer will definitely be involved in this.
+[04:06] Can't be solved by any other algorithm
+[04:08] This question sometime. Come now. now in space
+[04:11] If you want to do it, do you have to make a return?
+[04:13] What is it, it is a return to you in a way.
+[04:15] Have to give a value but that is a different matter
+[04:17] What is your work? What is your main work?
+[04:20] This array has to be made like this, now look at this
+[04:22] What are duplicate and unique elements?
+[04:25] One is unique, two is unique, three is unique
+[04:28] There are only three unique elements and everything else
+[04:30] Is repeated. What you have to do is to array
+[04:32] It has to be arranged in such a way that the forest comes first.
+[04:34] Then comes two, then comes three. once you
+[04:38] After writing this, you can write anything in the array.
+[04:40] Do it, it doesn't matter. input output
+[04:42] This is what makes the difference. listen to that again
+[04:45] There are so many duplicate unique elements.
+[04:47] There are three unique elements. you get all three
+[04:49] The unique element has to be brought from the beginning. 1 2
+[04:51] 3 After that you can do anything
+[04:53] In. After that write your name on the array
+[04:54] Give it. It doesn't matter. output
+[04:56] This is what makes the difference. That's right. Understanding
+[04:58] Everyone must have come. very good thing.
+[05:01] Now let us explain this with an example.
+[05:03] What does this question want to say?
+[05:05] How do you have to think about the question?
+[05:07] How to put two pointer in the question? Now
+[05:09] Suppose elections are going on in Bihar. Correct
+[05:11] Is? So it's not a matter of cast but
+[05:13] Election is on, brother, so you have to understand.
+[05:15] It is easy. Suppose you are the Chief Minister
+[05:17] Are. You are the Chief Minister. came home to you
+[05:21] It has happened. Isn't it? This is the house of PM Awas Yojana
+[05:25] Is. A lot. very social man
+[05:27] Is. You have a man from Dalit community. Your
+[05:31] Nearby is a man from Muslim community. near you
+[05:34] He is a man of Yadav society. and you have
+[05:36] He is also a man of Brahmin community. a lot of
+[05:38] The man lives, right? What do you have to do? Yours
+[05:41] What is the work? Now Dalit community is not like this
+[05:43] That there is only one man in Bihar. dalit society
+[05:45] Is a great man. So the respect of Dalit community
+[05:47] Take three men. Two of Muslim society
+[05:49] Is a man. There are three men from Yadav community and
+[05:51] There are two men from Brahmin community. total cast
+[05:56] How much is done? Total cast is four.
+[05:58] You got only four houses from PM Awas Yojana
+[06:00] Is. You have been given only four houses. Yours
+[06:04] What is the work? That a Dalit man gets a house.
+[06:08] A Muslim man should get a house. a yadav
+[06:11] A man gets a house and a Brahmin man
+[06:13] If it finds a home then there should be no duplicates. Four
+[06:16] There is a house, there are four castes, so each caste has one
+[06:17] The man has to be given a house. ignore the rest
+[06:19] Give. This is your job as a Chief Minister.
+[06:22] Ok? Now what have you been told that now
+[06:25] You also have an officer. you have an officer
+[06:27] Is also. You are the Chief Minister. You
+[06:29] Is the Chief Minister. Come on we are little man
+[06:31] Is. We are officers. what have you been told
+[06:34] That everything is like this, isn't it? These people are already
+[06:36] Lives a lot at home. Ok?
+[06:39] These people have a lot of houses in Bihar. 0 1 2 3
+[06:43] 4 5 6 7 8 How do these people live now? First
+[06:47] The brother-in-law remains a Dalit. Sara remains a Dalit. D
+[06:50] Three after that two men from Muslim community
+[06:53] Live. Three men belong to Yadav community
+[06:55] Are. And let's go two men from Brahmin community
+[06:58] Live. Ok? It's a good thing. you like this
+[07:01] Now you were told that sir, the first four
+[07:03] That house is the Chief Minister's house and that is the PM residence.
+[07:05] Has a plan. The first four houses mean this
+[07:08] This is the house, sir, now from the beginning of this
+[07:11] Look at the first four houses, three in the first four houses.
+[07:12] People from Dalit community are living there. One
+[07:14] People of Muslim community are living there. To you
+[07:16] The officer was called and said, Sir, we do not like this.
+[07:18] Should do. One Dalit in the first four houses
+[07:21] Society one Muslim, one Yadav and one Brahmin
+[07:24] should be given a house. So this is the question
+[07:25] No. This is what the question is saying to you
+[07:27] That duplicate has to be removed brother. the first four
+[07:29] Unique in all the slots in the beginning
+[07:32] Keep the man. no different from the rest of the house
+[07:34] Does matter. No matter who lives in the rest of the house or
+[07:37] It doesn't matter whether someone is there or someone else comes.
+[07:39] Doesn't fall. We from the first four houses
+[07:41] Does it matter? Why does it fall by four?
+[07:42] Because the number of unique elements is four. Now
+[07:45] See what we told you in the last class?
+[07:48] Before writing any algorithm, first
+[07:51] Consider it brute force. Ok? Now
+[07:54] What will be your brute force? now root
+[07:55] What will you say in the force that is the dirtiest
+[07:58] This could be the solution. will say that
+[07:59] Brother, listen, all the people of Dalit community are standing here.
+[08:02] Come on, speak in one line, okay sir?
+[08:04] The entire Muslim community has become an array of this.
+[08:06] People of Yadav community, stand here.
+[08:10] Let the people stand in a separate line brother and
+[08:12] All Brahmin men stand aside brother.
+[08:15] Now you started in that array what did you do
+[08:18] Started raising the Dalit community one by one
+[08:20] One man takes the first man home here
+[08:23] Gave it to the first person of Muslim community to raise
+[08:25] Gave away the house here and picked up the house of Yadav community.
+[08:27] Gave me a house here and took her as a Brahmin.
+[08:29] Gave a house here. You did the rest of the house, right?
+[08:31] It doesn't matter what you do. so 0 1 2
+[08:34] 3 Look at the four unique houses in the first four houses.
+[08:36] The element has arrived. So this is the solution
+[08:38] Could. But what can you do for this?
+[08:40] Are you? You are making a lot of fuss about this
+[08:42] Are. For this you are telling Dalit people
+[08:43] So you go and stand in a different house first.
+[08:46] Telling Muslim people that you are different
+[08:47] Stand in the field. Yadav people
+[08:49] They are saying, brother, stay in a different field.
+[08:51] You are saying that you are standing in a different field.
+[08:52] So using a lot of space. Meaning
+[08:54] Where will these people stand? these people in the field
+[08:56] Will stand, right? You feel four types of fields.
+[08:58] Will go. After that it will take more time for you to
+[09:00] Have to select one by one and then insert. But
+[09:03] Your life is already made easy
+[09:05] Question. What did the question tell you?
+[09:07] Now if the questions are sorted you
+[09:10] Have you ever said in your life, remember that
+[09:12] Any work, no man is free
+[09:14] Does. any man, any time, any thing
+[09:18] Babu, he doesn't do anything without any reason. so you
+[09:21] What has been said? Sorted. now you
+[09:23] Why is it called sorted? that lead code
+[09:24] Did you feel like sorting that one? No. No.
+[09:26] Sorting takes a lot of time. Any
+[09:28] Sorting an array takes n log n time.
+[09:30] Is. If you are given a sorted array then
+[09:32] Given with reason. He doesn't feel like it.
+[09:34] He is you, he is your uncle, isn't he?
+[09:36] Told me to take it sorted brother. sorted
+[09:38] Why is it given? Sorted is given so that
+[09:41] People from all over the society will be anywhere. so one
+[09:44] Will be in the same line. means to say
+[09:46] What does it mean that if some people of Dalit community
+[09:48] If so, then everyone will be together. Muslim
+[09:50] The people of the society will be together. Yadav
+[09:52] The people of the society will be together. Brahmin's
+[09:54] People will be together. not different
+[09:56] Must be because it is sorted. so say this
+[09:58] Means there is D1, there is D2, there is D3. Its
+[10:02] After this, if even one Muslim starts, even one
+[10:04] If the people of Muslim community start then that's it.
+[10:06] Remained Muslim. Now Dalits cannot come
+[10:08] Because it is sorted. standing in a line
+[10:10] Everyone forms a group. Now look at it like this
+[10:13] Was given to you. so wherever people are
+[10:17] Don't see all the people of Dalit community in one line
+[10:19] Are in. Yes, we are in one line. all
+[10:20] People of Muslim community are in a line. Yes
+[10:22] Are. All the Yadav people are in a line. all
+[10:24] Brahmin people are in a line. so this you
+[10:27] Sorted means given. so one of
+[10:29] Method of doing why you use two pointer
+[10:31] Have to do? Two pointer explains why use
+[10:33] Have to do? How to use? Why? so you
+[10:36] Have understood. Why? So from the flow chart everyone
+[10:37] Must have understood. you can do one thing
+[10:39] Are here. Ok? you a you because a
+[10:42] Tej is the Chief Minister so you can do one thing
+[10:45] that you say that you remember you have
+[10:49] There is also an opportunity. Now look at one more thing
+[10:52] It is to be understood that in any case the first house is
+[10:57] It must be unique. the first house comes first
+[11:00] The person living in the house above
+[11:02] Is it wise to leave or not?
+[11:04] Why is there intelligence? Why? because the first
+[11:06] The man is the first man of that society. So
+[11:09] It is already granted that that man is unique
+[11:12] Is. Isn't it? This man is unique, isn't he?
+[11:14] In your society. It may happen after this
+[11:15] 100 more people standing. we don't care
+[11:17] No? This man is unique. so the first house
+[11:20] Wisdom lies in giving it to someone
+[11:21] Go. That's correct. what would you do that first
+[11:25] Whichever man is standing is the first D1 standing.
+[11:27] Leave him alone. Left it as it is.
+[11:30] Now let's create the array once. only then you will understand
+[11:33] Will show what we are trying to say
+[11:35] Already. Ok? Wrote y2 here. See
+[11:39] All this cast and all, you guys don't say like that
+[11:41] That he does this, he does that. these you guys
+[11:42] To explain we are. Ok?
+[11:44] So you can think so because oh and
+[11:47] You don't get that much from Link List Zero One.
+[11:48] Will understand. If you think so
+[11:51] If you don't want to do it, please write. next time
+[11:52] Since we will not. now that you have
+[11:54] There is an officer man. Yes, I am. you to the officer
+[11:57] Make me sit here. This is the house, isn't it?
+[12:00] It has been allotted. Whom? be on D1
+[12:03] Already happened. Now you are a Chief Minister, you are here
+[12:07] Start coming from. You are here. Two
+[12:11] Are man. There is an officer. green officer
+[12:13] Is. This is an officer and this is the CM. now you
+[12:16] Start looking from here. you know how
+[12:19] It will do that this D2 is here now here.
+[12:21] Is D2. See D2 is not unique. d one
+[12:23] Was. There were already people from a Dalit community. One
+[12:26] And the man came. But how will you know?
+[12:28] You wouldn't know by looking at his face.
+[12:29] Is it unique or repeated? how to know
+[12:32] Look, if any man repeats this
+[12:36] Look at the first man in such a list.
+[12:38] So you have already done the work. You are in charge of D1.
+[12:41] Did it. House was also allotted to D1. of D1
+[12:43] Nothing to do with it. If D2 is repeated
+[12:47] So will D2 look like D1? Yes,
+[12:50] Will be visible. Why? Because it's a sorted array
+[12:52] Brother? See D2 will be equal to D1. you here
+[12:57] So D1 D2 is written then you feel that
+[12:58] It is different but in sorted array it is written like this
+[13:00] Will it be 1 1 2 So what if D2 is in its previous
+[13:05] It is like the same one, which means it is unique.
+[13:07] Not there. Are you able to understand? d3 your last
+[13:10] If it is the same as the one then it is not unique. m1
+[13:13] There are no beans. Look M1 from its last one
+[13:15] Is different. Why is it different? Because here d
+[13:17] It's over. m has started. m is different. These
+[13:20] The one with m is the same. Why? because it is repeated
+[13:22] No? Here is the sorted array. it is different.
+[13:24] See y1 is different from m2 because here
+[13:27] If Muslim ends or Yadav starts, it is different. y2
+[13:30] It's beans. y3 is the same. b1 is different. why b1
+[13:34] Is it different? Because y ended here.
+[13:36] B has started. So the best way for you
+[13:39] What is the pass for identifying duplicates? if that
+[13:41] This element is related to the element behind it.
+[13:43] If it is equal then it is not unique child. These
+[13:45] Is repeated. This is repeated. if these
+[13:48] If the element is not equal to the previous one then this
+[13:50] He is the first man of his society who is starting
+[13:52] Has this. Like y1 is not equal to m2.
+[13:55] y and m are different types. That's why y1 is unique
+[13:58] Is. Then you will know that it is unique. Correct
+[14:00] Is? Now you know that it is unique.
+[14:03] But what will you do by making it unique? you we
+[14:05] What were you explained in the beginning? you have you
+[14:08] There are only four houses to give. from that this
+[14:10] The house you are saying that already we
+[14:12] Have been allotted. what is your next house
+[14:14] To allot passes? next house which house
+[14:17] Pay Officer What did you do before? See
+[14:20] You might be feeling like it's going a little fast.
+[14:22] Yes, but we will tell you again and again so that you understand.
+[14:24] Will go. Where does your officer stand? to the officer
+[14:28] You have been placed at zero. only houses with zero
+[14:30] Pay has been raised and a house with zero has been allotted.
+[14:32] It is done. So which house is allotted next?
+[14:35] To do? Officer plus one. in front of the officer
+[14:37] If the house is left then the forest is left. if officer
+[14:40] If you stand at zero, the forest is empty. officer if
+[14:42] If one is standing then two is empty. the forest was filled
+[14:44] Is. The house till which the officer stands will be full.
+[14:47] It has happened. The house next to it is vacant. Now
+[14:50] See Age A Chief Minister if you get to know
+[14:53] Suppose M1 is unique. if you look at it
+[14:56] If it is not unique then it has no use
+[14:57] Is. His work has been done. this unique
+[15:00] Not there. This is not unique. No problem.
+[15:01] As soon as you find out that M1 son, you
+[15:04] If it is unique, then where should you give the M1 a home?
+[15:06] M1 will have to be given a home, this is the task
+[15:08] That every unique person needs a home. to M1
+[15:11] Have to give a house, where to give a house? one of the officers
+[15:14] The next house has to be given. what can be done then
+[15:17] That the house next to the officer is on M1
+[15:20] Pick it up, put it simple here. to this
+[15:22] Erase and write m1 here. Will be done.
+[15:25] Telling again. Where are you to the officer?
+[15:27] erected? What was the first thing you did?
+[15:29] The first house is the first man. The house with zero is the first man.
+[15:32] Gave it to him that it would definitely be unique. His
+[15:34] The work is finished. Now the house where the officer is standing
+[15:37] Yes, it has been allotted. front house free
+[15:39] Will always be there. Now as a CM you will get duplicate
+[15:42] How to know which element is behind you
+[15:44] is not equal to the element that is unique
+[15:46] Is. Have to give it a home. what home to give him
+[15:48] Is? To give a house next to the officer. saying
+[15:50] That it is empty. So pick this up. officer's
+[15:53] Put it in the next one. don't swap
+[15:55] Is. Just put it in the house. Why?
+[15:56] Because earlier we told you that you only need these four
+[15:59] Means from home. The remaining five or six houses
+[16:02] You don't care what's going on
+[16:03] Is. That's why not swapping. just that
+[16:05] Filling that man in the house. and one
+[16:08] These bars were filled. Once you pick up this M1, you
+[16:11] Posted here. After that now see m1 lifted
+[16:13] Put it here. That means this house too
+[16:15] Filled up. This also got allotted. and in the beginning
+[16:18] What had we decided as to where the officer would go?
+[16:19] will stand? Officer on the house allotted
+[16:22] Will stand. So you give the officer one increase.
+[16:25] you bring the officer you bring the officer here
+[16:28] Because the officer is always standing there who
+[16:30] The house is full and and as a cm as a cm
+[16:34] Your work is done. You gave the house to m1.
+[16:36] You go ahead. You go ahead. You
+[16:38] Go ahead here. Now see M1 has been given a home.
+[16:41] m2 is not to be given a house. why house m2
+[16:43] Don't want to give? Because we don't swap
+[16:45] Have done. m1 is still here. so m2 still
+[16:48] is equal to m1. Then CM will say you
+[16:50] You are a duplicate, son. Ok? Be duplicated.
+[16:52] Will move forward. y1 is not equal to m2.
+[16:54] Beans will work. give the house next to the officer
+[16:57] Will give. Will increase the officer. Chief Minister
+[16:59] Will increase. elevated to Chief Minister
+[17:02] Will give. And so you have understood completely
+[17:04] How is the algorithm working? its dry
+[17:06] Will run now. We will give you a dry run right now.
+[17:07] Will show. And there is one small thing. you this
+[17:10] What to return in the program, right?
+[17:12] You have to return Number of Unique People.
+[17:15] So see Number of Unique People from the same
+[17:17] Because the output will be printed. one thing is this
+[17:19] That's the number of unique people
+[17:22] See if there is even one person in the array, the whole array is
+[17:25] There is not a single person in the entire society.
+[17:26] If he is also a man, then this forest must be a forest, why?
+[17:29] It will happen because the first man is sure
+[17:31] Everyone is unique, after that everyone can be.
+[17:32] May be from the same community but the beginning is one
+[17:34] If it is unique then you can start that
+[17:36] There is one with a number of variables and and
+[17:40] Whenever you find a unique element and
+[17:42] If you are changing this house then
+[17:44] Add this race to it as a plus. Understanding
+[17:46] What are you saying? number of unique
+[17:48] If there is one in the beginning then it is a sure thing. In this
+[17:50] So no one has two opinions or three opinions.
+[17:52] Whenever you find a unique element,
+[17:55] I get this, I get this, I get this
+[17:57] Increase the number of unique by one and last
+[17:59] Please return it. so what about this
+[18:01] You must have come here before.
+[18:03] Was unique. If you got M1 then you can do this
+[18:05] Given. When y1 was found, it was made three. b1
+[18:08] If found then four it and return four
+[18:10] Given. What is this four? four number of unique
+[18:12] That's it. What did we expect in the beginning?
+[18:14] There are only four types of people. look only four
+[18:16] You were a man of manners and you were the four returners.
+[18:18] Please do it. the rest of the printing and whatever else
+[18:20] He will adopt all the lead codes. Now one of
+[18:23] Take a look at the pseudo code and dry run.
+[18:25] Are. Now leaving aside all this talk of society,
+[18:29] Let us explain to you through real examples.
+[18:31] What will happen in reality? when you do that
+[18:34] Ok? Now let's take an example for
+[18:37] For your convenience. just a small example
+[18:40] Will take. Need to take a very big example
+[18:41] Not there. 1 1 2 3 Good example. Now
+[18:48] See what will happen? who can even understand
+[18:50] Went to see. we keep saying the same thing again and again
+[18:52] Are. Don't leave now. a lot of things in it
+[18:53] And we will tell you now. You have come here. To all
+[18:57] What work do we have to do first? Officer.
+[19:01] Where are you keeping the officer? first house
+[19:03] Pay. At zero. This has been allotted, son.
+[19:05] Has been allotted. so number of unique
+[19:09] What is the number of unique? There must be one.
+[19:12] There must be one. There must be one. and our
+[19:14] Who is CM Sahib? Where does CM Sahib stand?
+[19:16] will happen? On one. Why would you stand on the forest floor?
+[19:18] Because now you have finished this man's work.
+[19:21] Have given. You have to check from here.
+[19:22] CM Saheb will always check from the front. Forest
+[19:25] Will check from. The officer is standing at ground zero.
+[19:27] Zero is filled. Zero has no use now
+[19:29] Not there. There is no existence. here now
+[19:30] Zero has filled the house. And CM sir from here
+[19:33] Will check. The officer is standing here. Now
+[19:35] Let's get CM sir checked. so now
+[19:37] CM sir is one. So you see what CM
+[19:40] Now how does CM check? Check
+[19:42] What is the logic of doing this? whether this man
+[19:44] Is it equal to the person behind or not? Now
+[19:47] See if this man is the man behind him
+[19:48] is equal to? Yes, it is equal. so not this
+[19:50] [Translation failed: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=en&sl=hi&q=%E0%A4%B9%E0%A5%88+%E0%A4%AF%E0%A5%82%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A5%A4+%E0%A4%B8%E0%A5%80%E0%A4%8F%E0%A4%AE+%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%AC+%E0%A4%AF%E0%A4%B9%E0%A4%BE%E0%A4%82+%E0%A4%86+%E0%A4%97%E0%A4%8F%E0%A5%A4+%E0%A4%95%E0%A5%8D%E0%A4%AF%E0%A4%BE+%E0%A4%AF%E0%A5%87 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))]
+[19:53] Is a man equal to the one behind him? Yes,
+[19:55] Is equal to the one behind. call it home
+[19:56] will get. CM Saheb came here. watch now
+[19:58] Look carefully. Look carefully. Very
+[19:59] Will look carefully. Is this man behind him?
+[20:01] is equal to the one? No. no no meaning
+[20:03] This is a unique element because sorted array
+[20:05] Is. Everyone standing in a group in a line
+[20:07] Is. This is a sorted element. what do we do in this
+[20:10] Taught? What were you taught? where is this man
+[20:14] want to put? In place of Officer + 1. in officer
+[20:16] No. The officer was standing in a full house
+[20:18] Is. So what is Officer + 1? equal
+[20:22] Two one. Pick up this man and put him here
+[20:25] Give it. What to do after that? officer which house
+[20:28] stands on? Which fills the house.
+[20:30] So we brought the officer here. officer
+[20:32] Came here from here. your officer here
+[20:34] Is standing. Increase the number of unique. one increase
+[20:37] Two. Found another man who found a home
+[20:39] Is. Increase the number off. increase it increase it
+[20:42] Two. Give a raise to CM sir also. CM sir
+[20:44] Increase it also. Because this is also the work of CM
+[20:46] Sir, it has been done. give a raise to CM sir
+[20:49] Brother. Now you are done like this. Let's move ahead.
+[20:52] Where is CM sir now? one yes one more thing
+[20:56] Is. One more thing was left out. see if anyone
+[20:59] man do you get a duplicate or not
+[21:01] Get it. CM sir is ahead in every matter
+[21:03] Will increase. CM sir, every case because CM
+[21:05] Sir has to check only one thing that
+[21:07] Duplicates that are unique. if unique
+[21:09] So we will do the household work. if duplicate
+[21:11] Then we will move ahead. So this is my little one
+[21:13] It was a mistake that CM sir is now CM.
+[21:15] Sir will come, sorry will come at four. Because
+[21:18] CM Saheb was increasing every time. Ok? One
+[21:20] Will show it again and again. Don't panic. is this
+[21:23] Is a man equal to the one behind him? No.
+[21:26] Yes, if it is equal then it means it is a duplicate.
+[21:28] Give CM sir one more increase to five.
+[21:30] Is this man equal to the one behind him?
+[21:32] No, it is not equal to the one behind. What
+[21:34] do it? Which house should you put it in? one of the officers
+[21:37] Put it in the next house. Write this here.
+[21:40] Write it down here and give the officer a raise.
+[21:44] Two. And increase the number of uniques by one. And
+[21:48] CM Saheb will improve in every case. CM
+[21:49] Sir, it will definitely increase. CM sir's
+[21:51] We don't have enough time to progress.
+[21:53] And give promotion to CM sir.
+[21:55] When will CM Saheb stop? When Bihar's
+[21:58] The whole house will be destroyed. full house of bihar
+[22:00] It will end here at six, right? So
+[22:02] CM sahib can go from zero to five.
+[22:05] CM sahib can go from zero to five.
+[22:08] So as soon as CM Saheb comes on six, the game will come.
+[22:10] It will end. What do you have to return?
+[22:12] Have to return three three three. one more time
+[22:15] Take a look. there was a little confusion
+[22:17] will be. we messed it up a little
+[22:20] Were. 1 1 2 3 0 1 2 3 4 5 how to start
+[22:28] Have to do? Take officer zero. Unique
+[22:31] Take one. CM Sahib from the forest
+[22:35] Get it started. is this one a duplicate
+[22:37] Is that unique brother? Is it a duplicate? Why?
+[22:39] Same as the one behind. To CM Saheb
+[22:42] Two. Is it the same or a duplicate?
+[22:44] Is it unique? Is it a duplicate? beans from the back
+[22:46] Right brother? Give three to CM sir. What
+[22:49] Is this unique? Yes, it is unique. so its
+[22:52] What is the meaning? Pick it up one of the officer's
+[22:55] Put the next one in the house. officer gets a raise
+[22:58] Two. Increase Unique by one. And CM sir
+[23:01] It keeps increasing in every case. is this
+[23:04] Is it unique or the same? This is not unique.
+[23:07] Same as the one behind. CM sir gets a raise
+[23:09] Two. Is this unique? Yes, it is unique.
+[23:11] Where will you put this? officer one ahead of officer
+[23:13] Was on the forest. Will pick it up and put it on two.
+[23:16] Will pick it up and put it on two. after this
+[23:19] Will give one increase to the officer. After this one
+[23:22] Will increase. CM sir, in every case of ours
+[23:25] Keep increasing. As soon as CM Saheb is here
+[23:27] - 1 which is near the length of the array of fives
+[23:30] The program reached its end. what to do return
+[23:32] Are you? Three. What is three? number off
+[23:34] Unique People. When you see the original array
+[23:36] The number of unique people was three. 1 2 3 like this
+[23:39] By doing this you place these. so now this
+[23:42] What is the pattern? Pattern to pointer. Why
+[23:44] Two pointer? CM sir do some work alone
+[23:46] Have been. officer doing some work alone
+[23:48] Is. CM and officer are working together.
+[23:50] As soon as the CM finds someone, he feels
+[23:52] I mean, this is unique, so I call it that.
+[23:54] You go and take the house next to the officer.
+[23:56] Take. Officer, you go ahead and so does the CM.
+[23:59] Moves forward. If the CM feels that
+[24:01] If this is a duplicate then the CM would have just moved ahead.
+[24:03] Is. Now you understand how to coordinate
+[24:05] Used to be. This is what two pointer means
+[24:08] two pointers work together
+[24:09] By coordination. CM says that you
+[24:11] Go take the house next to the officer. Meaning
+[24:13] Coordination is taking place. This was a two pointer.
+[24:15] Now let us quickly show you the pseudo code.
+[24:17] Let's give. What will I give you, brother? array
+[24:20] Will be given which will be sorted. To you
+[24:25] What to do about returns? number of unique
+[24:27] Elements have to be returned. this is the return
+[24:30] Have to do. And you also have to rearrange the array
+[24:33] Is. First of all you go to the officer.
+[24:37] Only officer should speak to understand. low high also
+[24:39] Some people say. But okay. Do.
+[24:42] Whatever this is our unique element, we call it
+[24:44] People took the forest. Why forest? There is one and one
+[24:46] Took CM also. Have to start from cm one.
+[24:49] How long is the program to run? as long as
+[24:53] It should not be less than CM sir's length. What is n? n
+[24:56] = Length. Array dot length.
+[25:00] Now what should CM do first?
+[25:03] Are? Let's check for duplicates. Duplicate
+[25:04] How to check? that current element
+[25:06] Is it equal to the previous one or not? So if array of
+[25:10] cM equals equal array of cM - 1 if
+[25:15] If it is a duplicate then what did the CMG do? Oho
+[25:17] CM increases brother. CM does not stop
+[25:19] Are for someone. and continue
+[25:22] Continue means no further execution
+[25:24] do it. Move on to the next loop iteration, brother.
+[25:26] But but but but you have come here. You
+[25:29] Have come here. means you got unique
+[25:30] Is. If you had a duplicate then you would have been promoted to CM.
+[25:33] Would have continued. but came here
+[25:34] So a duplicate has been found. first task
+[25:37] What do you do? Let's give this man a home.
+[25:39] Where do you give a house? officer +1 officer wala
+[25:42] No, the officer is full, child. equal to
+[25:45] To which person are you giving the house? where cm
+[25:47] Sir is here now. gets home.
+[25:51] The officer increased. And the number of unique also increased
+[25:55] Went. Rest plus has become plus and CM sir
+[25:58] So they keep on increasing. Brother CM Saheb
+[26:00] Don't stop. This loop is over. loop when
+[26:02] will end? When CM Saheb reached last
+[26:03] If you go out of Bihar then loop
+[26:05] It will end. And what do you have to return?
+[26:07] Is? You have to return this to you. These
+[26:10] Those who were increasing the race have to return the race. These
+[26:12] Pseudo code is done. its time
+[26:14] Complexity
+[26:16] What are you doing in array now? you are here
+[26:18] I am doing something that a man
+[26:20] going on completely and after that inside the same
+[26:22] Another man going full circle again and again. No
+[26:24] This is happening. CM sir from one line
+[26:26] Going to the end. Whenever CM Sahib
+[26:28] If he feels something, he gets some work done. He
+[26:30] Send it to the officer and get the work done. They
+[26:32] All constant is small work. CM sir
+[26:34] What are you doing? CM sir CM sir
+[26:37] Walking from here to here. whenever they
+[26:39] Something unique seems to be the house swap.
+[26:41] We do. Let's promote the officer. to unique
+[26:44] Let's increase and move forward with our work
+[26:45] We do. That's why only one is passing
+[26:48] Is in the array. Its time complexity
+[26:50] Order of n is any kind of space
+[26:52] are you taking? All that we mentioned above
+[26:55] Make the man of the society stand separately. As such
+[26:57] Are you doing something like this? You are saying that different
+[26:59] hit the ground. Not doing anything brother. Some?
+[27:00] Not doing. Zero space brother. Zero space.
+[27:02] Two pointer is used only because zero
+[27:04] We have to take space. we need space
+[27:05] Don't want to take it. So its order is n.
+[27:08] Time and order of one became its space.
+[27:10] We should never use space.
+[27:12] want. That's why two pointers are important
+[27:14] Is. What did we say in the question?
+[27:16] Have done. Yes, we have done everything.
+[27:18] Isn't it? So if anyone has doubts now
+[27:20] Please ask in comments. anyone think that this
+[27:23] Couldn't understand from the example. a little more you
+[27:26] If you want to explain then please ask. and whatever you
+[27:28] People will ask doubts in the next class.
+[27:30] Will answer. That's why one child is enough
+[27:32] Achcha Doubt was asked in the last class that you
+[27:35] What did you tell me earlier about the one that is two or two?
+[27:37] In that you said that the n of the last one
+[27:39] Log time comes. How does this n log time come about?
+[27:42] Is? Look at the time complexity.
+[27:44] How does it go? Suppose in your house
+[27:47] You are. Is your father. your mother
+[27:51] Are. You earn ₹00. your father ₹400
+[27:56] Earn. Your mother earns ₹10,000
+[27:58] Are. Ok? If you want time for this house now
+[28:02] This is not the point of removing complexity
+[28:03] That is, you add everyone. If of this house
+[28:05] If you want to calculate total income then time
+[28:07] All according to the rule of complexity
+[28:09] What is the maximum?
+[28:11] 40,000 so you say that the income of this house
+[28:14] or the time of our program
+[28:16] The complexity is 40,000. That's why
+[28:19] Came unlogged. Whenever you are in the program
+[28:21] Work independently, for example
+[28:23] You have written this very big program.
+[28:25] In this, when you do small independent work
+[28:27] Have been. For example here you can see some
+[28:29] Sorted. Here you run a function.
+[28:33] Here you run another function. these three
+[28:35] The work is independent from each other. In this
+[28:37] Time taken n log n. Time order imposed in this
+[28:40] off n. It took n². So when you total
+[28:42] Let's calculate time complexity.
+[28:44] Don't do it to everyone. Maximum. In this
+[28:46] What is the maximum? n² is maximum then you
+[28:48] Let's say my time complexity n²
+[28:50] Is. That's why this happens. Time
+[28:51] Will do a lecture on complexity. To you
+[28:53] Will explain what its n means.
+[28:55] But there was a good doubt. There was a good doubt. Who
+[28:57] The child had also asked Doubt, very, very good.
+[28:58] If you guys also have any doubt then please ask.
+[29:00] We will tell that in the next video. every
+[29:02] We read the comments. it's not like that no
+[29:03] Let's read. So this is pseudo code and so on. pause
+[29:06] Try it. Go and submit. array one
+[29:08] Have to question. which is written in the second column
+[29:10] It has happened. You saw in the beginning that you have to do that.
+[29:11] Don't list the links yet. link list we
+[29:13] Will tell you. but also in link list
+[29:15] Same theory. What is the link list to you?
+[29:17] What is the difference between the two questions?
+[29:18] One speaks that duplicates from sorted array
+[29:20] Remove. Second says sorted link list
+[29:22] Remove duplicates from. The theory is the same. theory
+[29:24] This is the one with CM and officer. you understood right
+[29:26] How did the coordination happen? how the two interact
+[29:28] They worked together. this is what happens
+[29:30] Power of the pointer. If CM keeps doing it alone
+[29:32] So it takes a lot of time. but just one more
+[29:35] By using man, time is reduced. then this would happen
+[29:37] Power of two pointer. And those who are still
+[29:40] watching thank you very much for watching
+[29:42] Whatever support you guys have been showing so far
+[29:44] It is very good. This is how you guys support
+[29:46] Keep showing. This is how we teach you
+[29:47] Will stay and make it to 100 till my birthday
+[29:51] Give it. We are your job till my birthday.
+[29:52] Will get it installed. Isn't it? This is give and take
+[29:54] That's the situation. so let's go very much
+[29:57] Thank you. Watch videos daily. consistent
+[29:59] Stay. Make notes. Submit. Any
+[30:03] If you have doubts, don't be afraid. your brother is sitting
+[30:05] It happened here. ask us and

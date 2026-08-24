@@ -1,0 +1,214 @@
+Video ID: n7v0SokbF4
+Video URL: https://www.youtube.com/watch?v=n7v0SokbF4I&list=PLbJhGqY-mq47k_WLUtzVjmarUm1EuXPj2&index=9
+Language: en
+[00:00] Yes brother, come and revise the two pointer.
+[00:02] In. I am very happy that
+[00:04] We have read Two Pointer completely. Two Pointer
+[00:06] Pattern. So all the people who were reading from the beginning
+[00:08] It is a very useful lecture for them. whatever
+[00:10] People are watching this channel for the first time
+[00:12] So go check out the playlist Two Pointer
+[00:14] On the pattern. There we learned. We have this
+[00:16] The answer to the question has been learned in great detail.
+[00:19] Question by putting four five six videos
+[00:21] Understand by asking questions. But this revision
+[00:24] Let's quickly understand this in the video
+[00:25] Answer of the question. When to use
+[00:27] pointer? Because this is the purpose of the entire series.
+[00:29] This means that you should not memorize the questions. you that
+[00:32] Don't worry if I ask you five questions.
+[00:34] If you have given then only five questions will be asked from you.
+[00:35] Must be the one with six. run this series
+[00:38] The purpose of this is that if you ask five questions
+[00:40] If so, then ask yourself 50 questions.
+[00:42] Should become. Which is on the same pattern.
+[00:45] Ok? First of all when to use
+[00:47] Pointers. So first of all let's see that
+[00:49] Flow chart. Flow chart is very important that
+[00:52] You can see any lead code question
+[00:54] How will you know if it has a two pointer?
+[00:56] Or it won't seem. First of all that array
+[00:59] There should be a question. array or linked list
+[01:02] There should be a question of. so far we have
+[01:04] No matter how many questions you ask, have you noticed that
+[01:06] Have we done questions on graph or tree?
+[01:08] Do it or not.
+[01:10] Why? Because it doesn't seem to be there. Next
+[01:12] Things are already sorted and ready to be sorted.
+[01:17] It will be easier than. be easier to sort
+[01:21] Will go. It will become easier. This should happen.
+[01:27] Or rearrange it as written in the question.
+[01:30] Brother. What is written in the question?
+[01:32] Rearrange or remove duplicate brother.
+[01:36] remove duplicates or merge in place
+[01:41] Brother. Merge in place brother. either this
+[01:45] In the question it is written either or or or
+[01:48] Then
+[01:49] Be in question. find
+[01:53] More Than One Thing. Find More Than One Thing.
+[01:59] Find More Than One Thing Meaning Pairs
+[02:03] or triplets
+[02:06] Or quadruplets.
+[02:11] If this is written here in the question then see this
+[02:13] Take it. First of all, array or linked list
+[02:15] Have questions. After that either he is already
+[02:17] Be sorted or work with sorting.
+[02:19] It will become easier. If this is the situation
+[02:22] If it is written in the question, rearrange it.
+[02:24] remove duplicates merge in place
+[02:27] even sub eras sub eras
+[02:30] All arrays should also be written in the question either
+[02:34] You have to find more than one thing in the question
+[02:36] means you have to find a pair either
+[02:39] You have to find triplets or you have to find four things.
+[02:41] Is it necessary to find five things or that vector?
+[02:43] I am not talking about finding if vector
+[02:45] If you want to search then that is a different matter but one
+[02:47] It doesn't mean much to you but one, it means pair to you.
+[02:50] Find it brother, find only two numbers, find two, find three
+[02:53] Find four, find more than one thing
+[02:56] If you want to find it, it's somewhere in all this.
+[03:00] Two pointer you might think. If this method
+[03:02] If there is any question then there is 90% chance that
+[03:06] There will be a two pointer in it. question by
+[03:08] Question let me explain to you how
+[03:09] It will take. What was the first question? to
+[03:12] Even.
+[03:14] What were the points in Two Sum? of array
+[03:16] There was a question. Wasn't sorted but sorted
+[03:20] There is benefit in doing it. who videos
+[03:22] I haven't seen it yet, please spare some time.
+[03:25] Watch the videos. Ok? Only then will you understand this
+[03:26] Will come in what we are telling here. Now
+[03:29] Sorting is beneficial, isn't it? and pair
+[03:32] Had to search. Had to find a pair.
+[03:37] You can see three things. the ones above this
+[03:39] Found in flow chart. That's why this two pointer
+[03:40] Was. Three even. Why was threesome a two pointer?
+[03:44] The first thing was the question of array.
+[03:48] Would have been easier to sort. to sort
+[03:51] It becomes easier to find more triplets.
+[03:55] Yes yes triplets had to be found.
+[03:59] Had to find. And it was just like two. These
+[04:03] Tha loop plus two sum. so if two sum two
+[04:08] If there was a question of pointer, then three is naturally
+[04:10] There was a question of three pointer. all three even
+[04:12] In the question we used the same algorithm, the same
+[04:14] Had seen logic, same decision tree. Isn't it?
+[04:17] Then what was left? square sorted array
+[04:22] Square. Now from above you can see
+[04:24] Will say that the first thing in this is the array
+[04:27] There is a question. Ok?
+[04:29] Is sorted.
+[04:32] Ok? But now you will say that now
+[04:34] There is nothing in it. but but but
+[04:36] Those who watched this video, complete video
+[04:37] Saw that he knew that this question
+[04:39] Merge these questions in actual.
+[04:42] Was of two sorted array. merge to sorted
+[04:46] Was. Was of sorted array. take a look at everything
+[04:49] indicating that this is a two pointer
+[04:51] There is a question. There is a question of two pointer.
+[04:54] If you have not seen the series then please
+[04:56] See. missing a lot of things
+[04:57] You. Ok? Because as much as I am here
+[04:59] Nothing is there This is not even 2%
+[05:01] Of syllabus. 98% of the work has been done there. next
+[05:05] What was the question? Remove Duplicates.
+[05:08] Remove Duplicates. This is so simple
+[05:12] Told you. There is a question of array.
+[05:15] The array is also sorted.
+[05:18] Remove duplicates from array. Question name
+[05:21] This is remove duplicate. flow chart memorization
+[05:24] Do. Seems simple enough. to
+[05:26] There is a question of pointer. That's right. And
+[05:30] What is? What else did you see? dutch national flag
+[05:32] yes this is good some dutch national flag now this
+[05:39] the question was about
+[05:42] Wasn't sorted Wasn't sorted Wasn't sorted
+[05:45] had to but didn't
+[05:47] And if you have to rearrange the array, you have to rearrange it.
+[05:50] All I had to do was bring it in this format 0 1 2
+[05:53] So had to rearrange and put in place
+[05:56] Had to do in place in place no no space
+[06:01] No space tells you all these three things together
+[06:03] That it was a two pointer question and something
+[06:07] Had done and some had not been done yet. Ahead
+[06:10] If you do then you will see all the questions which we have asked.
+[06:12] If I have done it then it is not that in my mind
+[06:14] It came to me that this is a two pointer question.
+[06:15] That's why we will keep them. All these questions
+[06:18] That's the whole question. What's in all this?
+[06:21] Is it common? Array is common. Look at all the array
+[06:24] There are questions. benefit from some sorting
+[06:27] Is. Some are easier to sort. Some?
+[06:29] Already sorted. some already sorted
+[06:31] Is. Something needs to be sorted. so here one
+[06:34] Always remember this. Hey what other name is there?
+[06:37] Sorting. Arrays and sorting. array and
+[06:40] Sorting. Array plus sorting. it's very big
+[06:44] There is indication. This is one of the biggest
+[06:46] Indication array plus sorting is in 2.10.
+[06:48] Ok? If not sorted. If
+[06:50] Rearrange if not sorted
+[06:54] rearrange remove
+[06:57] merge
+[06:59] With these you should be told to place these
+[07:01] Have to place in means no extra
+[07:04] Space is the second biggest indication.
+[07:06] These two points are common to you, these two
+[07:09] point these two point this point and this you
+[07:13] We will find common in every type of question.
+[07:15] Five plus five equals seven eight
+[07:17] There will be total questions in every question.
+[07:19] Same thing will be available in common. so now my hope
+[07:21] From this you must have understood that two pointer use
+[07:23] When does it happen? Ok? And yes, all
+[07:26] We have seen all types of movements in the question.
+[07:29] Have seen. What does two pointer mean?
+[07:30] Is? One is left, one is right.
+[07:33] So we have seen questions where
+[07:36] Plus was plus, high minus was minus.
+[07:39] Was. In what? In two sum. Yes. two sum three
+[07:43] Even. This happened in both. We also
+[07:46] Have seen questions where lo plus is plus
+[07:48] Was. High was also a plus plus. whose is this
+[07:51] are we talking? Remove Duplicates.
+[07:53] Yes. CM and officers used to move forward together that
+[07:56] Didn't grow? Remove Duplicates and Merge
+[08:00] In sorted arrays. Merge sorted arrays.
+[08:03] Both grow individually. both would have been a plus
+[08:05] Is. We also saw questions where
+[08:08] Had three pointers. Low mid high. In what? Whose
+[08:13] are talking? Dutch. Dutch Dutch. dutch national
+[08:16] Flag. Dutch national flag. The National Flag. So
+[08:19] We have seen every type of movement
+[08:21] In this uh playlist. Ok? now you
+[08:25] What is the plan? If your revision is done
+[08:26] Is. What is your work tomorrow? first of all
+[08:29] Whatever questions you have, please submit them.
+[08:31] Do it friend. Ok? just watching videos
+[08:33] Will not happen from. please submit them
+[08:35] Do it. Sliding is going to start from tomorrow
+[08:37] window. sliding window which is a subset
+[08:42] Which is a subset. is a subset. subset of
+[08:46] Subset of what? Of two pointer. sliding
+[08:48] Pointer to window. if you
+[08:50] If we tell you in simple words, two pointer
+[08:53] That's just this case, sorry, this is this case.
+[08:57] Called sliding window. this happens
+[08:59] Sliding window.
+[09:02] There is a window in it.
+[09:05] High lives here and Low lives here
+[09:08] Is. Hai grows in this direction. take it this way
+[09:10] Increases. This is called window.
+[09:11] Shrinking. Sliding means shrink. These
+[09:13] Will keep shrinking. never such a big window
+[09:15] Then it will become so big. then so much
+[09:17] As he grows bigger, he keeps sliding. So
+[09:19] Well, we will know about it when we know about it.
+[09:21] But I hope you do well
+[09:23] Have you understood? This two pointer one of the
+[09:26] Most Basic and Most Fundamental Patterns
+[09:28] You guys have understood. very good ways
+[09:30] From. Many congratulations to everyone.

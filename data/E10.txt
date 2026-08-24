@@ -1,0 +1,254 @@
+Video ID: V6pRTnOZ7Mc
+Video URL: https://www.youtube.com/watch?v=V6pRTnOZ7Mc&list=PLbJhGqY-mq47k_WLUtzVjmarUm1EuXPj2&index=10
+Language: en
+[00:00] Very welcome to G Second Pattern
+[00:02] Which is what sliding windows are. So
+[00:05] Whoever has seen Two Pointer
+[00:08] This sliding will be very easy for them.
+[00:11] Viewing the window. those who haven't seen it
+[00:12] It will be easy for others also. there is something like that
+[00:15] No. But one thing you should make sure that
+[00:18] This one is the introduction video, isn't it?
+[00:19] There is an introduction video. Ok? it
+[00:22] Introduction to you means flow in it
+[00:24] Chart will be available. You know the rules in this
+[00:27] We will discuss when to use this pattern and
+[00:29] How to use. so this video
+[00:32] Please watch till the end because more to come
+[00:34] The upcoming videos will depend on this. So much
+[00:37] Did you understand the point? So let's move ahead. Now
+[00:40] See sliding window. sliding window
+[00:42] What does window mean?
+[00:44] Window means window. and sliding
+[00:46] Meaning that this window can be smaller or bigger than you want.
+[00:49] It is possible This means that this window
+[00:51] The size is this much. maybe some future
+[00:53] The size of the point pay window should be this much. These
+[00:55] May increase or may happen at some future point
+[00:58] This much remains of the pay window. so this shrink
+[01:00] Lets do it. So expand it with your mind or
+[01:04] Can shrink. That's why it's called sliding
+[01:07] And window. Window means this is the window. Correct
+[01:10] The thing is. Now how does it slide? These
+[01:13] How does it shrink? With the help of two pointers
+[01:15] From. That's why we are the first two pointer
+[01:17] Let's read. First we read Two Pointer
+[01:18] Are. After that come to the sliding window
+[01:21] Are. Now it shrinks low and high
+[01:24] with help. What happens is that you take this end
+[01:28] and keep this end pe high
+[01:30] Are. Now both of them are in only one direction
+[01:32] Can move in. Come on, move here too
+[01:34] Can do. High can also move here
+[01:36] Is. So when the high moves whenever you move high
+[01:39] If you press plus, this window will expand.
+[01:42] Will go. Because of low and middle low and high
+[01:44] The distance between will increase. whenever you take plus
+[01:46] Let's do a plus and put the high in one place
+[01:48] So the window shrinks. Why?
+[01:51] Because the distance between low and high decreases
+[01:53] Will go. Notice one thing that this expand
+[01:56] If it happens, it will happen from this side, meaning it will move in this direction.
+[01:58] And when it shrinks, the part on this side
+[02:00] Will be cut. Meaning it grows in the right direction only
+[02:04] This is the window. If there is shrinkage then here
+[02:06] You will cut from by increasing the run lo. If
+[02:09] If expanded then increase the pay here
+[02:11] Will add parts. This is how this window works.
+[02:15] Ok? This pattern is called sliding
+[02:16] window. Now first things first, the flow chart. To all
+[02:20] Where will you look first? Will be on the array. array
+[02:24] otherwise string because string is also a
+[02:27] There is an array of methods. not on link list
+[02:29] It will take. Not on link list in 99.9% cases
+[02:33] It will take. Remember, tie it in a knot.
+[02:36] Will not be felt. What's the first hint for you?
+[02:39] Done? Question about array or string
+[02:41] That's what it will take. Otherwise it will not apply. To all
+[02:43] It's a good thing. Good. if if if question
+[02:47] If sub array in question
+[02:52] Either substring When We're Talking
+[02:54] About Strings
+[02:56] Is it written or do you understand it?
+[02:59] Sliding window will be installed only if it is coming in
+[03:03] Only then will the sliding window be installed, otherwise not.
+[03:06] Everything will seem fine, it means that
+[03:09] continuous
+[03:11] continuous
+[03:13] Well substring also means continuous.
+[03:16] Every sequence is different. remember people
+[03:18] Become confused. after seeing all the sequence
+[03:20] Start applying. sub sequence means no
+[03:22] Continuous. Non continuous means that array
+[03:26] If there is such and such element in it then any two
+[03:29] Take the element. So take this and take this.
+[03:31] So this is a subsequence. but if array
+[03:34] By doing like this. tells you that two
+[03:36] Take sub array and you get two continuous elements.
+[03:39] Will have to take. This is what will have to be taken. either this
+[03:42] Will have to take that one. either take this one
+[03:44] Either you will have to take whatever
+[03:46] Be continuous. sub sequence no
+[03:48] Take any two continuous elements
+[03:50] In order. Okay, did you understand? So
+[03:53] Array String Sub Array Substring. Ok?
+[03:56] Now Are We Trying to Find Something?
+[03:59] What is the question asking you? RV
+[04:01] What does the finding question want from you? So
+[04:04] The question may want any of these from you.
+[04:07] maximum
+[04:10] Minimum
+[04:12] longest
+[04:14] longest
+[04:16] shortest
+[04:19] either sum or count or average
+[04:27] either at most
+[04:31] or at least
+[04:35] either exactly
+[04:41] Look very carefully
+[04:45] It's a big list but but but this list
+[04:48] When to think about this list
+[04:49] When do you even have to think when you cross these two?
+[04:52] Go to the question of array and string.
+[04:54] Array substring is written along with all this
+[04:57] Things are written carefully, look at the screenshot.
+[05:00] Take it and note down the maximum in your copy.
+[05:02] Minimum Longest Sorted Sum Count Average
+[05:07] See exactly at the least of Atmost
+[05:09] If you find all these words in the question
+[05:12] Do you understand that this is all he is asking?
+[05:14] Is. So these are the things that are being asked of me
+[05:16] You will do sliding windows. Ok? Then
+[05:19] See, these were the three things. array string
+[05:22] Sub array substring must be continuous
+[05:25] And some of these are sliding
+[05:28] Window will appear. Sliding window will be installed.
+[05:31] Sliding window will be installed. see flow chart
+[05:34] Take it again. If there is no flow chart then see
+[05:36] Take a pause. Make a note in your copy.
+[05:39] Look at the flow chart. note down in the copy
+[05:40] Take it. Understand? flow sliding window kab
+[05:43] It will take. Ok? now a small thing
+[05:46] Sliding window which is
+[05:50] There is a sliding window. These two ways
+[05:52] Are there. Firstly, they are fixed. Others
+[05:56] Are dynamic. I just told you
+[05:58] Not that it expands and shrinks
+[06:00] Is. It may or may not. How not to do it?
+[06:03] For example, if you are asked in the question
+[06:05] If this is your array then it is 1 0 3 5 2 1 4
+[06:12] 0 1 2 3 4 5 6 asked you a question
+[06:17] Go sub array lo sub array length
+[06:25] Three and find maximum of all their sum
+[06:33] What is the meaning of question in Hindi? This
+[06:35] Take all arrays of length three in the array.
+[06:38] Find their sum. the maximum that is in it
+[06:40] Return it. The first thing is that your
+[06:43] Algorithm has to be applied. Have to put up a flow chart.
+[06:45] It is written here. yes means it is already given
+[06:46] Is. So there it is. Everything is written here.
+[06:50] Find maximum of all their sum. so all
+[06:54] [Translation failed: HTTPSConnectionPool(host='translate.google.com', port=443): Max retries exceeded with url: /m?tl=en&sl=hi&q=%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%80+%E0%A4%95%E0%A4%82%E0%A4%A1%E0%A5%80%E0%A4%B6%E0%A4%A8+%E0%A4%B8%E0%A5%87%E0%A4%9F%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%AB%E0%A4%BE%E0%A4%88+%E0%A4%B9%E0%A5%8B+%E0%A4%97%E0%A4%88%E0%A5%A4+%E0%A4%AE%E0%A5%88%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%BF%E0%A4%AE%E0%A4%AE (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))]
+[06:57] Off some. So it will have a sliding window
+[07:00] It will take only. If it doesn't work then somewhere else
+[07:02] Will not be felt. So this is the perfect question
+[07:04] To understand flow charts. so in this you
+[07:06] What can be done? what do you do in this
+[07:09] Are you now you when given in question
+[07:11] Has it happened when you have three questions?
+[07:14] is given. not in any question
+[07:15] Would have given. It happens in someone that everything is there
+[07:17] Have to take. Take any length. but when
+[07:19] You are given length, when you are given size
+[07:21] When you are given the length,
+[07:24] Whose length is given? all of the array or
+[07:27] of substring?
+[07:29] So you get the fixed window. fix window
+[07:32] How to take? Three sizes of windows. Now
+[07:34] How to write this in code? pseudo code this
+[07:36] Everyone will teach tomorrow. but we just concept
+[07:37] Are teaching. Take fixed length. Three
+[07:40] Take it. Isn't it? Take three. Now
+[07:43] Look what now? What were you told in Two Sum?
+[07:45] Before writing anything, its brute
+[07:47] Think about the force. What is brute force? that all
+[07:50] Take all the arrays. All sub arrays of size three.
+[07:55] Take it out from this array. How will it come out?
+[07:58] It will turn out that way. One this became 103 then one
+[08:02] Starting from 0 to 035 then starting from a three
+[08:05] That's 352, then starting with a five, that's it.
+[08:08] And then it happens that these so many sub-arrays are found.
+[08:11] Went. Take all sub array. sum everything
+[08:14] Take. If you return his max then that's enough.
+[08:16] That's a good thing. but in sliding window
+[08:19] You can do this very fast. so you
+[08:21] Let's start our window like this. your window
+[08:23] This happens. Ok? you find its sum
+[08:26] Let's take. Its sum is four. Ok?
+[08:28] Its equal to the first sub array when you get lefs
+[08:31] If the length was given then you would have taken a four.
+[08:33] Are. Ok? After that you can open the window
+[08:35] Let's shift. Window size not changed
+[08:37] Used to be. See, the size is only three. of window
+[08:39] There was a shift in position. now you are equal to it
+[08:41] To remove it not from beginning to end
+[08:44] Let's add. See what happened? you here
+[08:48] Were. Its sum came to 5. Now you are here
+[08:52] 0 and three are common. what are we saying
+[08:55] Are? You make the array bigger and only four
+[08:58] Look at the element. 1 0 3 and 5 ok? forest again
+[09:04] Tells from. One this is very important
+[09:06] The concept is to understand. That's why I'm explaining
+[09:08] It seems like so much hard work. The first one was yours.
+[09:11] Your first sub array was this. Was this it? Yes.
+[09:15] The second one was yours. when you shift
+[09:18] If we give then everything is done. look now now
+[09:21] see 0 0 3
+[09:26] Both of these are common. These two are common, right?
+[09:29] What is revenge? Revenge is one and revenge is five.
+[09:32] So what happened to you who was even before?
+[09:35] That was 1 + 0 + 3. This one was the sum of this one.
+[09:40] To what has become of your 0 + 3 + 5 then you do
+[09:45] See what is happening in Some One and Some Two
+[09:47] What is the difference, 0 and three are the same.
+[09:49] Zero and three are the same. Yes. one in some two
+[09:52] Not there. So now there is no one and there is five.
+[09:55] This is the difference. if you do this
+[09:58] You got even two. what is not in sum two
+[10:00] Is? There is no one in a sum and five is added.
+[10:03] Has gone. So whenever you do this, right?
+[10:05] What can we say about sliding window?
+[10:08] Are? You know the meaning of this, brother. Is four.
+[10:12] How to calculate its sum? to find the sum
+[10:14] Just won't do anything about it. this one
+[10:16] Do 4 - 1 + 5 to find the sum of the array.
+[10:20] If you give then you will get 4 + 5 8 see this
+[10:23] The sum of the window will be at at at is yes at at is is
+[10:27] The sum of the window is at. How is the sum of this window?
+[10:30] We will find the previous subtraction two and the previous subtraction.
+[10:34] Add the next two, give 10 and see the sum.
+[10:37] We find out that 3 + 5 is 8 and 2 is 10.
+[10:40] If you shift the window, do it very fast.
+[10:42] It gives you your work, isn't it?
+[10:44] Fixed length whenever you need all the details in the question
+[10:46] The length of the array may not have been given. of all array
+[10:48] Length may not have been given. if given
+[10:50] If dynamic size or length is not given
+[10:52] You will use dynamic in which lo can increase
+[10:56] Is. Highs may also increase. so the window ever so
+[10:59] Will be big. Sometimes it will be this big, sometimes it will be this big
+[11:01] Will be done. Sometimes it was so big, sometimes it was big and small
+[11:04] Will remain. So this was the sliding window. His
+[11:05] flow chart its template its concept
+[11:07] When are sliding windows used?
+[11:09] So sliding window answers any such question
+[11:11] Where you have to deal with sub arrays or substrings
+[11:13] Have to do and you have to do something like this minimum maximum
+[11:16] Longest shorted this kind of useless thing
+[11:18] If we want to do this then we will use sliding window.
+[11:20] We do. Write this down. note this down
+[11:22] Take the pattern sheet from yesterday and till now
+[11:25] Who hasn't received the pattern sheet yet?
+[11:27] Not found download from description
+[11:29] Take. Question it one by one from tomorrow
+[11:31] Will start. See you tomorrow.

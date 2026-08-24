@@ -1,0 +1,97 @@
+{
+  "video_id": "n7v0SokbF4",
+  "title": "2 Pointers Technique",
+  "language": "en",
+  "duration": 570,
+  "total_chunks": 8,
+  "chunks": [
+    {
+      "chunk_id": "n7v0SokbF4_chunk_1",
+      "video_id": "n7v0SokbF4",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=n7v0SokbF4",
+      "start": 0,
+      "end": 72,
+      "timestamp": "00:00",
+      "text": "Yes brother, come and revise the two pointer. In. I am very happy that We have read Two Pointer completely. Two Pointer Pattern. So all the people who were reading from the beginning It is a very useful lecture for them. whatever People are watching this channel for the first time So go check out the playlist Two Pointer On the pattern. There we learned. We have this The answer to the question has been learned in great detail. Question by putting four five six videos Understand by asking questions. But this revision Let's quickly understand this in the video Answer of the question. When to use pointer? Because this is the purpose of the entire series. This means that you should not memorize the questions. you that Don't worry if I ask you five questions. If you have given then only five questions will be asked from you. Must be the one with six. run this series The purpose of this is that if you ask five questions If so, then ask yourself 50 questions. Should become. Which is on the same pattern. Ok? First of all when to use Pointers. So first of all let's see that Flow chart. Flow chart is very important that You can see any lead code question How will you know if it has a two pointer? Or it won't seem. First of all that array There should be a question. array or linked list There should be a question of. so far we have No matter how many questions you ask, have you noticed that Have we done questions on graph or tree? Do it or not. Why? Because it doesn't seem to be there. Next Things are already sorted and ready to be sorted."
+    },
+    {
+      "chunk_id": "n7v0SokbF4_chunk_2",
+      "video_id": "n7v0SokbF4",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=n7v0SokbF4",
+      "start": 77,
+      "end": 150,
+      "timestamp": "01:17",
+      "text": "It will be easier than. be easier to sort Will go. It will become easier. This should happen. Or rearrange it as written in the question. Brother. What is written in the question? Rearrange or remove duplicate brother. remove duplicates or merge in place Brother. Merge in place brother. either this In the question it is written either or or or Then Be in question. find More Than One Thing. Find More Than One Thing. Find More Than One Thing Meaning Pairs or triplets Or quadruplets. If this is written here in the question then see this Take it. First of all, array or linked list Have questions. After that either he is already Be sorted or work with sorting. It will become easier. If this is the situation If it is written in the question, rearrange it. remove duplicates merge in place even sub eras sub eras All arrays should also be written in the question either"
+    },
+    {
+      "chunk_id": "n7v0SokbF4_chunk_3",
+      "video_id": "n7v0SokbF4",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=n7v0SokbF4",
+      "start": 154,
+      "end": 228,
+      "timestamp": "02:34",
+      "text": "You have to find more than one thing in the question means you have to find a pair either You have to find triplets or you have to find four things. Is it necessary to find five things or that vector? I am not talking about finding if vector If you want to search then that is a different matter but one It doesn't mean much to you but one, it means pair to you. Find it brother, find only two numbers, find two, find three Find four, find more than one thing If you want to find it, it's somewhere in all this. Two pointer you might think. If this method If there is any question then there is 90% chance that There will be a two pointer in it. question by Question let me explain to you how It will take. What was the first question? to Even. What were the points in Two Sum? of array There was a question. Wasn't sorted but sorted There is benefit in doing it. who videos I haven't seen it yet, please spare some time. Watch the videos. Ok? Only then will you understand this Will come in what we are telling here. Now Sorting is beneficial, isn't it? and pair Had to search. Had to find a pair. You can see three things. the ones above this Found in flow chart. That's why this two pointer Was. Three even. Why was threesome a two pointer? The first thing was the question of array. Would have been easier to sort. to sort"
+    },
+    {
+      "chunk_id": "n7v0SokbF4_chunk_4",
+      "video_id": "n7v0SokbF4",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=n7v0SokbF4",
+      "start": 231,
+      "end": 305,
+      "timestamp": "03:51",
+      "text": "It becomes easier to find more triplets. Yes yes triplets had to be found. Had to find. And it was just like two. These Tha loop plus two sum. so if two sum two If there was a question of pointer, then three is naturally There was a question of three pointer. all three even In the question we used the same algorithm, the same Had seen logic, same decision tree. Isn't it? Then what was left? square sorted array Square. Now from above you can see Will say that the first thing in this is the array There is a question. Ok? Is sorted. Ok? But now you will say that now There is nothing in it. but but but Those who watched this video, complete video Saw that he knew that this question Merge these questions in actual. Was of two sorted array. merge to sorted Was. Was of sorted array. take a look at everything indicating that this is a two pointer There is a question. There is a question of two pointer. If you have not seen the series then please See. missing a lot of things You. Ok? Because as much as I am here Nothing is there This is not even 2% Of syllabus. 98% of the work has been done there. next What was the question? Remove Duplicates."
+    },
+    {
+      "chunk_id": "n7v0SokbF4_chunk_5",
+      "video_id": "n7v0SokbF4",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=n7v0SokbF4",
+      "start": 308,
+      "end": 381,
+      "timestamp": "05:08",
+      "text": "Remove Duplicates. This is so simple Told you. There is a question of array. The array is also sorted. Remove duplicates from array. Question name This is remove duplicate. flow chart memorization Do. Seems simple enough. to There is a question of pointer. That's right. And What is? What else did you see? dutch national flag yes this is good some dutch national flag now this the question was about Wasn't sorted Wasn't sorted Wasn't sorted had to but didn't And if you have to rearrange the array, you have to rearrange it. All I had to do was bring it in this format 0 1 2 So had to rearrange and put in place Had to do in place in place no no space No space tells you all these three things together That it was a two pointer question and something Had done and some had not been done yet. Ahead If you do then you will see all the questions which we have asked. If I have done it then it is not that in my mind It came to me that this is a two pointer question. That's why we will keep them. All these questions That's the whole question. What's in all this? Is it common? Array is common. Look at all the array"
+    },
+    {
+      "chunk_id": "n7v0SokbF4_chunk_6",
+      "video_id": "n7v0SokbF4",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=n7v0SokbF4",
+      "start": 384,
+      "end": 456,
+      "timestamp": "06:24",
+      "text": "There are questions. benefit from some sorting Is. Some are easier to sort. Some? Already sorted. some already sorted Is. Something needs to be sorted. so here one Always remember this. Hey what other name is there? Sorting. Arrays and sorting. array and Sorting. Array plus sorting. it's very big There is indication. This is one of the biggest Indication array plus sorting is in 2.10. Ok? If not sorted. If Rearrange if not sorted rearrange remove merge With these you should be told to place these Have to place in means no extra Space is the second biggest indication. These two points are common to you, these two point these two point this point and this you We will find common in every type of question. Five plus five equals seven eight There will be total questions in every question. Same thing will be available in common. so now my hope From this you must have understood that two pointer use When does it happen? Ok? And yes, all We have seen all types of movements in the question. Have seen. What does two pointer mean? Is? One is left, one is right. So we have seen questions where Plus was plus, high minus was minus."
+    },
+    {
+      "chunk_id": "n7v0SokbF4_chunk_7",
+      "video_id": "n7v0SokbF4",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=n7v0SokbF4",
+      "start": 459,
+      "end": 533,
+      "timestamp": "07:39",
+      "text": "Was. In what? In two sum. Yes. two sum three Even. This happened in both. We also Have seen questions where lo plus is plus Was. High was also a plus plus. whose is this are we talking? Remove Duplicates. Yes. CM and officers used to move forward together that Didn't grow? Remove Duplicates and Merge In sorted arrays. Merge sorted arrays. Both grow individually. both would have been a plus Is. We also saw questions where Had three pointers. Low mid high. In what? Whose are talking? Dutch. Dutch Dutch. dutch national Flag. Dutch national flag. The National Flag. So We have seen every type of movement In this uh playlist. Ok? now you What is the plan? If your revision is done Is. What is your work tomorrow? first of all Whatever questions you have, please submit them. Do it friend. Ok? just watching videos Will not happen from. please submit them Do it. Sliding is going to start from tomorrow window. sliding window which is a subset Which is a subset. is a subset. subset of Subset of what? Of two pointer. sliding Pointer to window. if you If we tell you in simple words, two pointer That's just this case, sorry, this is this case."
+    },
+    {
+      "chunk_id": "n7v0SokbF4_chunk_8",
+      "video_id": "n7v0SokbF4",
+      "title": "2 Pointers Technique",
+      "language": "en",
+      "video_url": "https://www.youtube.com/watch?v=n7v0SokbF4",
+      "start": 537,
+      "end": 570,
+      "timestamp": "08:57",
+      "text": "Called sliding window. this happens Sliding window. There is a window in it. High lives here and Low lives here Is. Hai grows in this direction. take it this way Increases. This is called window. Shrinking. Sliding means shrink. These Will keep shrinking. never such a big window Then it will become so big. then so much As he grows bigger, he keeps sliding. So Well, we will know about it when we know about it. But I hope you do well Have you understood? This two pointer one of the Most Basic and Most Fundamental Patterns You guys have understood. very good ways From. Many congratulations to everyone."
+    }
+  ]
+}
