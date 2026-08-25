@@ -81,6 +81,7 @@ Lecture Sources        YouTube Timestamp
                  v
           Streamlit UI
 ```
+---
 # Images
 <img width="705" height="322" alt="Screenshot 2026-08-25 123123" src="https://github.com/user-attachments/assets/d6aaf784-4d30-40f5-84d7-628d61a5d47c" />
 
