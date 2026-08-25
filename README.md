@@ -80,3 +80,11 @@ Lecture Sources        YouTube Timestamp
                  |
                  v
           Streamlit UI
+```
+# Images
+<img width="705" height="322" alt="Screenshot 2026-08-25 123123" src="https://github.com/user-attachments/assets/d6aaf784-4d30-40f5-84d7-628d61a5d47c" />
+
+<img width="724" height="402" alt="Screenshot 2026-08-25 123308" src="https://github.com/user-attachments/assets/d129a0af-fa29-4cd8-a102-f8a46f741b93" />
+<img width="718" height="384" alt="Screenshot 2026-08-25 123317" src="https://github.com/user-attachments/assets/85d4e8e8-9fa7-4b4d-8a4d-4f19830cb489" />
+
+
