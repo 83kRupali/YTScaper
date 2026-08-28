@@ -1,4 +1,4 @@
-# YTScape AI
+# YTScaper AI
 
 ## Intelligent YouTube Lecture Search & RAG Assistant
 
